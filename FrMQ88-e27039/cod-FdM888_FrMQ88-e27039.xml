@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 16</title>
+            <author ref="#FrancisofMeyronnes">Francis de Meyronnes</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 16</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-FdM888">Venice 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="272-v"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="FrMQ88-e27039"><!-- quod-q16 -->
+            <head xml:id="FrMQ88-e27039-Hd1e108">Quaestio 16</head>
+            <p xml:id="FrMQ88-e27039-d1e111">
+               <lb ed="#V" n="38"/>QUestio fuit facta vtrum in eadem poten 
+      <lb ed="#V" n="39" break="no"/>tia operatiua possunt simul esse 
+      <lb ed="#V" n="40"/>plures operationes. et videtur quod non. quia potentie 
+      <lb ed="#V" n="41"/>operatiue sunt simplices: cum sint spirituales: 
+      <lb ed="#V" n="42"/>sicut docet beatus Aug. decimo de trinitate Et 
+      sim<lb ed="#V" n="43" break="no"/>plex ad quod se conuertit totaliter se conuertit.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e127">
+      ¶ Sed 
+      con<lb ed="#V" n="44" break="no"/>tra. quia natura quanto simplicior tanto est efficacior et ad 
+      <lb ed="#V" n="45"/>plura se conuertere potest: sicut docet idem super Gen. 
+      con<lb ed="#V" n="46" break="no"/>tra manicheos de prima causa ad omnia concurrente 
+      <lb ed="#V" n="47"/>quaestionem est preintelligendum: quod 
+      qua<lb ed="#V" n="48" break="no"/>Circa istam tuor sunt genera potentiarum 
+      operatiua<lb ed="#V" n="49" break="no"/>rum. Quarum prime sunt sensitiue exteriores: vt visus et 
+      <lb ed="#V" n="50"/>auditus.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e145">
+      ¶ Alie sensitiue interiores: vt imaginatio et communis 
+      <lb ed="#V" n="51"/>sensus. Alie sunt intellectiue. Alie volitiue. Et ideo circa 
+      <lb ed="#V" n="52"/>illos 4or modos potentiarum est quaestio pertractanda. 
+      <lb ed="#V" n="53"/>premittendo potentias 
+      intelle<lb ed="#V" n="54" break="no"/>Circa primum ctiuas.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e156">
+      ¶ Dicunt aliqui quod 
+      plu<lb ed="#V" n="55" break="no"/>res operationes in eadem intellectiua potentia simul esse non 
+      <lb ed="#V" n="56"/>possunt: quia sufficienter et adequate intellectus possibilis adequatur 
+      <lb ed="#V" n="57"/>per vnicam: sicut prius materia per vnicam formam ipsam immediate 
+      <lb ed="#V" n="58"/>perficientem.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e168">
+      ¶ Sed contra illud arguitur 4r. Primo. quia 
+      <lb ed="#V" n="59"/>idem mobile potest simul moueri pluribus motibus. vt 
+      <lb ed="#V" n="60"/>ponunt in corporibus supercelestibus: et ille operationes non 
+      <lb ed="#V" n="61"/>sunt nisi motiones ab obiectis.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e177">
+      ¶ Secundo. quia ita sufficiens 
+      <lb ed="#V" n="62"/>est perfectiuum potentia respectu essentie: sicut actus 
+      re<lb ed="#V" n="63" break="no"/>spectu potentie: et tamen essentia pluribus potentiis simul af 
+      <lb ed="#V" n="64"/>ficitur.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e186">
+      ¶ Tertio. quia prius perficiunt species intelligibiles 
+      <lb ed="#V" n="65"/>potentiam secundum beatum Augu. quam actus: et tamen vna potentia 
+      si<lb ed="#V" n="66" break="no"/>mul species tales plures habet.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e193">
+      ¶ Quarto. quia ita imme¬ 
+      <!--549.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>diate perficitur intellectus ab habitu: sicut ab actu: et tamen 
+      <lb ed="#V" n="68"/>plures habitus immediate insunt.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e204">
+      ¶ Ideo dico. quod non 
+      <lb ed="#V" n="69"/>apparet ratio quare duo actus non sint compossibiles: sicut 
+      ha<lb ed="#V" n="70" break="no"/>bitus vel species simul in eadem potentia.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e211">
+      ¶ Et confirmatur. 
+      <lb ed="#V" n="71"/>Tum. quia intelligentia mouens celum: semper intelligit 
+      mo<lb ed="#V" n="72" break="no"/>tum illum: cum agat et moueat per voluntatem: que non 
+      <lb ed="#V" n="73"/>potest fieri nisi in praecognitum: et tamen cum hoc intelligitur se 
+      <lb ed="#V" n="74"/>ipsum: et non per eundem actum: cum per essentiam suam alia 
+      <lb ed="#V" n="75"/>non cognoscat: alioquin simul infinita: sicut deducunt theo 
+      <lb ed="#V" n="76"/>logi. Tum. quia secundum beatum Aug. anima nostra vere intelligit 
+      se<lb ed="#V" n="77" break="no"/>ipsam eo quod est sibi presto: et alia simul: que non sunt in 
+      <lb ed="#V" n="78"/>ea per suam essentiam: et non potest esse eadem notitia: cum 
+      <lb ed="#V" n="79"/>non possit dubitare se esse: cum tamen dubitet de his quorum 
+      <lb ed="#V" n="80"/>species habet.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e236">
+      ¶ Sed oritur difficultas si plures actus eisdem 
+      ro<lb ed="#V" n="81" break="no"/>nis inesse possunt.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e241">
+      ¶ Dicitur communiter quod non: quia eadem ratione 
+      in<lb ed="#V" n="82" break="no"/>finiti: sicut arguitur de duobus corporibus in eodem loco: et 
+      <lb ed="#V" n="83"/>illa ratio non sufficit: quia probat idem de duabus 
+      similitudini<lb ed="#V" n="84" break="no"/>bus. ideo videtur ad hoc ratio: quia de eodem numero non est 
+      ne<lb ed="#V" n="85" break="no"/>cessaria nisi vna simul intellectio de distinctis autem 
+      so<lb ed="#V" n="86" break="no"/>lo numero sunt intellectiones specie distincte: per differentias 
+      indi<lb ed="#V" n="87" break="no"/>uisibiles.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e257">
+      ¶ Secunda difficultas si idem est de speciebus 
+      intelligi<lb ed="#V" n="88" break="no"/>bilibus. Dicitur autem quod sic: cum multitudo actuum sit secundum mul 
+      <lb ed="#V" n="89"/>¬titudininem habituum: et econverso. vnde in indiuiduis eiusdem spe 
+      <lb ed="#V" n="90"/>ciei est vnica species naturae: et singule hecheitatum: sicut et actus. 
+      </p>
+            <p xml:id="FrMQ88-e27039-d1e266">
+               <lb ed="#V" n="91"/>¶ Tertia difficultas. si idem de habitibus. Dicitur autem quod sic: quia secundum 
+      <lb ed="#V" n="92"/>variationem actuum est variatio habituum et econverso. vnde nul 
+      <lb ed="#V" n="93"/>lus ponit plures vnquam habitus rationis eiusdem simul: in 
+      ea<lb ed="#V" n="94" break="no"/>dem potentia: cum tamen distinctio actuum sit a distinctione specierum 
+      <lb ed="#V" n="95"/>et distinctio habituum a distinctione actuum. Et ideo vnum 
+      <lb ed="#V" n="96"/>illorum sine alio non licet multiplicari.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e282">
+      ¶ Quarta difficultas quia 
+      <lb ed="#V" n="97"/>aliquin non possunt videre quod plures forme eiusdem generis sint 
+      <lb ed="#V" n="98"/>compossibiles: licet sint distincte specie: sicut exemplificant de 
+      fi<lb ed="#V" n="99" break="no"/>guris et coloribus.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e291">
+      ¶ Istud tamen non valet: quia ita 
+      conclude<lb ed="#V" n="100" break="no"/>rent de habitibus: speciebus et potentiis: sicut de actu: vnde 
+      <lb ed="#V" n="101"/>in numeris sunt omnes species compossibiles 
+      <lb ed="#V" n="102"/>volitiuas. Dicitur quod sicut 
+      plu<lb ed="#V" n="103" break="no"/>Circa potentias res actus intelligendi possunt 
+      <lb ed="#V" n="104"/>simul esse in potentia intellectiua: ita multi in volitiua: cum 
+      <lb ed="#V" n="105"/>ad multitudinem priorum sequatur multitudo in posteriori 
+      <lb ed="#V" n="106"/>bus: quo ad essentialiter ordinata: licet non econverso: et inter actus 
+      <lb ed="#V" n="107"/>intelligendi et volendi est ordo essentialis.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e312">
+      ¶ Istud autem 
+      con<lb ed="#V" n="108" break="no"/>firmatur 4r. Primo. in voluntario: et in inuoluntario: quia idem 
+      <lb ed="#V" n="109"/>actus non potest esse voluntarius et inuoluntarius respectu eiusdem 
+      <lb ed="#V" n="110"/>obiecti: quando autem est aliquid mixtum ex voluntario et inuoluntario 
+      <lb ed="#V" n="111"/>vt in punitione amici: tunc idem obiectum quod volumus simpliciter: 
+      <lb ed="#V" n="112"/>volumus secundum aliquam circumstantiam. Et dicitur simpliciter volun 
+      <lb ed="#V" n="113"/>tarium: et secundum quid inuoluntarium.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e328">
+      ¶ Secundo in velle et 
+      nol<lb ed="#V" n="114" break="no"/>le. omne enim nolle radicatur in aliquo velle: sicut negatio in 
+      <lb ed="#V" n="115"/>affirmatione.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e335">
+      ¶ Ideo enim nolumus mori: quia amamus 
+      <lb ed="#V" n="116"/>vitam. Et ideo actus nolendi et volendin de contrariis: quorum 
+      <lb ed="#V" n="117"/>vnum est causa alterius: manet simul.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e342">
+      ¶ Tertio in 
+      di<lb ed="#V" n="118" break="no"/>lectione finis: et eorum que sunt ad finem: quia simul 
+      diligi<lb ed="#V" n="119" break="no"/>tur sanitas et medicina propter sanitatem: impossibile est enim 
+      <lb ed="#V" n="120"/>propter aliud aliquid diligi: quin illud diligatur et non 
+      <lb ed="#V" n="121"/>videtur idem actus: cum cessante dilectione medicine 
+      <lb ed="#V" n="122"/>possit remanere dilectio sanitatis.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e355">
+      ¶ Quarto in 
+      dile<lb ed="#V" n="123" break="no"/>ctione beatifica: quia cum illa non corrumpatur possunt 
+      <lb ed="#V" n="124"/>sancti naturaliter diligere in proprio genere: sicut et 
+      cognosce<lb ed="#V" n="125" break="no"/>re: et illa non erit dilectio beatifica.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e364">
+      ¶ Sed oritur difficultas. quia 
+      <lb ed="#V" n="126"/>non experimur tot actus in voluntate: quot habitus 
+      <lb ed="#V" n="127"/>ponimus: cum tamen non videatur: secundum praemissa: ratio 
+      <lb ed="#V" n="128"/>quare tot actus sicut et habitus non sint compossibiles.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e374">
+      ¶ Dicitur 
+      <lb ed="#V" n="129"/>autem quod istud est ex parte intellectus qui non potest simul esse 
+      <lb ed="#V" n="130"/>intentus ad tot actus eliciendos: sicut ad habitus 
+      recipien<lb ed="#V" n="131" break="no"/>dos.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e383">
+      ¶ Secunda difficultas. quare ipse intellectus non potest tot simul 
+      <lb ed="#V" n="132"/>habere actus: quot habet species et actus.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e388">
+      ¶ Dicitur autem. quod istud 
+      <!--550.xml-->
+      <pb ed="#V" n="273-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>non est ex parte intellectus possibilis: qui respectu. eorum est qualitei 
+      <lb ed="#V" n="2"/>in potentia receptiua: sed ex parte intellectus agentis a quo 
+      <lb ed="#V" n="3"/>non dependet habitus et species nisi in fieri: actus autem 
+      intel<lb ed="#V" n="4" break="no"/>igendi in fieri et inesse sicut radius a sole. Et ideo cum 
+      <lb ed="#V" n="5"/>intellectus agens conuertit se ad alium actum: auertendo 
+      <lb ed="#V" n="6"/>ab illo definit esse. Et tunc remanet habitus et species.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e410">
+      ¶ Sed 
+      <lb ed="#V" n="7"/>remanet dubium. quare intellectus agens non est ita sufficiens ad 
+      causan<lb ed="#V" n="8" break="no"/>dum effectiue tantam multitudinem actuum: sicut possibilis ad 
+      <lb ed="#V" n="9"/>recipiendum.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e419">
+      ¶ Dicitur autem. quod nam creata sufficientior est ad 
+      re<lb ed="#V" n="10" break="no"/>cipiendum quam ad effectiue causandum. vnde natura sublitate non 
+      <lb ed="#V" n="11"/>ita potest perfecte in multa actiue: sicut pauca. 
+      <lb ed="#V" n="12"/>sensitiuas interiores: 
+      po<lb ed="#V" n="13" break="no"/>Circa potentias nuntur quor conclusiones.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e430">
+      ¶ Qua 
+      <lb ed="#V" n="14"/>rum prima est. quod potentia imaginatiua: que est fantasia. habet 
+      <lb ed="#V" n="15"/>simul plures actus: quia cum quod licet fantasma per se sit 
+      na<lb ed="#V" n="16" break="no"/>tum causare distinctam imaginem: sed percipimus plura 
+      <lb ed="#V" n="17"/>sensibilia nos imaginari: quia cum plura simul: vt patuit: 
+      <lb ed="#V" n="18"/>intelligimus. oportet nos omnium fantasmata speclarari.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e444">
+      ¶ 2a 
+      <lb ed="#V" n="19"/>conclusio. quod potentia memoratiua: que est in parte 
+      sen<lb ed="#V" n="20" break="no"/>sitiua. habet simul plures actus: quia sicut duo imaginantur: 
+      <lb ed="#V" n="21"/>ita duo recordari possunt: cum recordatio et cogitatio sint 
+      <lb ed="#V" n="22"/>adequata.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e455">
+      ¶ Tertia conclusio quod potentia appetitus sensitiui habet 
+      si<lb ed="#V" n="23" break="no"/>mul plures actus: quia sicut multiplicantur actus volunt 
+      <lb ed="#V" n="24"/>tatis ex actibus intellectus propter ordinem essentialem: ita 
+      <lb ed="#V" n="25"/>habent ordinem essentialem actus appetitus sensitiui: et 
+      no<lb ed="#V" n="26" break="no"/>titie sensitiue.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e466">
+      ¶ Quarta conclusio. quia sensus communis habet 
+      simu<lb ed="#V" n="27" break="no"/>plures actus: quia iudicat de obiectis sensuum 
+      particula<lb ed="#V" n="28" break="no"/>rium: vt patet per philosophum: qui posuit istum sensum: et non 
+      <lb ed="#V" n="29"/>habet simplicius iudicium quam intellectus. constat autem: secundum praemis 
+      <lb ed="#V" n="30"/>sa: quod intellectus iudicat inter extrema obiecta: multis acti 
+      <lb ed="#V" n="31"/>bus concurrentibus.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e479">
+      ¶ Sed oritur difficultas si plures actus de 
+      <lb ed="#V" n="32"/>pluribus possunt simul esse in imaginatione et 
+      memo<lb ed="#V" n="33" break="no"/>ria: quare non eadem ratione omnes. vt possimus omnia memo 
+      <lb ed="#V" n="34"/>tari: vel in maginari de quibus habemus fantasmata.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e488">
+      ¶ Dicitut 
+      <lb ed="#V" n="35"/>autem quod licet homo possit vnum et duo talenta solueretu: non 
+      <lb ed="#V" n="36"/>tamen mille: eo quod eius virtus est limitata: et ille potentie non 
+      <lb ed="#V" n="37"/>possunt ad quod cumque simul esse intente.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e497">
+      ¶ Secunda difficultas. quia 
+      li<lb ed="#V" n="38" break="no"/>mitatior est potentia visiua quam imaginatiua: et tamen visus 
+      <lb ed="#V" n="39"/>potest alitus tendere in omnia visibilia sibi praesentia.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e505">
+      ¶ Dicitur autem. 
+      <lb ed="#V" n="40"/>quod fantasmata non sunt praesentia sufficienter nisi in deteria 
+      <lb ed="#V" n="41"/>ta illius organi parte: per speciem delata.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e512">
+      ¶ Et ideo non 
+      <lb ed="#V" n="42"/>sunt simils speculabilia quam ibi simul valeant contineri. 
+      <lb ed="#V" n="43"/>sensitiuas exteriores 
+      po<lb ed="#V" n="44" break="no"/>est 
+      <lb ed="#V" n="45"/>circa potentias nuntur quinqui conclusiones.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e523">
+      ¶ Qua. 
+      <lb ed="#V" n="46"/>rum primam est: quod sensus tactus habet simul plures actus 
+      <lb ed="#V" n="47"/>quia eadem potentia tactiua ponitur in toto corpore: sicut 
+      <lb ed="#V" n="48"/>visiua in toto oculo: et tamen corpus in vna parte potest 
+      sen<lb ed="#V" n="49" break="no"/>tire frigus: in alia sentiendo calorem: ille autem immutationes 
+      <lb ed="#V" n="50"/>sunt contrarie.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e536">
+      ¶ Secunda conclusio quod sensus gustus habet 
+      simul<lb ed="#V" n="51" break="no"/>plures actus: quia organum eius: cum sit quantum: in vna 
+      par<lb ed="#V" n="52" break="no"/>te potest immutari ab amaritudine: et in alia a dulcedi 
+      <lb ed="#V" n="53"/>ne: et ille sunt immutationes contrarie.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e545">
+      ¶ Tertia conclusio quod sensus 
+      <lb ed="#V" n="54"/>odoratus habet simul plures actus: quia secundum contrariorum 
+      ap<lb ed="#V" n="55" break="no"/>proximationem simul percipimum olentia et redolentia. 
+      </p>
+            <p xml:id="FrMQ88-e27039-d1e552">
+               <lb ed="#V" n="56"/>¶ Quarta conclusio quod sensus auditus habet plures actus 
+      si<lb ed="#V" n="57" break="no"/>mul. quia percimus quod plures sonos simul audimus. et 
+      dififl<lb ed="#V" n="58" break="no"/>ferentes specie: vt in melodiis: vbi siunt contrarie immutatio 
+      <lb ed="#V" n="59"/>nes ab acutis et grauibus punctis.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e564">
+      ¶ Quinta conclusio. quod 
+      sen<lb ed="#V" n="60" break="no"/>sus visus habet simul plures actus: quia simul videmus 
+      <lb ed="#V" n="61"/>albedinem et nigredinem in eadem superficie: secundum 
+      diuer<lb ed="#V" n="62" break="no"/>sas partes: et tamen isti colores contrario modo immutant 
+      poten<lb ed="#V" n="63" break="no"/>tiam: cum vnus congreget: et alius disgreget visum. Et 
+      <lb ed="#V" n="64"/>sic idem actus esse non potest.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e577">
+      ¶ Sed oritur difficultas quia duo 
+      <lb ed="#V" n="65"/>motus contrarii non possunt simul esse in eadem potentia. 
+      di<lb ed="#V" n="66" break="no"/>sgregatio autem et congregatio mouent et alterant visum 
+      con<lb ed="#V" n="67" break="no"/>trario modo.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e586">
+      ¶ Dicitur autem quod potentia visiua est exten¬ 
+      <!--550.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="68"/>sa. sicut organa. et ideo secundum aliam et aliam partem fit 
+      mu<lb ed="#V" n="69" break="no"/>tatio contraria. Dicitur etiam quod sicut actus affirmationis et 
+      ne<lb ed="#V" n="70" break="no"/>gationis non sunt oppositi: sed tantum opposita. ita nec 
+      di<lb ed="#V" n="71" break="no"/>sgregare et congregare in visu: licet albedo et nigredo sint 
+      <lb ed="#V" n="72"/>in re contraria.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e604">
+      ¶ Secunda difficultas si in duobus oculis sunt 
+      duo<lb ed="#V" n="73" break="no"/>actus videndi.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e609">
+      ¶ Dicitur autem: quod cum eadem potentia 
+      visi<lb ed="#V" n="74" break="no"/>ua ponatur in ambobus: si actus recipitur in nuda 
+      po<lb ed="#V" n="75" break="no"/>tentia: tunc sunt idem: si autem in organo vno sint duo subie 
+      <lb ed="#V" n="76"/>cta. si tamen due potentie eodem modo due: si vero visio non 
+      <lb ed="#V" n="77"/>fiat in oculo: sed in vno neruo optico corrspondenti vtriquoe 
+      <lb ed="#V" n="78"/>oculo: tunc est vna tantum. Et istud magis consonum esse vide 
+      <lb ed="#V" n="79"/>tur.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e625">
+      ¶ Tertia difficultas si eodem actu videtur caelum et omnes stel 
+      <lb ed="#V" n="80"/>le.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e631">
+      ¶ Dicitur autem quod non. quia manente eadem celi visionem 
+      <lb ed="#V" n="81"/>eo modo quo remanet visio: potest corrumpi visio de 
+      stel<lb ed="#V" n="82" break="no"/>la. Et interum nouiter aggenerari remoto obstaculo: et sic 
+      <lb ed="#V" n="83"/>videntur tot actus quot stelle: cum visio vnius possit 
+      <lb ed="#V" n="84"/>corrumpi manente visione alterius.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e642">
+      ¶ Quarta difficultas. si 
+      par<lb ed="#V" n="85" break="no"/>tes eiusdem superficiei continnue habent distinctas visiones 
+      </p>
+            <p xml:id="FrMQ88-e27039-d1e647">
+               <lb ed="#V" n="86"/>¶ Dicitur autem: quia si non ponatur visio extensa necessario: ita: 
+      <lb ed="#V" n="87"/>cum sublata visione vnius partis maneat alterius vi 
+      <lb ed="#V" n="88"/>sio. Et sic in infinitum: nisi stet ad minima secundum sensum: 
+      <lb ed="#V" n="89"/>tamen si sit visio extensa: vt ex hoc demonstrari videtur: tunc 
+      <lb ed="#V" n="90"/>est vna visio vnitate continuitatis. Et sic potest altera eius 
+      <lb ed="#V" n="91"/>pars corrumpi reliqua remanente.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e663">
+      ¶ Quinta difficultas si idem 
+      <lb ed="#V" n="92"/>actus videndi permanet: ex quo est productus inesse.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e668">
+      ¶ Dicitur 
+      <lb ed="#V" n="93"/>autem. quod sicut radius est in continuo fieri. ita videtur actu 
+      <lb ed="#V" n="94"/>videndi: cum lux que habet esse in fieri. si ponatur eius primum 
+      <lb ed="#V" n="95"/>obiectum: et nullus actus intuitiuus possit esse 
+      permanen<lb ed="#V" n="96" break="no"/>tior suo obiecto: et dato quod obiecto immobili permauente staret: 
+      <lb ed="#V" n="97"/>tamen non manet obiecto moto. tunc enim intuitiua esset falsa. vt 
+      <lb ed="#V" n="98"/>patet in motu solis: videtur enim primo actu vbi non est: sed 
+      <lb ed="#V" n="99"/>fuit: nisi ponatur innouatio continua aliqua in actu.
+    </p>
+            <p xml:id="FrMQ88-e27039-d1e686">
+      ¶ Dicitut 
+      <lb ed="#V" n="100"/>autem ad rationem factam in prinipio questionis: quod licet 
+      simpli<lb ed="#V" n="101" break="no"/>cia non sint diuisibilia sunt tamen communicabilia. ergo etc. 
+      <lb ed="#V" n="102"/> Aduertat Diligentissimus lector: quod has quaestiones haec 
+      ordine<lb ed="#V" n="103" break="no"/>in vnico originali: penitus discorrecto: et fere totaliter 
+      ex<lb ed="#V" n="104" break="no"/>tincto reperimus atque emendauimus: magno certe labore 
+      <lb ed="#V" n="105"/>et vi ingenii plerumque. sicubi vero defectus aliquos: quod per 
+      ra<lb ed="#V" n="106" break="no"/>ro erit: innuenerit: in dies: quia facile inuentis addem: 
+      casti<lb ed="#V" n="107" break="no"/>gabit. dicam enim cum magno aphricano. quod nec pingebit 
+      <lb ed="#V" n="108"/>me sicubi hesito quaerere. Nec pudebit sicubi erro: discerm. 
+      <lb ed="#V" n="109"/>Possent alious ordinari: et alie plures: quas doctor ingenio 
+      <lb ed="#V" n="110"/>sissimus iste seorsum scripsit quaestiones eius adiungi. Sed 
+      or<lb ed="#V" n="111" break="no"/>do in his maxime: que de quolibet disputantur non est mul. 
+      <lb ed="#V" n="112"/>tum ponderandus. Alios quam huius tractatus in vnum 
+      colli<lb ed="#V" n="113" break="no"/>gendos volum: quod francisci opuscula appellari poterit 
+      <lb ed="#V" n="114"/>seorsum potius quam his addendos estimamus: quod si nos: 
+      <lb ed="#V" n="115"/>aliis intenti: sion perficiemus: faciant et alii: qui religioni: et 
+      doctrine<lb ed="#V" n="116" break="no"/>debent. Sed quid prodest de trinitatis articulis diuineque 
+      vni<lb ed="#V" n="117" break="no"/>tate essentie: atqua comicabilitate: ipsiusque in hac via 
+      cogni<lb ed="#V" n="118" break="no"/>tionis possibilitate: entium quoam rationis positione et necessaritate: 
+      quidita<lb ed="#V" n="119" break="no"/>tum abstractione: et eterna realitate compositorum tertia 
+      <lb ed="#V" n="120"/>vt viunt entitate principatuum et hyerarchiarum ordine et 
+      sub<lb ed="#V" n="121" break="no"/>iectione: personarum diuinarum ac creaturarum emanatione: et 
+      <lb ed="#V" n="122"/>in emanando ordine et in producendo prioritate. Cognitiuarum 
+      <lb ed="#V" n="123"/>insuper atque appetitiuarum potentiarum actuum pluralitate et 
+      con<lb ed="#V" n="124" break="no"/>possibilitate tot amfractibus dubiorum difficultatum rationum 
+      au<lb ed="#V" n="125" break="no"/>ctoritatum opinionum probleumatum balbutiendo etatem et 
+      vi<lb ed="#V" n="126" break="no"/>tam conterendo disputare: atque contendendo speculari: paupur 
+      <lb ed="#V" n="127"/>Mauritii: nisi omnia sale condita conuerteris in obsequm christi: 
+      <lb ed="#V" n="128"/>Memento ergo tunice Pauli: et immitare feruorem et affectus 
+      <lb ed="#V" n="129"/>vnius et acumen intellectus alterius francisci: vbi temere non 
+      <lb ed="#V" n="130"/>deuiat a vestigiis tui scoti: et sic non enigmatice: sed 
+      fa<lb ed="#V" n="131" break="no"/>ciali obtutu essentiam videbis practice in trinitate dei: 
+      <lb ed="#V" n="132"/>cui imperium et gloria in euum euorum. Amen.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

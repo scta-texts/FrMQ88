@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prooemium</title>
+            <author ref="#FrancisofMeyronnes">Francis de Meyronnes</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prooemium</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-FdM888">Venice 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="237-r"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="FrMQ88-d1e311"><!-- quod-prooem -->
+            <head xml:id="FrMQ88-d1e311-Hd1e108">Prooemium</head>
+            <p xml:id="FrMQ88-d1e311-d1e111">
+      <!--476.xml-->
+               <pb ed="#V" n="237-r"/>
+               <cb ed="#V" n="a"/>
+            <lb ed="#V" n="1"/>¶ Illuminati docto. fratris Francisci de 
+    map<lb ed="#V" n="2" break="no"/>ronis ordins minorum prouicie scti Ludouici 
+    sin<lb ed="#V" n="3" break="no"/>gularis solertie et indaginis praecipueque vtilita 
+    <lb ed="#V" n="4"/>tis quaestiones quolibetales feliciter inchoantur. 
+    <lb ed="#V" n="5"/>Idemus nunc per 
+    <lb ed="#V" n="6"/>speculum 
+    <lb ed="#V" n="7"/>in enigmate: tunc autem 
+    fa<lb ed="#V" n="8" break="no"/>cie ad faciem. prima cori. 13. 
+    <lb ed="#V" n="9"/>c. scribitur istud verbum. Quid 
+    <lb ed="#V" n="10"/>vero secundum doctrinam beati 
+    <lb ed="#V" n="11"/>Dyonisii celestis 
+    ierar<lb ed="#V" n="12" break="no"/>chie circa principium habitus 
+    di<lb ed="#V" n="13" break="no"/>uinarum disciplinarum 
+    <lb ed="#V" n="14"/>listruimur in sacra theo 
+    <lb ed="#V" n="15"/>logia: sunt nobis 
+    ymago<lb ed="#V" n="16" break="no"/>future contemplationis 
+    qua<lb ed="#V" n="17" break="no"/>l illustrabimur in patria: si 
+    <lb ed="#V" n="18"/>cut sumptio diuine 
+    eu<lb ed="#V" n="19" break="no"/>charistie: est immitatio illius fruitionis beatifice: qua 
+    sa<lb ed="#V" n="20" break="no"/>tiabi mur cum apperuerit inquit gloria eius. Idcirco do 
+    <lb ed="#V" n="21"/>ctor gentium apostulus paulus speclarationem salutaris doctri 
+    <lb ed="#V" n="22"/>ne quam in ista vita participamus: contemplationi quam 
+    expe<lb ed="#V" n="23" break="no"/>ctamus in patria. q. quoddam praeambulum anteponit dicens. 
+    <lb ed="#V" n="24"/>videmus nunc per speculum in enigmate. tunc autem facie ad 
+    <lb ed="#V" n="25"/>faciem. in quo quidem sermone praeallegato doctor 
+    pau<lb ed="#V" n="26" break="no"/>lus qui est dux ad divinam illuminationem manu ductor 
+    <lb ed="#V" n="27"/>multus quidem in diuinis et sol mundi motus a deo in 
+    <lb ed="#V" n="28"/>anctis literenis: sicut ad listram scribitur. xi. c. diuinorum nominum. 
+    <lb ed="#V" n="29"/>Primo introducit obscuritatem noticie vespertine 
+    di<lb ed="#V" n="30" break="no"/>rigentis nos in via cum premittit. Uidemus nunc per 
+    <lb ed="#V" n="31"/>peculum in enigmate. Enigmatica enim cognitio est ob 
+    <lb ed="#V" n="32"/>cura. propter quod dicit beatus Ia. in sua canonica. c. primeo. Si 
+    <lb ed="#V" n="33"/>quis auditor est verbi et non factor hic comparabitur 
+    vi<lb ed="#V" n="34" break="no"/>ro consideranti vultum natiuitatis sue in speculo. 
+    con<lb ed="#V" n="35" break="no"/>siderauit enim se et abut et statim oblitus est qualis fuerit: cum 
+    <lb ed="#V" n="36"/>ius ratio est: quia non vidit se nisi per lineam reflexam et ideo 
+    <lb ed="#V" n="37"/>remissius quam videns faciem alienam per lineam rectam: per 
+    <lb ed="#V" n="38"/>quam fit efficacior agentis impressio.
+            </p>
+    <p xml:id="FrMQ88-d1e311-d1e202">
+      ¶ Secundo introducit 
+      <lb ed="#V" n="39"/>idem apstulus serenitatem noticie matutine illustrantis non 
+      <lb ed="#V" n="40"/>in patria cum adiungit: tunc autem facie ad faciem. facia 
+      <lb ed="#V" n="41"/>lis enim noticia est clara: quia talis noticia creauit omnia: sicut 
+      <lb ed="#V" n="42"/>est in seipso. de qua loquitur beatus Ida. in canonica sua 
+      <lb ed="#V" n="43"/>i. 3c. Cum appearuerit inquit similes ei erimus: quia videbi 
+      <lb ed="#V" n="44"/>mus eum sicuti est.
+    </p>
+            <p xml:id="FrMQ88-d1e311-d1e218">
+      ¶ De ista duplici noticia scilicet 
+      matu<lb ed="#V" n="45" break="no"/>tina que est rerum in verbo: sicut in quodam eterno specu 
+      <lb ed="#V" n="46"/>o in quo omnia creata et creabilia supereminenter relucentiam 
+      <lb ed="#V" n="47"/>et vespertina que est rerum in proprio genere: loquitur beat 
+      <lb ed="#V" n="48"/>dugu. super gen. ad listeram et. cxi. de ciuitate dei. inducens 
+      <lb ed="#V" n="49"/>illud quod scribitur gen. primo capiso fecuntum est vespere et mane dies 
+      <lb ed="#V" n="50"/>vnus id est vna veritas cognita noticia matutina et 
+      vesper<lb ed="#V" n="51" break="no"/>tina in mente angelica. secundum ipsum inter istas duas 
+      no<lb ed="#V" n="52" break="no"/>ticias extiterat collocatus legis descriptor moyses cui 
+      <lb ed="#V" n="53"/>plenius fuit reuelata veritas testamenti prioris. quia 
+      <lb ed="#V" n="54"/>tnim transcendebat noticiam vespertinara. ideo fuit 
+      osten<lb ed="#V" n="55" break="no"/>sum de ipso numeri. xii. capis. quod palam: et non per 
+      enigma<lb ed="#V" n="56" break="no"/>ta deum videbat: et quia ne in fuit eleuatus vsque ad 
+      noti<lb ed="#V" n="57" break="no"/>ciam matutinam fuit ei dictum a dimmento Exodi. 33 c. faciem 
+      <lb ed="#V" n="58"/>meam videre non poteris. non enim videbit me homo et vi 
+      <lb ed="#V" n="59"/>uet.
+    </p>
+            <p xml:id="FrMQ88-d1e311-d1e253">
+      ¶ Sed doctor noui testamenti paulus apstlulus inten 
+      <lb ed="#V" n="60"/>dens medietatem istius noticie. scilicet 2a. ad corin. 3o. 
+      capis<lb ed="#V" n="61" break="no"/>Non inquit sicut moyses ponebat velamen super 
+      fa<lb ed="#V" n="62" break="no"/>ciem suam propter gloriam vultus eius que euacuatur nos 
+      <lb ed="#V" n="63"/>vero omnes reuelata facie gloriam disfuni speculantes in ean 
+      <lb ed="#V" n="64"/>dem imaginem transformamur a clari: ate in claritatem 
+      <!--476.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="65"/>tamquam a diuino spiritu. Et quia diuinus apstulus docet nos in 
+      ver<lb ed="#V" n="66" break="no"/>bo proposito a claritate vespertina theologice specula 
+      <lb ed="#V" n="67"/>tionis ad claritatem matutinama beatifice contemplationis 
+      di<lb ed="#V" n="68" break="no"/>rigere gressus nostros. Iccirco volentes sequi ductionem 
+      <lb ed="#V" n="69"/>apostolicam: que ducit nos ad veram sanctorum theologiam: 
+      <lb ed="#V" n="70"/>illud primo considerare oportet quomodo procedatur in hac salutari 
+      do<lb ed="#V" n="71" break="no"/>ctrina: et in omni alia facultate. In ceteris quidem 
+      discipli<lb ed="#V" n="72" break="no"/>nis proceditur ab inferioribus ad superiora: et a faciliori 
+      <lb ed="#V" n="73"/>bus ad difficiliora: more peripateticorum. In ista autem 
+      do<lb ed="#V" n="74" break="no"/>ctrina proceditur a superioribus ad inferiora: et a difficiliori 
+      <lb ed="#V" n="75"/>bus ad faciliora more platonicorum. Istos autem duos mo 
+      <lb ed="#V" n="76"/>dos oppositos procedendi tenuerunt duo praencipales 
+      do<lb ed="#V" n="77" break="no"/>ctores noui testamenti scilicet Idea. et paulus. quia paulus apto 
+      <lb ed="#V" n="78"/>stolus morem peripateticorum tenens ascendebat ab 
+      infe<lb ed="#V" n="79" break="no"/>rioribus ad superiora in prima epstula sua docens deum ex 
+      crea<lb ed="#V" n="80" break="no"/>turis esse cognoscendum. sic dicendo. Inuisibilia dei a 
+      crea<lb ed="#V" n="81" break="no"/>tura mundi per ea que facta sunt intellecta conspiciuntur. 
+      <lb ed="#V" n="82"/>sempiterna quoque huius virtus et deitas. ad Ro. primo. 
+      capi<lb ed="#V" n="83" break="no"/>Dtuns autem Idam. euangelista morem platonicorum non 
+      abii<lb ed="#V" n="84" break="no"/>ciens a superioribus ad inferiora descendebat inchoans 
+      <lb ed="#V" n="85"/>ab eterni verbi generatione donec ad incarnationis mysterium 
+      <lb ed="#V" n="86"/>berueniret. Ideo incipit. In principio erat verbum. et 
+      concludit<lb ed="#V" n="87" break="no"/>in fine primi processus. Uerbum caro fecuntum est. Ido. per 
+      catod<lb ed="#V" n="88" break="no"/>Et iste quidem modus procedendi nouissimus tamquam ma 
+      <lb ed="#V" n="89"/>gis huic doctrine conueniens est acceptus communiter a 
+      do<lb ed="#V" n="90" break="no"/>ctoribus nostris: cuius quidem modi precellentia declarat 
+      <lb ed="#V" n="91"/>secundum quadruplicem contrarietatem.
+    </p>
+            <p xml:id="FrMQ88-d1e311-d1e330">
+      ¶ Primo per contrarietatem que 
+      <lb ed="#V" n="92"/>est inter intellectum diuinum et inter intellectum creatum. quia 
+      di<lb ed="#V" n="93" break="no"/>uinus intellectus primo respicit superiora: et deinde inferiora 
+      <lb ed="#V" n="94"/>cum eius primum obiectum sit diuina essentia in qua videt 
+      <lb ed="#V" n="95"/>omnia inferiora: sicut obiecta secundaria. Intellectus autem creatus 
+      <lb ed="#V" n="96"/>non potest deum nisi per inferiora cognoscere naturaliter. et 
+      <lb ed="#V" n="97"/>ideo oportet vt abinferioribus ad superiora conscendat in 
+      <lb ed="#V" n="98"/>noticiam diuinorum. Et quia nostra theologia est quaedam 
+      par<lb ed="#V" n="99" break="no"/>ticipatio diuine sapientie: secundum beatum Dyo. in libro. de 
+      <lb ed="#V" n="100"/>diuinis nomi. ideo nititur procedere per contrarietatem: que 
+      <lb ed="#V" n="101"/>est inter intellectum separatum et coniuctum: quia intellectus 
+      con<lb ed="#V" n="102" break="no"/>iunctus primo attingit sensibilia conuertendo se ad phatpraum in 
+      <lb ed="#V" n="103"/>omni sua speculatione: sicut docet beatus Aug. 12o. dic. 
+      tri<lb ed="#V" n="104" break="no"/>nitate: et per ista ascendit ad argumentandum spiritualia. 
+      <lb ed="#V" n="105"/>Intellectus autem separatus primo aspicit incorporalia: eo quod magis 
+      <lb ed="#V" n="106"/>sunt ei proportionata: et per ista descendit ad corporalia 
+      <lb ed="#V" n="107"/>Et quia ista doctrina est magis angelica quam humana: vt 
+      <lb ed="#V" n="108"/>habetur ex dictis beati dponisii. in libro de celesti 
+      ierar<lb ed="#V" n="109" break="no"/>chia. Ideo procedit descendendo sicut intellectus angelicus. 
+    </p>
+            <p xml:id="FrMQ88-d1e311-d1e372">
+               <lb ed="#V" n="110"/>¶ Secundo declaratur idem per contrarietatem que est inter 
+      no<lb ed="#V" n="111" break="no"/>ticiam enigmaticam et beatificam: quia in nonim enigmatica 
+      <lb ed="#V" n="112"/>procedimus a minimis cognoscibilibus ad maxima per 
+      <lb ed="#V" n="113"/>viam immitationum multiformium que siunt in sacris 
+      ve<lb ed="#V" n="114" break="no"/>laminibus sicut docet beatus Dyonisius in lib. de 
+      misti<lb ed="#V" n="115" break="no"/>ca theologia. in beatifica vero noticia primo videtur di 
+      <lb ed="#V" n="116"/>uina essentia: sicut talis noticie omnium primum: et deide 
+      crea<lb ed="#V" n="117" break="no"/>ture in ea relucentes: sicut obiecta secundaria vt 
+      ha<lb ed="#V" n="118" break="no"/>petur ab Augu. libro confes. et quia heologica 
+      contempla<lb ed="#V" n="119" break="no"/>tio vt patuit: licet in se enigmatica sit. est tamen immitatio 
+      <lb ed="#V" n="120"/>illius beatisice visionis: et ideo modium eius sequin desiderat. 
+    </p>
+            <p xml:id="FrMQ88-d1e311-d1e398">
+               <lb ed="#V" n="121"/>¶ Quarto declaratur idem per contrarietatem que est inter 
+      <lb ed="#V" n="122"/>nature naturantis modum: et naturae naturate: quia in inferiori patet 
+      <lb ed="#V" n="123"/>processus a minus perfectis ad magis perfecta ascendendo 
+      <lb ed="#V" n="124"/>et ideo dicunt peripatetici ista inferiora pertractantes quod 
+      <lb ed="#V" n="125"/>illa que sunt priora generatione: sunt posteriora perfectione. 
+      <lb ed="#V" n="126"/>in natura autem suprema opposito modo procedunt a m 
+      a<lb ed="#V" n="127" break="no"/>gis principalibus ad minus praencipalia ex plenitudine 
+      <lb ed="#V" n="128"/>summe perfectionis: vt docet beatus Dyoni. de diui. nomi. 2. 
+      <lb ed="#V" n="129"/>c. comperando essentialia ad personalia. d. quod essentialia 
+      praece<lb ed="#V" n="130" break="no"/>dunt personalia. et ideo per personalia non dissoluuntur: et quia 
+      <!--477.xml-->
+      <pb ed="#V" n="237-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ordo habituum est secundum ordinem obiectorum in eadem potentia 
+      <lb ed="#V" n="2"/>oportet vt doctrina ista que est de nam naurante a praencipalibus 
+      <lb ed="#V" n="3"/>incipiat descendendo procedens. Et confirmatur iste processus 
+      <lb ed="#V" n="4"/>vtriusque testamenti auctoritate. primo quia in veteri testo cum 
+      <lb ed="#V" n="5"/>moyses descripserit in duabus talibus lapideis. x. 
+      praece<lb ed="#V" n="6" break="no"/>pta decalogi. vt habetur. Exo. xx. c. In prima tabula fuerunt 
+      <lb ed="#V" n="7"/>descripta tria praecepta dirigentia nos ad deum. In 2a 
+      diri<lb ed="#V" n="8" break="no"/>gentia nos ad proximum.
+    </p>
+            <p xml:id="FrMQ88-d1e311-d1e446">
+      ¶ 2o quia in nouo testo: xii. apituli 
+      <lb ed="#V" n="9"/>describentes. xii. articulos fidei in primo concilio vt crediter 
+      <lb ed="#V" n="10"/>de quo hetur actuum. xvi.c. primo posuerunt articulos parti 
+      <lb ed="#V" n="11"/>nentes ad diuinitatem: et 2o pertinentes ad christi 
+      huma<lb ed="#V" n="12" break="no"/>nitatem: vt patet in symbolo apostolorum. cui ordini se 
+      <lb ed="#V" n="13"/>coaptans. eximius doctor militantis ecclesie 
+      beatissi<lb ed="#V" n="14" break="no"/>mus Aug. xx. li. de ciui. dei. primo introducit ad suum 
+      <lb ed="#V" n="15"/>propositum ostendendum testimonia noui testamenti. tamquam 
+      <lb ed="#V" n="16"/>sublimiora. 2o veteris testamenti: quem modum 
+      proceder<lb ed="#V" n="17" break="no"/>di confirmat ibidem oraculo divfuni saluatoris. dicentis 
+      <lb ed="#V" n="18"/>mat. xiii. c. Omnis scriba doctus in regno celorum 
+      simi<lb ed="#V" n="19" break="no"/>lis factus est homini patrifami. qui profert de thesau 
+      <lb ed="#V" n="20"/>ro suo noua et vetera: vt sublimiora inferioribus in 
+      pro<lb ed="#V" n="21" break="no"/>secutione theologica anteferret. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

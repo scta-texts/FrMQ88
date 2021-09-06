@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 8</title>
+            <author ref="#FrancisofMeyronnes">Francis de Meyronnes</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 8</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-FdM888">Venice 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="251-v"/>
+            <cb ed="#V" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="FrMQ88-e11495"><!-- quod-q8 -->
+            <head xml:id="FrMQ88-e11495-Hd1e108">Quaestio 8</head>
+            <p xml:id="FrMQ88-e11495-d1e111">
+               <lb ed="#V" n="115"/>questio est. Utrum esse essentie. 
+      <lb ed="#V" n="116"/>Ctaua creabilium quiditatum fuerit 
+      <lb ed="#V" n="117"/>eternum.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e120">
+      ¶ Et circa istam quaestionem sunt. 2o. 
+      ar<lb ed="#V" n="118" break="no"/>ticuli declarandi. Quorum primum est. ab 
+      ini<lb ed="#V" n="119" break="no"/>tio et ante secula creata sum. Ecclius. 2 4. Quia 
+      <lb ed="#V" n="120"/>vero nulla creatura ante secula fuit nisi forte: quantum 
+      <lb ed="#V" n="121"/>ad esse essentie. Iccirco ad istius declarationem 
+      intro<lb ed="#V" n="122" break="no"/>ducuntur plures articuli. 
+      <lb ed="#V" n="123"/>Quorum primus est. quid est esse essentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e136">
+      ¶ Et dicitur 
+      <lb ed="#V" n="124"/>quod illud est esse essentie quod pertinet ad 
+      <lb ed="#V" n="125"/>cuiuslibet entis quiditatem: quia in rebus habentibus 
+      essen<lb ed="#V" n="126" break="no"/>tiam: quiditas et essentia idem sunt: sicut cum dicimus hominem 
+      <lb ed="#V" n="127"/>esse animal: illud partinet ad esse essentie: quia animal est de hominis 
+      qui<lb ed="#V" n="128" break="no"/>ditate: et in hoc differt illud esse ab esse existentie: quia illud non 
+      <lb ed="#V" n="129"/>pertinet communiter ad quiditatem: sicut cum dicitur. homo existit in 
+      re<lb ed="#V" n="130" break="no"/>rum natura: quia illud est contingens.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e154">
+      ¶ Sed contra hanc diffinitionem in 
+      <lb ed="#V" n="131"/>statur 4r. Primo. quia sicut est flos in esse essentie: ita est 
+      pul<lb ed="#V" n="132" break="no"/>cherrimus florum in tali esse: et tamen talis excellentia cum sit 
+      <!--508.xml-->
+      <pb ed="#V" n="252-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ad aliud: non est de ipsius quiditate.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e171">
+      ¶ 2o. quia in esse 
+      essen<lb ed="#V" n="2" break="no"/>tie rosa est alba vel non alba: et tamen nullum illorum est de ipsi 
+      <lb ed="#V" n="3"/>us quiditate: cum alterum sit eius accidens: et alterum negatio. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e178">
+               <lb ed="#V" n="4"/>¶ 3o. quia esse existentie in omni videtur esse de quiditate illius existentiem 
+      <lb ed="#V" n="5"/>sicut superius de inferiori: et tamen illa non partinent ad esse essen 
+      <lb ed="#V" n="6"/>tie: quod est distinctum contra esse existentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e187">
+      ¶ 4o. quia cum deus in 
+      sua<lb ed="#V" n="7" break="no"/>quiditate sit purum necesse esse: secundum philosophos. existentia eius sibi est 
+      <lb ed="#V" n="8"/>quiditatiua: et sic non est illa diffinitio propria ipsius esse et 
+      <lb ed="#V" n="9"/>sentie: prout distinguitur ab existentia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e196">
+      ¶ Ad primum. quod illa 
+      excel<lb ed="#V" n="10" break="no"/>lentia pulchritudinis est demonstrabilis ex eius ratione 
+      for<lb ed="#V" n="11" break="no"/>mali: et ideo partinet ad secundum modum dicendi per se: qui oritur 
+      <lb ed="#V" n="12"/>ex quiditate: et ita partinet ad esse essentie ex consequenti: licet non 
+      pri<lb ed="#V" n="13" break="no"/>marie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e207">
+      ¶ Ad 2m. quod rosa in esse essentie abstrahit: vt plerique 
+      <lb ed="#V" n="14"/>putant ab vtroque contradictionis extremo: cum neutrum illorum 
+      <lb ed="#V" n="15"/>patineat ad quiditatem: tamen melius dicitur quod affirmatio 
+      quaeli<lb ed="#V" n="16" break="no"/>bet et opposita negatio sub disiunctione: sicut haec accipitur: 
+      <lb ed="#V" n="17"/>inest secundo modo: et sic partinet ad esse essentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e218">
+      ¶ Ad 3m. quod 
+      li<lb ed="#V" n="18" break="no"/>cet istud commune se habeat per modum quiditatis ad propositnum 
+      <lb ed="#V" n="19"/>tamen neutrum eorum pertinet ad quiditatem: sed sunt modi quidi 
+      <lb ed="#V" n="20"/>tatis vt alibi patet.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e228">
+      ¶ Ad 4m. quod non sic distinguitur esse 
+      existen<lb ed="#V" n="21" break="no"/>tie in deo contra esse essentie: sicut in creatis: vt existentia acci 
+      <lb ed="#V" n="22"/>dit ei: quamuis forte illud necesse esse non sit de quiditate 
+      diui<lb ed="#V" n="23" break="no"/>ne essentie directe.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e237">
+      ¶ Sed oritur difficultas quia dicunt aliqui quod non est 
+      <lb ed="#V" n="24"/>dare aliquod esse essentie tale: sicut infertur.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e242">
+      ¶ Isti autem 
+      ne<lb ed="#V" n="25" break="no"/>gant omnem diffinitionem: et per consequens omnem demonstratio 
+      <lb ed="#V" n="26"/>nem propter quid: cum istud esse essentie non sit nisi esse quidita 
+      <lb ed="#V" n="27"/>tiuum: et quo negat quiditates habet omnia negare. 
+      <lb ed="#V" n="28"/>articulus est. si quiditates creabilium 
+      <lb ed="#V" n="29"/>Secundus ante suam creationem habent esse 
+      <lb ed="#V" n="30"/>essentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e258">
+      ¶ Dicit autem commune vulgus theologorum quod non 
+      <lb ed="#V" n="31"/>quia quiditates creabilium ante suam creationem sunt me 
+      <lb ed="#V" n="32"/>re nihil: cum creatio sit de nihilo productio: si autem 
+      crea<lb ed="#V" n="33" break="no"/>bilia illa habeant quiditatem ante suam creationem: quomodo de 
+      <lb ed="#V" n="34"/>nihilo producuntur:
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e269">
+      ¶ Sed contra illud arguitur 
+      quadru<lb ed="#V" n="35" break="no"/>pliciter. Primo. quia nullum necessarium potest accipere esse 
+      <lb ed="#V" n="36"/>per contingens: cum omnino dependens a contingente 
+      necessa<lb ed="#V" n="37" break="no"/>rio sit contingens: sed creatio est actio contingens: vt do 
+      <lb ed="#V" n="38"/>cet fides catholica: et esse essentie est necessarium: cum omnis 
+      <lb ed="#V" n="39"/>propositio de esse tali sit in naturali materia: que 
+      distingui<lb ed="#V" n="40" break="no"/>tur contra contingentem. igitur ante creationem habent 
+      qui<lb ed="#V" n="41" break="no"/>ditates tale esse.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e287">
+      ¶ Secundo. quia nullum certum et per se notum 
+      <lb ed="#V" n="42"/>in notitia abstractiua potest esse per actum contingentem: 
+      <lb ed="#V" n="43"/>sed veritates de illo esse sunt certe et per se note: quia in 
+      pri<lb ed="#V" n="44" break="no"/>mo vel in secundo modo dicendi per se. ergo non sunt per 
+      crea<lb ed="#V" n="45" break="no"/>tionem: et sic ante. maior probatur. quia species representans 
+      <lb ed="#V" n="46"/>quiditatem obiecti non representat euidenter: nisi illa quae 
+      <lb ed="#V" n="47"/>insunt obiecto necessarie: alioquin si contingenter 
+      decimpe<lb ed="#V" n="48" break="no"/>ret cum variatione facta in obiecto: quo ad talia species non 
+      <lb ed="#V" n="49"/>varietur: sed vniformiter repraesentet.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e308">
+      ¶ Tertio. quia 
+      qui<lb ed="#V" n="50" break="no"/>ditates creabiles ante suam creationem fuerunt in 
+      potent<lb ed="#V" n="51" break="no"/>tentia obiectiua: sed ens in potentia et in actu sunt in eo 
+      <lb ed="#V" n="52"/>dem genere: et illud esse essentie pertinet ad esse in genere. 
+      er<lb ed="#V" n="53" break="no"/>go in illa potentia habent esse essentie: quod autem sint in 
+      eo<lb ed="#V" n="54" break="no"/>dem genere probatur. quia esse in genere: non est contingens 
+      <lb ed="#V" n="55"/>vt patuit.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e324">
+      ¶ Quarto. quia ille quiditates creabiles in 
+      po<lb ed="#V" n="56" break="no"/>tentia tali et in actu habent eandem penitus 
+      diffinitio<lb ed="#V" n="57" break="no"/>nem: quia sicut angelus in actu est substantia spiritualis: 
+      <lb ed="#V" n="58"/>ita etiam in potentia: et tamen quod in actu esse non sit de quiditate 
+      <lb ed="#V" n="59"/>angeli patet: quia non est necesse esse per fidem: et per consequens nec ess 
+      <lb ed="#V" n="60"/>in potentia: et sic remanet diffinitio penitus vna.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e337">
+      ¶ Ideo 
+      <lb ed="#V" n="61"/>dico. quod quiditates creabiles ante suam creationem 
+      ha<lb ed="#V" n="62" break="no"/>bent esse essentie: quicquid sit illud esse: quia ante suam creatio 
+      <lb ed="#V" n="63"/>nem sunt entia in potentia: et actus et potentia non diuerfificant et 
+      <lb ed="#V" n="64"/>sentiam: sic consitentur philosophi: et constat quod essentia et esse 
+      essen<lb ed="#V" n="65" break="no"/>tie sunt idem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e350">
+      ¶ Sed oritur difficultas. si illud ante suam creatio 
+      <lb ed="#V" n="66"/>nem: intelligitur secundum ordinem durationis. Dicitur autem quod non. 
+      <!--508.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>quia duratio non est nisi existentium ante creationem vero nul 
+      <lb ed="#V" n="68"/>la est talium ex sintia. ideo intelligitur ante secundum ordinem 
+      <lb ed="#V" n="69"/>naturae: tamen quia quiditas cum insit per se praeuenit existentiam secundum 
+      or<lb ed="#V" n="70" break="no"/>dinem naturae: que inest per accidens.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e368">
+      ¶ Secunda difficultas si 
+      pre<lb ed="#V" n="71" break="no"/>habent illud esse essentie: quomodo producuntur de nihilo per 
+      <lb ed="#V" n="72"/>actum creationis.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e375">
+      ¶ Dicitur autem quod illud potest 
+      duo<lb ed="#V" n="73" break="no"/>bus modis intelligi: aut de omnino non existente: 
+      aut<lb ed="#V" n="74" break="no"/>quia non fuit aliquid ante secundum ordinem durationis: nec 
+      quo<lb ed="#V" n="75" break="no"/>ad esse essentie: nec quo ad esse existentie. 
+      <lb ed="#V" n="76"/> articulus est. si quiditates creabilium 
+      <lb ed="#V" n="77"/>Tertius in tali esse: essent idem cum diuina 
+      essen<lb ed="#V" n="78" break="no"/>tia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e392">
+      ¶ Dicunt autem quod sic. quia sola diuina essentia est antel 
+      <lb ed="#V" n="79"/>rerum creationem: et ille quiditates: vt patuit in esse essentie 
+      <lb ed="#V" n="80"/>sunt ante creationem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e399">
+      ¶ Sed contra illud arguitur 
+      quadru<lb ed="#V" n="81" break="no"/>pliciter. Primo. quia quiditates creabilium ante suam 
+      crea<lb ed="#V" n="82" break="no"/>tionem sunt in potentia obiectiua: et non in actu: diuina 
+      <lb ed="#V" n="83"/>autem essentia numquam est in tali potentia: cum sit purus actus. 
+      <lb ed="#V" n="84"/>et ideo diuina essentia non potest esse tales quiditates.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e410">
+      ¶ 
+      Se<lb ed="#V" n="85" break="no"/>cundo. quia quiditates creabilium sunt in tali esse apte nate 
+      <lb ed="#V" n="86"/>creari: cum huoc sit esse reale: sed diuina essentia 
+      nulla<lb ed="#V" n="87" break="no"/>tenus est creabilis. ergo ipsa non est quiditas talis. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e419">
+               <lb ed="#V" n="88"/>¶ Tertio: quia quanta est quelibet res in actu: tanta 
+      <lb ed="#V" n="89"/>prefuit in potentia: aut saltem non maior est in poten 
+      <lb ed="#V" n="90"/>tia: cum productio secundum philosophos largiatur perfectionem: sed 
+      <lb ed="#V" n="91"/>quiditas creata est finita. ergo creabilis non est 
+      infini<lb ed="#V" n="92" break="no"/>ta: et sic non est diuina essentia: que est infinita.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e432">
+      ¶ Quar 
+      <lb ed="#V" n="93"/>to. quia illa eadem res que prefuit in potentia postea 
+      <lb ed="#V" n="94"/>est in actu: alioquin res in actu nunquam prefuit in 
+      poten<lb ed="#V" n="95" break="no"/>tia: et sic fuisset ante impossibilis. sed res in actu creata 
+      <lb ed="#V" n="96"/>non potest esse idem cum diuina essentia: cum sit ab ea 
+      cau<lb ed="#V" n="97" break="no"/>sata. ergo nec quando est creabilis in esse essentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e445">
+      ¶ Ideo 
+      <lb ed="#V" n="98"/>dico quod quiditates creabilium in illo esse essentie: vt 
+      pre<lb ed="#V" n="99" break="no"/>ueniunt earum actualem existentiam: non sunt idem cum 
+      di<lb ed="#V" n="100" break="no"/>uina essentia: quia diuina essentia cum sit purus actus: 
+      <lb ed="#V" n="101"/>semper est actualiter existens: et ille quiditates in tali esse 
+      <lb ed="#V" n="102"/>abstrahunt ab actuali existentia: immo sunt sine ipsa¬ 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e459">
+               <lb ed="#V" n="103"/>¶ Sed oritur difficultas quia esse essentie: cum insit necessario 
+      <lb ed="#V" n="104"/>illis quorum est secundum praemissa: inest tam in potentia quam in actum: 
+      <lb ed="#V" n="105"/>et sic in esse essentie quiditates non sunt semper sine actuali 
+      <lb ed="#V" n="106"/>existentia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e470">
+      ¶ Dicitur autem quod ille quiditates tam in actuali 
+      <lb ed="#V" n="107"/>existentia quam sine ea habent esse essentie: tamen hoc sit sermo: vt 
+      <lb ed="#V" n="108"/>habent esse in esse essentie potentialiter ab omni existentia 
+      seque<lb ed="#V" n="109" break="no"/>strato.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e479">
+      ¶ Secunda difficultas quomodo esse essentie potest aliquo modo 
+      <lb ed="#V" n="110"/>preuenire creationem: cum per creationem accipiat esse 
+      <lb ed="#V" n="111"/>simpliciter: quod est esse existentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e486">
+      ¶ Dicitur autem quod esse existentie ac 
+      <lb ed="#V" n="112"/>cidit ipsi esse essentie: cum illa sit contingens: quiditas crea 
+      <lb ed="#V" n="113"/>bilis existit: ideo non solum esse existentie est esse simpliciter: sed et 
+      <lb ed="#V" n="114"/>esse essentie: quod autem esse essentie preueniat ipsam 
+      produ<lb ed="#V" n="115" break="no"/>ctionem hoc demonstrari videtur. quia ipsa productio fundatur 
+      <lb ed="#V" n="116"/>in essentia: et omnis reus. presupponit suum fundamentum. 
+      <lb ed="#V" n="117"/>articulus est. si quiditates creabilium 
+      <lb ed="#V" n="118"/>Quartus in tali esse a diuina essentia realiter 
+      di<lb ed="#V" n="119" break="no"/>stinguatur.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e506">
+      ¶ Et ponuntur hoc quattuor conclusiones. Quarum 
+      pri<lb ed="#V" n="120" break="no"/>est quod ille quiditates in tali esse distinguuntur a divina 
+      essentia<lb ed="#V" n="121" break="no"/>ex naura rei: quia quibuscumque conueniunt ex naura rei extrema 
+      contradi<lb ed="#V" n="122" break="no"/>ctionis: illa sunt ex nam rei distincta: cum eidem et secundum idem 
+      conue<lb ed="#V" n="123" break="no"/>nire non possint. per primum principium. istis autem conueniunt 
+      extrema<lb ed="#V" n="124" break="no"/>contradictionis ex natura rei id est circumscripto omni opere rationis: quia ille 
+      <lb ed="#V" n="125"/>quiditates sunt obstantia secundaria diuini intellectus: et divina essen 
+      <lb ed="#V" n="126"/>tia non est eius obiectum secundarium: igitur sic sunt distincta.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e524">
+      ¶ Secunda 
+      <lb ed="#V" n="127"/>conclusio. quia illa non solum distinguuntur ex naura rei: sed et 
+      forma<lb ed="#V" n="128" break="no"/>liter: quia quandocumque aliqua duo ita se habent quod aliquid dicitur 
+      <lb ed="#V" n="129"/>in quid de vno: quod non dicitur in quid de alio: illa sunt quiditatiue 
+      <lb ed="#V" n="130"/>distincta: quod est formaliter: sed de homine in esse essentie dicitur 
+      <lb ed="#V" n="131"/>in quid corpus cum sit de eius essentia: quod non dicitur 
+      <lb ed="#V" n="132"/>de diuina essentia. ergo illa sunt formaliter distincta. 
+      <!--509.xml-->
+      <pb ed="#V" n="252-v"/>
+               <cb ed="#V" n="a"/>
+            </p>
+            <p xml:id="FrMQ88-e11495-d1e547">
+               <lb ed="#V" n="1"/>¶ 3a conclusio. quia illa non solum distinguuntur formaliter: sed et 
+      essen<lb ed="#V" n="2" break="no"/>tialiter: quia per hoc quod est esse in diuersis generibus distinguuns 
+      <lb ed="#V" n="3"/>aliqua essentialiter: cum differentia per genus et speciem sit proprie essen 
+      <lb ed="#V" n="4"/>tialis: et tunc eadem ratione et maiori illud quod est in genere ab eo 
+      <lb ed="#V" n="5"/>quod est extra genus: sed quiditates creabilium sunt in 
+      deter<lb ed="#V" n="6" break="no"/>minatis generibus: et divina essentia omne genus transcendit. ergo 
+      il<lb ed="#V" n="7" break="no"/>la sunt distincta essentialiter.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e565">
+      ¶ 4a conclusio quod illa non distinguuntur 
+      <lb ed="#V" n="8"/>realiter: quia vbi non est res: quod libet extremum non potest esse 
+      <lb ed="#V" n="9"/>realis distinctio: quiditates autem creabilium ante suam 
+      crea<lb ed="#V" n="10" break="no"/>tionem non funt res: cum omnis res: aut si creata: aut 
+      increa<lb ed="#V" n="11" break="no"/>ta in actu: et ideo ibi non potest esse realis distinctio.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e576">
+      ¶ Sed  
+      <lb ed="#V" n="12"/>contra has conclusiones instatur 4r. Primo. quia non videtur intelligibile quod 
+      <lb ed="#V" n="13"/>fit distinctio ex nam rei. vbi extrema non sunt in rerum 
+      natu<lb ed="#V" n="14" break="no"/>ra: sicut est in proposito de quiditatibus creabilibus.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e585">
+      ¶ 2m 
+      <lb ed="#V" n="15"/>quia distinctio formalis videtur esse eadem cum illa que dicitur ex 
+      <lb ed="#V" n="16"/>nam rei: sicut vtuntur communiter: qui eas ponunt: et sic videtur 
+      coincide<lb ed="#V" n="17" break="no"/>re 2a conclusio cum prima.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e594">
+      ¶ 3o. quia distinctio essentialis non videtur alia 
+      <lb ed="#V" n="18"/>a formali: cum vtraque sit quiditatiua.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e599">
+      ¶ 4o. quia omnia que 
+      <lb ed="#V" n="19"/>distinguuntur essentialiter: videntur distingui realiter: cum 
+      <lb ed="#V" n="20"/>realis distinctio sit praencipalissima distinctionum.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e607">
+      ¶ Ad  
+      <lb ed="#V" n="21"/>primum. quod ista distinctio dicitur ex nam rei: quia quodlibet 
+      extre<lb ed="#V" n="22" break="no"/>mum est res in potentia: licet non alterum in actu: et possit dici 
+      rea<lb ed="#V" n="23" break="no"/>lis aliquo modo in potentia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e616">
+      ¶ Ad 2m quod distinctio ex nam 
+      rei<lb ed="#V" n="24" break="no"/>se habet in plus quam formalis simpliciter: quia multa 
+      distinguun<lb ed="#V" n="25" break="no"/>tur ex natura rei: vtpote indiuindua eiusdem speciei: que forma 
+      <lb ed="#V" n="26"/>liter non distinguuntur.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e625">
+      ¶ Ad 3m. quod in plus se habet 
+      forma<lb ed="#V" n="27" break="no"/>lis quam essentialis: licet omnis essentialis sit formalis: et sic 
+      <lb ed="#V" n="28"/>vtraque quiditatiua: sed non adequate: vnde in diuinis relatio 
+      <lb ed="#V" n="29"/>nes opposite distinguuntur quiditatiue: et non essentialiter. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e634">
+               <lb ed="#V" n="30"/>¶ Ad 4m. verum assumit quando essentie sunt in actu: quando tamen 
+      <lb ed="#V" n="31"/>in potentia obiectiua: quia ibi nullam habent realitatem: 
+      <lb ed="#V" n="32"/>abstrahunt a reali distinctione 
+      <lb ed="#V" n="33"/>articulus est. si quiditates ille: vt sunt 
+      an<lb ed="#V" n="34" break="no"/>Quintus te creationem in esse puro essentie: sunt 
+      <lb ed="#V" n="35"/>alie a seipsis: vt post creationem habent esse existentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e650">
+      ¶ Et po 
+      <lb ed="#V" n="36"/>nuntur hoc quatuor conclusiones. Quarum prima est quod illa sunt idem vnita 
+      <lb ed="#V" n="37"/>te transcendentis: puta entis quia ens diuiditur in actum et 
+      po<lb ed="#V" n="38" break="no"/>tentiam diuisione methatia: et quiditates ante creationem 
+      ca<lb ed="#V" n="39" break="no"/>dunt sub ente in potentia et post creationem sub ente in actu: 
+      <lb ed="#V" n="40"/>omnia autem que cadunt sub differentiis diuidentibus: sunt idem 
+      <lb ed="#V" n="41"/>in communi diuiso.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e666">
+      ¶ 2a conclusio. quia illa sunt idem vnitate generis: quia 
+      si<lb ed="#V" n="42" break="no"/>cut ens diuiditur in ens in actu et in potentia: ita ille dicuntur esse 
+      <lb ed="#V" n="43"/>in primua philosophia prime differentiae cuiuslibet generis: actus scilicet et potentia: et ideo 
+      <lb ed="#V" n="44"/>cum substantia diuidatur sicut ens in actum et potentiam: et quiditates  
+      <lb ed="#V" n="45"/>ante creationem sint substantie in potentia: sicut post creationem substantie 
+      <lb ed="#V" n="46"/>in actu: oportet quod sic vtrobique partineant ad idem genus: cum 
+      <lb ed="#V" n="47"/>sint sub eius differentiis ciuisiuis.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e683">
+      ¶ 3a conclusio quod illa sunt idem 
+      <lb ed="#V" n="48"/>vnitate: puta angelus in potentia: et angelus in actuali 
+      <lb ed="#V" n="49"/>existentia: quia quicquid continetur in aliquo genere continetur in 
+      ali<lb ed="#V" n="50" break="no"/>qua eius specie: et ideo cum angelus in potentia sit in genere substantie: vt 
+      <lb ed="#V" n="51"/>patuit: oportet quod sit in aliqua eius specie specialissima: et non est 
+      di<lb ed="#V" n="52" break="no"/>re aliam: nisi illam in qua erit in actu.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e696">
+      ¶ 4a conclusio quod illa sunt idem 
+      <lb ed="#V" n="53"/>non solum specie: sed etiam numero: quia illud idem numero quod est 
+      <lb ed="#V" n="54"/>nunc creatum: aut fuit ante creabile: aut non: si sic: habetur 
+      in<lb ed="#V" n="55" break="no"/>tentum: quod idem numero quod nunc est in actu fuit prius in 
+      po<lb ed="#V" n="56" break="no"/>tentia: si autem non fuit creabile: tunc fuit ens prohibitum 
+      <lb ed="#V" n="57"/>et sic nunquam potuit in esse produci.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e709">
+      ¶ Sed contra has conclusiones 
+      <lb ed="#V" n="58"/>instatur 4r. Primo. quia dicunt aliqui quod cum ens diuinditur in 
+      <lb ed="#V" n="59"/>potentiam et in actum: illa diuisio non est entis quod est 
+      extra<lb ed="#V" n="60" break="no"/>animam: sed entis rationis: et ideo illa diuisio non declarat entia 
+      <lb ed="#V" n="61"/>in tali potentia esse idem cum entibus in actu: nisi secundum rationem. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e720">
+               <lb ed="#V" n="62"/>¶ Secundo. quia dicunt aliquin quod cum diuiditur substantia in poten 
+      <lb ed="#V" n="63"/>tiam et in actum: illa diuisio non est in potentiam obiectiuam: 
+      <lb ed="#V" n="64"/>quia illam non est dare: sed in potentiam subiectiuam: et illa non 
+      <lb ed="#V" n="65"/>facit ad propositum.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e731">
+      ¶ 3o. quia si sunt idem specie angelus 
+      in<lb ed="#V" n="66" break="no"/>potentia obiectiua et in actuali existentia: tunc plus distabunt 
+      <!--509.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>termini generationis: quia semper differunt specie: quam termini 
+      <lb ed="#V" n="68"/>creationis: qui sunt speciei vnius.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e744">
+      ¶ 4o. quia si sunt idem nul 
+      <lb ed="#V" n="69"/>mero nullo modo videntur esse distincta: et tunc frustra 
+      crea<lb ed="#V" n="70" break="no"/>buntur: cum nihil aliud acquiratur quam prius.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e752">
+      ¶ Ad primum. quod 
+      <lb ed="#V" n="71"/>si ens rationis tunc diuideretur: cum omne superius in quid 
+      <lb ed="#V" n="72"/>dicatur de inferiori: tunc ens in actu: quod cadit sub tali 
+      <lb ed="#V" n="73"/>diuiso esset quiditatiue ens rationis: et ideo illa fuga non valet: 
+      <lb ed="#V" n="74"/>sed terminat propositum: quia illud diuisum non est ens 
+      ratio<lb ed="#V" n="75" break="no"/>nis. aliter ens rationis diceretur de entibus in tali poten 
+      <lb ed="#V" n="76"/>tia: et in actu: et illa via videtur demonstratiua.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e768">
+      ¶ Ad 2m. 
+      <lb ed="#V" n="77"/>quod illa diuisio substantie non videtur esse possibilis: nisi in potentiam 
+      <lb ed="#V" n="78"/>obiectiuam: quia illa diuisio conuenit substantie secundum sui generis 
+      con<lb ed="#V" n="79" break="no"/>munitatem. et cum substantia diuidatur per corporalem et 
+      spiritua<lb ed="#V" n="80" break="no"/>lem: nulla substantia spiritualis potest habere esse in potentia sub 
+      <lb ed="#V" n="81"/>iectiua: nec etiam substantie corporales incorruptibiles: et ideo 
+      so<lb ed="#V" n="82" break="no"/>lertes semper in tali diuisione intelligunt potentiam 
+      obie<lb ed="#V" n="83" break="no"/>ctiuam.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e786">
+      ¶ Ad 3m cum termini creationis non sint quiditas in 
+      <lb ed="#V" n="84"/>potentia obiectiua: sed in actuali existentia: cum eadem quiditas sit vtro 
+      <lb ed="#V" n="85"/>bique. et termini talis mutationis sint omnino incompossibiles. 
+      <lb ed="#V" n="86"/>sedt non existentia est terminus a quo: et existentia terminus ad  
+      <lb ed="#V" n="87"/>quem habet ista terminos discretos.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e797">
+      ¶ Ad 4m quod licet sint 
+      <lb ed="#V" n="88"/>idem numero: adhuc tamen distinguuntur secundum alium et alium modium: 
+      <lb ed="#V" n="89"/>quia eadem quiditas in numero: alio modo est in potentia. et 
+      <lb ed="#V" n="90"/>alio modo in actu: actus enim et potentia non dicunt quiditates: 
+      <lb ed="#V" n="91"/>sed modos: quia non diuersificant essentiam: secundum regulam 
+      pri<lb ed="#V" n="92" break="no"/>me philosophie: et ideo dicunt artiste quod productio non largitur mul¬ 
+      <lb ed="#V" n="93"/>¬titudininem: sed perfectionem scilicet modi. 
+      <lb ed="#V" n="94"/>articulus est. si ille quiditates in tali esse 
+      es<lb ed="#V" n="95" break="no"/>Sextus sentie puro sunt vere nihil.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e817">
+      ¶ Dicunt autem 
+      <lb ed="#V" n="96"/>quod sic. quia ante omnem creationem non est aliquid dare secundum fidem: 
+      <lb ed="#V" n="97"/>nisi deum: non aliquid autem et nihil equipollent: et ideo omnia alia 
+      <lb ed="#V" n="98"/>sunt vere nihil.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e826">
+      ¶ Sed contra istud arguiter 4r. Primo. quia de 
+      <lb ed="#V" n="99"/>us ab eterno habuit potentiam creatiuam: omnis autem potentia 
+      produ<lb ed="#V" n="100" break="no"/>ctiua est productiua alicuius producibilis: et sic fuit ab 
+      <lb ed="#V" n="101"/>eterno aliquid producibile sibi corrstondens: et quod est aliquid non 
+      <lb ed="#V" n="102"/>est omnino nihil.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e838">
+      ¶ 2o. quia omnis operatio intellectiua habet aliquod 
+      <lb ed="#V" n="103"/>obiectum ad quod terminatur: vtpote obiectum quod per ipsam 
+      intelli<lb ed="#V" n="104" break="no"/>igitur: diuina autem intellectio ab eterno intelligebat omnia 
+      <lb ed="#V" n="105"/>creabilia. ergo ipsa erant aliquid: cum essent a deo intellectuas.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e847">
+      ¶ 3o 
+      <lb ed="#V" n="106"/>quia actus voluntatis semper habet obiectus: diuina autem volitio 
+      fe<lb ed="#V" n="107" break="no"/>rebatur ante creationem super ista creabilia: et sic non erant 
+      om<lb ed="#V" n="108" break="no"/>nino nihil: cum haberent rationem obiecti.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e856">
+      ¶ 4o. quia in deo 
+      <lb ed="#V" n="109"/>ante omnem creationem fuerunt vdee omnium creabilium secundum bea 
+      <lb ed="#V" n="110"/>tum Aug. sund. q. et illa sunt exemplaria: sed omne exemplari 
+      <lb ed="#V" n="111"/>inquantum tale: respicit exemplatum. ergo quiditates istorum 
+      <lb ed="#V" n="112"/>creabilium fuerunt: tunc exemplate: et non in esse existentie: et sic 
+      <lb ed="#V" n="113"/>discuntur in esse essentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e869">
+      ¶ Ideo dico. quod licet quiditates illorum 
+      crea<lb ed="#V" n="114" break="no"/>bilium ante suam creationem fuerint pure nihil secundum 
+      caren<lb ed="#V" n="115" break="no"/>tiam esse existentie: non tamen omnino nihil secundum carentiam ipsius esse 
+      <lb ed="#V" n="116"/>essentie: quia essentie creabilium ante omnem creationem sunt obie 
+      <lb ed="#V" n="117"/>cta secundaria diuini intellectus: et omne obiectum praesupponit esse 
+      <lb ed="#V" n="118"/>eo modo quo habet esse obiectum: sicut pars in modo praesupponit 
+      su<lb ed="#V" n="119" break="no"/>um totum.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e885">
+      ¶ Dicunt autem aliqui. quod omnia illa que dicuntur 
+      <lb ed="#V" n="120"/>de istis essentiis ante suam creationem: et quod sunt 
+      producibi<lb ed="#V" n="121" break="no"/>les: verificantur secundum denominationem extrinsecam a diuina vi 
+      <lb ed="#V" n="122"/>tute actiua: et ideo non oportet ponere nisi illam virtutem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e894">
+      ¶ Istud 
+      <lb ed="#V" n="123"/>tamen non valet. quia omnis denominatio est ad placitum: sicut et 
+      nol<lb ed="#V" n="124" break="no"/>minis impositio prima: et tamen nullo posito placito: diuina 
+      <lb ed="#V" n="125"/>virtus est alicuius productiua et non sui. ergo alterius a se in 
+      <lb ed="#V" n="126"/>re.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e906">
+      ¶ Dicunt etiam quod talia secundaria obiecta sunt 
+      intelle<lb ed="#V" n="127" break="no"/>cta denominatione extrinseca ab intellectione diuina¬ 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e911">
+               <lb ed="#V" n="128"/>¶ Istud tamen non valet. quia circumscripto omni nomine: et per consequens 
+      <lb ed="#V" n="129"/>denominatione: diuinus intellectus intelligit aliquid aliud a 
+      <lb ed="#V" n="130"/>se: et illud est esse rei creabilis.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e920">
+      ¶ Sed oritur difficultas quia 
+      di<lb ed="#V" n="131" break="no"/>cunt aliqui. quod licet diuina virtus sit productiua taliums 
+      <lb ed="#V" n="132"/>producibilium ante creationem: tamen talia producibilis 
+      <!--510.xml-->
+      <pb ed="#V" n="253-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>sunt omnino nihil pro tunc: istud autem stare non potest: quia diuina 
+      <lb ed="#V" n="2"/>virtus: aut est productiua alicuius: et habentur intentum: quia 
+      <lb ed="#V" n="3"/>aliquid est quod est producibile et non omnino nihil: aut est 
+      produ<lb ed="#V" n="4" break="no"/>ctia nihili: et nihil potest producere: et sic contradictio.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e942">
+      ¶ Se 
+      <lb ed="#V" n="5"/>cunda di. quia dicunt isti. quod intellecta a diuino intellectu 
+      ante<lb ed="#V" n="6" break="no"/>creationem sunt penitus nihilia: et sic ex habet non hetur 
+      inten<lb ed="#V" n="7" break="no"/>tum.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e951">
+      ¶ Dicitur autem quod istud stare non potest: quia tunc nihil in 
+      <lb ed="#V" n="8"/>telligeret diuinus intellectus nisi se: et tamen conceditur secundum fidem quod 
+      <lb ed="#V" n="9"/>intelligit alias essentias a se: et sic intellecta ab eo habent 
+      <lb ed="#V" n="10"/>esse essentie: cum sint essentie. 
+      <lb ed="#V" n="11"/>articulus est. si quiditates creabilium 
+      <lb ed="#V" n="12"/>Septimus in tali esse puro essent: habent esse scunum atinem 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e964">
+               <lb ed="#V" n="13"/>¶ Dicunt autem quod sic. quia esse tale quiditatiuum est esse abstracti 
+      <lb ed="#V" n="14"/>uum: abstractio vero fit per intellectum.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e972">
+      ¶ Sed contra istud arguitur 
+      <lb ed="#V" n="15"/>4r Primo. quia circumscripto omni opere rationis nostre tales 
+      quidi<lb ed="#V" n="16" break="no"/>tates sunt a deo producibiles: et per hoc ostenduntur in illo esse. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e979">
+               <lb ed="#V" n="17"/>¶ 2o. quia amoto omni tali opere: sunt a deo volite.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e984">
+      ¶ 3o. quia eo 
+      <lb ed="#V" n="18"/>dem modo sunt intelectus.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e989">
+      ¶ 4o. quia circumscripta nostra ratione stut 
+      exe<lb ed="#V" n="19" break="no"/>plate et vdeate.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e994">
+      ¶ Ideo dico quod tales quiditates in tali esse 
+      <lb ed="#V" n="20"/>non habent esse per actum rationis nostre: cum nostre rationis actus non 
+      priue<lb ed="#V" n="21" break="no"/>niat omnem creationem: et quiditates ille: vt patuit: ante omnem 
+      <lb ed="#V" n="22"/>creationem habeant esse essentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1003">
+      ¶ Dicunt tamen aliqui. quod tale esse 
+      <lb ed="#V" n="23"/>non dicit in illo esse potentie: nisi potentiam obieactiuam: et illa non dicit 
+      <lb ed="#V" n="24"/>nisi non repugnantiam terminorum: et illa dicitur potentia logycalis. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e1011">
+               <lb ed="#V" n="25"/>¶ Istud tamen confirmat propositum. quia cum repugnantia sit ide 
+      <lb ed="#V" n="26"/>quod incompossibilitas: tantum est non repugnantia: sicut non incompossibilitas: 
+      <lb ed="#V" n="27"/>et sic cum due negationes faciat confirmationem: hetur 
+      con<lb ed="#V" n="28" break="no"/>cessa affirmatio: et omne tale dicimus esse essentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1022">
+      ¶ Dicebant 
+      <lb ed="#V" n="29"/>autem quidam. quod ille negationes non sunt nisi per rationem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1027">
+      ¶ Istud 
+      <lb ed="#V" n="30"/>stare non potest. quia si illa non repugnantia est a ratione nostra: cum 
+      <lb ed="#V" n="31"/>amota ratione erit opposita repugnantia in re: et tunc circum 
+      <lb ed="#V" n="32"/>scripta nostra ratione: omnia producibilia erunt entia prohibita 
+      <lb ed="#V" n="33"/>articulus est. si tales quiditates sunt 
+      rea<lb ed="#V" n="34" break="no"/>Octauus liter in tali esse.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1040">
+      ¶ Et dicunt quidam quod sic. quia 
+      <lb ed="#V" n="35"/>non habent ibi esse per actum rationis nostre: et ideo cum inter esse reale 
+      <lb ed="#V" n="36"/>et rationis non fit dare medium: ins habent ibi esse realiter.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1047">
+      ¶ Sed 
+      contra<lb ed="#V" n="37" break="no"/>istud arguiter 4r. Primo. quia illa non sunt realia: quae non sunt 
+      <lb ed="#V" n="38"/>in rerum natura: illa autem ibi non sunt: vt sic existentia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1054">
+      ¶ 2o. quia omnis 
+      <lb ed="#V" n="39"/>realitas creatiu est contingens: in tali autem esse nulla est 
+      contingen<lb ed="#V" n="40" break="no"/>tia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1062">
+      ¶ 3o. quia omnis realitas creati est effectiue a deo causata: i 
+      <lb ed="#V" n="41"/>tali autem esse nulla est causalitas effectiua.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1067">
+      ¶ 4o. quia omnis realin 
+      <lb ed="#V" n="42"/>tas citra deum: aut euo: aut tempore mensuratur: ille autem quidita 
+      <lb ed="#V" n="43"/>tes in tali esse non sunt temporales: nec euinterne cum ibi numquam in 
+      <lb ed="#V" n="44"/>ceperit.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1076">
+      ¶ Ideo dico quod 4or sunt modi in creaturis totaliter 
+      <lb ed="#V" n="45"/>adequati. sed tamen omnes sunt distincti scilicet existentia: actualitas contin 
+      <lb ed="#V" n="46"/>et realitas. et quia quiditates in tali esse sunt ab existentia 
+      seque<lb ed="#V" n="47" break="no"/>strate et ab actuatiase. eodem modo dicitur de contingentia et reatiae: et sic 
+      <lb ed="#V" n="48"/>non sunt ibi realiter: sed tantum essentialiter.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1087">
+      ¶ Sed oritur di. quia omne ens 
+      <lb ed="#V" n="49"/>aut est reale aut rationis. et ista vt patuit. non sunt entia 
+      ratio<lb ed="#V" n="50" break="no"/>nis.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1094">
+      ¶ Dicitur autem quod reale potest dici aliquid 2m: aut quia habens de 
+      <lb ed="#V" n="51"/>facto realitatem. aut quia natum est recipere realitatem: et sic ille 
+      <lb ed="#V" n="52"/>quiditates omnes su reales.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1101">
+      ¶ 2a di. quia ens et res conuertuntur. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e1105">
+               <lb ed="#V" n="53"/>¶ Dicitur quod verum est res 2o accepta: et ideo entia prohibita: iuo modo 
+      <lb ed="#V" n="54"/>sunt realia: et per consequens entia nullo modo. 
+      <lb ed="#V" n="55"/> artic. est. si tales quiditates in illoesse sunt en 
+      <lb ed="#V" n="56"/>Nonus tia secundum quid tantum.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1116">
+      ¶ Dicunt autem quod sic. quia omne in 
+      po<lb ed="#V" n="57" break="no"/>tentia tale est secundum quid tale: quemadmodum patet de calidio in 
+      po<lb ed="#V" n="58" break="no"/>tentia: aut de igne in potentia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1123">
+      ¶ Sed contra istud arguiter 4r. 
+      <lb ed="#V" n="59"/>Primo. quia illud quod est tale in primo diceni per se: non est secundum quod 
+      <lb ed="#V" n="60"/>tale: immo simpliciter tale: cum illa sit praedicatio praestantissima: 
+      ta<lb ed="#V" n="61" break="no"/>lia autem sunt entia in primo: cum ens diuidatur in actum et 
+      pote<lb ed="#V" n="62" break="no"/>tiam: et diuisum dicatur in quid de constituto per alterum 
+      diui<lb ed="#V" n="63" break="no"/>dentium.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1136">
+      ¶ Secundo. quia omne per se notum dce aliquo dicitur simpliciter et non 
+      <lb ed="#V" n="64"/>secundum quid de eo: alioquin propositio per se nota non esset 
+      sim<lb ed="#V" n="65" break="no"/>pliciter vera: sed de omni tali est ens per se notum: cum ille si 
+      <lb ed="#V" n="66"/>primus conceptus: et multa de entibus in potentia demonstrentur. ergo 
+      <!--510.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>omnis talis quiditas est ens simpliciter.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1152">
+      ¶ Tertio. quia illud quod 
+      <lb ed="#V" n="68"/>est tale secundum deterinationem non diminuentem est tale simpliciter: 
+      <lb ed="#V" n="69"/>sicut solet argui per locum a parte in modo: ens autem non 
+      prohi<lb ed="#V" n="70" break="no"/>bitum est tale secundum deterinationem non diminuentem: quod probatur 
+      <lb ed="#V" n="71"/>quia ens prohibitum est tale secundum deteriationem diminuentem: et 
+      <lb ed="#V" n="72"/>ideo nullus dubitat quin sit ens secundum quid: et si prohibitum 
+      di<lb ed="#V" n="73" break="no"/>minuit: oportet vt non prohibitum addat vel saltem non diminuat. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e1168">
+               <lb ed="#V" n="74"/>¶ Quarto. quia illud quod distinguitur a vere nihilo: inquantum 
+      <lb ed="#V" n="75"/>recedit ab eo: oportet vt sit vere ens: cum illa sint sicut 
+      contradictio<lb ed="#V" n="76" break="no"/>nis extrema immediata scilicet ens et nihil: sed ens non 
+      prohibi<lb ed="#V" n="77" break="no"/>tum distinguitur vere ab ente prohibito: cum illud sit factibile 
+      <lb ed="#V" n="78"/>simpliciter: et non istud. ergo cum simpliciter distinguatur ab eo: 
+      sim<lb ed="#V" n="79" break="no"/>pliciter cadat sub illo: et sic esse ens simpliciter.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1185">
+      ¶ Ideo dico 
+      <lb ed="#V" n="80"/>quod cum ille quiditates in tali esse sint entia non prohibita: 
+      ipsa<lb ed="#V" n="81" break="no"/>sunt simpite entia. quia omne producibile potest esse productum: nullum 
+      <lb ed="#V" n="82"/>autem productum potest esse quin sit simpliciter ens.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1194">
+      ¶ Sed oritur difficultas. quia 
+      <lb ed="#V" n="83"/>sicut dicit prius ratio: quod est in potentia tale est secundum quid tale.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1199">
+      ¶ Dici 
+      <lb ed="#V" n="84"/>tur autem quod tales quiditates non dicuntur tales in potentia: quod sint 
+      <lb ed="#V" n="85"/>in potentia ad entitatem: sicut aqua est in potentia ad calidita 
+      <lb ed="#V" n="86"/>tem: sed sicut aqua cum sit simpliciter aqua est in potentia ad calorem 
+      <lb ed="#V" n="87"/>ita ille quiditates cum sint simpliciter entia: sunt in potentia ad 
+      <lb ed="#V" n="88"/>existentiam: et ideo dicuntur entia in potentia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1212">
+      ¶ Secunda difficultas qui 
+      <lb ed="#V" n="89"/>quando ens diuiditur in potentiam et actum: ille quiditates in tali esse 
+      <lb ed="#V" n="90"/>cadunt sub ente in potentia: et sic videntur in potentia esse 
+      en<lb ed="#V" n="91" break="no"/>tia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1221">
+      ¶ Dicitur autem quod cadunt sub ente in potentia: illa autem 
+      po<lb ed="#V" n="92" break="no"/>tentia non dicitur in habitudinem ad ens: sed in habitudine 
+      <lb ed="#V" n="93"/>ad actualem existentiam: sicut potentie anime sunt potentie non 
+      <lb ed="#V" n="94"/>in habitudine ad animam: sed ad omnium 
+      <lb ed="#V" n="95"/>articulus est: si quiditates creabilium 
+      <lb ed="#V" n="96"/>Decimus in tali esse essentie sunt causate.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1234">
+      ¶ S 
+      <lb ed="#V" n="97"/>secundum quod sunt quatuor causalitatis genera ponuntur quatuor 
+      <lb ed="#V" n="98"/>conclusiones. Quarum prima est. quod iste quiditates non 
+      <lb ed="#V" n="99"/>sunt in tali esse causate per modum cause efficientis: quia 
+      <lb ed="#V" n="100"/>omnis causatio effectiua deducit effectum ad actualem 
+      <lb ed="#V" n="101"/>existentiam: quiditates autem in tali esse actualiter non 
+      exi<lb ed="#V" n="102" break="no"/>stunt: vt patuit.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1251">
+      ¶ Secunda conclusio. quod ille quiditates in 
+      <lb ed="#V" n="103"/>tali esse non sunt causate per modum materie: quia 
+      cau<lb ed="#V" n="104" break="no"/>salitas materialis sicut et materia: includit multiaoiem in 
+      <lb ed="#V" n="105"/>perfectionem potentie paium.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1260">
+      ¶ Et ideo deus ad creturas 
+      <lb ed="#V" n="106"/>non potest comparari aliquo modo in genere cause ma 
+      <lb ed="#V" n="107"/>terialis.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1267">
+      ¶ Tertia conclusio. quia ille quiditates in 
+      tali<lb ed="#V" n="108" break="no"/>esse sunt causate a deo per modum cause formalis: eo mod 
+      <lb ed="#V" n="109"/>do quo ponitur exemplar causa formalis exemplati: quia 
+      <lb ed="#V" n="110"/>in deo sunt ab eterno exemplaria omnium creabilium secundum bea 
+      <lb ed="#V" n="111"/>tum Aug. 33. q. et exemplaria ita sunt rerum in potentia: 
+      si<lb ed="#V" n="112" break="no"/>cut existentium in actu.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1280">
+      ¶ Quarta conclusio. quod ille qui 
+      <lb ed="#V" n="113"/>ditates in tali esse videdntur causate a deo per modum finis: 
+      <lb ed="#V" n="114"/>quia in fine non requiritur maior actualitas in effectu quam 
+      <lb ed="#V" n="115"/>in causa: immo videtur minor et finis in potentia ponit 
+      effe<lb ed="#V" n="116" break="no"/>ctum in actu suo causalitatis genere: sicut sanitas 
+      medi<lb ed="#V" n="117" break="no"/>cinam: et ita videtur quod finis in actu possit habere effectum 
+      <lb ed="#V" n="118"/>in potentia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1296">
+      ¶ Sed contra has conclusiones instatur 
+      quadrupli<lb ed="#V" n="119" break="no"/>citer. Primo. quia quicquid habet causa habet a deo: cum non 
+      <lb ed="#V" n="120"/>sit ens a se: et ideo cum habeat esse essentie: illud habet a 
+      <lb ed="#V" n="121"/>deo: esse ab hoc: dicit ordinem originis ad producens.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1305">
+      ¶ 2o. 
+      <lb ed="#V" n="122"/>quia quicquid est de essentia alicuius iu actu: est de quidi 
+      <lb ed="#V" n="123"/>tate eius in potentia: et ideo cum causa materialis sit e 
+      <lb ed="#V" n="124"/>de essentia cuiuslibet composioitum in actu: eodem modo erit 
+      <lb ed="#V" n="125"/>in potentia obiectiua: cum actus et potentia non 
+      diuer<lb ed="#V" n="126" break="no"/>sificent essentiam.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1319">
+      ¶ Tertio. quia non solum per modium 
+      for<lb ed="#V" n="127" break="no"/>me exemplaris: sed etiam per modum forme inherentis vi 
+      <lb ed="#V" n="128"/>dentur tales effectus habere causam formalem. quia omnis causa 
+      forma<lb ed="#V" n="129" break="no"/>lis est de essentia sui effectus in actu: et eadem est essentia in 
+      <lb ed="#V" n="130"/>potentia et in actu.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1330">
+      ¶ Quarto. quia finis causat mouendo 
+      <lb ed="#V" n="131"/>efficiens: et ideo cum omnis effectus efficientis sit in actu 
+      <lb ed="#V" n="132"/>efficientis finis non potest esse in pura potentia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1337">
+      ¶ Ad primum 
+      <!--511.xml-->
+      <pb ed="#V" n="253-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>quod creaus habet esse in tali esse a deo ipsam causante: vt patuit per 
+      <lb ed="#V" n="2"/>modum finis et forme: si tamen exemplaritas dicit causalitatem: et 
+      <lb ed="#V" n="3"/>cum dicitur quod esse ab alio: dicit originem producentis: quod non est verm 
+      <lb ed="#V" n="4"/>iversaliter. quia omnis effectus procedit a sua causa.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1355">
+      ¶ Ad 2m quod non possunt 
+      <lb ed="#V" n="5"/>negari esse causate tales quiditates a causa materiali intrinseca: tamen 
+      <lb ed="#V" n="6"/>bene a deo per modum materiae: sicut currit 2a conclusio.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1362">
+      ¶ Ad 3m. quia 
+      <lb ed="#V" n="7"/>eodem modo dicitur de causis formalibus intrinsecis: nec hoc 
+      di<lb ed="#V" n="8" break="no"/>recte tendit contra 3am conclusionem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1369">
+      ¶ Ad 4m. quia illa motio est 
+      <lb ed="#V" n="9"/>finis mouet agens: vt quid amatum et desideratum est 
+      <lb ed="#V" n="10"/>quedam effitia: sicut bonum mouet appetitum: causalitas 
+      <lb ed="#V" n="11"/>finis cuius gratia preuenit omne agens: quia medicina in 
+      <lb ed="#V" n="12"/>potentia est ad sanitatem in potentia ordinata. 
+      <lb ed="#V" n="13"/>articulus est. si quiditates creabus 
+      <lb ed="#V" n="14"/>Undecimus lium in tali es sunt creature.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1386">
+      ¶ Di 
+      <lb ed="#V" n="15"/>cunt aliqui quod non. quia de ratione creatiu est quod sit a deo facta tales 
+      <lb ed="#V" n="16"/>autem quiditates: vt patuit: non sunt in tali esse ab eo facte. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e1393">
+               <lb ed="#V" n="17"/>¶ Istud tamen stare non potest. quia dicit Aug. primo de trini. quo 
+      <lb ed="#V" n="18"/>omnis substantia que deus non est creatura est: et qua creaus nonest 
+      <lb ed="#V" n="19"/>deus: quiditas autem hominis in potentia est substantia: et non est deus: vt 
+      <lb ed="#V" n="20"/>patuit. ergo est creatiusa.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1404">
+      ¶ Ideo ponuntur hoc 4a conclusiones. Quarum 
+      <lb ed="#V" n="21"/>prima est. quod ille quiditates in tali esse non sunt create: quia 
+      <lb ed="#V" n="22"/>vt fuit ostensum ante creationem omnem quiditates creabilium 
+      <lb ed="#V" n="23"/>ossunt esse tale.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1413">
+      ¶ Et confirmatur. quia vt postea patuit: non 
+      <lb ed="#V" n="24"/>sunt in tali esse effectiue causate.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1418">
+      ¶ 2a conclusio quod ille quiditates in 
+      ta<lb ed="#V" n="25" break="no"/>li esse sunt creabiles. quia sunt entia non prohibita: et omnia 
+      ta<lb ed="#V" n="26" break="no"/>lia sunt creabilia a deo.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1425">
+      ¶ 3a conclusio quod ille quiditates in tali es 
+      <lb ed="#V" n="27"/>se sunt creature formaliter: quia sicut accidens dicitur formaliter non 
+      <lb ed="#V" n="28"/>solum quod actu accidit: sed et quod aptum est natum accidere: vt 
+      patae<lb ed="#V" n="29" break="no"/>in eusaristia: ita creatura potest dici formaliter: et non 
+      so<lb ed="#V" n="30" break="no"/>lum quod est actu creatum: sed etiam aptum natum creari.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1437">
+      ¶ 4a conclusio quo 
+      <lb ed="#V" n="31"/>ille quiditates sunt creature simpliciter: quia cum ens simpliciter 
+      di<lb ed="#V" n="32" break="no"/>uidatur per creatum et increatum: sicut per immediata secundum Aug. 
+      <lb ed="#V" n="33"/>quicquid est ens simpliciter. aut est creatum: aut increatum: ista 
+      <lb ed="#V" n="34"/>autem sunt entia simpliciter vt patuit: et ideo cum non cadant 
+      sim<lb ed="#V" n="35" break="no"/>pliciter sub ente increato cadunt necessario subiect creato.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1450">
+      ¶ Sed 
+      <lb ed="#V" n="36"/>contra has conclusiones instatur 4r. Primo. quia illa videntur esse 
+      crea<lb ed="#V" n="37" break="no"/>ta non solum creabilia: cum ex diuisione facta entis in creatus 
+      <lb ed="#V" n="38"/>et creatum: he quiditates cadant sub illo: vt dicit 4a conclusio que 
+      <lb ed="#V" n="39"/>videtur interimere primam.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1461">
+      ¶ Secundo. quia creabilitas dicit esse 
+      <lb ed="#V" n="40"/>in potentia ipsius creationis: et tamen ipsa creatio non 
+      po<lb ed="#V" n="41" break="no"/>nitur in potentia obiectiua.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1468">
+      ¶ Tertio. quia tale formaliter 
+      vi<lb ed="#V" n="42" break="no"/>detur tale actualiter et nihil actualiter conuenit illis quae 
+      ca<lb ed="#V" n="43" break="no"/>rent actuali existentia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1475">
+      ¶ Quarto. quia tale in potentia non est 
+      <lb ed="#V" n="44"/>simpliciter tale: sed secundum quid tale. sicut calidum in potentia: illa autem sunt 
+      <lb ed="#V" n="45"/>creatur in potentia et non in actu.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1482">
+      ¶ Ad primum quod in illa 
+      diui<lb ed="#V" n="46" break="no"/>sione quam accipit 4a conclusio hoc quod dicitur creatum: dicit 
+      aptitu<lb ed="#V" n="47" break="no"/>dinem et non actum: sicut dicitur quod accidentis esse est in esse.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1490">
+      ¶ Ad 2m 
+      <lb ed="#V" n="48"/>quod creabilitas non dicit ipsam creationem in potentia. sed 
+      <lb ed="#V" n="49"/>aptitudinem naturae creabilis ad creationem in actu quae 
+      apti<lb ed="#V" n="50" break="no"/>tudo est per se passio eius.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1499">
+      ¶ Ad 3m. quod non omne tale forma 
+      <lb ed="#V" n="51"/>liter est tale actualiter: cum in potentia: vt patuit: fit praedicator 
+      quidi<lb ed="#V" n="52" break="no"/>tatiua.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1506">
+      ¶ Ad 4m. quod cum talis quiditas dicatur creatia eo quod 
+      <lb ed="#V" n="53"/>apta nata creari: et istud non habet esse in potentia: 
+      alioquin<lb ed="#V" n="54" break="no"/>esset in potentia ad potentiam.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1513">
+      ¶ Ideo non dicitur in potentia creatura 
+      <lb ed="#V" n="55"/>sicut nec ens: nec tamen in actu: sed vt abstrahit a potentia et actu 
+      <lb ed="#V" n="56"/>quia sub vtroque ei conuenit: sicut ratio entis 
+      <lb ed="#V" n="57"/>articulus est. si quiditates ta 
+      <lb ed="#V" n="58"/>Duodecimus lium creabilium in esse puro 
+      essen<lb ed="#V" n="59" break="no"/>tie: sunt in genere ordinate.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1526">
+      ¶ Dicunt autem aliqui quod non. quia 
+      <lb ed="#V" n="60"/>ens reale quod dicitur extra animam diuiditur in. x. praesta: ille autem 
+      <lb ed="#V" n="61"/>quiditates in tali esse vt patuit: non sunt entia realia 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e1533">
+               <lb ed="#V" n="62"/>¶ Sed illud stare non potest: tum quia nulla quiditas 
+      po<lb ed="#V" n="63" break="no"/>tes diffinitionem suam amittem per actum adnihilationis 
+      <lb ed="#V" n="64"/>in quo reducitur ad illud esse: tum quia nulla quiditas potest 
+      <lb ed="#V" n="65"/>eam acquirere: cum eadem sit diffinitio rose in hyeme et 
+      <lb ed="#V" n="66"/>estate: et diffinitio pluuie quando est serenum et nebulosum. 
+      <!--511.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>tum quia illud idem quod fuit adnihilatum: postea est 
+      crea<lb ed="#V" n="68" break="no"/>tum: et idem non potest esse homo et non homo. tum quia creatio 
+      <lb ed="#V" n="69"/>et adnihilatio sunt actus contingentes: et ideo non possunt 
+      va<lb ed="#V" n="70" break="no"/>riare necessarios ordines. quibus quaelibet res est in genere proprio¬ 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e1560">
+               <lb ed="#V" n="71"/>¶ Ideo dico quod eundem ordinem generum habent ille quidita 
+      <lb ed="#V" n="72"/>tes in potentia et in actu. quia ille habitudines partinent ad 
+      <lb ed="#V" n="73"/>primum modum dicendi per se. qui est inuariabilis et necessarius 
+      sim<lb ed="#V" n="74" break="no"/>pliciter.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1571">
+      ¶ Et secundum hoc ponuntur hoc 4or conclusiones. Quarum prima est 
+      <lb ed="#V" n="75"/>quod in illo esse est coordinatio. x. praeditates. quia sicut diuisio enti 
+      <lb ed="#V" n="76"/>in anima et extra animam est necessaria: ita diuisio entis extra 
+      animam<lb ed="#V" n="77" break="no"/>in. 2. praeta: cum sit scientialis et pertinens ad metaphysicam: 
+      <lb ed="#V" n="78"/>et omnia scita sunt necessaria.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1582">
+      ¶ Secunda conclusio. quia in illo esse est 
+      sub<lb ed="#V" n="79" break="no"/>ordinatio omnium generum subalternorum: quia per talem subor 
+      <lb ed="#V" n="80"/>dinationem causantur diffinitiones que: insunt necessario.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1589">
+      ¶ Ter 
+      <lb ed="#V" n="81"/>tia conclusio quod in illo esse est ordinatio omnium specierum 
+      specialissima<lb ed="#V" n="82" break="no"/>rum: quia secundum ordinationem diffinitionum est ordo 
+      diffini<lb ed="#V" n="83" break="no"/>torum et ipse species specialissime sunt proprie difficultates.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1598">
+      ¶ 4a 
+      <lb ed="#V" n="84"/>conclusio quod in illo esse est distinctio omnium indiuitatm: quia idem 
+      <lb ed="#V" n="85"/>numero quod fuit producibile est nunc productum: vt patuit: et 
+      <lb ed="#V" n="86"/>sic habet eadem heceytatem per quam distinguitur. numero ab 
+      <lb ed="#V" n="87"/>omni alio indiuiduo.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1609">
+      ¶ Sed oritur difficultas. quia cum illa omnia 
+      <lb ed="#V" n="88"/>ponantur pertinere ad ens extra animam: omnia videntur esse 
+      rea<lb ed="#V" n="89" break="no"/>lia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1617">
+      ¶ Et dicitur quod sunt realia largo modo: pro eo quod 
+      <lb ed="#V" n="90"/>sunt nata ad realitatem habendam.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1622">
+      ¶ Secunda difficultas quia 
+      <lb ed="#V" n="91"/>dicunt aliqui quod illa necessitas ordinis que posita est: 
+      <lb ed="#V" n="92"/>non est talis que nullos possit auferri: sed talis quod positis 
+      <lb ed="#V" n="93"/>terminis inexistentia necessario ponitur.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1631">
+      ¶ Dicitur autem 
+      <lb ed="#V" n="94"/>quod illud stare non potest: quia tunc scientialis certitudo 
+      <lb ed="#V" n="95"/>non esset ab: sed conditionalis: si existeret: et tunc in hye 
+      <lb ed="#V" n="96"/>me nulla posset esse scientia de rosa. 
+      <lb ed="#V" n="97"/>articulus est. que sunt 
+      il<lb ed="#V" n="98" break="no"/>Tertiusdecimus la praesa que conueniunt istis 
+      <lb ed="#V" n="99"/>quiditatibus in tali esse.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1647">
+      ¶ Dicitur autem quod 
+      quiditati<lb ed="#V" n="100" break="no"/>bus in tali esse conueniunt praesta per se: quia illa insunt ex 
+      <lb ed="#V" n="101"/>rationibus formalibus subiectorum: et ideo cum ibi gene 
+      <lb ed="#V" n="102"/>habeant easdem rationes formales: illud in actu habent 
+      <lb ed="#V" n="103"/>eadem per se praesta.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1658">
+      ¶ Et secundum hoc ponuntur hic quatuor 
+      con<lb ed="#V" n="104" break="no"/>clusiones. Quarum prima est. quod in tali esse conueniunt 
+      <lb ed="#V" n="105"/>omnia praesta de priuo dicendi per se: quia omnia talia sunt difficultas 
+      <lb ed="#V" n="106"/>nitiua: et vbi eadem diffinitio ibi sunt eadem diffinitiua. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e1667">
+               <lb ed="#V" n="107"/>¶ Secunda conclusio quod in tali esse conueniunt omnia praeta de mo 
+      <lb ed="#V" n="108"/>do 2o: quia secundus modus statim sequitur primum: et ideo per 
+      <lb ed="#V" n="109"/>ipsum quicquid est demonstrabile de aliqua quidita 
+      <lb ed="#V" n="110"/>te ante. idem est demonstrabile de ea ente in actu.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1679">
+      ¶ Tertia 
+      <lb ed="#V" n="111"/>conclusio. quod in tali esse conueniunt praesta de 3o: qui dicitur 
+      <lb ed="#V" n="112"/>solitarius: quia cum diffinitur vel describitur 
+      substan<lb ed="#V" n="113" break="no"/>tia. dicitur quod est ens per se scilibet 3o. quia primo modo 
+      <lb ed="#V" n="114"/>ita conuenit accidenti: et in secundo modo nulli: et ideo 
+      di<lb ed="#V" n="115" break="no"/>citur ens per se: quia scilicet per se solitarie esse natum tamquam 
+      <lb ed="#V" n="116"/>independens ab alio: et omnes diffinitiones et 
+      descri<lb ed="#V" n="117" break="no"/>ptiones: secundum premissa conueniunt in potentia 
+      obiecti<lb ed="#V" n="118" break="no"/>ua.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1699">
+      ¶ Quarta conclusio. quia in tali esse conueniunt 
+      <lb ed="#V" n="119"/>praesta de quarto modo: quia illud quod conuenit alicui 
+      <lb ed="#V" n="120"/>cum reduplitume conuenit enim vbicumque saluatur eius forma 
+      <lb ed="#V" n="121"/>lis ratio: cum reduplicatio sit nota rationis formalis: 
+      <lb ed="#V" n="122"/>formalis autem talium ratio inuenitur tota in hoc est 
+      <lb ed="#V" n="123"/>se.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1712">
+      ¶ Sed oritur difficul. si est ibi predicatio inferioris 
+      <lb ed="#V" n="124"/>de superiori: cum illa non sit per se.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1717">
+      ¶ Dicitur autem quod 
+      <lb ed="#V" n="125"/>sic. quia illa sequitur ad illam que est per se: vt insta: omnis 
+      <lb ed="#V" n="126"/>homo est animal. per accidens conuertitur in istam: 
+      <lb ed="#V" n="127"/>quoddam animal est homo: et ista est necessaria.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1726">
+      ¶ Secunda 
+      <lb ed="#V" n="128"/>difficultas. si ibi genus predicatur de differentia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1731">
+      ¶ Dicitur 
+      <lb ed="#V" n="129"/>autem quod sic. quia licet ista non sit directe per se: tamen 
+      <lb ed="#V" n="130"/>reducitur ad primum modum perseitatis: et iterum ista 
+      <lb ed="#V" n="131"/>propositio est necessaria: sensibile est animal.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1741">
+      ¶ Tertia 
+      <lb ed="#V" n="132"/>difficul. quia praeta de tertio modo videntur concernere 
+      <!--512.xml-->
+      <pb ed="#V" n="254-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>existentiam: cum supposita sint per se: 3o perseitatis: et 
+      sup<lb ed="#V" n="2" break="no"/>positum sit naturae intellectualis et incommunicabilis 
+      subsi<lb ed="#V" n="3" break="no"/>stentia: et subsistentia praesupponat existentiam.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1759">
+      ¶ Dicitur autem 
+      <lb ed="#V" n="4"/>quod quantum spectat ad illam perseitatem suppotitism: non videre 
+      <lb ed="#V" n="5"/>tur inesse in tali esse: et signum huius est: quia ibi naturae quantumcumque 
+      <lb ed="#V" n="6"/>perfecte non possunt agere: et actiones vulgo dicuntur 
+      <lb ed="#V" n="7"/>esse suppostietiam. non tamen sunt nisi existentium. 
+      <lb ed="#V" n="8"/>articulus est. que sunt 
+      <lb ed="#V" n="9"/>Quartusdecimus ila praediua que istis 
+      quidi<lb ed="#V" n="10" break="no"/>tatibus in tali esse repugnant.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1777">
+      ¶ Dicitur autem quod sicut eis 
+      <lb ed="#V" n="11"/>conueniunt praedita per se: ita eis repugnant in tali esse praedita per 
+      <lb ed="#V" n="12"/>accidens: quia talia sunt continis: sicut ista necessaria: et nullum 
+      con<lb ed="#V" n="13" break="no"/>tingens est ante creationem omnem: et ideo licet homo in 
+      poten<lb ed="#V" n="14" break="no"/>tia sit animal et risibilis: non tamen albus vel iustus: quia talia 
+      <lb ed="#V" n="15"/>sibi insunt ab aliquo agente: et in tali esse quiditates: vt 
+      pa<lb ed="#V" n="16" break="no"/>tuit. non producuntur.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1793">
+      ¶ Intelligendum tamen est quod 4or 
+      modi<lb ed="#V" n="17" break="no"/>preditum singuliter repugnant istis quiditatibus in tali esse. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e1798">
+               <lb ed="#V" n="18"/>¶ Primo quidem omnia praedita que partinent ad actionem et pas 
+      <lb ed="#V" n="19"/>sionem: quia actualis existentia: licet non sit ratio agendi vel 
+      pa<lb ed="#V" n="20" break="no"/>tiendi: sicut indiuidualis proprietas: est tamen necessaria 
+      conditio<lb ed="#V" n="21" break="no"/>agentis vel patientis: et ideo cum illa sint ab actuali 
+      existen<lb ed="#V" n="22" break="no"/>tia sequestrata omnia talia praesta eis repugnant.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1811">
+      ¶ Secundo. omnia 
+      <lb ed="#V" n="23"/>que pertinent ad motum et mutationem: quia motus et 
+      mu<lb ed="#V" n="24" break="no"/>tatio non siunt sine mutua actione et passione.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1819">
+      ¶ Et 
+      com<lb ed="#V" n="25" break="no"/>firmatur. quia illud esse essentie: cum non sit contingens: vt 
+      pa<lb ed="#V" n="26" break="no"/>tuit: non est variabile: sine qua varietate motus et muta 
+      <lb ed="#V" n="27"/>tio intelligi non conueniunt.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1828">
+      ¶ Tertio. omnia praeditat que 
+      parti<lb ed="#V" n="28" break="no"/>etiam ad situm et locationem: quia alicubi esse praesupponit esse: et 
+      <lb ed="#V" n="29"/>ideo que non existunt locari non possunt: et ideo cum 
+      quaeri<lb ed="#V" n="30" break="no"/>tur vbi sunt ille quiditates: cum ponuntur in esse 
+      essen<lb ed="#V" n="31" break="no"/>tie. videtur quod nusquam: quia facilius potest intelligi quod 
+      praescin<lb ed="#V" n="32" break="no"/>dantur ab omni locali praesentia: quam ab actuali existentia: que 
+      <lb ed="#V" n="33"/>est magis intrinseca.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1844">
+      ¶ Quarto. omnia preditate que partinent 
+      <lb ed="#V" n="34"/>ad tempus et durationem: quia quiquid est abstrahit ab 
+      om<lb ed="#V" n="35" break="no"/>ni duratione: et istud est mere quiditatiuum: ac per hoc 
+      <lb ed="#V" n="36"/>ab omni duratione. sicut ab omni locatione esse videtur 
+      <lb ed="#V" n="37"/>abstractum et praecisum.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1855">
+      ¶ Sed oritur difficul. quia cum 
+      <lb ed="#V" n="38"/>omne quod procedit in actu praefuerit in potentia: sicut 
+      <lb ed="#V" n="39"/>est dare hominem album in actu: ita videtur quod sit dare 
+      <lb ed="#V" n="40"/>hominem album in potentia: et ita de aliis 
+      predicamen<lb ed="#V" n="41" break="no"/>tis que sunt dicta per accidens.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1866">
+      ¶ Dicitur autem quod 
+      ho<lb ed="#V" n="42" break="no"/>mine n esse album in potentia potest intelligi dupliciter: aus 
+      <lb ed="#V" n="43"/>quia quiditas hominis in illo esse potentiali habeat in se 
+      <lb ed="#V" n="44"/>albedinem: sicut habet risibilitatem: et istud negatur: quia 
+      <lb ed="#V" n="45"/>tunc illa esset necessaria: homo est albus formaliter: aut quod sit 
+      <lb ed="#V" n="46"/>albus in potentia. quia ens in tali potentia habet aptintem 
+      <lb ed="#V" n="47"/>ad habendam albem post existentiam: et sic conceditur.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1882">
+      ¶ Se 
+      <lb ed="#V" n="48"/>cunda. difficultas. quia cum dicitur: homo iustus in actu: totum 
+      <lb ed="#V" n="49"/>hoc inuenitur in potentia praeter actum: quia in potentia est 
+      ho<lb ed="#V" n="50" break="no"/>mo et iusticia: et inherentia iusticie ad hominem: et plus non 
+      <lb ed="#V" n="51"/>dicit hominem esse iustum. et sic iustum: et in potentia obie 
+      <lb ed="#V" n="52"/>ctiua: et in tali esse. Dicitur autem. quod quiditas iusticie in 
+      comu<lb ed="#V" n="53" break="no"/>muni videtur intelligi in potentia: cum de ipsa sit scientia: tamen 
+      <lb ed="#V" n="54"/>quod hic homo sit iustus determinate non videtur nisi 
+      si<lb ed="#V" n="55" break="no"/>mul sit iustus et iniustus: cum vtrumque sit in potentia. 
+      <lb ed="#V" n="56"/>articulus est: si omnes 
+      qui<lb ed="#V" n="57" break="no"/>Quintusdecimus ditates entium citra primum 
+      <lb ed="#V" n="58"/>habent esse in illo esse essentie pure.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1909">
+      ¶ Dicitur autem. 
+      <lb ed="#V" n="59"/>quod quedam sunt quiditates que abstrahunt ab 
+      actua<lb ed="#V" n="60" break="no"/>li existentia sicut indifferentes ad esse et non esse: vt est 
+      <lb ed="#V" n="61"/>quiditas hominis vel angeli que secundum se nullam 
+      con<lb ed="#V" n="62" break="no"/>cernunt existentiam: et tales quiditates omnes habent 
+      <lb ed="#V" n="63"/>esse in hoc esse puro: quia sublata existentia remanet 
+      <lb ed="#V" n="64"/>quiditas que abstrahit ab illa: alie sunt quiditates 
+      <lb ed="#V" n="65"/>que concernunt actualem existentiam: sicut 
+      determin<lb ed="#V" n="66" break="no"/>nate ad esse: vt est quiditas actionis vel passionis: quia 
+      <!--512.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>existentia est conditio ad talia requisita: et ille non videntur 
+      <lb ed="#V" n="68"/>poni in tali puro esse: quia concernunt actum existendi a quo ta 
+      <lb ed="#V" n="69"/>le esse praescindit.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1940">
+      ¶ Intellium tamen est quod inter ceteras sunt 
+      qui<lb ed="#V" n="70" break="no"/>ditates octo.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1945">
+      ¶ Prima dicitur euum. Secunda tempus: quia in tali 
+      <lb ed="#V" n="71"/>esse: vt patuit: nulla est duratio. 3a motus. 4a duratio. quia 
+      <lb ed="#V" n="72"/>vt patuit: in tali esse nulla contingit variatio. 5a creatio. ea 
+      <lb ed="#V" n="73"/>conseruatio: quia in tali esse causalitas effectiua: vt patuit: 
+      <lb ed="#V" n="74"/>locum non habet: et ista partinet ad deum inquantum est es 
+      <lb ed="#V" n="75"/>ficiens. 5a est generatio actiua. 8a passiua: quia illa non sunt nisi 
+      <lb ed="#V" n="76"/>existentium: et illa que concernunt existentiam non sunt in tali 
+      <lb ed="#V" n="77"/>esse secundum praemissa.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e1963">
+      ¶ Sed oritur difficultas. quia ille quiditates sunt 
+      <lb ed="#V" n="78"/>entia non prohibita: sicut alie quiditates. Et ideo 
+      viden<lb ed="#V" n="79" break="no"/>tur illa habere esse in potentia obiectiua. Dicitur autem quod vtraque 
+      <lb ed="#V" n="80"/>sunt entia non prohibita: tamen aliter: quia alie sicut illa quae 
+      nol<lb ed="#V" n="81" break="no"/>existunt sunt nata deduci ad existentiam. Iste vero sicut illa 
+      <lb ed="#V" n="82"/>ad que ille deducuntur: quia productio non est nata produci: 
+      <lb ed="#V" n="83"/>sed ad ipsam productione producibile est natum deduci. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e1979">
+               <lb ed="#V" n="84"/>¶ Secunda di. quia ille quiditates habent rationes 
+      diffiniti<lb ed="#V" n="85" break="no"/>uas dictas de eis necessario: et in primo. sicut alie cum sint 
+      <lb ed="#V" n="86"/>ta bene in genere: et omnia talia sunt vere inesse essentie: secundum 
+      pre<lb ed="#V" n="87" break="no"/>missa. Dicitur autem. quod non videtur posse negari quin 
+      <lb ed="#V" n="88"/>ille quiditates habeant esse in tali esse secundum earum rationes communes 
+      <lb ed="#V" n="89"/>secundum quas formatur de ipsis scientia. non tamen secundum rationes 
+      pro<lb ed="#V" n="90" break="no"/>prias et singulares modo iam dicto. 
+      <lb ed="#V" n="91"/>articulus est: si omnes 
+      modi<lb ed="#V" n="92" break="no"/>Sextusdecimus quiditatum proprie entium 
+      <lb ed="#V" n="93"/>in potentia illa et puro esse essentie sunt cum eis in tali esse. 
+      <lb ed="#V" n="94"/>Et quidam dicunt quod sic. quia ibi non variant rationem 
+      forma<lb ed="#V" n="95" break="no"/>lem quiditati aduenientes: et secundum hoc ponuntur in proposite 
+      <lb ed="#V" n="96"/>4or modi. quorum primum est: quantitas virtutis: secundum quam fit 
+      <lb ed="#V" n="97"/>intensio et remissio: quia illa: non variant alicuius rationem 
+      <lb ed="#V" n="98"/>quiditatiuam formalem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2014">
+      ¶ Secundus modus est actualis 
+      <lb ed="#V" n="99"/>existentia: quia siue actu existat res siue in potentia: 
+      eademi<lb ed="#V" n="100" break="no"/>omnino est ratio diffinitiua.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2022">
+      ¶ Tertius modus est 
+      contin<lb ed="#V" n="101" break="no"/>gentia: quia eiusdem rationis ponuntur corpora supra celestia 
+      <lb ed="#V" n="102"/>siue sint contingentia: sicut ponunt theologi: siue foret necessaria: 
+      <lb ed="#V" n="103"/>sicut posuerunt philosophi: et de intelligentiis id em.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2031">
+      ¶ 
+      Quar<lb ed="#V" n="104" break="no"/>tus modus est echeytas: quia indiuiduales proprietates  
+      <lb ed="#V" n="105"/>non variant rationem formalem indiuinduorum sub vna specie 
+      <lb ed="#V" n="106"/>specificum. Et secundum illos 4or modos ponuntur 4or conclusiones.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2040">
+      ¶ Qua 
+      <lb ed="#V" n="107"/>tum prima est. quod modus quantitatis virtutis est in 
+      ta<lb ed="#V" n="108" break="no"/>li puro esse essentie: quia ille modus conuenit quiditatibus per 
+      <lb ed="#V" n="109"/>se in 2o: cum ex ratione diffinitiua hominis sit 
+      demonstra<lb ed="#V" n="110" break="no"/>bile quod homo sit perfectior equo: et ille excessus 
+      perfectio<lb ed="#V" n="111" break="no"/>nis est secundum quantitatem virtutis.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2053">
+      ¶ Secunda conclusio quod actua 
+      <lb ed="#V" n="112"/>lis existentia non est in tali esse: quia in quocumque est 
+      actua<lb ed="#V" n="113" break="no"/>lis existentia illud est actualiter existens. sicut in quo est 
+      en<lb ed="#V" n="114" break="no"/>titas illud est ens: sed talia non sunt actualiter existentia 
+      <lb ed="#V" n="115"/>secundum omnes ipsa ponentes: ergo ibi non est existentia 
+      actua<lb ed="#V" n="116" break="no"/>lis. Dicunt autem. quod illa assumpta est vera vbi est talis 
+      <lb ed="#V" n="117"/>existentia cum modo actualitatis. et tunc arguitur de 
+      <lb ed="#V" n="118"/>illo modo: vbi est actualis existentia cum tali modo 
+      il<lb ed="#V" n="119" break="no"/>lud est actu existens: et si dicatur quod ibi non est cum tali: modo 
+      <lb ed="#V" n="120"/>tunc hetur vnus modus qui non est in tali esse: illum voca 
+      <lb ed="#V" n="121"/>mus existentiam actualem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2077">
+      ¶ Tertia conclusio quod contingentia non 
+      <lb ed="#V" n="122"/>est in tali esse. quia vbicumque est contingentia ibi est possitiaes ad 
+      <lb ed="#V" n="123"/>aliter se habendum: cum illa sit diffinitio continitus. In tali autem 
+      <lb ed="#V" n="124"/>esse non est possibilitas ad aliter se habendum: cum ibi omnia 
+      <lb ed="#V" n="125"/>sint inuariabilia: quicquid enim est possibile necessario est 
+      <lb ed="#V" n="126"/>possibile.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2090">
+      ¶ Quarta conclusio quod hechevtas inuenitur in 
+      ta<lb ed="#V" n="127" break="no"/>li esse: quia illud idem numero quod est primo producibile po 
+      <lb ed="#V" n="128"/>stea fit productum et econuerso: identitas autem numeralis non 
+      <lb ed="#V" n="129"/>est nisi cum in vtroque extremo est eadem hecheptas. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e2100">
+               <lb ed="#V" n="130"/>¶ Sed oritur di. quia actualis existentia: sicut a deo 
+      crea<lb ed="#V" n="131" break="no"/>tur ex tempore: ita fuit creabilis ab eterno. sicut ille 
+      quidita<lb ed="#V" n="132" break="no"/>tes: et ita creabilitas est declarans esse existentie. Dicitur 
+      <!--513.xml-->
+      <pb ed="#V" n="254-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>autem quod actualis existentia non est in illo esse essentie substantiue: sed 
+      <lb ed="#V" n="2"/>tantum terminatiue: quia ipsum est aliquoo terminus illius 
+      po<lb ed="#V" n="3" break="no"/>tentie obiectiue: et sic negari non potest: quia creatio ipsam 
+      re<lb ed="#V" n="4" break="no"/>spicit non sicut illud quod ad esse deducitur. sed sicut ad quod premo crea 
+      <lb ed="#V" n="5"/>bile deducitur per creationem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2126">
+      ¶ Secunda di. quia de 
+      contingen<lb ed="#V" n="6" break="no"/>tia est diuina intellectio: et vera nostra scientia: que declarant ol 
+      <lb ed="#V" n="7"/>iectum esse in tali esse: secundum praemissa.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2133">
+      ¶ Dicitur autem quod non potest 
+      no<lb ed="#V" n="8" break="no"/>gari quin talis motus sit in tali esse: non tamen formaliter. Sed quia 
+      <lb ed="#V" n="9"/>talis potentia obiectiua aspicit pro obiecto contingentiam. sicut 
+      existen<lb ed="#V" n="10" break="no"/>tiam actualem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2142">
+      ¶ Sed remanet dubium que fuit necessaritas 
+      ne<lb ed="#V" n="11" break="no"/>gandi aliquem modum: aut quiditatem poni in potentiaob 
+      <lb ed="#V" n="12"/>iectiua. Sicut ibi sunt ipse quiditates.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2149">
+      ¶ Dicitur quod necessaritas 
+      <lb ed="#V" n="13"/>primi principii complexi: quia eidem et secundum idem non possunt competere 
+      <lb ed="#V" n="14"/>condictionis extrema. multa enim extrema contradictionis 
+      con<lb ed="#V" n="15" break="no"/>petunt eidem quiditati in potentia: et in actu: vt esse mutabilem 
+      <lb ed="#V" n="16"/>et immutabile. Et ideo oportet quod secundum aliud et aliud: quod non 
+      <lb ed="#V" n="17"/>esset si aliquid non haberet hoc quod non habet ibi. 
+      <lb ed="#V" n="18"/>articulus est: si ille est 
+      <lb ed="#V" n="19"/>Decimusseptimus ditates creabilium 
+      i<lb ed="#V" n="20" break="no"/>tali esse sunt eterne.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2169">
+      ¶ Dicunt autem aliqui quod sic: quia deus est 
+      <lb ed="#V" n="21"/>exemplar omnium ab eterno. et ideo oportet. vt habeant 
+      exempla<lb ed="#V" n="22" break="no"/>tum ab eterno: et quiditates in tali esse: vt patuit. sunt ex quo 
+      <lb ed="#V" n="23"/>plate. et sic videntur eterne.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2179">
+      ¶ Sed contra istud arguiter 4r 
+      <lb ed="#V" n="24"/>Primo. quia solus deus est eternus sicut omnipotens. vt 
+      di<lb ed="#V" n="25" break="no"/>citur in orone neemine 2o machabis. primo cauo. Sed ille quidita. 
+      <lb ed="#V" n="26"/>tes in tali esse. vt patuit non sunt deus. ergo non sunt 
+      eter<lb ed="#V" n="27" break="no"/>ne.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2190">
+      ¶ Secundo. quia duratio omnis concernit existentiam: cum res non 
+      <lb ed="#V" n="28"/>dicantur durantes nisi dum sunt existentes. Sed quiditates in ta 
+      <lb ed="#V" n="29"/>li esse non sunt existentes: secundum omnes. ergo non sunt durantes 
+      <lb ed="#V" n="30"/>nec per consequens eterne cum eternitas sit duratio quedam 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e2199">
+               <lb ed="#V" n="31"/>¶ Tertio. quia duratio et conseruatio videntur esse 
+      conuertibi<lb ed="#V" n="32" break="no"/>lia in creaturis: cum tandiu dicantur durare quandiu conseruat 
+      <lb ed="#V" n="33"/>tur. et econvtrs. Sed in esse puro essentie non dicuntur conseruari. si 
+      <lb ed="#V" n="34"/>cut nec creari: cum creatio sit conseruatione prior. ergo tun 
+      <lb ed="#V" n="35"/>non durant.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2212">
+      ¶ Quarto. quia destructio opponitur duratio 
+      <lb ed="#V" n="36"/>ni. nulla enim res dicitur durare cum destruitur. vt patet in quolibet 
+      en<lb ed="#V" n="37" break="no"/>te. sed post totalem annihilationem res dicitur manere in esse est 
+      <lb ed="#V" n="38"/>sentie. sicut ante omnem creationem. ergo tunc non durat. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e2221">
+               <lb ed="#V" n="39"/>¶ Ideo dico quod quiditates creatum in tali esse essentie non sunt 
+      <lb ed="#V" n="40"/>eterne: quia quod quid est abstrahit ab omni duratione. sicut ali 
+      <lb ed="#V" n="41"/>omni existentia: istud autem esse est esse quod quid est: quia dicitur esse 
+      quidi<lb ed="#V" n="42" break="no"/>tatiuum. et esse essentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2232">
+      ¶ Sed oritur di. quia ab eterno fuit 
+      <lb ed="#V" n="43"/>causa eorum deus: vt patuit: per modum forme exemplaris 
+      <lb ed="#V" n="44"/>et finis: et causa ab eterno requrit effectum ab eterno.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2240">
+      ¶ Dici 
+      <lb ed="#V" n="45"/>tur autem. quod licet causa requrat effectum non tamen in eodem esse 
+      <lb ed="#V" n="46"/>sicut causa necessaria non requrit effectum necessarium. nec causa prima 
+      <lb ed="#V" n="47"/>existens effectum formalem aut finalem sic existentem: et ita 
+      ne<lb ed="#V" n="48" break="no"/>durantem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2251">
+      ¶ Secunda difficultas. quia omne quod est: aut est fcantum: aut ete 
+      <lb ed="#V" n="49"/>num: secundum diuisionem antiquam philosophorum. Et ideo cum ille quidi 
+      <lb ed="#V" n="50"/>tates in tali esse non sint facte: vt patuit. oportet quod 
+      sin<lb ed="#V" n="51" break="no"/>eterne.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2260">
+      ¶ Dicitur autem quod ista diuisio philosophorum fuit exstentium 
+      <lb ed="#V" n="52"/>tantum: illa autem non sunt existentia.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2265">
+      ¶ Sed remanet dubium 
+      <lb ed="#V" n="53"/>si est inconuenientius ponere mundum eternum in esse 
+      essen<lb ed="#V" n="54" break="no"/>tie. sicut posuit ille qui dicitur doctor magnus: quam 
+      ipsun<lb ed="#V" n="55" break="no"/>eternum inesse existentie. sicut posuit philosophus.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2274">
+      ¶ Dicebat autem 
+      <lb ed="#V" n="56"/>quidam doctor emulus prioris: quod sic. quia ille ponit eter 
+      <lb ed="#V" n="57"/>nitatem non solum quantum ad species. immo etiam quo ad 
+      indiui<lb ed="#V" n="58" break="no"/>dua. Aristo. autem non nisi quo ad species generatium et 
+      cor<lb ed="#V" n="59" break="no"/>ruptium.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2285">
+      ¶ Istud tamen non valet: quia non currit ceteris 
+      pa<lb ed="#V" n="60" break="no"/>ribus. vnde plus est ponere pauca in actu quam multa in 
+      <lb ed="#V" n="61"/>potentia: cum infinita sint in potentia: et finita in actu: et ideo 
+      <lb ed="#V" n="62"/>plus est ponere species in actu eternas: quam species et 
+      in<lb ed="#V" n="63" break="no"/>diuidua in potentia: sicut posuit ille 
+      doctor<lb ed="#V" n="64" break="no"/>articulus est: si ille quidi 
+      <lb ed="#V" n="65"/>Decimusoctauus tates in tali ese sunt 
+      nece<lb ed="#V" n="66" break="no"/>sarie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2304">
+      ¶ Dicunt autem aliquin quod sic. quia quicquid praeuenit omnem 
+      <!--513.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>creationem: vt sic. est necessarium: cum ipsa fit pria contingens 
+      opera<lb ed="#V" n="68" break="no"/>tio. Iste autem quiditates in tali esse praeueniunt omnem: vt 
+      pa<lb ed="#V" n="69" break="no"/>tuit: creationem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2317">
+      ¶ Sed contra illud arguitur 4r. Primo. quia 
+      <lb ed="#V" n="70"/>solus deus est necessare esse: cum dicat apstulus. prima ad Thymo. 
+      <lb ed="#V" n="71"/>tuomo c. quod ipse solus habet immorilem. et accipit immortalita. 
+      <lb ed="#V" n="72"/>tem pro vera necessaritate et incommutabilitate: secundum beatu 
+      <lb ed="#V" n="73"/>Augustinum.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2328">
+      ¶ Secundo. quia illud quod est necessare esse: non potest a causa 
+      <lb ed="#V" n="74"/>continis operante acciente esse. Iste autem quiditates accipiunt 
+      <lb ed="#V" n="75"/>esse existentie. quod est esse simpliciter: per creationem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2335">
+      ¶ Tertio. 
+      <lb ed="#V" n="76"/>quia nullum necessare esse potest destrui. ista vero possunt 
+      de<lb ed="#V" n="77" break="no"/>strui. quia dum existent possunt secundum fidem per diuinam 
+      poten<lb ed="#V" n="78" break="no"/>tiam annihilari. ergo non sunt vere necessare esse.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2344">
+      ¶ Quarto. 
+      <lb ed="#V" n="79"/>quia ens diuiditur per contingens et necessarium: sicut per 
+      fini<lb ed="#V" n="80" break="no"/>tum et infinitum: si autem omnes quiditates essent in tali esse 
+      ne<lb ed="#V" n="81" break="no"/>cesse: cum illud non possunt amittem: tunc omne ens esset 
+      nece<lb ed="#V" n="82" break="no"/>sarium.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2355">
+      ¶ Ideo dico. quod sicut ille quiditates 
+      abstrah<lb ed="#V" n="83" break="no"/>ab omni duratione in tali esse: ita ab omni contingentia et necessar 
+      <lb ed="#V" n="84"/>tate: quia non habet maiorem commixtionem modus contingenti 
+      <lb ed="#V" n="85"/>ad actualem existentiam quam modus necessaritatis: et tamen constat quod 
+      <lb ed="#V" n="86"/>contingentia. ita concernit actualem existentiam: vt nullum in 
+      <lb ed="#V" n="87"/>sit esse contingens nisi sit actualiter existens.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2369">
+      ¶ Sed contra hanc 
+      <lb ed="#V" n="88"/>smninam instatur 4r. Primo. quia illud quod est impossibile tet 
+      <lb ed="#V" n="89"/>esse est necessare esse: cum illa equipolleant: ille autem 
+      quidita<lb ed="#V" n="90" break="no"/>tes in tali esse sunt impossibiles non esse. alioquin possent tamen 
+      re<lb ed="#V" n="91" break="no"/>moueri. ergo sunt ibi simpliciter necessare esse.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2380">
+      ¶ Secundo. quia 
+      il<lb ed="#V" n="92" break="no"/>lud quod ita est quod nulloo per aliquam potentiam 
+      destru<lb ed="#V" n="93" break="no"/>potest: videtur esse necessarium: secundum praemissa. Iste autem 
+      quidita<lb ed="#V" n="94" break="no"/>tes in tali esse nullatenus destrui possunt: alioquin si 
+      de<lb ed="#V" n="95" break="no"/>posset faceme angelum non creabilem posset seipsum priua 
+      <lb ed="#V" n="96"/>re potentia creandi.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2393">
+      ¶ Tertio. quia omne ens: aut est 
+      contin<lb ed="#V" n="97" break="no"/>gens: aut necessarium: cum illa videantur immedlium. Et constat quod in 
+      <lb ed="#V" n="98"/>tali esse non sunt contingentia. ergo ibi videntur necessaria.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2400">
+      ¶ Quar 
+      <lb ed="#V" n="99"/>to. quia omnis scientia est de necessarus. secundum documenta philosophica: si 
+      <lb ed="#V" n="100"/>cut de impossibilibus aliter se habere: scientia autem est de quiditatibus. 
+      <lb ed="#V" n="101"/>vt patuit in illo esse.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2409">
+      ¶ Ad primum dicitur: quod acciss largo modo 
+      <lb ed="#V" n="102"/>necessarium pro eo quod impossibile est aliter se habere: non potest hoc 
+      <lb ed="#V" n="103"/>negari necessaritas: tamen proprie accepta concernit existentiam: et tunc 
+      <lb ed="#V" n="104"/>diuiditur contra impossibile non esse: secundum existentiam.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2418">
+      ¶ Ad 2m 
+      <lb ed="#V" n="105"/>quod illud est necessarium quod est indestrulis in existentia. sicut supita. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e2424">
+               <lb ed="#V" n="106"/>¶ Ad 3m. quod omne existens: aut est contingens: aut necessarium: sicut 
+      <lb ed="#V" n="107"/>eternum vel temporale: cum quiditas secundum se abstrahat ab 
+      <lb ed="#V" n="108"/>vtroque.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2433">
+      ¶ Ad 4m. quod ibi accipiuntur necessaria largo modo 
+      <lb ed="#V" n="109"/>pro impossibilibus aliter se habere in quocumque esse.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2438">
+      ¶ Sed oritur 
+      <lb ed="#V" n="110"/>di. quia propositiones formate de quiditatibus in tali esse 
+      dicun<lb ed="#V" n="111" break="no"/>tur necessare: cum sint in naturali materia: et necessaria. Istud non esset: 
+      ni<lb ed="#V" n="112" break="no"/>si iste quiditates foret necessarie: que sunt mteam talium propositionum. 
+      </p>
+            <p xml:id="FrMQ88-e11495-d1e2447">
+               <lb ed="#V" n="113"/>¶ Dicitur quod sunt necessare non acciius necessaritatem pro modo 
+      po<lb ed="#V" n="114" break="no"/>sitiuo necessaritatis: sed pro sola carentia contingentie. 
+      <lb ed="#V" n="115"/>articulus est. si quiditates 
+      <lb ed="#V" n="116"/>Decimusonus rerum creabilium sunt de se 
+      <lb ed="#V" n="117"/>indeterminate ad esse: et non esse modo existentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2460">
+      ¶ Dicunt autem 
+      <lb ed="#V" n="118"/>aliquin. quod immo sunt determinate de se ad non esse. quia de se 
+      <lb ed="#V" n="119"/>non habent esse. cum ab alio esse habeant. Sed illud stare non 
+      <lb ed="#V" n="120"/>potest: tum. quia possunt esse et oppositum eius quod inest per se inesse 
+      <lb ed="#V" n="121"/>non potest. tum. quia per accidens conuenit eis non esse: accidit enim quod 
+      <lb ed="#V" n="122"/>ditati rose non existere. Tum. quia ipsa sunt contingentianon 
+      <lb ed="#V" n="123"/>esse: et contingens non inest de se. Tum. quia illa que sunt 
+      deter<lb ed="#V" n="124" break="no"/>minata ad non esse: dicuntur entia prohihita.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2478">
+      ¶ Ideo dicunmtali 
+      <lb ed="#V" n="125"/>quod ille quiditates sunt deterinate ad tale esse: quia taleesse est 
+      <lb ed="#V" n="126"/>eis intrinsecum: et in re penitus indistinctum. Et istud sta 
+      <lb ed="#V" n="127"/>re non potest. Tum. quia quiditas creata potest non esse: et illud 
+      <lb ed="#V" n="128"/>quod potest habere vnum oppositum non est deterinatum ad suum 
+      <lb ed="#V" n="129"/>contrarium. Tum. quia cullibet creature accidit existem. sicut acci 
+      <lb ed="#V" n="130"/>dit et creari. Tum. quia omnis creatura est contingens existem. et 
+      <lb ed="#V" n="131"/>ad contingens praedicatum non est talis determinatio. Tum. quia 
+      <lb ed="#V" n="132"/>illud quod est determinatum simpliciter ad aliquid: necessario est sub¬ 
+      <!--514.xml-->
+      <pb ed="#V" n="255-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>illo: alioquin non est sic determinatum. sicut haec loquimur: 
+      nul<lb ed="#V" n="2" break="no"/>la autem quiditas creata est necessare esse.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2510">
+      ¶ Et confirmatur. quia propositi 
+      <lb ed="#V" n="3"/>in qua passio de subiecto dicitur est necessaria. quia subiectum ad passio 
+      <lb ed="#V" n="4"/>nem est sic determinatum.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2517">
+      ¶ Ideo dico quod quiditates 
+      crea<lb ed="#V" n="5" break="no"/>bilium de se sunt indifferentes ad esse et non esse: cum possint 
+      <lb ed="#V" n="6"/>existem et non existem. quamuis de facto alterum extremorum insit 
+      <lb ed="#V" n="7"/>per accidens et contingenter.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2526">
+      ¶ Sed oritur di. quia illud quod 
+      conue<lb ed="#V" n="8" break="no"/>nit talibus quiditatibus: et non ab alio. videtur eis 
+      conueni<lb ed="#V" n="9" break="no"/>re de se: inesse autem essentie quarit eis non existem: et istud non habent 
+      <lb ed="#V" n="10"/>ab alio: cum deus non fit principium non essendi.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2535">
+      ¶ Dicitur autem. quod 
+      <lb ed="#V" n="11"/>lloo non est negandum quin conueniet eis eo modo quo 
+      priu<lb ed="#V" n="12" break="no"/>tio conuenire potest de se. quia non ab alio. tamen non per se. 
+      immo<lb ed="#V" n="13" break="no"/>per accuens. et contingenter.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2544">
+      ¶ Secunda di. quia illud quod 
+      conueni<lb ed="#V" n="14" break="no"/>alicui ab eterno vel saltem sine principio et ab alio: non dicitur 
+      <lb ed="#V" n="15"/>ei conuenire contingenter: cum non insit per actum contingentem 
+      <lb ed="#V" n="16"/>non esse autem istis quiditatibus conuenit sine principio istius non 
+      <lb ed="#V" n="17"/>esse: et non ab aliquo.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2555">
+      ¶ Dicitur autem quod illa assumpta 
+      re<lb ed="#V" n="18" break="no"/>gula habet veritatem in positiuis: et non in priuationibus 
+      <lb ed="#V" n="19"/>contingentium: que sunt eterne: cum ipsa contingentia non sunt 
+      <lb ed="#V" n="20"/>eterna: et ideo priuationes ipse sunt contingentes.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2565">
+      ¶ Ter 
+      <lb ed="#V" n="21"/>tia di. quia si priuationes iste sunt ab eterno id est sine principio 
+      con<lb ed="#V" n="22" break="no"/>tingentes: tunc ab eterno poterunt non esse cum omne contingens: 
+      <lb ed="#V" n="23"/>dum est contingens possit non esse: et suum non esse est positio 
+      <lb ed="#V" n="24"/>ctingentis sibi oppositi: cum remotio priuationis sit po 
+      <lb ed="#V" n="25"/>sitio positionis: et sic omne contingens potuit esse eternum.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2578">
+      ¶ Dicitut 
+      <lb ed="#V" n="26"/>quod illa deductio hoc videtur ostendere: et tunc eadem ratione 
+      <lb ed="#V" n="27"/>de omni contingente quantumcumque indiuito.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2585">
+      ¶ Quarta difficultas. quia 
+      <lb ed="#V" n="28"/>si per hoc tales quiditates sunt ad esse et non esse 
+      indiffe<lb ed="#V" n="29" break="no"/>rentes: quia possunt esse et non esse: eadem ratione actuales existentie: 
+      <lb ed="#V" n="30"/>cum possint existem et non existem.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2594">
+      ¶ Dicitur autem quod licet 
+      <lb ed="#V" n="31"/>alia ratio formalis que abstrahit ab existentia. sit 
+      indifi<lb ed="#V" n="32" break="no"/>ferens: tamen ipse modus proprius existentie non est 
+      indis<lb ed="#V" n="33" break="no"/>ferens: cum ipse contradictorie opponatur non existentie. Et 
+      <lb ed="#V" n="34"/>ideo cum ea poni non potest: sed remanet dubium: quia 
+      <lb ed="#V" n="35"/>quicumque modus detur ille potest esse et non esse: cum non sit 
+      <lb ed="#V" n="36"/>necessare ese.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2610">
+      ¶ Dicitur autem quod non potest esse et non esse 
+      quan<lb ed="#V" n="37" break="no"/>tum ad istum modum: quia ille modus non manet sub non 
+      <lb ed="#V" n="38"/>esse: nisi terminatiue aut obiectiue. vt supra fuit ostensum. 
+      <lb ed="#V" n="39"/>articulus est: si ille quiditates 
+      post<lb ed="#V" n="40" break="no"/>Uigesimus suam creationem differunt a suo esse 
+      exi<lb ed="#V" n="41" break="no"/>stentie. et ponuntur hoc 4or conclusiones.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2623">
+      ¶ Quarum prima est: quod 
+      qui<lb ed="#V" n="42" break="no"/>ditates post suam creationem distinguuntur a sua existentia 
+      <lb ed="#V" n="43"/>distinctione ab anima nostra non fabricata: quia quandocumque 
+      <lb ed="#V" n="44"/>aliquid est in potentia ad duo opposita: illud non potest 
+      <lb ed="#V" n="45"/>esse idem cum aliquo illorum: alioquin vnum oppositum est 
+      <lb ed="#V" n="46"/>set in potentia ad reliquum. quiditas autem creabilis est 
+      <lb ed="#V" n="47"/>in potentia ad esse. et non esse. cum possit esse et non esse. Et 
+      <lb ed="#V" n="48"/>si dicatur quod eadem ratione probaretur quod existentia dicituret 
+      a<lb ed="#V" n="49" break="no"/>suo esse: et potest esse et non esse. dicitur sicut supra. quod 
+      exim<lb ed="#V" n="50" break="no"/>stentia secundum propositum modum non potest non existem: 
+      <lb ed="#V" n="51"/>nec destruitur: sicut illud quod amittit esse: sed sicut illud 
+      <lb ed="#V" n="52"/>quod amiititur ab illo quod vadit ad non esse.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2650">
+      ¶ Se 
+      <lb ed="#V" n="53"/>cunda conclusio. quod ista distinctio non est realis: quia ibi 
+      <lb ed="#V" n="54"/>non est stricte realis distinctio vbi non est res: et res hoc 
+      <lb ed="#V" n="55"/>autem non est realitas et realitas: quia si essentia. vt 
+      pre<lb ed="#V" n="56" break="no"/>scindit ab existentia: est res: tunc in puro esse essentie 
+      fo<lb ed="#V" n="57" break="no"/>ret respectus.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2663">
+      ¶ Et confirmatur. quia prius per diuinam 
+      <lb ed="#V" n="58"/>potentiam potest fieri sine posteriori: nulla autem 
+      essen<lb ed="#V" n="59" break="no"/>tia sine existentia fieri potest: illa vero assumpta 
+      intellig<lb ed="#V" n="60" break="no"/>tur in realiter distinctis.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2672">
+      ¶ Tertia conclusio. quod illa di 
+      <lb ed="#V" n="61"/>stinctio non est essentialis. quia talis distinctio non est 
+      <lb ed="#V" n="62"/>nisi inter duas essentias. essentia autem et existentia non 
+      <lb ed="#V" n="63"/>sunt due essentie. quia cum quelibet essentia habeat 
+      <lb ed="#V" n="64"/>suam existentiam: tunc vna essentia argueret duas est 
+      <lb ed="#V" n="65"/>sentias.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2685">
+      ¶ Quarta conclusio. quod illa distinctio non est 
+      <lb ed="#V" n="66"/>formalis. quia essentia existens non diciteret a seipsa non existen¬ 
+      <!--514.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>te quiditatiue. vt patuit. et tamen dicitere per existentiam.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2696">
+      ¶ Sed orie 
+      <lb ed="#V" n="68"/>dif. qualis disto est illa non fabricata ab anima. si non est 
+      <lb ed="#V" n="69"/>realis nequem formalis.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2703">
+      ¶ Dicitur autem quod illa disto est modi 
+      in<lb ed="#V" n="70" break="no"/>trinseci a formali ratione: quia modus est qui non variat 
+      ratio<lb ed="#V" n="71" break="no"/>nem formalem. et esse in actu et potentia non diciterut nisi secundum alium et 
+      <lb ed="#V" n="72"/>alium modum essendi.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2713">
+      ¶ 2a difficultas. si ille modus est accidens ipsius 
+      <lb ed="#V" n="73"/>essentie.
+    </p>
+            <p xml:id="FrMQ88-e11495-d1e2718">
+      ¶ Dicitur autem quod non. quia substantia praexistit suo accidenti. sicut 
+      <lb ed="#V" n="74"/>causa suo effcumi: et tamen essentia non potest pexistere existentie: cum per 
+      <lb ed="#V" n="75"/>ipsam formaliter existat. Et ideo quod existentia reducatur ad ge 
+      <lb ed="#V" n="76"/>nus essentie. sicut indiuidualis proprietas reducitur ad spe 
+      <lb ed="#V" n="77"/>ciem cuius hechextas. aut quantitas virtutis: aut in 
+      <lb ed="#V" n="78"/>tentio caloris est de ipsius genere etc. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

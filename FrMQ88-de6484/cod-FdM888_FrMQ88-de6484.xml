@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 6</title>
+            <author ref="#FrancisofMeyronnes">Francis de Meyronnes</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 6</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-FdM888">Venice 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="245-r"/>
+            <cb ed="#V" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="FrMQ88-de6484"><!-- quod-q6 -->
+            <head xml:id="FrMQ88-de6484-Hd1e108">Quaestio 6</head>
+            <p xml:id="FrMQ88-de6484-d1e111">
+               <lb ed="#V" n="127"/>rq quaestio. Utrum sit dare entia rationis parti 
+      <lb ed="#V" n="128"/>nentia ad scientiam theologie: et quidem 
+      <lb ed="#V" n="129"/>ad istius quaestionis declarationem est praeintelligendum 
+      <lb ed="#V" n="130"/>quod quatuor modis accipitur ratio in 
+      sacra<lb ed="#V" n="131" break="no"/>scriptura.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e124">
+      ¶ Primo modo accipitur 
+      ra<lb ed="#V" n="132" break="no"/>tio pro quiditate et diffinitione que dicitur esse ratio for¬ 
+      <!--493.xml-->
+      <!--<pb ed="#V" n="493"/><!-\- repeat of 491 or folio 244v -\->
+      <cb ed="#V" n="a"/>
+      <pb ed="#V" n="493"/><!-\- repeat of 492 or folio 245r -\->-->
+      <!--495.xml-->
+      <pb ed="#V" n="245-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1" break="no"/>malis vniuscuiusque: et ita videtur loqui sapiens Ecclesiastes  
+      <lb ed="#V" n="2"/>O. ca. intellexi quod omnium operum dei nullam possit homo 
+      inue<lb ed="#V" n="3" break="no"/>nire rationem: quia scilicet rerum differentiae sunt nobis ignote vel occulte 
+      <lb ed="#V" n="4"/>et ideo dicit. quod quanto plus laborauit homo ad 
+      inuestigan<lb ed="#V" n="5" break="no"/>dum tanto minus innueniat: quod non est nisi ex occultatione 
+      <lb ed="#V" n="6"/>differentiarum quiditatiuarum: que demonstrant propter quid.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e153">
+      ¶ Secundo acci 
+      <lb ed="#V" n="7"/>pitur ratio pro noticia declaratiua talis quiditatis quae quandoque 
+      <lb ed="#V" n="8"/>dicitur diffinitio: et sic loquitur deus. Iob. 39. ca. nunquio 
+      <lb ed="#V" n="9"/>nosti ordinem celi et positiones rationem eius in terra.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e162">
+      ¶ Ter 
+      <lb ed="#V" n="10"/>tio accipitur ratio pro noticia comperatiua vnius ad alterum 
+      <lb ed="#V" n="11"/>de qua videtur loqui sapiens Ecclesiastes. o. ca. nec opus: nec 
+      <lb ed="#V" n="12"/>ratio: nec scientia: nec sapia apud inferos quo tu properas. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e172">
+               <lb ed="#V" n="13"/>¶ 4o accipitur ratio pro causa eo modo quo dicitur rationem 
+      <lb ed="#V" n="14"/>reddere: qui dat causam. et sic videtur loqui scriptura Iob 
+      <lb ed="#V" n="15"/>ps. ca. quis enarrabit celorum rationem: et per istum 
+      mo<lb ed="#V" n="16" break="no"/>dum vocabat beatus Augu. vdeas rationes eternas 
+      in<lb ed="#V" n="17" break="no"/>lib. s. quaestionum. et ponit rationes originales in 3o de 
+      trini<lb ed="#V" n="18" break="no"/>tate.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e188">
+      ¶ Nunc ad propositum non intenditur hoc ratio pro 
+      quidita<lb ed="#V" n="19" break="no"/>te aut pro causa. quia constat quod in rebus entia talium rationum 
+      <lb ed="#V" n="20"/>semper est inuenire: nec forte pro noticia declaratiua: quia ad  
+      <lb ed="#V" n="21"/>illam pertinet exprimere quiditatem: et non aliquid 
+      finge<lb ed="#V" n="22" break="no"/>re fictum per actum intellectus comparatiuum per quem 
+      <lb ed="#V" n="23"/>nultipliciter circa intelligibilia negociantur.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e201">
+      ¶ 
+      Intel<lb ed="#V" n="24" break="no"/>ligendum tamen est. quod comparando ad istam rationem aliquid dici 
+      <lb ed="#V" n="25"/>tur esse rationis quatuor modis: aut: quia tali ratione 
+      causa<lb ed="#V" n="26" break="no"/>tum: quemadmodum aliquid dicitur alicuius: quia ab 
+      ipso<lb ed="#V" n="27" break="no"/>effectum: et sic possunt dici omnes intellectuales 
+      virtu<lb ed="#V" n="28" break="no"/>tes entia rationis: quia sunt ex talibus actibus aggenerate 
+      <lb ed="#V" n="29"/>aut quia a tali ratione regnante: sicut dicitur recte rationis 
+      <lb ed="#V" n="30"/>illud quod ratio dictat: et isto modo dicitur medium 
+      virtu<lb ed="#V" n="31" break="no"/>tum moralium medium rationis: aut quia ab illa ratione de 
+      <lb ed="#V" n="32"/>relictum sicut esse cognitum. sequitur ex actu cognoscendi: et 
+      <lb ed="#V" n="33"/>isto modo obsteantia vt in esse cognito producta possunt dici 
+      <lb ed="#V" n="34"/>entia rationis: aut quia a tali ratione confictum. quemadmodum 
+      <lb ed="#V" n="35"/>intellectus negocians circa sua obstantia. dicitur confingere 
+      <lb ed="#V" n="36"/>entia diminuta: et isto modo sumuntur hoc entia rationis 
+      <lb ed="#V" n="37"/>quia isto modo solutum entia rationis distingui videntur contra ens 
+      <lb ed="#V" n="38"/>reale.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e236">
+      ¶ Sed attendendum est. quod licet de istis entibus 
+      <lb ed="#V" n="39"/>rationis philosophi parum fuerint locuti: tamen sancti nostri: aut 
+      <lb ed="#V" n="40"/>nunquam: aut vix inueniuntur fecisse mentionem de eis: et 
+      quan<lb ed="#V" n="41" break="no"/>uis antiqui theologi quandoque fugerent ad ista entia: moder 
+      <lb ed="#V" n="42"/>num tamen vulgus theologie omnia fere saluare conantur per entia 
+      <lb ed="#V" n="43"/>rationis: et ista multiplicatio entium rationis ponitur ex 
+      qua<lb ed="#V" n="44" break="no"/>druplici causa. Prima est violentia argumentorum: quando 
+      <lb ed="#V" n="45"/>nimis cogunt in entibus realibus: fugitur ad entia ratio 
+      <lb ed="#V" n="46"/>nis: vt in attributis diuinis: quando vnum demonstratur de alio. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e256">
+               <lb ed="#V" n="47"/>¶ 2a causa est insufficientia solutionum: vt si non possit quis 
+      <lb ed="#V" n="48"/>oluere fugit ad entia ista: sicut propter rationem de communicabili et 
+      <lb ed="#V" n="49"/>incommunicabili: fugiunt ad distinctionem rationis inter essentiam 
+      <lb ed="#V" n="50"/>et proprietatem.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e267">
+      ¶ 3a causa est latentia difficultatum: sicut quando non 
+      <lb ed="#V" n="51"/>possent aliqui intelligerne de aliqua veritate quomodo sit in re 
+      po<lb ed="#V" n="52" break="no"/>nunt eam confestim in ratione: vt patet de tempore et motu.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e275">
+      ¶ 4a causa 
+      <lb ed="#V" n="53"/>est. excellentia intelligibilium: sicut quando circa diuina non 
+      <lb ed="#V" n="54"/>possunt aliqui saluare quod dicunt secundum rem: confugiunt ad 
+      <lb ed="#V" n="55"/>rationem: quemadmodum ille doctor qui praesentibus multis do 
+      <lb ed="#V" n="56"/>ctoribus dicebat quod diuina essentia in ratione causat actum 
+      <lb ed="#V" n="57"/>intelligendi in intellectu diuino ipsum mouens ad intel 
+      <lb ed="#V" n="58"/>igendum: et cum a ceteris doctoribus argueretur. dixit quod 
+      <lb ed="#V" n="59"/>talem motionem et causationem non intendebat: nisi secundum 
+      ratio<lb ed="#V" n="60" break="no"/>nem.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e295">
+      ¶ Et istis adiungitur auaritia mira quorundam¬ 
+      <lb ed="#V" n="61"/> 
+               <lb ed="#V" n="62"/>qui nullum ens reale volunt positionem nisi cogantur: et dicunt 
+      <lb ed="#V" n="63"/>quod non possunt cogi: nisi ad substantiam et qualitatem omnibus aliis 
+      <lb ed="#V" n="64"/>prtentis positis tantum secundum rationem: et adhuc de qualitate dubitant 
+      <lb ed="#V" n="65"/>per illam regulam perypatheticam: in paucioribus via 
+      <lb ed="#V" n="66"/>nagis: que multas interimit veritates cum non omnia 
+      ve<lb ed="#V" n="67" break="no"/>ra sint demonstrabilia.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e313">
+      ¶ Istis autem praemissis arguitur ad 
+      <!--495.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="68"/>partem affirmatiuam quaestionis 4r. quia inter principia prime philosophie 
+      <lb ed="#V" n="69"/>est quod ens diuiditur in ens in anima et extra animmam: ita quae 
+      <lb ed="#V" n="70"/>ens in anima dicitur ens rationis: sicut ens extra animam 
+      <lb ed="#V" n="71"/>dicitur esse ens reale: et sic prima philosophia ponit entia rationis 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e329">
+               <lb ed="#V" n="72"/>¶ Secundo. quia in naturalibus dextrum et sinistrum non sunt 
+      <lb ed="#V" n="73"/>realiter nisi in animali: sed ista ponuntur esse in columna per 
+      <lb ed="#V" n="74"/>comperationem rationis nostre ad animal. ergo habent ibi 
+      <lb ed="#V" n="75"/>esse secundum rationem: et per consequens sunt entia rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e340">
+      ¶ Tertio 
+      <lb ed="#V" n="76"/>quia in logius omnia relatiua dicuntur ad conuerter 
+      <lb ed="#V" n="77"/>quod ad inuicem referantur: constat autem quod non semper referantur 
+      <lb ed="#V" n="78"/>ad innuicem secundum rem: sicut patet in scibili et scientia. 
+      er<lb ed="#V" n="79" break="no"/>dare secundum rationem.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e351">
+      ¶ 4o. in disciplinitatem. quia sicut docet 
+      natura<lb ed="#V" n="80" break="no"/>lis philosophia secantur scientie quemadmodum et scibilia: et ideo cum 
+      <lb ed="#V" n="81"/>scientiae distinguantur in reales et rationales: oportet vt scibilia 
+      di<lb ed="#V" n="82" break="no"/>stinguantur in realia et rationalia.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e361">
+      ¶ Sed contra. quia 
+      regu<lb ed="#V" n="83" break="no"/>la est beati Aug. 79. de trini. quod omne quod relatiue dicitur est 
+      ali<lb ed="#V" n="84" break="no"/>quid excepta relatione: et ideo cum ens rationis relati 
+      <lb ed="#V" n="85"/>ue dicatur ad rationem: sicut originatum ad suum originans 
+      <lb ed="#V" n="86"/>est aliquid praeter respectum ad rationem: et illud rationis esse non potest: 
+      <lb ed="#V" n="87"/>et sic reale.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e374">
+      ¶ Secundo. quia regula eiusdem est quod illud quod 
+      nul<lb ed="#V" n="88" break="no"/>la res est omnino nihil est: entia rationis nulla res stu: et ideo 
+      <lb ed="#V" n="89"/>nihil stut omnino: et illud omnino nihil. non est a ratione nihil.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e381">
+      ¶ 3o quia 
+      <lb ed="#V" n="90"/>alia regula eiusdem est quod ille intellectus est falsus qui in 
+      <lb ed="#V" n="91"/>telligit rem aliter quam sit: ille autem qui fingit illa que non sunt 
+      <lb ed="#V" n="92"/>in re: intelligit rem aliter quam sit: et ideo est falsus 
+      intelle<lb ed="#V" n="93" break="no"/>ctus: talis autem falsitas est rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e392">
+      ¶ Quarto. quia alia 
+      <lb ed="#V" n="94"/>regula ipsius est. quod in omni effcum creature deus concurrat: cum 
+      <lb ed="#V" n="95"/>tetera agentia agant non independenter: et sic concur 
+      <lb ed="#V" n="96"/>rit ad istum rationis effectum actione preueniente actionem 
+      <lb ed="#V" n="97"/>nostre rationis: quae non est rationis: immo realis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e403">
+      ¶ Et 
+      confirma<lb ed="#V" n="98" break="no"/>tur. quia quicquid potest deus causare medim causa secunda effecti 
+      <lb ed="#V" n="99"/>ue potest immediate: et per se. et sic potest facere 
+      effe<lb ed="#V" n="100" break="no"/>ctum rationis per se. sine ratione. 
+      <lb ed="#V" n="101"/>quaestionem sunt plures articuli 
+      decla<lb ed="#V" n="102" break="no"/>Et ad istam randi. quorum primus est. quid est ens 
+      <lb ed="#V" n="103"/>rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e419">
+      ¶ Dicitur autem communiter quod ens rationis est illud quod est 
+      <lb ed="#V" n="104"/>ab anima nostra fabricatum. quia dicitur ens rationis in habitudine 
+      <lb ed="#V" n="105"/>ad rationem. Et ista habitudo non potest esse nisi originis: 
+      <lb ed="#V" n="106"/>pet per se patet.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e429">
+      ¶ Sed contra hanc diffinitionem instatur 4r. 
+      <lb ed="#V" n="107"/>Primo. quia habitus intellectuales originantur a ratione 
+      <lb ed="#V" n="108"/>et tamen non ponuntur entia rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e436">
+      ¶ Secundo. quia actus in 
+      <lb ed="#V" n="109"/>telligendi fabricantur a ratione: et tamen ponuntur entia realia. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e441">
+               <lb ed="#V" n="110"/>¶ Tertio. quia dispositiones ad virtutes intellectuales sunt 
+      <lb ed="#V" n="111"/>entia realia: et tamen sunt ab ipsa ratione originata.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e448">
+      ¶ 4o. quia 
+      <lb ed="#V" n="112"/>species intelligibiles in nostro intellectu possibili fabri 
+      <lb ed="#V" n="113"/>cantur ab intellectu agente: et tamen non sunt entia rationis 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e455">
+               <lb ed="#V" n="114"/>¶ Ideo dicitur magis proprie. quod entia rationis sunt illa 
+      <lb ed="#V" n="115"/>que sunt fcam a ratione obiectiue negociante per modum 
+      <lb ed="#V" n="116"/>cuiusdam sigmenti.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e464">
+      ¶ Sed occurrit difficultas quia dicunt ali 
+      <lb ed="#V" n="117"/>qui quod ista entia rationis non producuntur: licet 
+      ali<lb ed="#V" n="118" break="no"/>quo modo ipsam rationem subsequantur.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e472">
+      ¶ Istud  
+      <lb ed="#V" n="119"/>tamen stare non potest: quia non capitur ratio quod aliquid transeat de non 
+      <lb ed="#V" n="120"/>esse ad esse quin producatur in esse.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e479">
+      ¶ Et interum omne quod attingit esse: 
+      <lb ed="#V" n="121"/>aut est a se: quod est impossibile: aut ab alio: et istud est 
+      produ<lb ed="#V" n="122" break="no"/>cens.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e486">
+      ¶ Secunda difficul. quia dicunt aliqui quod ista entia 
+      <lb ed="#V" n="123"/>rationis proprie non dependent ab aliquo: licet ipsam 
+      ratio<lb ed="#V" n="124" break="no"/>nem concomitentur.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e493">
+      ¶ Istuod autem stare non potest: quia ab illo dependetur 
+      <lb ed="#V" n="125"/>aliquid quo subiecntato illud aufertur nisi sint idem: sublato autem actu 
+      <lb ed="#V" n="126"/>rationis non manent talia entia: et ideo non sunt idependentia ab 
+      <lb ed="#V" n="127"/>eo: et interum independentia est conditio perfectissimi entis. 
+      <lb ed="#V" n="128"/>articulus est. si prima entis 
+      diui<lb ed="#V" n="129" break="no"/>Secundus sio est in ens reale et rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e506">
+      ¶ Dicitur autem 
+      <lb ed="#V" n="130"/>ommuniter quod sic. quia postquam diuisum est ens in reale et rationis 
+      <lb ed="#V" n="131"/>ens reale diuiditur in. x. praesenta que est diuisio prope pria¬ 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e513">
+               <lb ed="#V" n="132"/>¶ Sed contra istud arguiter quadrupliciter. Primo. 
+      <lb ed="#V" n="133"/>quia qualis est ordo diuidentium talis est ordo divisionum inter 
+      <!--496.xml-->
+      <pb ed="#V" n="246-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>aliqua: cum diuisio sequatur ipsa diuidentia: sed cum ens 
+      diuinda<lb ed="#V" n="2" break="no"/>tur in substantiam et accidens: ista diuidentia praecedunt illa 
+      <lb ed="#V" n="3"/>cum ens rationis sit posterius actu rationis: qui est de genere 
+      quali<lb ed="#V" n="4" break="no"/>tatis et ens prius diuiditur in substantiam et accidens quam de 
+      <lb ed="#V" n="5"/>scendat in aliquam qualitatis speciem. ergo diuisio illa est po 
+      <lb ed="#V" n="6"/>sterior.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e540">
+      ¶ Secundo. quia omnis diuisio praesupponit extrema 
+      in<lb ed="#V" n="7" break="no"/>lius diuisionis: cum sit habitudo inter illa: et omnis 
+      habitu<lb ed="#V" n="8" break="no"/>do est posterior suis extremis: sed in diuisione illa ens 
+      <lb ed="#V" n="9"/>rationis est vnum extremum. ergo ens rationis est prius ea: sed 
+      <lb ed="#V" n="10"/>istud ens est posterius actu intelligendi: qui est species 
+      qua<lb ed="#V" n="11" break="no"/>litatis. ergo cum ante istius speciei constitutionem ens multiplico 
+      <lb ed="#V" n="12"/>ter sit diuisum: ista diuisio non est prima.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e556">
+      ¶ Tertio. quia 
+      prie<lb ed="#V" n="13" break="no"/>us est esse: quam diuidi: per se notum eni videtur quod diuidi praesuppo 
+      <lb ed="#V" n="14"/>nit esse: et ideo diuisio in ens rationis praesupponit ens 
+      ra<lb ed="#V" n="15" break="no"/>tionis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e565">
+      ¶ Istud autem: vt patuit: est posterius genere 
+      noti<lb ed="#V" n="16" break="no"/>cie. ergo diuisio eius est posterior diuisione cuiusque su 
+      <lb ed="#V" n="17"/>perioris ad istud genus.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e572">
+      ¶ 4o. quia diuisio entis in ens 
+      <lb ed="#V" n="18"/>reale et rationis non potest esse realis cum eius 
+      extren<lb ed="#V" n="19" break="no"/>ma non sint realia. diuisio autem entis in substantiam et accidens 
+      <lb ed="#V" n="20"/>est realis: propter extremorum realitatem. et ideo cum entia rationis 
+      <lb ed="#V" n="21"/>sint posteriora entibus realibus: maxime necessariis: si 
+      <lb ed="#V" n="22"/>cut sunt ista: diuisio ista est posterior.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e585">
+      ¶ Ideo ponum 
+      <lb ed="#V" n="23"/>h quatuor conclusiones. Quarum prima est. quod prior est diuisio entis 
+      <lb ed="#V" n="24"/>in substantiam et accidens: quam in reale et rationis. quia ens rationis 
+      <lb ed="#V" n="25"/>est posterius illo quod est sub accidente. et tamen inferius est 
+      po<lb ed="#V" n="26" break="no"/>sterius.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e596">
+      ¶ 2a conclusio quod prior est diuisio entis in abium et 
+      <lb ed="#V" n="27"/>respectiuum quam in ens reale et rationis. quia ens rationis 
+      <lb ed="#V" n="28"/>est posterius ratione contenta sub abo.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e604">
+      ¶ Tertia conclusio quod prior 
+      <lb ed="#V" n="29"/>est diuisio entis realis in. o. praeseta quam entis simpliciter in 
+      <lb ed="#V" n="30"/>ens reale et rationis: quia ens rationis est posterius: vt pati: 
+      <lb ed="#V" n="31"/>it: predicamento qualitatis: cuius species est actualis 
+      consi<lb ed="#V" n="32" break="no"/>deratio.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e615">
+      ¶ Quarta conclusio quod prior est diuisio qualitatis in 
+      <lb ed="#V" n="33"/>corpoream et in incorpoream ad modum substantie: quia illa que 
+      di<lb ed="#V" n="34" break="no"/>cta est. quia sub ista diuisione sequitur illa per quam genus 
+      consi<lb ed="#V" n="35" break="no"/>derationis constituitur: a quo ens rationis dependet 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e624">
+               <lb ed="#V" n="36"/>¶ Sed oritur difficultas quia subdiuisio semper videtur esse poste 
+      <lb ed="#V" n="37"/>rior diuisione: et sic diuisio entis realis posterior quam illu 
+      <lb ed="#V" n="38"/>in qua ipsum est diuidens. Dicitur quod verum est vbi vtraque 
+      di<lb ed="#V" n="39" break="no"/>uisio quiditatiua: non tamen si prima quiditatiua non est: sicut 
+      in<lb ed="#V" n="40" break="no"/>proposito: et vlterius hoc est ordo tantum accidentalis. 
+      <lb ed="#V" n="41"/>articulus est. si ista diuisio entis in 
+      reale<lb ed="#V" n="42" break="no"/>Tertius et rationis est recta.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e642">
+      ¶ Dicitur autem communiter quod sic 
+      <lb ed="#V" n="43"/>quia ista ponitur in prima philosophia.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e647">
+      ¶ Sed istud non videtur stare 
+      <lb ed="#V" n="44"/>posse quadruplici ratione. Primo. quia omne diuisum abstrahit 
+      <lb ed="#V" n="45"/>a suis diuidentibus: cum sit superius: et sic istuod diuisum 
+      <lb ed="#V" n="46"/>non esset reale: nec rationis. quod non videtur possibile.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e656">
+      ¶ Secundo 
+      <lb ed="#V" n="47"/>quia omne diuisum est prius diuidentibus suis cum sit communius 
+      di<lb ed="#V" n="48" break="no"/>recte: et tamen nihil potest esse prius ente realia: a quo omnia 
+      proce<lb ed="#V" n="49" break="no"/>dunt.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e666">
+      ¶ Tertio. quia omne diuisum videtur imperfectius suis 
+      <lb ed="#V" n="50"/>diuidentibus: cum sit potentialius illis: et constituta per 
+      <lb ed="#V" n="51"/>diuidentia se habeant. vt per additionem ad diuisum: et sic 
+      <lb ed="#V" n="52"/>esset aliquod ens magis diminutum quam ens rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e675">
+      ¶ 4 
+      <lb ed="#V" n="53"/>quia omne diuisum includiter in constinties per sua diuidentia quae 
+      ad<lb ed="#V" n="54" break="no"/>ueniunt ei: et sic in quolibet ente rationis includeretur 
+      <lb ed="#V" n="55"/>aliquid quod non est fabricatum ab anima: et sic non erit rationis 
+      sernd<lb ed="#V" n="56" break="no"/>se totum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e686">
+      ¶ Ideo dico. quod si ens diuidatur in reale: et ratio 
+      <lb ed="#V" n="57"/>nis: istud diuisum oportet vt ponatur vno quatuor istorum 
+      <lb ed="#V" n="58"/>modorum: aut quod illud commune ponatur ens reale: aut rationis 
+      aut<lb ed="#V" n="59" break="no"/>erit neutrum: aut vtrumque: non ens reale. quia tunc ens reale 
+      <lb ed="#V" n="60"/>esset commune ad ens rationis: et de illo diceretur in quid: nec rationis: 
+      <lb ed="#V" n="61"/>quia tunc ens rationis diceretur de ente reali in quid. nec vtrumque 
+      <lb ed="#V" n="62"/>quia tunc vtrumque conueniret alteri: nec neutrum: quia fabrica 
+      <lb ed="#V" n="63"/>tum ab anima et non fabricatum sunt extrema contradictionis 
+      <lb ed="#V" n="64"/>et omne non fabricatum ab anima ponitur ens reale: sicut 
+      fa<lb ed="#V" n="65" break="no"/>bricatum ab anima ens rationis secundum dicta: quia ideo talis 
+      <lb ed="#V" n="66"/>diuisio videtur tantum esse secundum vocem: sicut cum eus diuiditur 
+      <!--496.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>in prohibitum et non prohibitum: nec per consequens partinet ad primam 
+      <lb ed="#V" n="68"/>philosophiam.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e719">
+      ¶ Sed oritur difficultas quia idem conceptus non potest esse 
+      <lb ed="#V" n="69"/>certus et dubius. aliquis autem intellectus est certus de ratione quod est ens 
+      <lb ed="#V" n="70"/>dubitat autem vtrum sit ens reale aut rationis: et ideo oportet vt ens in 
+      <lb ed="#V" n="71"/>lud commune habeat alium conceptum a reali et ratione: et non solum 
+      <lb ed="#V" n="72"/>nomen commune.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e730">
+      ¶ Secunda difficultas. quia aliquis est certus de 
+      motu<lb ed="#V" n="73" break="no"/>et tempore: quod sunt entia: et dubitat vtrum in anima vel extra 
+      <lb ed="#V" n="74"/>animmam: et sic alius est conceptus entis ab eo qui est 
+      in<lb ed="#V" n="75" break="no"/>anima et extra animam.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e739">
+      ¶ Dicitur autem vtrique quod talis nullam habet 
+      <lb ed="#V" n="76"/>certitudininem: nisi de nomine: sicut ille qui dubitat vtrum 
+      contradi<lb ed="#V" n="77" break="no"/>ctionis veritas sit ens prohibitum: aut non prohibitum: non noui 
+      <lb ed="#V" n="78"/>enim de ipso conceptum: cum ille non comincidat cum ente prohibito. 
+      <lb ed="#V" n="79"/>articulus a quo entia rationis sunt pro 
+      <lb ed="#V" n="80"/>Quartus ducta.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e753">
+      ¶ Dicitur autemcommuniter a 
+      ponentibus<lb ed="#V" n="81" break="no"/>illa quod ipsa producta sunt per actum rationis nostre 
+      negocia<lb ed="#V" n="82" break="no"/>tis: aut comparantis vnum obiectum ad aliud.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e760">
+      ¶ Sed ista 
+      pro<lb ed="#V" n="83" break="no"/>ductio videtur esse impossibilis quadruplici ratione.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e765">
+      ¶ primo. quia omnis causa 
+      <lb ed="#V" n="84"/>realis habet effectum realem: alioquin in re esset causa sine est 
+      <lb ed="#V" n="85"/>fectu: actus rationis nostre est semper realis causa cum vere 
+      <lb ed="#V" n="86"/>sit in rerum natura. ergo non poterit habere effectum rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e774">
+      ¶ 2o quia 
+      si<lb ed="#V" n="87" break="no"/>dicatur quod actus rationis nostre: licet sit realis: non tamen causa 
+      <lb ed="#V" n="88"/>realis in proposito: tunc sic arguitur. causa vt causa praecedit suum 
+      <lb ed="#V" n="89"/>effectum secundum ordinem cum sit illi hoc ab hoc. et ideo ratio 
+      <lb ed="#V" n="90"/>nostra: vt causa entis rationis praeuenit ipsum vt ipsum 
+      priue<lb ed="#V" n="91" break="no"/>nit: nihil habet secundum rationem. ergo est causa secundum rem.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e787">
+      ¶ 3o. quia pro 
+      <lb ed="#V" n="92"/>ductio qua producit ratio nostra ens rationis. aut est realis: aut 
+      <lb ed="#V" n="93"/>rationis: si realis omnis actio et productio realis habet terminum 
+      <lb ed="#V" n="94"/>realem. si rationis: tunc ante omne ens rationis erit 
+      productio<lb ed="#V" n="95" break="no"/>rationis: quod est inconueniens.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e798">
+      ¶ 4o. quia accipio primum 
+      <lb ed="#V" n="96"/>ens rationis: et istud non potest produci vt accipiat esse per 
+      <lb ed="#V" n="97"/>productionem realem: tunc enim esset res.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e806">
+      ¶ Ideo dico. quod 
+      <lb ed="#V" n="98"/>non video per quem modum ista entia rationis accipiant esse 
+      <lb ed="#V" n="99"/>a causis realibus: quin ipsa sint realia.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e813">
+      ¶ Sed oritur difficultas 
+      <lb ed="#V" n="100"/>quia dicunt aliqui. quod licet ista entia rationis accipiant esse a 
+      cau<lb ed="#V" n="101" break="no"/>sis realibus: cum ipsa dependeant a ratione nostra: non tamen 
+      pro<lb ed="#V" n="102" break="no"/>prie causntur ab eo. quia entium diminutorum non est proprie causa 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e822">
+               <lb ed="#V" n="103"/>¶ Istud tamen dictum no euadit difficultatem: quia sicut 
+      argu<lb ed="#V" n="104" break="no"/>tum est de causalitate: ita potest argui de dependentia: si est 
+      reali<lb ed="#V" n="105" break="no"/>aut rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e831">
+      ¶ 2a difficultas quia dicunt alii quod ista entia proprie non 
+      <lb ed="#V" n="106"/>producuntur: sed resultant: et tunc potest formari ratio sicut 
+      priu<lb ed="#V" n="107" break="no"/>quia ista resultatio est realis aut rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e838">
+      ¶ 3a difficultas quia 
+      di<lb ed="#V" n="108" break="no"/>cunt aliqui quod talis processus ad esse ipsorum entium rationis est 
+      <lb ed="#V" n="109"/>per modum cuiusdam sequele: et istud magis confirmat 
+      pro<lb ed="#V" n="110" break="no"/>positum: quia sequela inquantum sequela ostendit posteritatem 
+      <lb ed="#V" n="111"/>ad id quod sequitur: et tunc aliud est prius realiter: et sic 
+      au<lb ed="#V" n="112" break="no"/>realiter posterius aut prius ratione: et tunc ens rationis et non ens 
+      <lb ed="#V" n="113"/>rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e854">
+      ¶ 4a difficultas quia dicunt alii quod talia entia seipsis 
+      produ<lb ed="#V" n="114" break="no"/>cuntur et seipsis causantur: sicut quaidam cationes. istuod tamen non 
+      euadit<lb ed="#V" n="115" break="no"/>difficlstatem: quia cum per causationem et productionem aliquid accipiat 
+      <lb ed="#V" n="116"/>esse: secundum dicta communia nihil accipit esse per seipsum. 
+      <lb ed="#V" n="117"/>articulus est. in quo rationis entia 
+      re<lb ed="#V" n="118" break="no"/>Quintus cipiuntur. Dicit autem vulgus theologo 
+      <lb ed="#V" n="119"/>rum. quod ipsa sunt in rebus: tamen non realiter: sed per 
+      attri<lb ed="#V" n="120" break="no"/>butionem nostri intellectus.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e873">
+      ¶ Sed contra istud arguiter 4r.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e876">
+      ¶ primo 
+      <lb ed="#V" n="121"/>quia cum ens diuidatur secundum istos in ens in anima et extra 
+      animam<lb ed="#V" n="122" break="no"/>ens in anima dicunt ens rationis: et sic istud ens non est in rerum 
+      <lb ed="#V" n="123"/>natura: sed solum in anima.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e885">
+      ¶ 2o. quia si dicatur quod talia entia dicuntur est 
+      <lb ed="#V" n="124"/>in anima: quia ibi sunt obiectiue tantum: sed in rebus quibus 
+      <lb ed="#V" n="125"/>attribuuntur sunt subiectiue.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e892">
+      ¶ Istud non valet. quia entia 
+      <lb ed="#V" n="126"/>realia eodem modo sunt in anima scilicet obiectiue: tamen sunt 
+      subiecti<lb ed="#V" n="127" break="no"/>ue in rebus extra.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e899">
+      ¶ Tertio. quia sit talia / entia essent in 
+      <lb ed="#V" n="128"/>rebus extra: tunc quotiens entia rationis circa talia 
+      fa<lb ed="#V" n="129" break="no"/>bricarentur in seipsis mutarentur: cum transirent in se 
+      forma<lb ed="#V" n="130" break="no"/>liter de priuatione ad formam: et aliter se haberent nunc et 
+      <lb ed="#V" n="131"/>prius.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e910">
+      ¶ 4o. quia intellectus noster est potentia operatiua ad 
+      <lb ed="#V" n="132"/>actiones immanentes: et ideo non videtur quod intellectus sic impri¬ 
+      <!--497.xml-->
+      <pb ed="#V" n="246-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>mat rebus tales entitates.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e924">
+      ¶ Ideo dico. quod entia rationis 
+      <lb ed="#V" n="2"/>non sunt in rebus: quia quicquid est in re est reale: sicut quicquid est 
+      <lb ed="#V" n="3"/>in singulari est singulare: cum realitas fit prior singula re 
+      <lb ed="#V" n="4"/>quemadmodum quicquid est in existente est existens. et confirmatur. Tum 
+      <lb ed="#V" n="5"/>quia si essem in redependerem a re per modum recipientis: 
+      <lb ed="#V" n="6"/>tunc illa receptio non esset realis. quia talis haberet receptum 
+      <lb ed="#V" n="7"/>reale necessario. nec rationis. quia per suum inesse non 
+      recipe<lb ed="#V" n="8" break="no"/>ret rationem. Tum quia recipiens inquatu recipiens praeuenit 
+      rec<lb ed="#V" n="9" break="no"/>ptum secundum originem aut naturam: et receptio ipsum recipiens inquam 
+      <lb ed="#V" n="10"/>tum tale. sicut causa formalis suum effectum. et tunc in illo prio 
+      <lb ed="#V" n="11"/>ri: ante primum rationis actum erit realis receptio.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e948">
+      ¶ Ideo 
+      di<lb ed="#V" n="12" break="no"/>cunt aliquin solertiores. quod licet entia rationis causentur a 
+      re<lb ed="#V" n="13" break="no"/>bus mouentibus intellectum effectiue: tamen non sunt in rebus sub 
+      <lb ed="#V" n="14"/>iectiue.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e957">
+      ¶ Et istud non videtur valere quia non est magis 
+      inti<lb ed="#V" n="15" break="no"/>ma dependentia ad subiectum quam ad efficiens: cum nullus 
+      effe<lb ed="#V" n="16" break="no"/>ctus possit esse sine causa efficiente: bene tamen fine materiali: et ideo si ex 
+      <lb ed="#V" n="17"/>hoc quod aliquid est in re ostenditur esse reale per suum inesse: 
+      mul<lb ed="#V" n="18" break="no"/>to magis ex habet quod aliquid est a re: ostenditur esse reale: et sic ista 
+      <lb ed="#V" n="19"/>entia non erunt in rebus: nec a rebus: sicut entia prohibita 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e970">
+               <lb ed="#V" n="20"/>¶ Sed oritur difficultas quia cum ratio nostra sit quedam res: ita 
+      ostendit<lb ed="#V" n="21" break="no"/>quod nec sunt in ratione nostra: nec a ratione.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e977">
+      ¶ Dicitur quod vniformi 
+      <lb ed="#V" n="22"/>currunt rationes: et ideo ista viderentur entia prohibita.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e982">
+      ¶ 2a difficultas 
+      <lb ed="#V" n="23"/>quia dicunt aliqui quod non est intellectuium quod sint ab actu reali nostre 
+      <lb ed="#V" n="24"/>rationis effectiue: aut in eo subiectiue. si obiectiue in eo 
+      <lb ed="#V" n="25"/>et ab eo.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e992">
+      ¶ Istud tamen non valet. quia eodem modo arguitur de 
+      <lb ed="#V" n="26"/>isto modo essendi et inessendi: sicut supra. quia tale inesse et es 
+      <lb ed="#V" n="27"/>ab aliquo: aut est reale: aut rationis. 
+      <lb ed="#V" n="28"/>articulus est. si entia rationis prehabent es 
+      <lb ed="#V" n="29"/>Sexxus in potentia subiectiua.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1003">
+      ¶ Dicunt autem quod si 
+      <lb ed="#V" n="30"/>illi quin ponunt entia rationis in rebus: quia omne subiectum habet 
+      po<lb ed="#V" n="31" break="no"/>tentiam receptiuam eius quod est natum in eo recipi: et talis 
+      <lb ed="#V" n="32"/>potentia est subiectiua.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1012">
+      ¶ Sed contra istud arguiter 4r. Primo 
+      <lb ed="#V" n="33"/>quia potentia ista subiectiua praeueniens omnem actionem rationis 
+      <lb ed="#V" n="34"/>in qualibet re: est realis necessario: omnis autem potentia rea 
+      <lb ed="#V" n="35"/>lis videtur quod necessario recipiat realem actum: cum sit propter ipsum 
+      si<lb ed="#V" n="36" break="no"/>cut propter finem: et omnis effectus realis habet causam realem.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1023">
+      ¶ Se 
+      <lb ed="#V" n="37"/>cundo. quia potentia ex sua ratione quiditatiua videtur dicere 
+      ordi<lb ed="#V" n="38" break="no"/>nem ad actum. cum sit pro re alicuius ponibilis: sed ordo 
+      <lb ed="#V" n="39"/>realis non potest esse ad ens rationis: sicut nec relaus: cum 
+      or<lb ed="#V" n="40" break="no"/>do sit quidam reus. ergo ad entia rationis non est potentia 
+      sul<lb ed="#V" n="41" break="no"/>iectiua.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1036">
+      ¶ Tertio. quia omnis potentia que non potest 
+      redu<lb ed="#V" n="42" break="no"/>ci ad actum in rerum natura: est frustra: sicut potentia generatiua 
+      chi<lb ed="#V" n="43" break="no"/>mere esset frustra in animalibus: nisi chimera posset ergo 
+      <lb ed="#V" n="44"/>gni in natura: et ideo potentia ista realis esset frustra: si non 
+      <lb ed="#V" n="45"/>posset realiter ad actum reduci. Et si dicatur quod sufficit quod 
+      <lb ed="#V" n="46"/>possit reduci ad actum per intellectum: istud non valet. quia 
+      en<lb ed="#V" n="47" break="no"/>tia prohibita isto modo reducuntur ad actum: sine vlla 
+      rea<lb ed="#V" n="48" break="no"/>li potentia.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1054">
+      ¶ Quarto. quia entia prohibita cum 
+      intelligeren<lb ed="#V" n="49" break="no"/>tur a nobis fundarent entia rationis nostre negociantis 
+      <lb ed="#V" n="50"/>circa ipsa et comparantis: sicut comparantur entia realia: 
+      <lb ed="#V" n="51"/>et tamen ibi nulla realis est potentia receptiua: cum ibi 
+      nulla<lb ed="#V" n="52" break="no"/>sit realitas possibilis: et sic entia rationis non requirent vbi sunt 
+      <lb ed="#V" n="53"/>potentiam subiectiuam.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1068">
+      ¶ Ideo dico quod entia rationis non 
+      <lb ed="#V" n="54"/>praehabent esse in potentia subiectiua. et per consequens sunt impossibilia 
+      <lb ed="#V" n="55"/>esse in subiecto: cum omne possibile inesse sit natum ibi 
+      reci<lb ed="#V" n="56" break="no"/>pri.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1077">
+      ¶ Sed oritur difficultas quia dicunt quod licet non prehabeant esse 
+      <lb ed="#V" n="57"/>in potentia subiectiua realiter: tamen bene secundum suum modum 
+      essen<lb ed="#V" n="58" break="no"/>di diminutum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1084">
+      ¶ Et istud non valet. quia ostensum est quod ante suum 
+      <lb ed="#V" n="59"/>esse actuale per rationem non est aliquod esse nisi reale 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1089">
+               <lb ed="#V" n="60"/>¶ Secunda difficultas quia dicunt. quod licet istud esse subiectiuum sit 
+      <lb ed="#V" n="61"/>reale in se: tamen non in ordine ad talem actum. Et istud 
+      <lb ed="#V" n="62"/>non valet. quia ille ordo preuenit istum actum: et ante illum 
+      <lb ed="#V" n="63"/>actum nullum ens est rationis 
+      <lb ed="#V" n="64"/>articulus est si entia rationis 
+      praeha<lb ed="#V" n="65" break="no"/>Septimus beant esse in potentia effectiua.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1105">
+      ¶ Et 
+      <lb ed="#V" n="66"/>dicunt communiter quod sic. quia nisi ratio nostra haberet virtutem 
+      <!--497.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>productiuam talium effectuum numquam fabricaret eos: sicut 
+      <lb ed="#V" n="68"/>nec sensus.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1118">
+      ¶ Sed contra istud arguiter 4r. Primo. quia 
+      <lb ed="#V" n="69"/>talis potentia productiua entium realium cum praeueniat omne 
+      <lb ed="#V" n="70"/>ens rationis est realis: et omnis potentia productiua 
+      rea<lb ed="#V" n="71" break="no"/>lis videtur esse respectu productionis realis que semper 
+      <lb ed="#V" n="72"/>realem terminum habet. et probatur assumptum. quia sicut 
+      producti<lb ed="#V" n="73" break="no"/>uum est quod potest producere: ita productiuum realiter quod potest 
+      <lb ed="#V" n="74"/>esse producens realiter.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1135">
+      ¶ Secundo. quia potentia 
+      producti<lb ed="#V" n="75" break="no"/>ua dicit secundum se ordinem ad produie: et ideo potentia realis 
+      <lb ed="#V" n="76"/>ad talem ordinem realem: sed realis ordo non est ad entia 
+      <lb ed="#V" n="77"/>rationis. ergo non praehabent esse in potentia productiua.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1144">
+      ¶ 3m 
+      <lb ed="#V" n="78"/>quia omne productiuum ad aliud est productiuum: aut ergo ad  
+      <lb ed="#V" n="79"/>aliud secundum rem: et sic habetur intentum: aut ad aliud secundum 
+      <lb ed="#V" n="80"/>rationem: et sic oportet quod sit productiuum secundum rationem: quod 
+      <lb ed="#V" n="81"/>non potest esse ante primum rationis actum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1155">
+      ¶ Quarta. quia 
+      <lb ed="#V" n="82"/>posito vno relatiuorum in re: sicut concedunt: necessarium 
+      <lb ed="#V" n="83"/>est ponere aliud in re: cum relatiua posita se ponant: 
+      <lb ed="#V" n="84"/>et perempta se perimant: et ideo si est dare productiuum 
+      <lb ed="#V" n="85"/>in re necessarium est dare produtitat in re et econverso.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1166">
+      ¶ Ideo dico 
+      <lb ed="#V" n="86"/>quod sicut entia rationis non praehabent esse in potentia subie 
+      <lb ed="#V" n="87"/>ctiua in rebus: ita nec in potentia effectiua: apparet quomodo 
+      po<lb ed="#V" n="88" break="no"/>sit esse prius quam sint in actu: sicut entia prohibita quae in 
+      nulla<lb ed="#V" n="89" break="no"/>potentia habent esse.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1177">
+      ¶ Sed oritur difficultas quia dicunt aliqui quod cum dicitur aliquid 
+      <lb ed="#V" n="90"/>productiuum realiter: istud realiter potest esse determinatio 
+      princi<lb ed="#V" n="91" break="no"/>pii: aut termini. primo modo entia rationis habent realiter 
+      prin<lb ed="#V" n="92" break="no"/>cipium productiuum: et non secundo.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1186">
+      ¶ Istud tamen non valet. 
+      <lb ed="#V" n="93"/>quia ex ordine reali principii productiui ad terminum secundum 
+      <lb ed="#V" n="94"/>premissa declarata est termini realitas. 
+      <lb ed="#V" n="95"/>articulus. si entia rationis praehabent esse in 
+      <lb ed="#V" n="96"/>Octauus potentia obiectiua.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1198">
+      ¶ Et dicunt comuntur 
+      <lb ed="#V" n="97"/>quod sic quia omne productum de nouo ante erat producibile 
+      <lb ed="#V" n="98"/>alioquin produci non potusset. omne autem producibile. vt sic 
+      <lb ed="#V" n="99"/>est in potentia obiectiua.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1207">
+      ¶ Sed contra istud arguiter 4r. 
+      Pri<lb ed="#V" n="100" break="no"/>mo. quia omne produtiae est producibile ab aliquo productiuo: en 
+      <lb ed="#V" n="101"/>tia autem rationis: vt patet. nullum habent productiuum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1214">
+      ¶ 2o. quia 
+      om<lb ed="#V" n="102" break="no"/>ne producibile non subsistens habet principium susceptiuum. et 
+      <lb ed="#V" n="103"/>tamen fuit ostensum quod isto carent entia rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1221">
+      ¶ Ter 
+      <lb ed="#V" n="104"/>tio. quia ista producibilitas: aut esset fabricata ab anima aut 
+      <lb ed="#V" n="105"/>non si sic: tunc ante ens rationis esset ens rationis: quia fabricatum 
+      <lb ed="#V" n="106"/>ab anima. si non: tunc prestantius esset ens rationis ante suan 
+      <lb ed="#V" n="107"/>productionem: quod patet. quia ante non fabricatum: et postea 
+      fa<lb ed="#V" n="108" break="no"/>bricatum ab anima.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1234">
+      ¶ 4o. quia ex ente extra animam non potest 
+      <lb ed="#V" n="109"/>fieri ens anime: aut econverso. et si ponantur primo distincta: tunc 
+      aut<lb ed="#V" n="110" break="no"/>per productionem entis rationis fieret ex producibili 
+      extra<lb ed="#V" n="111" break="no"/>ens in anima. et per eius cessationem ens rationis fieret ens rea 
+      <lb ed="#V" n="112"/>le.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1245">
+      ¶ Ideo dico. quod sicut entia rationis non prehabent esse in 
+      <lb ed="#V" n="113"/>potentia subiectiua vel effectiua secundum premissa: ita non 
+      <lb ed="#V" n="114"/>videntur esse in potentia obiectiua. quia aut essent produc 
+      <lb ed="#V" n="115"/>bilia realiter: aut secundum rationem. si primo modo possent esse 
+      <lb ed="#V" n="116"/>realiter producta. si secundo modo iam essent actu entia rationis 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1257">
+               <lb ed="#V" n="117"/>¶ Sed oritur difficultas. quia illa que non sunt producibilia in 
+      <lb ed="#V" n="118"/>potentia obiectiua: sunt entia prohibita qualia non sunt entia 
+      <lb ed="#V" n="119"/>rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1266">
+      ¶ Dicitur autem quod omnia que dcam sunt videntur inferre 
+      <lb ed="#V" n="120"/>hanc conclusionem. quia omnia impossibilia sunt entia 
+      prohibi<lb ed="#V" n="121" break="no"/>ta: et illa sunt impossibilia que non sunt in aliqua potentia. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1273">
+               <lb ed="#V" n="122"/>¶ Secunda difficultas quia si entia rationis sunt entia prohibita 
+      sal<lb ed="#V" n="123" break="no"/>tem eo modo quo est dare entia prohibita est dare entia rationis 
+      <lb ed="#V" n="124"/>et sic cum entia prohibita rationis sunt talia praeter intelectum est dare 
+      <lb ed="#V" n="125"/>entia rationis praeter intelectum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1284">
+      ¶ Dicitur autem quod esse entium prohibito 
+      <lb ed="#V" n="126"/>rum est non esse: et eorum positio est abla inesse prohibitorum. et sic 
+      <lb ed="#V" n="127"/>dico quod entia rationis realiter sunt ablata nec sunt entia rationis. 
+      <lb ed="#V" n="128"/>articulus est si entia rationis attingun 
+      <lb ed="#V" n="129"/>Nonus tur ab operatione intellectusm et dicitur vniversalier quod sic quia 
+      <lb ed="#V" n="130"/>eorum esse consistit in intellecti: et in intellecto esse: et confirmatur: 
+      <lb ed="#V" n="131"/>quia nisi entia rationis intelligeremus de illis disputare nul 
+      <lb ed="#V" n="132"/>latenus valeremus.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1302">
+      ¶ Sed contra istud arguiter quadrupliciter. 
+      <!--498.xml-->
+      <pb ed="#V" n="247-r"/>
+               <cb ed="#V" n="a"/>
+            </p>
+            <p xml:id="FrMQ88-de6484-d1e1311">
+               <lb ed="#V" n="1"/>¶ Primo. quia illud quod intelligitur intellectione reali 
+      intel<lb ed="#V" n="2" break="no"/>ligitur realiter. et ipsum est realiter intelligibile: nullum autem ens 
+      <lb ed="#V" n="3"/>rationis potest esse intelligibile realiter. quia tunc esset realiter: cum esse 
+      <lb ed="#V" n="4"/>intelligibile sit quoddam esse.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1323">
+      ¶ Et si dicatur quod id realiter 
+      deno<lb ed="#V" n="5" break="no"/>minat extrinie intelligibile a realitate intellectionis 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1328">
+               <lb ed="#V" n="6"/>¶ Istud non potest esse nisi: quia intelect est realiter quid eius: et istud 
+      <lb ed="#V" n="7"/>non est possibile: vt aliquid sit realiter eius quod nihil est realiter. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1335">
+               <lb ed="#V" n="8"/>¶ 2o quia omnis qui realiter intelligit aliquod obiectum habet in 
+      <lb ed="#V" n="9"/>tellectionem realiter terminatam ad illud cum intelligere aliquid 
+      <lb ed="#V" n="10"/>non sit nisi terminare intellectionem: et terminare sit 
+      intel<lb ed="#V" n="11" break="no"/>ligi. sed nullum ens rationis potest realiter terminare aliquam 
+      <lb ed="#V" n="12"/>operationem. terminus enim operationis realis non videtur ens non 
+      <lb ed="#V" n="13"/>reale. ergo nullum ens rationis potest realiter intelligi.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1351">
+      ¶ 3o. quia rea 
+      <lb ed="#V" n="14"/>liter terminare aliquam operationem ad obiectum est ad ipsum realiter 
+      <lb ed="#V" n="15"/>referri: cum respectu realis sit scientiae ad scibile: et sicut intellectio 
+      <lb ed="#V" n="16"/>nis ad intelligibile: sed respectu realis non potest esse ad ens 
+      ratio<lb ed="#V" n="17" break="no"/>nis. tunc enim ens reale dependeret sic a ratione. cum omnis respectu a 
+      <lb ed="#V" n="18"/>suis extremis dependeat. ergo ens rationis realiter intellectu nequiu¬ 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1364">
+               <lb ed="#V" n="19"/>¶ 4o. quia esse alicuius est ad ipsum referri secundum relatiui 
+      <lb ed="#V" n="20"/>diffinitionem. secundum enim quod sunt aliorum dicuntur relatiua diffinitiue: et 
+      <lb ed="#V" n="21"/>ideo esse intellectionem alicuius realiter est ad ipsum realiter 
+      <lb ed="#V" n="22"/>referri. et sic si entia rationis realiter intelligunter: oportet vt ad impr 
+      <lb ed="#V" n="23"/>sa entia realia realiter referantur.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1377">
+      ¶ Ideo dico quod non faciliter vi 
+      <lb ed="#V" n="24"/>deri potest quomodo entia rationis attingantur obiectiue ab 
+      operatio<lb ed="#V" n="25" break="no"/>ne intelectus.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1385">
+      ¶ Sed oriter: di. quomodo possumus disputare de 
+      <lb ed="#V" n="26"/>ipsis realiter nisi ipsa realiter intelligaus.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1390">
+      ¶ Dicitur quod eo modo 
+      <lb ed="#V" n="27"/>quo disputamus de nihilo: aut de entibus prohibitis 
+      intel<lb ed="#V" n="28" break="no"/>lectionibus terminatis ad positiua entia: et illa sunt 
+      ta<lb ed="#V" n="29" break="no"/>lia realiter: et similiter entia rationis sunt realiter prohibita.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1399">
+      ¶ 2a di. 
+      <lb ed="#V" n="30"/>quia dicunt quod intelligitur realiter quantum ad abium intellectionis: 
+      <lb ed="#V" n="31"/>non tamen quantum ad respectum quem habet intellectio ad obiectum et istud non 
+      <lb ed="#V" n="32"/>valet. quia nullum obiectum intelligitur intellectione nisi vt est eius 
+      <lb ed="#V" n="33"/>vt obiecti. omne autem alicuius inquantum tale est respectiuum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1410">
+      ¶ 3 
+      <lb ed="#V" n="34"/>fficultas. quia dicunt quod respectus realis potest terminari ad ens rationis sicut 
+      <lb ed="#V" n="35"/>illa que non sunt actu actualiter intelliguntur cum sint in 
+      pu<lb ed="#V" n="36" break="no"/>ra poa. Istuod tamen stare non potest: quia tunc posset esse respectu sine omni 
+      <lb ed="#V" n="37"/>termino rei et rationis. cum sublato ente rationis maneret reus 
+      <lb ed="#V" n="38"/>realis. Et si dicatur quod tunc cessaret reus realis: tunc habetur quod ens 
+      <lb ed="#V" n="39"/>reale dependeret ab ente rationis: et esset posterius 
+      <lb ed="#V" n="40"/>articulus est si ista entia diminuta sunt 
+      <lb ed="#V" n="41"/>Secimus ad rationem relatiuam. Dicunt autem quidam quod non 
+      <lb ed="#V" n="42"/>quia sunt ipse rationes referendi. Istuod tamen dictum includit 
+      ma<lb ed="#V" n="43" break="no"/>nifestam contradictionem. quod sint entia rationis et non referantur ad 
+      <lb ed="#V" n="44"/>psam eo modo quo sunt entia rationis: et istud demonstratur 4r 
+      <lb ed="#V" n="45"/>via. Primo. quia secundum diffinitionem datam a philosophis: relatiua sunt 
+      quae<lb ed="#V" n="46" break="no"/>cumque hoc ipsum quod sunt aliorum dicuntur. et ideo quod entia sint rationis: et 
+      <lb ed="#V" n="47"/>non dicantur: vt sic referri ad rationem. videtur contradictio patens. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1443">
+               <lb ed="#V" n="48"/>¶ 2o. quia secundum diffinitionem relatiuorum datam a scienis relatiua 
+      <lb ed="#V" n="49"/>sunt ad aliud: vt patet ex. vii. de trinitate: et ideo cum entia ratio 
+      <lb ed="#V" n="50"/>nis non sint ad se: immo ad aliud scilicet ad rationem: patet quod referunt 
+      <lb ed="#V" n="51"/>ad ipsam inquantum talia.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1454">
+      ¶ 3o: quia omne productiuum refertur ad 
+      pro<lb ed="#V" n="52" break="no"/>ducens: et omnis originatus ad originans relatione secundi modi: 
+      <lb ed="#V" n="53"/>ista autem entia originata sunt a ratione et producta: et assuptum 
+      <lb ed="#V" n="54"/>patet in prima philosophia.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1464">
+      ¶ 2o. quia omne dependens ab aliquo refertur ad 
+      <lb ed="#V" n="55"/>aliud ad quod dependet cum dpendentia sit respectus. sed constat quod entia 
+      <lb ed="#V" n="56"/>rationis dependent a ratione. ergo vt dependentia referuntur ad eam¬ 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1471">
+               <lb ed="#V" n="57"/>¶ Ideo dico quod nullus ponens entia rationis potest negare quin 
+      <lb ed="#V" n="58"/>ipsa referantur ad rationem et tunc accipiuntur due regule: quarum primam 
+      <lb ed="#V" n="59"/>exprimit. et secundam inuit beatus Aug. vii. de tri. Prima est 
+      <lb ed="#V" n="60"/>quod omne quod relatiue dicitur. est aliquid excepta ipsa relatione et ideo 
+      <lb ed="#V" n="61"/>si entia rationis inquantum talia referantur ad rationem sunt aliquid 
+      ali<lb ed="#V" n="62" break="no"/>ad praeter esse rationis: quod est ratio ipsa.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1487">
+      ¶ 2a regula est quod omne quod 
+      <lb ed="#V" n="63"/>est ad aliquid prius est aliquid ad se: et ideo si ens rationis est ad 
+      <lb ed="#V" n="64"/>rationem prius erit in eo aliquid ad se: et istud erit reale cum 
+      priue<lb ed="#V" n="65" break="no"/>niat habitudinem ad rationem. Et confirmantur ista tum quia ens 
+      ratio<lb ed="#V" n="66" break="no"/>nis fundatur in ente quod dicitur rationis: cum habitudo fundetur in eo 
+      <!--498.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>quod denominat: et ista habitudo denominat istud ens. Tum quia 
+      si<lb ed="#V" n="68" break="no"/>ista habitudo scilicet quo dicitur quid rationis fundaretur in alio ente: ipsum 
+      <lb ed="#V" n="69"/>denominaret: et sic foret ens rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1509">
+      ¶ Dicunt tamen aliqui quod ista 
+      <lb ed="#V" n="70"/>habitudo qua dicitur rationis: non intelligeretur fundata esse in ente 
+      <lb ed="#V" n="71"/>rationis: tunc enim illud praecederet ipsam rationis oritonm: sed 
+      ipsa<lb ed="#V" n="72" break="no"/>met habitudo ad rationem est totum ens rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1518">
+      ¶ Sed contra istud 
+      <lb ed="#V" n="73"/>arguitur 4r. Primo. quia cum in entibus rationis ponitur idem et 
+      di<lb ed="#V" n="74" break="no"/>uersum secundum rationem: tunc habitudo identitatis esset ad rationem. et 
+      <lb ed="#V" n="75"/>sic tunc ens rationis inquantum tale esset omnino idem cum ratione.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1527">
+      ¶ 2 
+      <lb ed="#V" n="76"/>quia cum prius et posterius ponantur in entibus rationis accius istud 
+      <lb ed="#V" n="77"/>prius si esset omnino habitudo ad rationem: tunc in ratione esset poto 
+      <lb ed="#V" n="78"/>sterioritas ei opposita: et sic ratio posterior ente rationis 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1537">
+               <lb ed="#V" n="79"/>¶ Tertio. quia cum superius et inferius in entibus rationis 
+      <lb ed="#V" n="80"/>sint rationis entia accitos superioritatem se tota esset ad 
+      ratio<lb ed="#V" n="81" break="no"/>nem. tunc ratio esset inferior tali ente.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1546">
+      ¶ 4o quia cum causa 
+      <lb ed="#V" n="82"/>et effectus in entibus rationis sint rationis entia: tunc 
+      causa<lb ed="#V" n="83" break="no"/>litas rationis esset totaliter in habitudine ad rationem. et 
+      <lb ed="#V" n="84"/>sic ratio esset effectus ipsius.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1555">
+      ¶ Ideo dico quod si ponantur 
+      <lb ed="#V" n="85"/>entia rationis. vtputa dextrum et sinistrum in columna: alia est 
+      <lb ed="#V" n="86"/>habitudo eorum adinuincem. vt dexter ad sinistrum. et alia 
+      ha<lb ed="#V" n="87" break="no"/>duitudo eorum ad rationem. vnde dextrum respicit rationem sicut 
+      cau<lb ed="#V" n="88" break="no"/>sam: et finistrum sicut oppositiumm non causam. et sic cum quiditas 
+      <lb ed="#V" n="89"/>dextri sit ad sinistrum non poterit quiditatiue: secundum illam 
+      <lb ed="#V" n="90"/>habitudinem esse rationis: sed denominatiue: et sic cum quod 
+      <lb ed="#V" n="91"/>ditatiuum in quolibet precedat denominatiuum: prius erit 
+      <lb ed="#V" n="92"/>ens non rationis quam rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1575">
+      ¶ Sed oritur difficultas quia dicunt communiter quod 
+      <lb ed="#V" n="93"/>sicut tota entitas creature est in ordine ad deum. ita 
+      to<lb ed="#V" n="94" break="no"/>ta entitas rationis in ordine ad rationem. Et istud confirmas 
+      <lb ed="#V" n="95"/>propositum: quia sicut abium creature quod est sua realis enti 
+      <lb ed="#V" n="96"/>tas non est habens ordinem ad deum quiditatiue. sed 
+      de<lb ed="#V" n="97" break="no"/>nominatiue. pro eo quod repeus non potest esse de quiditate abu: ita in 
+      <lb ed="#V" n="98"/>proposito.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1591">
+      ¶ Et confirmatur. quia dextrum inquantum dextrum non est 
+      <lb ed="#V" n="99"/>nisi ad finistrum: et inquantum est nota quiditatiue 
+      presci<lb ed="#V" n="100" break="no"/>tionis: tum quia sinistrum inquantum finistrum non est rationis: 
+      <lb ed="#V" n="101"/>alioquin ratio esset ad dextrum eius: quod est absurdum. 
+      <lb ed="#V" n="102"/>articulus est: si entia rationis sunt 
+      <lb ed="#V" n="103"/>Undecimus entia simpliciter. Dicunt autem 
+      <lb ed="#V" n="104"/>communiter ponentes talia entia quod sic: quia ens 
+      simpli<lb ed="#V" n="105" break="no"/>citer diuiditur in ens rationis et reale in prima philosophia. 
+      <lb ed="#V" n="106"/>et diuisum commune inuenitur simpliciter in suins inferioribus. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1611">
+               <lb ed="#V" n="107"/>¶ Sed contra istud arguiter quarupliciter. Primo. quia quibuscum 
+      <lb ed="#V" n="108"/>que conuenit subiectum simpliciter eis conuenit passio illius 
+      <lb ed="#V" n="109"/>subiecti simpliciter: et ideo si entia rationis sunt entia simpliciter 
+      <lb ed="#V" n="110"/>idem et diuersum secundum rationem erunt idem et diuersum 
+      <lb ed="#V" n="111"/>simpliciter: et ita cum attributa ponantur in deo 
+      distin<lb ed="#V" n="112" break="no"/>cta secundum rationem: erunt distincta simpliciter: quod est falsum: alio 
+      <lb ed="#V" n="113"/>quin ista concederetur simpliciter. diuina essentia non est 
+      <lb ed="#V" n="114"/>sua voluntas aut bonitas: et eius opposita negaretur 
+      <lb ed="#V" n="115"/>simpliciter.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1634">
+      ¶ Secundo. quia cum deus et creatura 
+      con<lb ed="#V" n="116" break="no"/>ueniant in ente secundum rationem: vt istorum solertiores 
+      <lb ed="#V" n="117"/>concedunt: est ibi vnitas rationis. et tamen non dicunt vnum 
+      <lb ed="#V" n="118"/>simpliciter: et si de deo et creatura negarent. non possent 
+      <lb ed="#V" n="119"/>effugere generis vnitatem secundum rationem: et tamen vnum 
+      <lb ed="#V" n="120"/>genere non ponunt simpliciter vnum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1647">
+      ¶ Tertio. quia 
+      <lb ed="#V" n="121"/>quandocumque aliqua propositio est vera simpliciter opposita eius non vi 
+      <lb ed="#V" n="122"/>detur posse verificari nisi forte secundum quid. et ideo si propter 
+      distin<lb ed="#V" n="123" break="no"/>ctionem rationis: quam isti ponunt inter essentiam et 
+      proprie<lb ed="#V" n="124" break="no"/>tatem ista est simpliciter vera. essentia non est proprietas: 
+      <lb ed="#V" n="125"/>ista non poterit verificari nisi secundum quid. essentia est 
+      pro<lb ed="#V" n="126" break="no"/>prietas: et sic ista erunt plus distincta quam sint idem.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1663">
+      ¶ 4o 
+      <lb ed="#V" n="127"/>quia vbicunque innuenitur aliquid simpliciter ibi inueniuntur 
+      <lb ed="#V" n="128"/>differentiae ipsum concomitantes sed simplex et compositum sunt differentiae 
+      <lb ed="#V" n="129"/>concomitantes sic ens. et ideo si ens rationis est ens 
+      <lb ed="#V" n="130"/>simpliciter: compositio rationis est compositio simpliciter: 
+      <lb ed="#V" n="131"/>et cum ipsi ponant compositionem in diuina persona ex 
+      <lb ed="#V" n="132"/>essentia et relatione secundum rationem: ponerent eam componi simpliciter: quod 
+      <!--499.xml-->
+      <pb ed="#V" n="247-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>absit.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1687">
+      ¶ Ideo dico quod entia rationis non sunt entia simpliciter 
+      <lb ed="#V" n="2"/>quia omne tale secundum determinationem diminuentem: est secundum quid et 
+      <lb ed="#V" n="3"/>non simpliciter tale. ens autem rationis dicitur ens diminutum: et ideo 
+      sim<lb ed="#V" n="4" break="no"/>pliciter non est ens. sicut nec homo mortuus homo.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1696">
+      ¶ Sed oritur difficultas 
+      <lb ed="#V" n="5"/>quia superius inuenitur in suins inferioribus simpliciter. Dicitur autem 
+      <lb ed="#V" n="6"/>quod illud superius quod ponitur commune ad ens rationis non est ens 
+      <lb ed="#V" n="7"/>simpliciter. nec superius nisi secundum nomen. sicut si ens diuidatur 
+      <lb ed="#V" n="8"/>in prohibitum et non prohitum. 
+      <lb ed="#V" n="9"/>articulus est si entia rationis me 
+      <lb ed="#V" n="10"/>Duodecimus diant inter ens simpliciter. et nihil 
+      <lb ed="#V" n="11"/>et dicunt quod inter ens reale simpliciter ens et nihil reale est dare 
+      <lb ed="#V" n="12"/>entia rationis. quia nec sunt entia simpliciter. nec sunt nihil 
+      op<lb ed="#V" n="13" break="no"/>positum eis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1718">
+      ¶ Sed contra istud arguiter 4r. Primo. quia inter 
+      <lb ed="#V" n="14"/>contradictoria nullum est medium assignare: ens autem reale. et 
+      <lb ed="#V" n="15"/>nihil: sunt contradictoria: et ideo nullum est dare medium inter 
+      <lb ed="#V" n="16"/>ipsa: minor probatur: quia creatio et annihilatio ponuntur 
+      <lb ed="#V" n="17"/>inter terminos contradictorios. et ita ponuntur inter ens rea 
+      <lb ed="#V" n="18"/>le: et nihil sibi oppositum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1732">
+      ¶ 2o quia ens et nihil: quae sunt 
+      ter<lb ed="#V" n="19" break="no"/>mini creationis et annihilationis: aut sunt contraria: aut 
+      contradi<lb ed="#V" n="20" break="no"/>ctoria: aut priuatiua. aut relatiue opposita: et patet quod nullum 
+      <lb ed="#V" n="21"/>aliud oppositorum ninsi contradictoria per inductionem: et sic omnino 
+      <lb ed="#V" n="22"/>videntur immediata.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1743">
+      ¶ Tertio. quia inter ens et nihil est ma 
+      <lb ed="#V" n="23"/>xima oppositio cum in nullo conueniant: et se totis oppo 
+      <lb ed="#V" n="24"/>nantur maxima autem oppositio est contradictio et accipiuntur 
+      <lb ed="#V" n="25"/>ens et nihil secundum rem. que nihil positiuum commune habent.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1752">
+      ¶ 4o. 
+      <lb ed="#V" n="26"/>quia ens simpliciter contradicit non enti simpliciter: cum contradictio fit secundum 
+      <lb ed="#V" n="27"/>idem. et ideo cum non ens realiter sit non ens simpliciter: si 
+      <lb ed="#V" n="28"/>cut ens reale est ens simpliciter. Sequitur quod ens reale et nihil 
+      <lb ed="#V" n="29"/>sibi oppositum reale contradicunt. et sic ens rationis non mediat 
+      <lb ed="#V" n="30"/>inter ipsa.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1765">
+      ¶ Ideo dico quod entia rationis non mediant in 
+      <lb ed="#V" n="31"/>ter ens simpliciter. quod est reale: et illud nihil quod directe 
+      si<lb ed="#V" n="32" break="no"/>bi opponitur. quia non est dare quod non sit ens: aut nihil realiter 
+      <lb ed="#V" n="33"/>cum de quolibet esse vel non esse simpliciter: sicut accipit pri 
+      <lb ed="#V" n="34"/>mum principium complexum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1776">
+      ¶ Sed oritur difficultas. quia dicunt isti 
+      <lb ed="#V" n="35"/>quod licet in re ista quae dicta sunt contradicunt. et non fit dare medium 
+      <lb ed="#V" n="36"/>in re. tamen bene in ratione: istud tamen non valet. quia illa que 
+      contra<lb ed="#V" n="37" break="no"/>dicunt in re non possunt fieri nisi contradictoria per actum 
+      actio<lb ed="#V" n="38" break="no"/>nis nostre. et ideo nec mediata: cum ante rationem sint omnino 
+      <lb ed="#V" n="39"/>immediata.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1789">
+      ¶ Secunda difficultas quia dicunt alii quod non est 
+      da<lb ed="#V" n="40" break="no"/>re entia rationis sicut media inter ens realiter et nihil. 
+      <lb ed="#V" n="41"/>quia sicut ipsa non sunt entia realiter: ita sunt nihil 
+      rea<lb ed="#V" n="42" break="no"/>liter. et tunc habetur intentum. quia cum nihil realiter sit tale 
+      <lb ed="#V" n="43"/>cui circumscripto omni opere intellectus. tunc entia rationis erunt 
+      ta<lb ed="#V" n="44" break="no"/>lia isto modo.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1803">
+      ¶ Sed remanet dubium. quia dicunt quod licet 
+      <lb ed="#V" n="45"/>entia ista rationis sint nihil realiter: tamen sunt entia 
+      <lb ed="#V" n="46"/>a ratione: et istud videtur esse impossibile: quod illud quod 
+      <lb ed="#V" n="47"/>realiter habet esse positiuum vel priuatiuum: per 
+      ac<lb ed="#V" n="48" break="no"/>tum rationis fiat ens tantum rationis 
+      <lb ed="#V" n="49"/>articulus est: si per actum 
+      <lb ed="#V" n="50"/>Tertiusdecimus rationis nostre formantis 
+      <lb ed="#V" n="51"/>ista entia rationis: secundum ponentes ea: possunt verificari illa 
+      <lb ed="#V" n="52"/>que non sunt in rebus ita simpliciter.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1823">
+      ¶ Dicunt autem quod sic. 
+      <lb ed="#V" n="53"/>quia licet homo et humanitas sint idem in re. tamen propter 
+      <lb ed="#V" n="54"/>distinctionem quam facit intellectus noster inter 
+      ab<lb ed="#V" n="55" break="no"/>stractum et concretum verificatur ista propositio. homo non est 
+      <lb ed="#V" n="56"/>humanitas.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1834">
+      ¶ Sed contra istud arguitur 4r. Primo: quia 
+      <lb ed="#V" n="57"/>vbicumque non est entitas simpliciter ibi non est simpliciter veritas 
+      <lb ed="#V" n="58"/>que est passio entis. entia autem rationis: vt patuit non sunt 
+      <lb ed="#V" n="59"/>entia simpliciter. ergo in eis veritas simpliciter esse non potest. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1843">
+               <lb ed="#V" n="60"/>¶ Secundo. quia compositio rationis est compositio tantum secundum quid  
+      <lb ed="#V" n="61"/>vt fuit ostensum. Sed veritas consistit in compositione. ergo 
+      <lb ed="#V" n="62"/>veritas secundum rationem non est simpliciter veritas.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1852">
+      ¶ Tertio 
+      <lb ed="#V" n="63"/>quia omnis negatio rationis verificatur secundum distinctionem 
+      <lb ed="#V" n="64"/>rationis. et constat quod talis distinctio est secundum quid vt patuit 
+      <lb ed="#V" n="65"/>supra.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1861">
+      ¶ Quarto. quia omnis affirmatio rationis verifica 
+      <lb ed="#V" n="66"/>tur secundum identitatem rationis. ista autem identitas est secundum quid: 
+      <!--499.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>et non simpliciter: vt patuit de identitate generis. et ideo ista non 
+      <lb ed="#V" n="68"/>potest simpliciter esse vera: homo est asinus per identitatem 
+      <lb ed="#V" n="69"/>rationis. nec ista. deus non est diuinitas: propter rationis 
+      so<lb ed="#V" n="70" break="no"/>lam distinctionem: secundum viam istorum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1880">
+      ¶ Ideo dico quod 
+      nul<lb ed="#V" n="71" break="no"/>la verificatio que fit per entia tantum rationis est 
+      verifi<lb ed="#V" n="72" break="no"/>catio simpliciter. quia ille intellectus secundum beatum Augustinum. qui 
+      in<lb ed="#V" n="73" break="no"/>telligit rem simpliciter aliter quam sit: est falsus. sic autem 
+      intelli<lb ed="#V" n="74" break="no"/>git rem: et non secundum quod in se est realiter.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1891">
+      ¶ Sed oritur di. Si 
+      <lb ed="#V" n="75"/>illa que verificantur tantum secundum rationem sunt simpliciter falsa. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1896">
+               <lb ed="#V" n="76"/>¶ Uidetur autem quod sic. quia talia que a ratione sola 
+      verifi<lb ed="#V" n="77" break="no"/>cantur. non sunt vera ea circumscripta. et sic in re sunt fal 
+      <lb ed="#V" n="78"/>sa. et ideo quia talia realiter sunt simpliciter talia: sunt falsa simpliciter. 
+      <lb ed="#V" n="79"/>Et confirmatur. quia omne tale secundum quid est oppositum 
+      im<lb ed="#V" n="80" break="no"/>mediatum simpliciter. sicut homo secundum quid simpliciter est non 
+      <lb ed="#V" n="81"/>homo: Secunda difficultas. si illa que falsificantur secundum 
+      ratio<lb ed="#V" n="82" break="no"/>nem tantum: sunt simpliciter vera. et dicitur eisdem rationibus quod 
+      <lb ed="#V" n="83"/>sic. quia falsum secundum quid est verum simpliciter. et falsum secundum 
+      ra<lb ed="#V" n="84" break="no"/>tionem tantum est verum secundum rem.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1918">
+      ¶ Sed remanet dubium. 
+      <lb ed="#V" n="85"/>quia ista verificantur simpliciter. homo non est humanitas per 
+      <lb ed="#V" n="86"/>solam rationis distinctionem: et ita falsificatur. homo est 
+      <lb ed="#V" n="87"/>humanitas per eiusdem rationis identitatem sublatam. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1927">
+               <lb ed="#V" n="88"/>¶ Dicitur quod illi quin hoc dicunt semetipsos illudunt 
+      <lb ed="#V" n="89"/>cum veritas que est in re non possit auferri per rationem. 
+      <lb ed="#V" n="90"/>et realis falsitas non possit tolli per nostram 
+      considera<lb ed="#V" n="91" break="no"/>tionem. vnde si nostra consideratio verificaret falsa realiter. 
+      <lb ed="#V" n="92"/>nullus homo posset errare: cum talia sint obiectiue in 
+      <lb ed="#V" n="93"/>ratione cuiuslibet: qualia intelligit proprie. vnde in 
+      ratio<lb ed="#V" n="94" break="no"/>ne Arii. persone diuine erant essentialiter distincte: et 
+      <lb ed="#V" n="95"/>et in ratione Sabellii. vna tantum persona diuina: quia 
+      <lb ed="#V" n="96"/>sic in esse intellecto ipsorum. 
+      <lb ed="#V" n="97"/>articulus est: si ista 
+      en<lb ed="#V" n="98" break="no"/>Quartusdecimus tia rationis verificant scientiam 
+      <lb ed="#V" n="99"/>theologie.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1956">
+      ¶ Dicunt autem quod non: quia minima scire de maxi 
+      <lb ed="#V" n="100"/>minis est perfectissimum: sicut dicitur in prima philosophia de substantis 
+      se<lb ed="#V" n="101" break="no"/>paratis: et ideo licet fere omnia faciant in theologia secundum rationis 
+      or<lb ed="#V" n="102" break="no"/>dinem. tamen non putant hanc scientiam ignobilitare.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e1966">
+      ¶ Sed contra istud 
+      <lb ed="#V" n="103"/>arguitur 4r. Primo. quia veritates particulares ad entia 
+      ratio<lb ed="#V" n="104" break="no"/>nis sunt diminute sicut entitates ille. et ideo qui possunt secundum 
+      ratio<lb ed="#V" n="105" break="no"/>nem verificare conclusiones theologicas faciunt ipsas diminutas 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1975">
+               <lb ed="#V" n="106"/>¶ Secundo. quia omnia vera secundum rationem: vt patuit: sunt vera tantum secundum 
+      <lb ed="#V" n="107"/>quid: vt fuit ostensum. et omne tale secundum quid est imperfectum tale. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1982">
+               <lb ed="#V" n="108"/>¶ Tertio. quia omne verum secundum quid est simpliciter falsum. sicut 
+      <lb ed="#V" n="109"/>falsum secundum quid est simpliciter verum: et ideo facientes veritates theo 
+      <lb ed="#V" n="110"/>logicas veras tantum secundum rationem faciunt illas simpliciter falsas. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e1991">
+               <lb ed="#V" n="111"/>¶ 4o. quia omne ens reale est perfectius quocunque ente 
+      ra<lb ed="#V" n="112" break="no"/>tionis: ex illa entis famosa diuisione. sicut omnis substan 
+      <lb ed="#V" n="113"/>tia perfectior est accidente quocumque. quia sub perfectiori entis 
+      <lb ed="#V" n="114"/>differentia contenta. Et in deo si conclusiones theologice verificantur secundum rationem: 
+      <lb ed="#V" n="115"/>et physice secundum rem: nobiliores erunt iste conclusiones: et per consequens scientia. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e2004">
+               <lb ed="#V" n="116"/>¶ Ideo dico quod illi qui veritates theologicas intelligunt secundum 
+      <lb ed="#V" n="117"/>rationes tantum verificari multum faciunt theologiam diminute per 
+      <lb ed="#V" n="118"/>fectionis. sicut ille veritates multum sunt diminute: sicut cum 
+      <lb ed="#V" n="119"/>quaeritur. Utrum essentialia in diuinis praecedant personalia: sicut 
+      <lb ed="#V" n="120"/>determinat beatus Diony. in capitulo. de vnica et discreta 
+      <lb ed="#V" n="121"/>theologia. illi qui istam veritatem exponunt secundum nostram rationem. 
+      vilifi<lb ed="#V" n="122" break="no"/>cant eam: plusquam illam quae demonstratur in geometria quod triangulus 
+      <lb ed="#V" n="123"/>habet tres angulos equales duobus rectis. cum isto sit verum in 
+      <lb ed="#V" n="124"/>re. et ideo istud est melius scire quam quod essentialia praeueniant 
+      persona<lb ed="#V" n="125" break="no"/>lia in ratione nostra.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2028">
+      ¶ Sed oritur difficultas. quia licet tales veritates quae sunt 
+      <lb ed="#V" n="126"/>de ordine diuinorum ponantur ab istis secundum rationem: tamen praencipales 
+      <lb ed="#V" n="127"/>sunt de esse: vt quod deus est eternus trinus et vnus: aut intelligunt idem 
+      <lb ed="#V" n="128"/>in re. quod deus est deus. et instuod intelligit ita bene philosophus. aut non 
+      <lb ed="#V" n="129"/>idem in re. et tunc habetur propositum: aut distinctum tantum ratione. et sic illud  
+      <lb ed="#V" n="130"/>quod nouit theologus. supra. philosophum est rationis tantum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2042">
+      ¶ 2a difficultas quia cum in 
+      <lb ed="#V" n="131"/>theologia per vnum attributum demonstratur aliud: vt per causalitatem 
+      infini<lb ed="#V" n="132" break="no"/>tas per infinitatem incomprehensibilitas: aut adiscitur aliquid  
+      <!--500.xml-->
+      <pb ed="#V" n="248-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>quod ignorabatur in revel in ratione. Si in re habetur intentum. Sed 
+      <lb ed="#V" n="2"/>non acquiritur noticia nisi in ratione: quid est curandum de tali non 
+      <lb ed="#V" n="3"/>cia.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2062">
+      ¶ 3a di. quomodo veritates possunt esse necessarie cum depen 
+      <lb ed="#V" n="4"/>deant a ratione.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2067">
+      ¶ Dicitur autem quod cum nullum necessarium 
+      possi<lb ed="#V" n="5" break="no"/>dependere a contingente: nullatenus apparet quomodo de 
+      en<lb ed="#V" n="6" break="no"/>tibus rationis possit esse scientia que nullatenus possit esse de 
+      <lb ed="#V" n="7"/>contingentibus.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2076">
+      ¶ 4a di. quia dicunt aliqui quod ista necessitas scientia 
+      <lb ed="#V" n="8"/>que assumiter quo ad entia rationis non sumitur ex hoc quod sic 
+      <lb ed="#V" n="9"/>actu concipiuntur. sed ex hoc quod sic nata sunt concipi: et istud est 
+      ne<lb ed="#V" n="10" break="no"/>cessarium.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2085">
+      ¶ Dicitur autem quod istud non valet: quia talis aptitudo ad sic 
+      <lb ed="#V" n="11"/>concipi non est a ratione: sed in re. et istud partinet ad realia entia 
+      <lb ed="#V" n="12"/>articulus est si passio 
+      <lb ed="#V" n="13"/>Quintusdecimus nes entis rationi possunt 
+      in<lb ed="#V" n="14" break="no"/>ueniri in rebus: sicut idem. et diuersum: aut prius et 
+      po<lb ed="#V" n="15" break="no"/>terius ponuntur passiones entis disiuncte: et ponutur hoc 
+      <lb ed="#V" n="16"/>quatuor conclusiones.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2101">
+      ¶ Prima est quod identitas rationis non potest 
+      <lb ed="#V" n="17"/>innueniri in entibus realibus: vt sint idem realiter: quia nulla 
+      <lb ed="#V" n="18"/>passio excedit suum subiectum cum conuertatur cum ipso. iden 
+      <lb ed="#V" n="19"/>titas autem rationis est prima passio entis rationis. et ideo non potest 
+      <lb ed="#V" n="20"/>conuenire nisi enti rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2113">
+      ¶ Secunda conclusio quod 
+      distin<lb ed="#V" n="21" break="no"/>ctio rationis in entibus realibus esse non potest: quia sicut 
+      di<lb ed="#V" n="22" break="no"/>stinctio realis est adequata enti reali. ita rationis 
+      distin<lb ed="#V" n="23" break="no"/>ctio enti rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2122">
+      ¶ Et ideo sicut distinctio realis 
+      re<lb ed="#V" n="24" break="no"/>pugnat enti rationis: ita videtur repugnare distinctio rationis 
+      <lb ed="#V" n="25"/>enti reali eadem ratione.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2129">
+      ¶ Tertia conclusio quod prioritas ratio 
+      <lb ed="#V" n="26"/>nis non potest esse in realibus entibus. quia sicut prius esse 
+      <lb ed="#V" n="27"/>presupponit esse: ita prius esse tale presupponit esse 
+      ta<lb ed="#V" n="28" break="no"/>le. quemadmodum prius esse secundum naturam esse secundum naturam. et 
+      pri<lb ed="#V" n="29" break="no"/>us esse duratione: esse secundum durationem: et ideo prius esse 
+      <lb ed="#V" n="30"/>secundum rationem esse secundum rationem.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2142">
+      ¶ 4a conclusio. quod posterio 
+      <lb ed="#V" n="31"/>ritas rationis non potest esse in entibus realibus: quia omnis 
+      <lb ed="#V" n="32"/>ordo in aliquo praesupponit esse in illo: et ideo ordo in ratione 
+      <lb ed="#V" n="33"/>esse rationis in ordinatis: entia autem realia esse non possunt non 
+      <lb ed="#V" n="34"/>realia.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2153">
+      ¶ Dicunt tamen aliqui quod idem aut diuersum aut 
+      pri<lb ed="#V" n="35" break="no"/>us et posterius non sunt passiones entis rationis cum 
+      su<lb ed="#V" n="36" break="no"/>miter secundum rationem. immo sunt ipsa entia rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2160">
+      ¶ Istud tamen 
+      <lb ed="#V" n="37"/>dictum non est apparens. Tum. quia licet idem et diuersum 
+      in<lb ed="#V" n="38" break="no"/>re sint entia realia propter hoc non negatur quin sint 
+      passio<lb ed="#V" n="39" break="no"/>nes entis rationis: cum sumantur secundum rationem. immo ipsa sunt 
+      <lb ed="#V" n="40"/>entia rationis. et ita licet idem et diuersum in ratione sint entia 
+      <lb ed="#V" n="41"/>rationis: non dicitet tamen negari quin sint entis rationis passiones. 
+      <lb ed="#V" n="42"/>Tum quia sicut de entibus realibus demonstrantur propter quid 
+      <lb ed="#V" n="43"/>idem et diuersum: ita de entibus rationis idem et 
+      diuer<lb ed="#V" n="44" break="no"/>sum secundum rationem et demonstratur propter quid sicut propria pas 
+      <lb ed="#V" n="45"/>sio.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2183">
+      ¶ Sed oritur di. quia dicunt aliqui quod quando aliquid est passio 
+      ali<lb ed="#V" n="46" break="no"/>cuius adequata: potest conuenire alicui alteri subiecto sid 
+      <lb ed="#V" n="47"/>in eo sit suum subiectum: sicut passio accidentis non solum est in acci 
+      <lb ed="#V" n="48"/>dente: sed est in substantia cui in est accidens.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2192">
+      ¶ Istud tamen non 
+      <lb ed="#V" n="49"/>valet: quia licet in esse quod est passio accidentis sit in substantia 
+      <lb ed="#V" n="50"/>tamen repugnat substantie quod insit. et ita licet distinctio rationis esset in 
+      en<lb ed="#V" n="51" break="no"/>te reali: tamen repugnaret sibi distingui per ipsam.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2201">
+      ¶ Et 
+      <lb ed="#V" n="52"/>si dicatur quod disgregatiuum est passio coloris: et tamen corpus 
+      <lb ed="#V" n="53"/>disgregat: quod est coloris subiectum. et ita in proposito. Istud 
+      <lb ed="#V" n="54"/>non facit ad propositum sicut corporis passio. omnis autem 
+      <lb ed="#V" n="55"/>passio distinguit inquantum est passio distinctorum. vt patet. 
+      <lb ed="#V" n="56"/>sicut vnitas dat esse vnum inquantum est passio eorum que 
+      <lb ed="#V" n="57"/>sunt vnum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2217">
+      ¶ 2a di. quia dicunt aliqui quod distinctio rationis non 
+      <lb ed="#V" n="58"/>est ita adequata passio entis rationis. sicut distinctio 
+      rea<lb ed="#V" n="59" break="no"/>lis entis realis: et ideo licet illa conueniat soli enti reali ista 
+      <lb ed="#V" n="60"/>conuenit tam enti reali quam rationis. vt sit passio 
+      adequa<lb ed="#V" n="61" break="no"/>ta enti reali: quod diuiditur in reale et rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2228">
+      ¶ Dicitur autem 
+      <lb ed="#V" n="62"/>quod istud dictum dupliciter peccat. Primo. quia sicut ens 
+      diui<lb ed="#V" n="63" break="no"/>ditur in rationis et reale: ita et distinctio per distinctionem 
+      <lb ed="#V" n="64"/>realem et rationis. et ideo communior est distinctio diuisa quam 
+      <lb ed="#V" n="65"/>distinctio rationis. et tunc probatur demonstratiue quod 
+      <lb ed="#V" n="66"/>distinctio in communi se habeat in plusquam ens in communi: quia cuius 
+      <!--500.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>cumque inferius est praeassio adequata eius superius non 
+      <lb ed="#V" n="68"/>potest esse adequatum. immo in plus: sed distinctio 
+      ratio<lb ed="#V" n="69" break="no"/>nis: vt ponunt: est adequata enti in communi. ergo distinctio in 
+      <lb ed="#V" n="70"/>communi in plus se habet.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2254">
+      ¶ Secundo peccat: quia ponit 
+      distin<lb ed="#V" n="71" break="no"/>ctionem rationis esse passionem entis realis: cum ei conueniat per 
+      <lb ed="#V" n="72"/>accidens et contingenter: si conuenit cum accidat intelligi ei. 
+      <lb ed="#V" n="73"/>articulus est: si entia 
+      ra<lb ed="#V" n="74" break="no"/>Sextusdecimus tionis sunt in aliqu raesto. Di 
+      <lb ed="#V" n="75"/>cunt autem quod sic. et istud ponunt in quadruplici genere. 
+      Pri<lb ed="#V" n="76" break="no"/>mo. quidem in genere quantitatis discrete. quia numerum ponunt in 
+      <lb ed="#V" n="77"/>anima tantum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2273">
+      ¶ Secundo in genere quantitatis continue: quia tmpus quantum 
+      <lb ed="#V" n="78"/>ad suum formale ponunt in anima tantum et quantum ad suum formale. vna 
+      <lb ed="#V" n="79"/>queque quiditas ponitur in praesento.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2280">
+      ¶ Tertio in genere relatio 
+      <lb ed="#V" n="80"/>nis: quia omnia relatiua secundum dici ponuntur a non nullis secundum rationem. 
+      <lb ed="#V" n="81"/>vt relatio scibilis ad scientiam.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2287">
+      ¶ Quarto in genere quando: quia 
+      <lb ed="#V" n="82"/>cum quando sit reus ad tempus. et tempus sit formaliter in anima 
+      <lb ed="#V" n="83"/>reus ad ipsum non potest esse in rerum natura.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2294">
+      ¶ Sed contra 
+      <lb ed="#V" n="84"/>istud arguiter quadrupliciter. Primo. quia secundum istos ens prima 
+      <lb ed="#V" n="85"/>sui diuisione diuiditur in ens in anima: et extra animam: et 
+      <lb ed="#V" n="86"/>ens extra animam diuiditur in. x. predicamenta. et sic. x. primo 
+      <lb ed="#V" n="87"/>dicamenta cadunt sub ente reali. Sed quicquid cadit 
+      qui<lb ed="#V" n="88" break="no"/>ditatiue sub inferiori cadit quiditatiue sub superiori per 
+      <lb ed="#V" n="89"/>illam regulam: quando alterum de altero. ergo omnia genera et species 
+      <lb ed="#V" n="90"/>sub. x. predicamentis contenta sunt realia.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2312">
+      ¶ Secundo. 
+      <lb ed="#V" n="91"/>quia predicamentum quantitatis secundum suam rationem: aut est 
+      <lb ed="#V" n="92"/>ens rationis: aut reale.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2319">
+      ¶ Si rationis: nulla eius species 
+      <lb ed="#V" n="93"/>erit realis: aut indiuiduum. cum ens rationis non sit de 
+      quidi<lb ed="#V" n="94" break="no"/>tate entis realis. Si est reale ratio eius communis erit realis. 
+      <lb ed="#V" n="95"/>et sic nullum indiuiduum sub ipso contentum erit rationis: 
+      <lb ed="#V" n="96"/>cum ens reale non sit de quiditate entis rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2331">
+      ¶ 
+      Ter<lb ed="#V" n="97" break="no"/>tio. quia si predicamentum relationis est reale: nullum sub 
+      <lb ed="#V" n="98"/>eo quiditatiue contentum erit rationis. aut si ipsum 
+      prae<lb ed="#V" n="99" break="no"/>dicamentum est rationis: nullum subien ipso contentum erit reale. sicut sup¬ 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e2340">
+               <lb ed="#V" n="100"/>¶ Quarto. quia si quando esset in anima tantum ens rationis 
+      <lb ed="#V" n="101"/>tunc non esset accidens cum ens reale diuidatur in substantiam 
+      <lb ed="#V" n="102"/>et accidens. sicut in. x. predicamenta.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2349">
+      ¶ Ideo dico. quod illi quod 
+      <lb ed="#V" n="103"/>ponunt entia rationis. non debent ipsa ponere in 
+      ali<lb ed="#V" n="104" break="no"/>quo genere: cum omnia genera sub ente extra 
+      animan<lb ed="#V" n="105" break="no"/>sint contenta. nec per consequens esse substantiam: aut 
+      acci<lb ed="#V" n="106" break="no"/>dens. et ideo videntur esse vt entia prohibita: quorum 
+      <lb ed="#V" n="107"/>nulla diffinitio potest dari.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2362">
+      ¶ Sed oritur di. quia respectibus 
+      <lb ed="#V" n="108"/>rationis conuenit tota diffinitio relationis: que est esse 
+      <lb ed="#V" n="109"/>ad aliud cum sint ad aliud diffinitiue. et sic st in illo 
+      praedi<lb ed="#V" n="110" break="no"/>caio.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2371">
+      ¶ Dicitur autem quod non conuenit eis illa diffinitio nisi secundum 
+      <lb ed="#V" n="111"/>quid: sicut: homo mortuus vti est. homo est animal rationale: secundum quid. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e2376">
+               <lb ed="#V" n="112"/>¶ 2a difficultas quia secundum premissa: oportet tenere quod omnia vniversalia quae sunt 
+      <lb ed="#V" n="113"/>genera aut species sunt realia: cum cadant sub ente reali secundum quod 
+      <lb ed="#V" n="114"/>ommunia sunt.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2386">
+      ¶ Dicitur autem quod istud sequitur ex premissis: et 
+      <lb ed="#V" n="115"/>per consequens quod vnitas omnium talium est realis sicut entitas. 
+      <lb ed="#V" n="116"/>articulus est: si de 
+      en<lb ed="#V" n="117" break="no"/>Decimusseptimus tibus rationis potest esse 
+      <lb ed="#V" n="118"/>scientia: et ponuntur hoc quatuor praeambula.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2397">
+      ¶ Primum est quod 
+      nul<lb ed="#V" n="119" break="no"/>la propositio affirmatiua secundum rationem potest esse vera. quia nulla 
+      affir<lb ed="#V" n="120" break="no"/>tio verificatur nisi per identitatem subiecti et praedicati. Cum dicitur. hoc est hoc 
+      <lb ed="#V" n="121"/>Sed in omni complexione affirmatiua subiectum et praedicatum 
+      di<lb ed="#V" n="122" break="no"/>tinguuntur secundum rationem: inquantum hoc est subiectum: et illud 
+      praedica<lb ed="#V" n="123" break="no"/>tum. ergo vt sic propositio vera esse non potest affirmatiua. quia prout 
+      ali<lb ed="#V" n="124" break="no"/>qua distinguuntur secundum rationem vnum non est aliud secundum ratio 
+      <lb ed="#V" n="125"/>nem. termini autem prout ponuntur in complexione distinguunt 
+      <lb ed="#V" n="126"/>secundum rationem.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2417">
+      ¶ Secundum patabulum quod nulla necessaria propositio secundum rationem 
+      <lb ed="#V" n="127"/>potest esse falsa: quia sicut affirmatio verificatur per identitatem: ita 
+      <lb ed="#V" n="128"/>negatio per distinctionem. Sed non possunt inueniri 
+      termin<lb ed="#V" n="129" break="no"/>qui non distinguuntur secundum rationem inquantum sunt cuiuslibet 
+      com<lb ed="#V" n="130" break="no"/>plexionis: cum alia sit distinctio subiecti: et alia praedicati: 
+      <lb ed="#V" n="131"/>vt talia sunt. ergo nulla talis complexio potest esse falsa.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2430">
+      ¶ Ter 
+      <lb ed="#V" n="132"/>tium praeambulum quod ex falsis propositinibus affirmatiuis non 
+      <!--501.xml-->
+      <pb ed="#V" n="248-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>potest seui conclusio cientia quae deducitur per demonstrationem: quia 
+      demon<lb ed="#V" n="2" break="no"/>stratio est ex veris.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2446">
+      ¶ 4m praeambulum quod ex veris 
+      nega<lb ed="#V" n="3" break="no"/>tiuis non potest. sequi conclusio cientiua. quia ex puris negatiuis 
+      ni<lb ed="#V" n="4" break="no"/>hil sequitur in aliqua figura.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2453">
+      ¶ Istis autem praemissis 
+      praeambu<lb ed="#V" n="5" break="no"/>lis manifestum est quod de entibus rationis non potest esse scientia. 
+      <lb ed="#V" n="6"/>Et confirmatur istud quatat via. Primo. quia veritas 
+      scien<lb ed="#V" n="7" break="no"/>est veritas simpliciter: cum sit euidens: et euidens falsum esse 
+      <lb ed="#V" n="8"/>non possit simpliciter.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2465">
+      ¶ Illud vero quod est verum secundum quid: 
+      <lb ed="#V" n="9"/>oportet vt sit falsum simpliciter: et veritas rationis non potest esse 
+      <lb ed="#V" n="10"/>simpliciter veritas: sicut nec entitas eius.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2472">
+      ¶ 2o. quia vbi non 
+      <lb ed="#V" n="11"/>possunt esse per se nota: ibi non potest esse vera scientia cum 
+      <lb ed="#V" n="12"/>demonstratio scientifica procedat ex per se notis. nulla autem 
+      <lb ed="#V" n="13"/>veritas rationis potest esse per se nota: cum notitiam suam et eui 
+      <lb ed="#V" n="14"/>dentiam accipiat a ratione: et ideo ab alio nota.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2483">
+      ¶ 3o. quia 
+      <lb ed="#V" n="15"/>nullum necessarium potest dependere a contingente. actus 
+      <lb ed="#V" n="16"/>autem nostre rationis est contingens: et omnis veritas 
+      scientifi<lb ed="#V" n="17" break="no"/>ca est necessaria.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2492">
+      ¶ Et confirmatur. quia omnia entia rationis sum 
+      <lb ed="#V" n="18"/>per accidens: cum possint non inesse amota ratione: ex talibus 
+      <lb ed="#V" n="19"/>autem nunquam fit scientia: que est ex per se.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2499">
+      ¶ 4o. quia ista scientia quo 
+      <lb ed="#V" n="20"/>ponitur de entibus rationis est realis scientia: et per ipsam realiter 
+      <lb ed="#V" n="21"/>sciuntur talia entia: et non possunt realiter sciri nisi prout 
+      <lb ed="#V" n="22"/>scientia refertur ad scibile. ergo si realiter sciuntur 
+      reali<lb ed="#V" n="23" break="no"/>ter refertur ad ipsa scientia: et tamen relatio realis non potest esse ad 
+      <lb ed="#V" n="24"/>entia rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2512">
+      ¶ Sed oritur difficultas. quia frustra disputamus 
+      <lb ed="#V" n="25"/>de entibus rationis si non possumus deuenire ad eorum scientiam 
+      <lb ed="#V" n="26"/>et frustra de ipsis tractamus.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2520">
+      ¶ Dicitur autem quod sicut 
+      contin<lb ed="#V" n="27" break="no"/>git tractare de entibus prohibitis. aut de nullo. aut de 
+      <lb ed="#V" n="28"/>homine irrationali. cum tamen de istis nulla potest esse scientia: ita forte 
+      <lb ed="#V" n="29"/>de entibus rationis in habitudine ad realia: nisi forte 
+      di<lb ed="#V" n="30" break="no"/>catur quod talis tractatus est frustra.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2531">
+      ¶ 2a di. quia licet veri 
+      <lb ed="#V" n="31"/>tates entium rationis de facto sint a ratione: tamen ante 
+      ratio<lb ed="#V" n="32" break="no"/>nem sunt in potentia. et secundum hoc esse incommutabiliter: habent esse 
+      ne<lb ed="#V" n="33" break="no"/>cessario.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2540">
+      ¶ Istud tamen non facit ad propositum. quia si tale esse 
+      <lb ed="#V" n="34"/>habent in potentia: illud ab anima non est fabricatum: et sic est reale. 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e2545">
+               <lb ed="#V" n="35"/>¶ 3a difficultas quia secundum istum modum videntur esse euacuate scientiae 
+      ratio<lb ed="#V" n="36" break="no"/>nales: prout distinguuntur contra reales.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2552">
+      ¶ Dicitur quod 
+      il<lb ed="#V" n="37" break="no"/>le dicuntur rationales que de actibus rationis 
+      reali<lb ed="#V" n="38" break="no"/>bus: non de sigmentis: sicut in logica 
+      <lb ed="#V" n="39"/>articulus est: si ista en 
+      <lb ed="#V" n="40"/>Secimusoctauus tia rationis producuntur 
+      <lb ed="#V" n="41"/>a voluntate diuina.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2565">
+      ¶ Et dicunt aliqui quod sic. quia 
+      ipsa<lb ed="#V" n="42" break="no"/>concurrit ad actionem cuiuscunque causare efficientis secunde. 
+      <lb ed="#V" n="43"/>et ideo ratio nostra non potest causare effectiue ista entia nisi 
+      com<lb ed="#V" n="44" break="no"/>currente voluntate diuina. Et confirmatur istud dictum 
+      <lb ed="#V" n="45"/>tum quia nullum ens creatum potest agere independenter 
+      <lb ed="#V" n="46"/>ad primum: sicut nec esse. et istud concludit quo ad entia ratio 
+      <lb ed="#V" n="47"/>nis. sicut ad realia. tum quia quicquid continetur virtualiter in 
+      crea<lb ed="#V" n="48" break="no"/>tura continetur in deo virtualiter in quo virtualiter 
+      conti<lb ed="#V" n="49" break="no"/>netur omnis potentialis creatura.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2586">
+      ¶ 2o dicunt alii quod 
+      ta<lb ed="#V" n="50" break="no"/>lia entia non possunt causari a divina voluntate: quia one 
+      causa<lb ed="#V" n="51" break="no"/>tum a diuina voluntate est creatum: et talia entia non sum 
+      <lb ed="#V" n="52"/>creata. Et confirmatur. tum quia quicquid deus facit cum causa 
+      secun<lb ed="#V" n="53" break="no"/>da facit preueniendo ipsam: cum causalitas diuina sit 
+      <lb ed="#V" n="54"/>prior. sicut vniuersalior. et sic eius creatio preueniens 
+      <lb ed="#V" n="55"/>nostram rationem esset realis: et per consequens terminus realis. Tum 
+      <lb ed="#V" n="56"/>quia quicquid potest deus facere medim causa secunda effectiue potest 
+      <lb ed="#V" n="57"/>immmediate sine ea: et sic faceret entia rationis nostre sine 
+      <lb ed="#V" n="58"/>ipsa ratione.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2608">
+      ¶ Ideo dico quod si entia rationis ponantur pro 
+      <lb ed="#V" n="59"/>duci a diuina voluntate concurrente cum qualibet causa 
+      se<lb ed="#V" n="60" break="no"/>cunda non videtur quare non sint realia. et a deo creata. Si 
+      <lb ed="#V" n="61"/>vero ponantur produci a sola ratione nullo alio concur 
+      <lb ed="#V" n="62"/>rente: tunc oportet dicere quod aliqua vnitas realis in anima est 
+      qua<lb ed="#V" n="63" break="no"/>otest aliquo modo agere sine voluntate diuina. immo non 
+      <lb ed="#V" n="64"/>potest agere concurrente ipsa. immo necessario aget ipsuam 
+      <lb ed="#V" n="65"/>a se. quae videntur omnia inconuenientia. et ideo videntur entia 
+      <lb ed="#V" n="66"/>rationis esse prohibita. quia a deo non producibilia: cuius 
+      <!--501.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>sunt extra actiones realissime.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2634">
+      ¶ Sed oritur difficultas. quia 
+      di<lb ed="#V" n="68" break="no"/>cunt aliqui. quod licet deus concurrat omni actioni reali 
+      creatu<lb ed="#V" n="69" break="no"/>re: aut possit quantumcumque effectum realem per se tamen hoc non 
+      <lb ed="#V" n="70"/>est necessarium in entibus rationis: quia sunt entia diminu 
+      <lb ed="#V" n="71"/>ta et imperfecta.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2645">
+      ¶ Istud tamen non valet. quia producere 
+      <lb ed="#V" n="72"/>imperfecta nullam dicit producentis perfectionem. et ideo 
+      <lb ed="#V" n="73"/>deus ponitur causa efficiens in quibuscunque 
+      per<lb ed="#V" n="74" break="no"/>fectior. et iterum. si potentia productiua entium rationis non est 
+      <lb ed="#V" n="75"/>subordinata diuine. sicut productiua entium realium: est 
+      <lb ed="#V" n="76"/>magis independens et plus perfecta. nec etiam poterit 
+      impedi<lb ed="#V" n="77" break="no"/>ri a voluntate diuina: que videntur inconuenientia. 
+      <lb ed="#V" n="78"/>articulus est si ad diuinum 
+      <lb ed="#V" n="79"/>Secimusnonus intellectum patinet sabrica 
+      <lb ed="#V" n="80"/>re entia rationis. sicut ad nostrum: et dicunt aliqui quod sic. quia 
+      <lb ed="#V" n="81"/>non est minus efficax intellectus diuinus ad negocian 
+      <lb ed="#V" n="82"/>dum circa suum subiectum quam intellectus noster qui ex 
+      ta<lb ed="#V" n="83" break="no"/>li negociatione format entia rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2674">
+      ¶ Sed contra istud 
+      ar<lb ed="#V" n="84" break="no"/>guitur 4r. Primo. quia ista negociatio intellectus nostri 
+      <lb ed="#V" n="85"/>non fit nisi. quia intellectus humanus non potest 
+      cape<lb ed="#V" n="86" break="no"/>re rem omnino sicut est in se. Intellectus autem diuinus 
+      <lb ed="#V" n="87"/>non habet istum defectum. et ideo frustra fingeret entia talia 
+      </p>
+            <p xml:id="FrMQ88-de6484-d1e2685">
+               <lb ed="#V" n="88"/>¶ Secundo. quia ille intellectus qui intelligit obiectum 
+      perfe<lb ed="#V" n="89" break="no"/>ctissime. vt est in se. tantum non fingit circa suum obiectum entia 
+      <lb ed="#V" n="90"/>rationis: cum illa non conueniant obiecto. vt est in se. Sed 
+      intel<lb ed="#V" n="91" break="no"/>ectus diuinus intelligit perfectissime obiectum suum. vt est 
+      <lb ed="#V" n="92"/>in se. cum iste sit modus verissimus intelligendi. ergo non 
+      <lb ed="#V" n="93"/>facit talia figmenta.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2702">
+      ¶ 3o. quia quicquid deus cognoscit verissime 
+      <lb ed="#V" n="94"/>cognoscit. sed veritas rationis non est simpliciter veritas: vt 
+      <lb ed="#V" n="95"/>fuit ostensum. ergo non cognoscit aliqua cum veritatibus 
+      <lb ed="#V" n="96"/>rationis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2711">
+      ¶ Quarto. quia notitia intuitiua non est fictiua 
+      <lb ed="#V" n="97"/>entium rationis: cum sit existentis. vt existens est. sed sola 
+      ab<lb ed="#V" n="98" break="no"/>stractiua. notitia autem diuina que vnica est non est 
+      ab<lb ed="#V" n="99" break="no"/>stractiua. sed intuitiua: vt communiter conceditur. et ideo non est 
+      <lb ed="#V" n="100"/>talium entium fictiua.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2722">
+      ¶ Ideo dicuut communiter doctores 
+      <lb ed="#V" n="101"/>moderni quod diuinus intellectus non format entia 
+      ratio<lb ed="#V" n="102" break="no"/>nis: quia deus vna simplici et eterna visione cuncta 
+      com<lb ed="#V" n="103" break="no"/>plectitur secundum beatum Augustinum. 27. de tri. et noticia visiua non 
+      <lb ed="#V" n="104"/>est fictiua talium entium.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2733">
+      ¶ Sed oritur difficultas quia intellectus 
+      <lb ed="#V" n="105"/>diuinus intelligit entia prohibita quae non videntur entia 
+      <lb ed="#V" n="106"/>nisi secundum rationem. Dicitur autem quod entia prohibita non sunt 
+      pro<lb ed="#V" n="107" break="no"/>hibita secundum rationem. alioquin in re non essent prohibita. et sic 
+      <lb ed="#V" n="108"/>producibilia.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2744">
+      ¶ Secunda difficultas quia diuinus intellectus 
+      <lb ed="#V" n="109"/>videtur intelligere entia rationis: cum intelligat omnia 
+      <lb ed="#V" n="110"/>a nobis intelligibilia. Dicitur autem quod diuinus intellectus. 
+      <lb ed="#V" n="111"/>Dicitur omnia intuitiue cognoscere que cognoscit. et ideo 
+      <lb ed="#V" n="112"/>si entia rationis non sunt intuibilia. vt nonnulli putant: 
+      <lb ed="#V" n="113"/>videntur ignota deo: et talia non sunt ponenda. 
+      <lb ed="#V" n="114"/>articulus est: si entia rationis sunt 
+      <lb ed="#V" n="115"/>Uigesimus formaliter in deo.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2762">
+      ¶ Et dicit vugu 
+      <lb ed="#V" n="116"/>theologorum quod sic: quia multa verificantur de deo quae non 
+      pos<lb ed="#V" n="117" break="no"/>sunt saluari nisi secundum entia rationis: sicut cum dicitur: creator: 
+      <lb ed="#V" n="118"/>aut dinseuens: que sibi ex tempore conueniunt: cum tamen ex tempore ni 
+      <lb ed="#V" n="119"/>hil deo realiter possit conuenire.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2774">
+      ¶ Sed contra istud 
+      argui<lb ed="#V" n="120" break="no"/>tur 4r. Primo. quia quicquid est in deo formaliter est 
+      forma<lb ed="#V" n="121" break="no"/>liter deus cum simplex sit quicquid habet. vt habetur ni. de 
+      <lb ed="#V" n="122"/>ciuitate dei: entia autem rationis non sunt deus: ergo non 
+      <lb ed="#V" n="123"/>sunt in deo formaliter. alioquin per ipsa deus est formaliter 
+      <lb ed="#V" n="124"/>imperfectus.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2787">
+      ¶ Secundo ens rationis cum sit ens diminutum 
+      <lb ed="#V" n="125"/>includens formaliter imperfectionem: cum sit ens 
+      imperfectissi<lb ed="#V" n="126" break="no"/>mum. ergo non potest esse in deo formaliter.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2794">
+      ¶ Tertio. quia quicquid est 
+      <lb ed="#V" n="127"/>in deo est summe necessarium esse. alioquin contingeret ipsum 
+      <lb ed="#V" n="128"/>variari. si aliquid in eo esset contingens entia autem rationis sunt 
+      <lb ed="#V" n="129"/>summe contingentia: sicut summe dependentia. ergo non 
+      <lb ed="#V" n="130"/>possunt inueniri in deo.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2805">
+      ¶ Quarto. si entia rationis 
+      <lb ed="#V" n="131"/>in deo formaliter reciperentur. tunc deus per eorum receptio 
+      <lb ed="#V" n="132"/>nem formaliter mutaretur: eo quod se haberet formaliter aliter nunc et 
+      <!--502.xml-->
+      <pb ed="#V" n="249-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>prius. et sic deus esset mutabilis.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2821">
+      ¶ Ideo dico. quod entia 
+      <lb ed="#V" n="2"/>rationis non sunt formaliter in deo. quia tunc deus esset in 
+      <lb ed="#V" n="3"/>potentia receptiua respectu ipsorum: cum esset aptus natus 
+      <lb ed="#V" n="4"/>ea recipere. et ista naturalis aptitudo sibi inesset realiter: et sic 
+      <lb ed="#V" n="5"/>non esset purus actus.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2832">
+      ¶ Sed oritur difficultas quia dicunt alio 
+      <lb ed="#V" n="6"/>quod entia ista rationis non sunt in deo formaliter nequam secundum rem. 
+      <lb ed="#V" n="7"/>Sed secundum nostri intellectus attributionem. Et istud non 
+      <lb ed="#V" n="8"/>valet. quia sicut imperfectius est esse secundum rationem quam secundum rem: ita 
+      <lb ed="#V" n="9"/>imperfectior modus essendi est per attributionem intellectus 
+      <lb ed="#V" n="10"/>nostri quam formaliter secundum rem.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2846">
+      ¶ Secunda difficultas quia dicunt aliquin 
+      <lb ed="#V" n="11"/>quod ista entia rationis non sunt in deo: vt habent esse in se. 
+      <lb ed="#V" n="12"/>sed vt habent obiectiue esse in nostra mente.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2853">
+      ¶ Istud 
+      ta<lb ed="#V" n="13" break="no"/>men non valet. quia deus vt habet esse obiectiue in nostra 
+      men<lb ed="#V" n="14" break="no"/>te: aut est aliquid creatum: aut increatum. si creatum non 
+      fa<lb ed="#V" n="15" break="no"/>cit ad istud aritum. si increatum habetur intentum.
+    </p>
+            <p xml:id="FrMQ88-de6484-d1e2862">
+      ¶ Dico autem 
+      <lb ed="#V" n="16"/>ad questionem quod quia entia rationis ponantur communiter ab 
+      omni<lb ed="#V" n="17" break="no"/>bus doctoribus non sunt neganda. nisi forte gratia 
+      dispu<lb ed="#V" n="18" break="no"/>tationis. vt ex praecedentibus articulis exercitium habea 
+      <lb ed="#V" n="19"/>tur. Et tunc ad excrcitandum intellectum dimittende sunt 
+      <lb ed="#V" n="20"/>rationes vtriusque partis facte in principio. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

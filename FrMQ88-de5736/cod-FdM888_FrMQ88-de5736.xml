@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 5</title>
+            <author ref="#FrancisofMeyronnes">Francis de Meyronnes</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 5</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-FdM888">Venice 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="244-v"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="FrMQ88-de5736"><!-- quod-q5 -->
+            <head xml:id="FrMQ88-de5736-Hd1e108">Quaestio 5</head>
+            <p xml:id="FrMQ88-de5736-d1e111">
+               <lb ed="#V" n="20"/>a quaestio. Utrum dieus possit reuelare 
+      <lb ed="#V" n="21"/>Uin ta suam essentiam intuitiue alicui 
+      via<lb ed="#V" n="22" break="no"/>tori. Et videtur quod non. quia Exo. 3. ca. dixit Dicunt 
+      <lb ed="#V" n="23"/>lad Moysen. non videbit me homo et viuet scilicet 
+      <lb ed="#V" n="24"/>vita mortali: sicut exponit beatus Augu. et sic 
+      <lb ed="#V" n="25"/>viatori non est possibilis talis reuelatio.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e127">
+      ¶ Sed contra. quia 
+      <lb ed="#V" n="26"/>scribitur in eodem capitulo. quod loquebatur diseunus ad Moysen 
+      <lb ed="#V" n="27"/>facie ad faciem: sicut solet homo loqui ad amicum suum: sed 
+      fa<lb ed="#V" n="28" break="no"/>cialis noticia est intuitiua: igitur viator Moyses 
+      vi<lb ed="#V" n="29" break="no"/>dit deum facie ad faciem que est noticia intuitiua. 
+      <lb ed="#V" n="30"/>istam quaestionem. primo insistendum est circa verborum 
+      signifi<lb ed="#V" n="31" break="no"/>Circa cationem. et secundo circa rerum inuestigationem. 
+      <lb ed="#V" n="32"/>ad primum. quia in titulo tanguntur duo 
+      ter<lb ed="#V" n="33" break="no"/>Quantu mini dubiam habentes significationem. et 
+      <lb ed="#V" n="34"/>intuitio: et viator.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e149">
+      ¶ Ideo primo videndum est quid est 
+      <lb ed="#V" n="35"/>intuitiua noticia. et secundo quid est viator. 
+      <lb ed="#V" n="36"/>ad primam particulam quid est intuitiua 
+      noti<lb ed="#V" n="37" break="no"/>Quantu cia. dicunt communiter quod intutiua notitia est illa 
+      <lb ed="#V" n="38"/>que est de re in seipsa: quia tunc res intuetur cum in seipsa 
+      ce<lb ed="#V" n="39" break="no"/>nitur.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e162">
+      ¶ Sed contra istam diffinitionem arguitur quadrupliciter. Primo 
+      <lb ed="#V" n="40"/>quia deus intuitiue cognoscit creaturas: cum talis noticia 
+      <lb ed="#V" n="41"/>sit certissima: et tamen non nouit eas: vt sunt in seipsis: sed 
+      <lb ed="#V" n="42"/>vt sunt in eius essentia secundum beatum Aug.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e172">
+      ¶ Secundo quia sanct 
+      <lb ed="#V" n="43"/>in patria videndo divinam essentiam intuentur in ea creaturas secundum 
+      <lb ed="#V" n="44"/>beatum Aug. et tamen non cognoscunt eas in seipsis.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e179">
+      ¶ 
+      Ter<lb ed="#V" n="45" break="no"/>tio. quia deus et scti in verbo cognoscunt futura 
+      contingen<lb ed="#V" n="46" break="no"/>tia noticia matutia et non in seipsis: et tamen talis notitia dicitur 
+      <lb ed="#V" n="47"/>intuitiua cum sit euidentissima.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e188">
+      ¶ Quarto. quia deus et 
+      san<lb ed="#V" n="48" break="no"/>cti in patria intuitiue vident praeterita: cum talis noticia sit 
+      ex<lb ed="#V" n="49" break="no"/>perimentalis: et tamen non in seipsis.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e195">
+      ¶ Ideo dicit doctor 
+      sub<lb ed="#V" n="50" break="no"/>tilis. quod noticia intuitiua est illa quae est de re in seipsa: 
+      ve<lb ed="#V" n="51" break="no"/>in aliquo repraesentatiuo eam supereminenter continente: et quod 
+      <lb ed="#V" n="52"/>divina essentia supereminenter continet omnia talia. ideo omnia 
+      cogno<lb ed="#V" n="53" break="no"/>scuntur in ea intuitiue pro eo quod melius repraesentat quamlibet 
+      <lb ed="#V" n="54"/>rem quam ipsa seipsam.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e208">
+      ¶ Sed contra hoc dictum arguiter quadrupliciter. Prio 
+      <lb ed="#V" n="55"/>quia visio corporalis: sicut docet beatus Aug. xi. de tri. fit per 
+      <lb ed="#V" n="56"/>speciem sensibilem et est intuitiua secundum omnes: cum tamen illud rpraesenta. 
+      <lb ed="#V" n="57"/>tiuum non contineat obiectum supereminenter.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e217">
+      ¶ 2o quia 
+      recordatio<lb ed="#V" n="58" break="no"/>fit per specie non continentem supereminenter: et tamen ipsa videtur intuitiuem 
+      <lb ed="#V" n="59"/>cum sit eius euidentia experimtalis.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e225">
+      ¶ 3o quia priuisio futuri 
+      re<lb ed="#V" n="60" break="no"/>uelati videtur esse intuitiua cum respiciat futurum secundum omnem 
+      conditie<lb ed="#V" n="61" break="no"/>nem sue existentie.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e232">
+      ¶ 4o quia omnis noticia est de re in seipsa: cum 
+      <lb ed="#V" n="62"/>noticia non terminetur ad repraesentatiuum: sed ad illud quod prir 
+      <lb ed="#V" n="63"/>ipsum repraesentatur: et pro tanto est noticia dide re pro quanto 
+      termi<lb ed="#V" n="64" break="no"/>natur ad ipsam: et tamen non omnis noticia est intuitiua.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e241">
+      ¶ Ideo dico 
+      <lb ed="#V" n="65"/>quod ista diffinitio non videtur conueniens: quia non est determinata 
+      <lb ed="#V" n="66"/>sed disiuncta qualis non dicitet esse diffinitio: cum talis orteto sit 
+      an<lb ed="#V" n="67" break="no"/>bigua: et tunc dicitur quod noticia intuitiua est que est existentis vt 
+      <!--491.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="68"/>existens est: siue fiat immediate per obiectum: sicut cum angelus intuetur 
+      <lb ed="#V" n="69"/>suam essentiam: siue fiat per repraesentatiuum: quemadmodum dietus 
+      intue<lb ed="#V" n="70" break="no"/>tur creaturas per sua exemplaria.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e261">
+      ¶ Sed contra hanc diffinitionem 
+      im<lb ed="#V" n="71" break="no"/>statur quadrupliciter.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e266">
+      ¶ Primo. quia astrologus per suam artem quo dicitur 
+      <lb ed="#V" n="72"/>abstractiua noticia: potest habere noticiam de existentia actua 
+      <lb ed="#V" n="73"/>li eclypsis: et tamen talis noticia non est intuitiua.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e273">
+      ¶ 2o quia 
+      re<lb ed="#V" n="74" break="no"/>cordatio de praeterito videtur esse secundum omnem conditionem sue existentie 
+      <lb ed="#V" n="75"/>et tamen non videtur intuitiua.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e281">
+      ¶ 3o. quia praeuisio futuri reuelati est secundu 
+      <lb ed="#V" n="76"/>omnem conditionem sue existentie: et tamen communiter non ponitur intuitiua. 
+      </p>
+            <p xml:id="FrMQ88-de5736-d1e286">
+               <lb ed="#V" n="77"/>¶ 4o. quia quicquid potest deus causare medium causa secunda i genere causae 
+      efficien<lb ed="#V" n="78" break="no"/>tis potest immediate per se sine illo efficiente. cum ergo per obiectum 
+      possi<lb ed="#V" n="79" break="no"/>causare intuitiuam noticiam poterit per se obiecto nin existente.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e295">
+      ¶ Ad  
+      <lb ed="#V" n="80"/>prium dicitur. quod astrologus habens noticiam de eclypsi quam 
+      nunqua<lb ed="#V" n="81" break="no"/>vidit: non cognoscit eam vt existentem simpliciter: sed sub conditione 
+      <lb ed="#V" n="82"/>si cursus celi nunc continuatur: sicut continuari solet. Unde si per 
+      <lb ed="#V" n="83"/>diuinam virtutem motus celi fuisset interruptus: aut in 
+      ali<lb ed="#V" n="84" break="no"/>quo variatus: sicut fuit tempore Iosue et Exechie: astrologus 
+      <lb ed="#V" n="85"/>tunc esset deceptus: nisi supponeret illam conditionem.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e311">
+      ¶ A 
+      <lb ed="#V" n="86"/>2m dicitur. quod si illa noticia ponatur abstractiua esse: tunc 
+      intuiti<lb ed="#V" n="87" break="no"/>ua est existentis: vt existens est nunc in praesenti: et non vt fuit in prim 
+      <lb ed="#V" n="88"/>terito: aut existet in futurum.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e320">
+      ¶ Et per hoc ad tertiam 
+      instan<lb ed="#V" n="89" break="no"/>tiam.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e325">
+      ¶ Ad 4m dicitur communiter. quod licet deus posset effectiue 
+      causari<lb ed="#V" n="90" break="no"/>intuitiuam noticiam in ratione efficientis sine obiecto 
+      ipso<lb ed="#V" n="91" break="no"/>non tamen in ratione trinitatis. quia obiectum vt existens termina 
+      <lb ed="#V" n="92"/>talem noticiam: et istud partinet ad rationem diffinitiuam istius 
+      <lb ed="#V" n="93"/>noticie.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e337">
+      ¶ Sed occurrit difficultas quia secundum praemissa astroia non 
+      <lb ed="#V" n="94"/>esset vere scientia: cum non sit in ea de eclypsibus: aut coniunctioni 
+      <lb ed="#V" n="95"/>bus euidens noticia: nisi conditionata: que non sufficit ad 
+      <lb ed="#V" n="96"/>rationem scientiae.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e346">
+      ¶ Dicitur quod licet secundum theologos non sit scientia quantum 
+      <lb ed="#V" n="97"/>ad factum: bene tamen quantum ad rectam motus mensurationem. 
+      </p>
+            <p xml:id="FrMQ88-de5736-d1e351">
+               <lb ed="#V" n="98"/>¶ Secunda difficultas si noticia aliqua de futuris potest esse 
+      intui<lb ed="#V" n="99" break="no"/>tiua.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e358">
+      ¶ Dicitur quod si dieus intuitiue cognoscit futura: vt 
+      comni<lb ed="#V" n="100" break="no"/>ter concediter pro quanto videt ea: vt existentia: ita et notici 
+      <lb ed="#V" n="101"/>reuelatorum prophetis de futuris videtur esse intuitiua: quia 
+      sul<lb ed="#V" n="102" break="no"/>omni conditione existentie.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e367">
+      ¶ Tertia difficultas si recordatio 
+      di<lb ed="#V" n="103" break="no"/>preterito potest esse intuitiua.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e372">
+      ¶ Dicitur quod si deus cognoscit 
+      <lb ed="#V" n="104"/>intuitiue praeterita: sicut conceditur: quia vt existunt in 
+      sua<lb ed="#V" n="105" break="no"/>preteritione: eadem ratione et nos: cum species: aut dispositio per 
+      <lb ed="#V" n="106"/>quam fit recordatio sit experimentalis noticia concer 
+      <lb ed="#V" n="107"/>nens omnem conditionem existentie.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e384">
+      ¶ Quarta difficultas si de 
+      <lb ed="#V" n="108"/>absente potest fieri intuitiua noticia: esto quod non de non 
+      <lb ed="#V" n="109"/>existente.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e391">
+      ¶ Dicitur quod non secundum naturam. quia obiectum absens 
+      <lb ed="#V" n="110"/>ipsam causare non potest: nec speciem eius 
+      representan<lb ed="#V" n="111" break="no"/>tem existentiam: tamen bene per diuinam virtutem: quia licet respe 
+      <lb ed="#V" n="112"/>ctus causantis requirat approximationem: non tamen 
+      ratio<lb ed="#V" n="113" break="no"/>terminantis. et ideo licet intuitiua concernat necessario 
+      exi<lb ed="#V" n="114" break="no"/>stentiam: non tamen necessario presentiam.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e404">
+      ¶ Sed rema 
+      <lb ed="#V" n="115"/>net dubium quomodo intuitiua potest fieri per speciem: cum spe 
+      <lb ed="#V" n="116"/>cies representet tam existens quam non existens.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e411">
+      ¶ 
+      Dicitu<lb ed="#V" n="117" break="no"/>quod sicut sunt duo genera noticiarum scilicet intuitiua et abstract 
+      <lb ed="#V" n="118"/>ua. ita duo modi specierum. quarum quedam concernunt 
+      <lb ed="#V" n="119"/>rerum existentias: sicut ille que sunt in sensibus que non 
+      <lb ed="#V" n="120"/>manent nisi presentibus obiectis. et alia que non 
+      concer<lb ed="#V" n="121" break="no"/>nunt: sicut que sunt in potentiis interioribus: et ille faci 
+      <lb ed="#V" n="122"/>unt intuitiuam: sicut iste abstractiuam.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e427">
+      ¶ Secundum dubium 
+      <lb ed="#V" n="123"/>quod non videtur necessarium in sensu exteriore: ponere 
+      <lb ed="#V" n="124"/>speciem cum obiectum immediate sit praesens: et species non requritur 
+      <lb ed="#V" n="125"/>nisi propter obiecti absentiam.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e436">
+      ¶ Dicitur quod dupliciter solet 
+      <lb ed="#V" n="126"/>pomi species in sensu exteriori. Uno modo vt non sit 
+      <lb ed="#V" n="127"/>causa videndi: sed prius causetur ab alio quam visio: sicut 
+      <lb ed="#V" n="128"/>sol prius illuminat quam calefaciat: et tunc non est nisi propter 
+      <lb ed="#V" n="129"/>potentias interiores. Alio modo vt sit ratio cognoscendi: 
+      <lb ed="#V" n="130"/>sicut interior ratio imaginandi: et ita videtur magis intentio 
+      <lb ed="#V" n="131"/>beati Aug. xi. de tri.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e453">
+      ¶ Tertium dubium. si deus faceret 
+      <lb ed="#V" n="132"/>speciem concernentem existentiam: vt eam que est in 
+      sensu<lb ed="#V" n="133" break="no"/>particulari sine obiecto: aut conseruaret ipso destructo. 
+      <!--492.xml-->
+      <pb ed="#V" n="245-r"/>
+               <!-- first instance -->
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>si tunc obiectum videretur per ipsam.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e471">
+      ¶ Et dicitur quod non. quia 
+      <lb ed="#V" n="2"/>tunc abium talis speciei causaret amittendo respectum ad obiectum 
+      <lb ed="#V" n="3"/>per quem respectum ipsum representat formaliter. licet aliquin 
+      <lb ed="#V" n="4"/>ponant ipsam separationem impossibilem.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e480">
+      ¶ 4m dubium est. sed 
+      <lb ed="#V" n="5"/>deus faceret actum intuitiue noticie: supposita possibilitate 
+      <lb ed="#V" n="6"/>sine obiecto: si tunc esset intuitiua.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e487">
+      ¶ Dicitur quod sni esset intuitiua: nes 
+      <lb ed="#V" n="7"/>abstractiua: nec omnino noticia. sed quaedam qualitas ab. quia dtu 
+      ratio<lb ed="#V" n="8" break="no"/>ne noticie est respectus ad obiectum.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e494">
+      ¶ Utrum autem talis respe 
+      <lb ed="#V" n="9"/>ctus possit separari: nondum est clarum 
+      <lb ed="#V" n="10"/>secundam part iculam prime partis: quid est viator 
+      <lb ed="#V" n="11"/>Circa dicitur communiter quod viator est ille qui nondum attingiut 
+      <lb ed="#V" n="12"/>vltimum finem vere felicitatis: quia viator immediate 
+      diuiditi<lb ed="#V" n="13" break="no"/>ontra comprehensorem: et comprehensor non est nisi ille qui ta 
+      <lb ed="#V" n="14"/>lem attingit felicitatem.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e510">
+      ¶ Contra istam diffinitionem arguitur 4 
+      <lb ed="#V" n="15"/>Primo. quia christus fuit viator dicente hieremia de 
+      ipso<lb ed="#V" n="16" break="no"/>quare quasi colonus futurus es in terra: et quasi viator de 
+      <lb ed="#V" n="17"/>clinarnas ad manendum: et tamen ipse perfecte attingebat vltimum 
+      <lb ed="#V" n="18"/>finem.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e522">
+      ¶ 2o. quia illi qui sunt in purgatorio: communiter non dicuntur 
+      <lb ed="#V" n="19"/>viatores: et tamen non attingunt adhuc vltimum finem.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e527">
+      ¶ 3o. quia 
+      <lb ed="#V" n="20"/>illi quae sunt in lymbo numquam attingunt vltimum finem: et tamen nullus 
+      <lb ed="#V" n="21"/>ponit eos esse viatores.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e534">
+      ¶ Quarto. quia illi de inferne 
+      <lb ed="#V" n="22"/>nunquam dicuntur viatores: et tamen a fine vltimo totaliter sunt 
+      <lb ed="#V" n="23"/>auersi.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e541">
+      ¶ Ideo dico quod ad diffinitionem viatoris non sufficit 
+      <lb ed="#V" n="24"/>quod non attingat vltimum finem. sed requiritur quod tendat in 
+      <lb ed="#V" n="25"/>ipsum: quia nullus dicitur esse viator: ex eo quod non attingit illius 
+      <lb ed="#V" n="26"/>vie terminum: nisi tendat in ipsum: et ideo illi qui sunt in 
+      <lb ed="#V" n="27"/>inferno non dicuntur viatores: quia non tendunt ad felicita 
+      <lb ed="#V" n="28"/>tem a qua perpetuo sunt exclusi.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e554">
+      ¶ Sed oritur difficultas 
+      <lb ed="#V" n="29"/>quia diuisio hominis per viatorem et comprehensorem videtur esse 
+      <lb ed="#V" n="30"/>per immediata: et ideo cum illi quin de inferno non sint 
+      con<lb ed="#V" n="31" break="no"/>prehensores: videntur esse viatores.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e563">
+      ¶ Dicitur quod illa 
+      diui<lb ed="#V" n="32" break="no"/>sio non est per immediata respectu hominis in communi: sed 
+      respe<lb ed="#V" n="33" break="no"/>ctu hominis in finem vltimum ordinati: a quo illi totaliter 
+      sur<lb ed="#V" n="34" break="no"/>exclusi.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e573">
+      ¶ Secunda difficultas. si illi qui sunt in lymbo sunt 
+      via<lb ed="#V" n="35" break="no"/>tores. dicitur quod non. nec comprehensores. quia non cadunt 
+      <lb ed="#V" n="36"/>sub illo ordine qui est tendentium ad veram felictatem.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e580">
+      ¶ 3 
+      <lb ed="#V" n="37"/>difficultas. si illi de purgatorio possunt viatores dici.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e585">
+      ¶ Dicitur 
+      <lb ed="#V" n="38"/>quod sic. quia ipsi tendunt in vltimum finem et illum nondum attin 
+      <lb ed="#V" n="39"/>gunt.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e592">
+      ¶ 4a difficultas quomodo christus secundum istam diffinitionem dicitur fuisse 
+      <lb ed="#V" n="40"/>viator. quia terminum perfecte attingebat.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e597">
+      ¶ Dicitur quod ipse non 
+      <lb ed="#V" n="41"/>fuit viator quantum ad animam per quam erat beatus: sed tantum 
+      <lb ed="#V" n="42"/>quantum ad corpus: et sic tendebat in finem sue felicitatis  
+      <lb ed="#V" n="43"/>corporaliter: quam non habebat: donec resurrexit.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e606">
+      ¶ Sed 
+      re<lb ed="#V" n="44" break="no"/>manet dubium. si soli praedestinati sunt viatores cum sint es 
+      <lb ed="#V" n="45"/>deo priordinati ad veram felicitatem.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e614">
+      ¶ Dicitur quod non solum 
+      <lb ed="#V" n="46"/>preordinati: sed etiam praesciti in vita ista sunt viatores: quia 
+      <lb ed="#V" n="47"/>licet non sint ordinati in finem a deo voluntate consequente: tamen bene 
+      <lb ed="#V" n="48"/>voluntate antecedente. dicente apstuldo. quod deus vult omnes homines 
+      <lb ed="#V" n="49"/>saluos fieri. quantum ad istam voluntatem.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e625">
+      ¶ Intelligendum 
+      <lb ed="#V" n="50"/>tamen est. quod quatuor modi hominum in communi distinguuntur. quidam 
+      <lb ed="#V" n="51"/>enim sunt ita viatores quod non comprehensores: sicut nos 
+      <lb ed="#V" n="52"/>qui nullam felicitatem attingimus in eandem tendere 
+      sata<lb ed="#V" n="53" break="no"/>gentes.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e636">
+      ¶ Alii sunt ita comprehensores quod non viatores 
+      <lb ed="#V" n="54"/>sicut alii beati quae nullam spectant felicitatem: cum sint 
+      vltima<lb ed="#V" n="55" break="no"/>te felices.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e643">
+      ¶ Alii sunt simul comprehensores et viatores: 
+      <lb ed="#V" n="56"/>sicut christus viator existens secundum corpus: fuit comprehensor secundum 
+      <lb ed="#V" n="57"/>animam: quia beatus erat interius: licet exterius affligeretur 
+      </p>
+            <p xml:id="FrMQ88-de5736-d1e650">
+               <lb ed="#V" n="58"/>¶ Alii non sunt comprehensores: nec viatores: sicut ill 
+      <lb ed="#V" n="59"/>quae sunt in inferno vel in lymbo: quae sunt in vltimo 
+      termi<lb ed="#V" n="60" break="no"/>no: et non attingunt vltimum finem.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e659">
+      ¶ Sed oritur difficultas si sancti quod 
+      <lb ed="#V" n="61"/>sunt in patria quantum ad animas separatas sunt viatores: sicut 
+      <lb ed="#V" n="62"/>christus: cum per animam sint felices et expectant beatitudinem 
+      cor<lb ed="#V" n="63" break="no"/>paralem sicut christus.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e669">
+      ¶ Dicitur quod licet aliqui modo possent dici 
+      viato<lb ed="#V" n="64" break="no"/>res per talem tedentiam: tamen no omnimode sicut christus: quia non habent 
+      <lb ed="#V" n="65"/>illud corpus in quo spectant beatitudinem vel felicitatem 
+      <lb ed="#V" n="66"/>illam: sicut habuit christus. eo tamen modo quo christus fuit viator in 
+      <!--492.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>triduo: similiter isti. quia sic caruit corpore.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e685">
+      ¶ 2a difficultas si 
+      angel<lb ed="#V" n="68" break="no"/>sancti sunt viatores in eo quod tendunt in finem beatitudis acci 
+      <lb ed="#V" n="69"/>dentaliter quam merentur per misterium suum.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e692">
+      ¶ Dicitur quod sic 
+      ac<lb ed="#V" n="70" break="no"/>cidentaliter. quia isto modo tendunt in finem: quia tamen istud non partinet 
+      <lb ed="#V" n="71"/>nisi ad tantum non assistentes. Ideo illi sunt solum 
+      comprehenso<lb ed="#V" n="72" break="no"/>res.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e701">
+      ¶ Intelligendum est tamen quod cum quaestio ista intendat de il 
+      <lb ed="#V" n="73"/>lis qui tantum sunt viatores. Istorum viatorum innueniuntur 
+      qua<lb ed="#V" n="74" break="no"/>tuor modi. Quorum aliquin sunt in statu merendi et in vi 
+      <lb ed="#V" n="75"/>ta mortali: sicut nos: quia sumus mortales et mereri vi 
+      <lb ed="#V" n="76"/>lemus cum auxilio dei.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e712">
+      ¶ Alii in statu merendi et non in v 
+      <lb ed="#V" n="77"/>ta mortali: sicut fuerunt angeli ante suam confirmationem 
+      <lb ed="#V" n="78"/>quia mereri poterant cum essent immortales et puri viatores. 
+      </p>
+            <p xml:id="FrMQ88-de5736-d1e719">
+               <lb ed="#V" n="79"/>¶ Alii non in statu merendi: sed in vita mortali. sicut 
+      <lb ed="#V" n="80"/>creduntur helpas et Enoch in paradiso terrestri: quia ad 
+      <lb ed="#V" n="81"/>huc sunt morituri: vt in Apoc. de duobus testibus quos 
+      <lb ed="#V" n="82"/>interficiet antichristus: et tamen non videntur in statu meriti: alioquin 
+      <lb ed="#V" n="83"/>transcenderent omnes sanctos ex diuturnitate meritorum. 
+      </p>
+            <p xml:id="FrMQ88-de5736-d1e733">
+               <lb ed="#V" n="84"/>¶ Alii sunt viatores non in statu merendi: nec in hac 
+      vi<lb ed="#V" n="85" break="no"/>ta mortali: sicut illi de purgatorio: quia nec mori: nec me 
+      <lb ed="#V" n="86"/>reri possunt dicente diuento in Ioduamne. pro tempore mortis. venit non 
+      <lb ed="#V" n="87"/>quando nemo potest operari: et licet de omnibus istis possit esse in 
+      <lb ed="#V" n="88"/>tenus quaestionis. tamen de primis qui sunt stricte viatores: 
+      comni<lb ed="#V" n="89" break="no"/>ter intenditur. quia ad nos dirigitur qui sumus tales 
+      <lb ed="#V" n="90"/>aute secundam partem praencipalem insistendo 
+      erga<lb ed="#V" n="91" break="no"/>Cire a rerum inuestigationem. oportet considerare de felici 
+      <lb ed="#V" n="92"/>tate nostra. et fuerunt quatuor opinata.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e755">
+      ¶ Primo. quod 
+      <lb ed="#V" n="93"/>beatitudo humana consistit in actu videndi et amandi deum 
+      <lb ed="#V" n="94"/>partiatis: ita quod isti duo actus integrant vnam totalem felici 
+      <lb ed="#V" n="95"/>tatem: et secundum istam viam deus posset viatori stanti in 
+      tali<lb ed="#V" n="96" break="no"/>statu reuelare intuitiue suam essentiam: quia in essentialiter 
+      <lb ed="#V" n="97"/>ordinatis et realiter distinctis. deum potest face prius sine po 
+      <lb ed="#V" n="98"/>steriori: vt nunc supponitur. et ideo potest viatori creare visio 
+      <lb ed="#V" n="99"/>nem impedita dilectione: et tunc non erit beatus. quia posita per 
+      <lb ed="#V" n="100"/>te integrali non ponitur suum totum.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e775">
+      ¶ Secundo fuit opinatu 
+      <lb ed="#V" n="101"/>quod beatitudo nostra consistit in istis duobus actibus totaliter: 
+      <lb ed="#V" n="102"/>ita quod non integrant vnam totalem beatitudinem: sed sunt par 
+      <lb ed="#V" n="103"/>tes subiectiue beatitudinis existentis in genere. Et isto modo 
+      <lb ed="#V" n="104"/>non posset viatori comunicari intuitiua noticia: quin esset 
+      con<lb ed="#V" n="105" break="no"/>prehensor. quia cum tota ratio generis saluetur in qualibet specie: tunc 
+      <lb ed="#V" n="106"/>in solo actu intuitiuo fit beatus.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e791">
+      ¶ Tertio fuit 
+      opina<lb ed="#V" n="107" break="no"/>tum. quod beatitudo nostra non consistit essentialiter: nisi in actu 
+      i<lb ed="#V" n="108" break="no"/>telligendi: et tunc cum videns diuinam essentiam intuitiue 
+      ha<lb ed="#V" n="109" break="no"/>beat actum intelligendi perfectissimum: non potest esse nisi beatus 
+      <lb ed="#V" n="110"/>et sic non est viator hoc modo.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e802">
+      ¶ Quarto fuit opinatum 
+      <lb ed="#V" n="111"/>quod beatitudo nostra essentialiter consistit in solo actu 
+      vo<lb ed="#V" n="112" break="no"/>lendi: et secundum istum modum posset deus communicare intuitiuam 
+      <lb ed="#V" n="113"/>noticiam sue essentie alicui: et non concurrere ad actum 
+      sequen<lb ed="#V" n="114" break="no"/>tem voluntatis secundum premissa: et tunc esset viator purus. Que 
+      <lb ed="#V" n="115"/>istarum viarum sit verior alibi pertractare oportete 
+      </p>
+            <p xml:id="FrMQ88-de5736-d1e815">
+               <lb ed="#V" n="116"/>¶ Sed occurrit difficultas quomodo potest intelligi talis viator quod 
+      <lb ed="#V" n="117"/>attingit vltimum finem.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e823">
+      ¶ Dicitur quod non attingit perfecte secundum 
+      qua<lb ed="#V" n="118" break="no"/>tam viam: et in attinctione perfecta consistit felicitas: quae solum est 
+      <lb ed="#V" n="119"/>in voluntate: vnde licet in via attingamus vltimum finem per 
+      in<lb ed="#V" n="120" break="no"/>tellectum et voluntatem: tamen quia imperfecte non sumus beati.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e832">
+      ¶ 2a 
+      di<lb ed="#V" n="121" break="no"/>quia talis videns diuinam essentiam actu amoris suspcieso: non 
+      <lb ed="#V" n="122"/>videtur purus viator: sed partim viator: quao ad voluntatem: et partin 
+      <lb ed="#V" n="123"/>comprehensor: quo ad modum: sicut dicitur de christo secundum animam et 
+      corp<lb ed="#V" n="124" break="no"/>distinguendo.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e843">
+      ¶ Dicitur autem quod si ponatur felicitas in vtraque 
+      <lb ed="#V" n="125"/>potentia potest concedi. sed non si ponatur in altera tantum.
+    </p>
+            <p xml:id="FrMQ88-de5736-d1e848">
+      ¶ Ad  
+      <lb ed="#V" n="126"/>argumentum factum in principio quaestionis. patet per iam dicta. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

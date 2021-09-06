@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 15</title>
+            <author ref="#FrancisofMeyronnes">Francis de Meyronnes</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 15</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-FdM888">Venice 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="271-v"/>
+            <cb ed="#V" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="FrMQ88-e26546"><!-- quod-q15 -->
+            <head xml:id="FrMQ88-e26546-Hd1e108">Quaestio 15</head>
+            <p xml:id="FrMQ88-e26546-d1e111">
+               <lb ed="#V" n="124"/>TErtia questio est. Utrum emanatio 
+      <lb ed="#V" n="125"/>creaturarum a deo 
+      presuppo<lb ed="#V" n="126" break="no"/>nat emanationem personarum diuinarum. 
+      <lb ed="#V" n="127"/>Et videtur quod non. quia sicut scribit 
+      bea<lb ed="#V" n="128" break="no"/>tus Diony. in capis. de vnica et discreta theo 
+      <lb ed="#V" n="129"/>logia: illa que pertinent ad vnicam theologiam 
+      pre<lb ed="#V" n="130" break="no"/>ueniunt illa que pertinent ad discretam: et ab eis non 
+      <lb ed="#V" n="131"/>presupponuntur: sed emanatio personarum pertinet 
+      <lb ed="#V" n="132"/>ad discretam: sicut creatio ad vnicam: vt ibidem 
+      pa<lb ed="#V" n="133" break="no"/>tet. ergo etc.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e135">
+      ¶ Sed contra. quia beatus Aug. super Io. 
+      <!--548.xml-->
+      <pb ed="#V" n="272-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>dicit. quod sicut inter nos et vocere mediat verbum mentalem: ita 
+      <lb ed="#V" n="2"/>inter deum et creaturam quasi mediat verbum sibi consimile: cum dicat 
+      <lb ed="#V" n="3"/>scriptura: ipse dixit et facta sunt. ibi accius dicere pro 
+      eterna<lb ed="#V" n="4" break="no"/>verbi generatione: que preuenit rerum factionem. 
+      <lb ed="#V" n="5"/>ationem. prie videndum est si 
+      emana<lb ed="#V" n="6" break="no"/>Circa istam tio creaturarum in esse simpliciter 
+      pre<lb ed="#V" n="7" break="no"/>supponit emanationem diuinarum personarum. Secundo in 
+      <lb ed="#V" n="8"/>quirendum est: si emanatio creaturarum in esse secundum quid: de 
+      quo<lb ed="#V" n="9" break="no"/>fuit dictum: praesupponit ipsarum personarum productionem. 
+      <lb ed="#V" n="10"/>ad primam partem dicit quidam magnus 
+      <lb ed="#V" n="11"/>Quantum doctor quod creas que est productio 
+      sim<lb ed="#V" n="12" break="no"/>pliciter ad extra praesupponit emanationem personarum non 
+      <lb ed="#V" n="13"/>solum sicut causam sine qua non: sed sicut immediatum principium 
+      pro<lb ed="#V" n="14" break="no"/>ductiuum creaturarum: quia sicut creatus artifex non potest 
+      pro<lb ed="#V" n="15" break="no"/>ducere artificium nisi per noticiam declaratiuam et amorem 
+      in<lb ed="#V" n="16" break="no"/>tellectuum: ita deus pater non potest producere creaturam 
+      ni<lb ed="#V" n="17" break="no"/>si per verbum: quod est eius noticia declaratiua: et per spiritum 
+      <lb ed="#V" n="18"/>sanctum: qui est amor intentiumum: et ideo dicitur pater per verbum 
+      <lb ed="#V" n="19"/>omnia facere: sicut hentur per Idam idlict ca. et ita de spiritu 
+      san<lb ed="#V" n="20" break="no"/>cto.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e187">
+      ¶ Sed contra illud arguitur 4r. Primo. quia omne principium 
+      pro<lb ed="#V" n="21" break="no"/>ductiuum alicuius suppositi producentis est formaliter in 
+      <lb ed="#V" n="22"/>illo supposito: cum vnumquodque agat sicut est in actu. sed 
+      fi<lb ed="#V" n="23" break="no"/>lius et spiritus scilicet non sunt formaliter in supposito patris: 
+      ne<lb ed="#V" n="24" break="no"/>ponatur personarum confusio. ergo non sunt ei ratio agendi 
+      <lb ed="#V" n="25"/>in creatione.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e200">
+      ¶ Secunda ratio. quia principium productiuum non est quid 
+      <lb ed="#V" n="26"/>vltimum in aliqua actione cuiusquam suppositi: cum 
+      supposi<lb ed="#V" n="27" break="no"/>tum illud sit quod et ratio formalis agendi sit illi quo. et ideo 
+      <lb ed="#V" n="28"/>si filius et si scilicet sunt principium agendi ipsi patri in creatione: tunc 
+      <lb ed="#V" n="29"/>ipse solus pater erit quod creans et s. iscilict cum filio quo. in tali 
+      <lb ed="#V" n="30"/>creatione.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e214">
+      ¶ Et confirmatur illa ratio: quia sicut docet 
+      bea<lb ed="#V" n="31" break="no"/>tus Aug 1. de tri. tres persone diuine vniformiter creant. 
+      <lb ed="#V" n="32"/>tunc autem difformiter: quia pater nulli est ratio agendi: sed 
+      fi<lb ed="#V" n="33" break="no"/>lius et s scilicet sunt ratio agendi ipsi patri.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e223">
+      ¶ Tertia ratio. quia 
+      <lb ed="#V" n="34"/>per prius conuenit omnis actio principio actiuo quam supposito 
+      <lb ed="#V" n="35"/>agendi: cum supposito conueniat per formam qua agit 
+      <lb ed="#V" n="36"/>et ideo si ratio formalis creandi ipsi patri est filius et is scilicet se 
+      <lb ed="#V" n="37"/>quitur quod creatio per prius conueniat filio et spiritui 
+      san<lb ed="#V" n="38" break="no"/>cto quam patri. cum tamen filius et i stilicet vt patuit supra habeant 
+      <lb ed="#V" n="39"/>creare a patre: sicut et esse.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e239">
+      ¶ Quarta ratio. quia nullum 
+      <lb ed="#V" n="40"/>suppositum potest esse alicui ratio formalis agendi quo 
+      <lb ed="#V" n="41"/>cum omne quo sit aliquo modo communicabile illi quod 
+      <lb ed="#V" n="42"/>cui dat agere formaliter: et dato quod esset possibile: nullum 
+      <lb ed="#V" n="43"/>tamen suppositum relatiuum formaliter potest esse quo 
+      <lb ed="#V" n="44"/>actioni que requirit infinitam virtutem: vt est creatio: 
+      <lb ed="#V" n="45"/>cum ratio formalis talis suppositi infinita esse non 
+      pos<lb ed="#V" n="46" break="no"/>sit.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e257">
+      ¶ Ideo dico quod sicut pater et filius producunt spicitum 
+      san<lb ed="#V" n="47" break="no"/>ctum per vnam voluntatem quam habent in se formaliter: 
+      <lb ed="#V" n="48"/>ta pater et filius et  scilicet producunt creaturam per vnam 
+      <lb ed="#V" n="49"/>poluntatem quam habent in se formaliter: tamquam per principium quo 
+      <lb ed="#V" n="50"/>et non per ipsas personas origines aut personas: vnde 
+      <lb ed="#V" n="51"/>dicit beatus Aug. 5. de trinita. quod sicut pater et filius sunt 
+      <lb ed="#V" n="52"/>vnum principium quo spiritus sancti: ita pater et filius et is scilicet 
+      <lb ed="#V" n="53"/>sunt vnum principium quo creature.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e275">
+      ¶ Sed oritur difftiacul. si 
+      <lb ed="#V" n="54"/>posito quod creatio non presupponat emanationem 
+      diui<lb ed="#V" n="55" break="no"/>narum personarum. vt rationem agendi: si presupponit 
+      <lb ed="#V" n="56"/>eam aliquo modo.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e284">
+      ¶ Dicitur autem quod sic. quia omnis 
+      <lb ed="#V" n="57"/>actio contingens et temporalis alicuius suppositi 
+      praesup<lb ed="#V" n="58" break="no"/>ponit eius actionem eternam et temporalem si eam 
+      ha<lb ed="#V" n="59" break="no"/>bet: cum ex natura sua contingentia et temporalia sint 
+      po<lb ed="#V" n="60" break="no"/>steriora eternis et necessariis: et si daretur quod actio 
+      diui<lb ed="#V" n="61" break="no"/>na circa creaturas esset necessaria et eterna. sicut 
+      dice<lb ed="#V" n="62" break="no"/>bant philosophi: adhuc emanatio interior esset naturaliter prior: 
+      <lb ed="#V" n="63"/>quia quicquid est in causa prima est prius natura quocumque 
+      <lb ed="#V" n="64"/>in creatura: sicut ipsa natura preuenisset suum effectum 
+      <lb ed="#V" n="65"/>et omnia que sunt in ea: idem illi: nunc autem emanatio 
+      <lb ed="#V" n="66"/>personarum personaliter est in deo: et emanatio creatu¬ 
+      <!--548.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>rarum formaliter in ipsis creatis: et ideo nulli dubium quin 
+      <lb ed="#V" n="68"/>emanaus creaturarum praesupponat aliquo modo perso 
+      <lb ed="#V" n="69"/>narum diuinarum emanationem.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e320">
+      ¶ Secunda difficultaes per quom 
+      <lb ed="#V" n="70"/>modum praesupponit emanatio creaturarum ipsam perso 
+      <lb ed="#V" n="71"/>narum emanationem.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e327">
+      ¶ Dicitur autem quod hoc est talis 
+      or<lb ed="#V" n="72" break="no"/>do. qualis est inter effectus essentialiter ordinatos: quia 
+      <lb ed="#V" n="73"/>videmus quod quandocumque aliquod agens continet in virtute 
+      ali<lb ed="#V" n="74" break="no"/>quos effectus essentialiter ordinatos: non potest in 
+      po<lb ed="#V" n="75" break="no"/>steriorem nisi prius producat priorem: et ideo quia dicere 
+      <lb ed="#V" n="76"/>et spirare habent talem ordinem: ideo diuina essentia non 
+      <lb ed="#V" n="77"/>potest esse principium spirandi nisi prius fuerit generandi et per 
+      <lb ed="#V" n="78"/>illum modum non potest esse principium creandi nisi fuerit principium 
+      <lb ed="#V" n="79"/>generandi et spirandi.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e347">
+      ¶ Sed remanet dubium. si 
+      circumscri<lb ed="#V" n="80" break="no"/>pta per impossibile emanatione ad intra: deus posset 
+      ali<lb ed="#V" n="81" break="no"/>quod producere ad extra.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e354">
+      ¶ Dicitur autem quod sicut dicit 
+      <lb ed="#V" n="82"/>doctor subtilis: quando sunt duo effectus essentialiter 
+      or<lb ed="#V" n="83" break="no"/>dinati maior est connexio effectuum illorum ad causam 
+      quan<lb ed="#V" n="84" break="no"/>ad se inuincem: cum non habeant habitudinem inuicem: 
+      <lb ed="#V" n="85"/>nisi propter causam: et ideo si circumscribatur prior effectus 
+      <lb ed="#V" n="86"/>adhuc posterior est cause attribuendus: sicut per prius 
+      <lb ed="#V" n="87"/>conuenit igni calefacere quam ignire: et ideo dico quod quamuis 
+      <lb ed="#V" n="88"/>non posset calefacere: adhuc ignire posset: quia propter minus 
+      <lb ed="#V" n="89"/>impossibile non est ponendum maius impossibile: et ideo 
+      <lb ed="#V" n="90"/>quia maius impossibile est amouere nexum causare et effectus 
+      <lb ed="#V" n="91"/>quam duorum inuincem effectuum: qui aufert a deo potentiam 
+      <lb ed="#V" n="92"/>generandi: non debet ei auferre potentiam creandi ex haet: 
+      <lb ed="#V" n="93"/>sicut philosophi intellexerunt deum creantem et non 
+      generan<lb ed="#V" n="94" break="no"/>te.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e385">
+      ¶ Unde dicit Ricar. de tri. quod si in diuinis non esset 
+      <lb ed="#V" n="95"/>nisi vna persona adhuc haberet omnem plenitudinem 
+      <lb ed="#V" n="96"/>perfectionis.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e392">
+      ¶ Intelligendum tamen est quod 
+      aliquan<lb ed="#V" n="97" break="no"/>do effectus habent essentialem ordinem secundum rem: sicut 
+      <lb ed="#V" n="98"/>intelligere et velle: aliquando solum in habitudine ad causam: 
+      <lb ed="#V" n="99"/>sicut alterare et gignere: et licet in primis negato posteriori 
+      <lb ed="#V" n="100"/>negatur prius: non tamen in secundis per eandem causam. 
+      <lb ed="#V" n="101"/>partem questionis. videre 
+      <lb ed="#V" n="102"/>Circa secundam dum est. quod emanatio 
+      crea<lb ed="#V" n="103" break="no"/>turarum in esse intellecto presupponit emanationem 
+      <lb ed="#V" n="104"/>diuinarum personarum: aut preuenit ipsam 
+      emanatio<lb ed="#V" n="105" break="no"/>nem creaturarum in esse cognito: quia omnia que conueniunt deo 
+      <lb ed="#V" n="106"/>ad intra praeueniunt secundum ordinem naturae: illa que conueniunt 
+      <lb ed="#V" n="107"/>ei in habitudine ad extra.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e419">
+      ¶ Quod autem habitudo ad intra sit 
+      <lb ed="#V" n="108"/>prior naturaliter: declaratur dupliciter.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e424">
+      ¶ Primo. quia omnis potentia 
+      <lb ed="#V" n="109"/>habens primarium et secundaria obiecta operatur prius 
+      cir<lb ed="#V" n="110" break="no"/>ca suum obiectum primarium quam circa obiecta secundaria: et ideo 
+      <lb ed="#V" n="111"/>cum personarum emanatio sit circa obiectum primarium: et 
+      <lb ed="#V" n="112"/>omnia que sunt ad intra: in cognoscendo enim et volendo 
+      <lb ed="#V" n="113"/>diuinam essentiam est actus dicendi et spirandi circa: eam omnia 
+      <lb ed="#V" n="114"/>autem ad extra sunt obiecta secundaria illa sunt posteriora. 
+      </p>
+            <p xml:id="FrMQ88-e26546-d1e440">
+               <lb ed="#V" n="115"/>¶ Secundo. quia omnis habitudo ad intra est in deo formaliter: 
+      <lb ed="#V" n="116"/>et est identice ipse deus: omnis autem habitudo ad extra est 
+      <lb ed="#V" n="117"/>formaliter in obiecto secundario: ergo cum deum sit prior 
+      <lb ed="#V" n="118"/>creatura et ea que sunt in eo habitu intrinseca erunt 
+      prae<lb ed="#V" n="119" break="no"/>ma: et sic patet quod in primo signo sunt omnia intrinseca: et in 
+      <lb ed="#V" n="120"/>secundo omnia extrinseca: et ideo prior est personarum 
+      <lb ed="#V" n="121"/>emanatio quam creaturarum intellectio.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e458">
+      ¶ Sed contra illud 
+      <lb ed="#V" n="122"/>instatur 4r. Primo. quia secundum beatum Diony. in. 2. capis. de 
+      <lb ed="#V" n="123"/>diui. nomi. illa que sunt communia tribus personis sunt 
+      <lb ed="#V" n="124"/>priora illis que sunt propria vnicuique: intelligere autem 
+      <lb ed="#V" n="125"/>creaturas: conuenit omnibus: et tamen non generare: aut spi 
+      <lb ed="#V" n="126"/>rare.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e471">
+      ¶ Secundo. quia sicut determinat doctor 
+      sub<lb ed="#V" n="127" break="no"/>tilis: cuius auctoritatem admittimus: actus 
+      intelligen<lb ed="#V" n="128" break="no"/>di in supposito patris: preit actum generandi: sed 
+      eo<lb ed="#V" n="129" break="no"/>dem actu deus intelligit omnia. vt docet beatus Aug. 19. 
+      <lb ed="#V" n="130"/>de trini. ergo prius intelligit creaturam quam generet 
+      ver<lb ed="#V" n="131" break="no"/>bum.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e484">
+      ¶ Tertio. quia pater in illo priori originis quae 
+      praece<lb ed="#V" n="132" break="no"/>dit verbum: aut primo signo intelligit creaturam cum et 
+      <!--549.xml-->
+      <pb ed="#V" n="272-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>a se intelligat eam: et ideo cum in 2o signo verbum sit 
+      geni<lb ed="#V" n="2" break="no"/>tum: prius pater intelliget creaturam quam verbum sit genitum. 
+      </p>
+            <p xml:id="FrMQ88-e26546-d1e501">
+               <lb ed="#V" n="3"/>¶ Quarto. quia in eodem signo originis quo pater generat 
+      ver<lb ed="#V" n="4" break="no"/>bum intelligit creaturam: eo quod vtrumque conuenit enim a se: sed in 
+      <lb ed="#V" n="5"/>vno signo originis non includuntur due naturae: sed econverso ideo non 
+      <lb ed="#V" n="6"/>prius nam gignet quam intelliget creaturam.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e512">
+      ¶ Ad primum quod 
+      il<lb ed="#V" n="7" break="no"/>la regula est intelligenda quo ad illa que sunt formaliter 
+      <lb ed="#V" n="8"/>in deo ad intra: et ideo cum tales habitudines ad extra in deo 
+      <lb ed="#V" n="9"/>formaliter non reperiantur tunc regula est exponenda quo 
+      <lb ed="#V" n="10"/>ad omnia ad intra.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e523">
+      ¶ Ad 2m. quod licet actus intelligendi qui deus 
+      <lb ed="#V" n="11"/>intelligit creaturam preueniat actum generandi: vt patet in 
+      pri<lb ed="#V" n="12" break="no"/>mo: tamen non vt terminatur ad creturam. quia vt sic habet 
+      ha<lb ed="#V" n="13" break="no"/>bitudinem ad obiectum secundum.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e532">
+      ¶ Ad 3m. quod illa signa originis 
+      <lb ed="#V" n="14"/>attenduntur inter diuinas personas quo ad duo: quo ad 
+      <lb ed="#V" n="15"/>esse: secundum quod vna persona est ab alia: et quo ad operari: secundum quod 
+      <lb ed="#V" n="16"/>vna persona ab alia operatur: et secundum illa licet pater fit prior filio: 
+      com<lb ed="#V" n="17" break="no"/>parando signum essendi: alioquin cum pater prius creet quam filius 
+      <lb ed="#V" n="18"/>vt patet quam filius esset: et ita hoc: sicut prius est filius quam 
+      pa<lb ed="#V" n="19" break="no"/>ter creet: ita prius est filius genitus quam pater intelligat crea 
+      <lb ed="#V" n="20"/>turam.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e550">
+      ¶ Ad 4m. quod sicut in vno signo naturae includuntur 
+      <lb ed="#V" n="21"/>plura signa originis: quemadmodum subtilis doctor 
+      po<lb ed="#V" n="22" break="no"/>nit duo signa naturae esse fecunditatis intellectiue et volitiue. 
+      <lb ed="#V" n="23"/>et in quolibet illorum sunt duo signa originis: secundum quod in qualibet 
+      <lb ed="#V" n="24"/>fecunditate est hoc ab hoc: ita econverso in quolibet signo originis 
+      <lb ed="#V" n="25"/>sunt duo signa vel plura naturae ponere: quemadmodum in 
+      <lb ed="#V" n="26"/>illo signo quo pater preuenit secundum originem filium: constat ex 
+      <lb ed="#V" n="27"/>essentia et paternitate: et essentia praeuenit paternitatem secundum alium 
+      <lb ed="#V" n="28"/>ordinem: quia originis: et ita in proposito: sicut fuit declaratum 
+      <lb ed="#V" n="29"/>in primo.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e572">
+      ¶ Sed oritur difficultas quomodo potest concedi illa 
+      circu<lb ed="#V" n="30" break="no"/>latio: cum in essentialiter ordinatis: circulatio non 
+      admit<lb ed="#V" n="31" break="no"/>tatur.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e580">
+      ¶ Dicitur autem quod cum isti ordines sint diuersarum rationum: 
+      <lb ed="#V" n="32"/>sicut ordo qui est in quantitate successiua in habitudine ad 
+      <lb ed="#V" n="33"/>permanentem: sicut in eodem innstanti possunt produci duo 
+      pun<lb ed="#V" n="34" break="no"/>cta. et econverso vnus punctus potest esse in duobus instantibus 
+      <lb ed="#V" n="35"/>ita in proposito: inter signa originis et nature in communi 
+      <lb ed="#V" n="36"/>non est ordo essentialis.
+    </p>
+            <p xml:id="FrMQ88-e26546-d1e593">
+      ¶ Et patet ad argumentum in 
+      princi<lb ed="#V" n="37" break="no"/>pio questionis per iam dicta.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

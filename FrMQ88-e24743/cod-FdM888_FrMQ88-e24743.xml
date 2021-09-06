@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 13</title>
+            <author ref="#FrancisofMeyronnes">Francis de Meyronnes</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 13</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-FdM888">Venice 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="269-v"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="FrMQ88-e24743"><!-- quod-q13 -->
+            <head xml:id="FrMQ88-e24743-Hd1e108">Quaestio 13</head>
+            <p xml:id="FrMQ88-e24743-d1e111">
+               <lb ed="#V" n="25"/>quaestio fuit: vtru 
+      <lb ed="#V" n="26"/>Ertiadecima tres persone bea 
+      <lb ed="#V" n="27"/>tissime trinitatis seruent ordinem originis 
+      in<lb ed="#V" n="28" break="no"/>creando: ita quod vna diuina persona primo 
+      pro<lb ed="#V" n="29" break="no"/>ducat creaturam secundum ordinem originis quam 
+      <lb ed="#V" n="30"/>alia. Et videtur quod non. quia sicut scribit beatus Auguus. peo 
+      <lb ed="#V" n="31"/>de trinitate. persone diuine sicut inseparabiles sunt. ita 
+      <lb ed="#V" n="32"/>inseparabiliter operantur. Et ideo vna non potest primo 
+      opera<lb ed="#V" n="33" break="no"/>ri quam alia.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e133">
+      ¶ Ite idem beatus Augustius in o de trinitate. 
+      di<lb ed="#V" n="34" break="no"/>cit quod sicut pater et filius sunt vnum principium spiritus sancti 
+      <lb ed="#V" n="35"/>ita pater et filius et spiritus sanctus sunt vnum principium 
+      crea<lb ed="#V" n="36" break="no"/>ture. sed in vno inquantum vnum est non est ordo. 
+      erge<lb ed="#V" n="37" break="no"/>persone diuine in producendo creaturam nullum ordinem 
+      ha<lb ed="#V" n="38" break="no"/>bent.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e146">
+      ¶ Sed contra. quia sicut docet beatus hxlarius in 
+      li<lb ed="#V" n="39" break="no"/>bro suo. de trinitate. Quicquid habet filius habet per 
+      na<lb ed="#V" n="40" break="no"/>tiuitatem. ergo cum ipse sit creator erit creator a patre: 
+      <lb ed="#V" n="41"/>et hoc est originis ordo.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e155">
+      ¶ Item beatus Augustius. xv. de 
+      trini<lb ed="#V" n="42" break="no"/>tate. Dicit quod filius nihil habet nisi a patre: et spiritus sanctus 
+      <lb ed="#V" n="43"/>nihil nisi a patre et filio. vbicumque est autem origo ibi est 
+      ori<lb ed="#V" n="44" break="no"/>ginis ordo. Et ideo cum diuine persone causent secundum originem: 
+      <lb ed="#V" n="45"/>ordo originis in earum causatione erit seruatus. 
+      <lb ed="#V" n="46"/>questionem: sunt inuestiganda 
+      <lb ed="#V" n="47"/>Circam istan quatuor puncta.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e172">
+      ¶ Quorum 
+      pri<lb ed="#V" n="48" break="no"/>mum est: quid est ordo origis.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e177">
+      ¶ Secundum est: si ille ordo ori 
+      <lb ed="#V" n="49"/>ginis est inter diuinas personas: quantum ad esse.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e182">
+      ¶ Tertium 
+      <lb ed="#V" n="50"/>quantum ad operari ad intra.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e187">
+      ¶ 4m: in operando ad 
+      extra<lb ed="#V" n="51" break="no"/>punctum. dicit doctor subt 
+      <lb ed="#V" n="52"/>Circa primum lis: a quo illa difficultas 
+      ha<lb ed="#V" n="53" break="no"/>buit ortum: quod ordo originis est ille: secundum quem hoc est ab hoc 
+      <lb ed="#V" n="54"/>sicut ordo eminentie est ille secundum quem hoc est supra illud: secundum 
+      <lb ed="#V" n="55"/>gradum perfectionis in quiditatibus vniuersi.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e200">
+      ¶ Sed 
+      con<lb ed="#V" n="56" break="no"/>tra illam diffinitionem instatur quadrupliciter. Primo. quia inter 
+      <lb ed="#V" n="57"/>causam finalem et suum effectum: videtur esse ordo origis 
+      <lb ed="#V" n="58"/>nis: cum omnis effectus oriatur a sua causa. et tamen non 
+      <lb ed="#V" n="59"/>est ibi hoc ab hoc: sed hoc propter illud.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e211">
+      ¶ Secundo. quia 
+      <lb ed="#V" n="60"/>inter causam materialem: et suum effectum ponitur 
+      ta<lb ed="#V" n="61" break="no"/>lis ordo: cum forma originetur a materia: et tamen non est 
+      <lb ed="#V" n="62"/>ibi hoc ab hoc. sed hoc ex hoc.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e221">
+      ¶ Tertio. quia aliquin 
+      po<lb ed="#V" n="63" break="no"/>nunt quod in supposito patris praeuenit secundum ordinem originis 
+      <lb ed="#V" n="64"/>nis aliqua operatio actum generandi antequam est hoc ab hoc 
+      <lb ed="#V" n="65"/>in diuinis.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e230">
+      ¶ Quarto. quia omnes doctores concedunt 
+      <lb ed="#V" n="66"/>hoc ab hoc in diuinis: tanquam necessario creditum: et 
+      ta<lb ed="#V" n="67" break="no"/>men non omnes ponunt: immo multi istum originis ordi¬ 
+      <!--543.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="68"/>nem negant.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e243">
+      ¶ Ad primum: quod inter causam finalem et suun 
+      <lb ed="#V" n="69"/>effectum: non est origo proprie: nec ordo originis: cum 
+      <lb ed="#V" n="70"/>ordo originis non sit nisi in actu. nullum enim in potentia 
+      <lb ed="#V" n="71"/>originatur: et cum causalitas finis sit in entibus in 
+      pote<lb ed="#V" n="72" break="no"/>tia: vt infra patebit.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e254">
+      ¶ Ad 2m. quod origo proprie sumpta 
+      <lb ed="#V" n="73"/>non est nisi in efficientibus aut producentibus secundum quod hoc est 
+      <lb ed="#V" n="74"/>sumpta: nec proprie forma oritur a materia: sed ex materia: secundum 
+      <lb ed="#V" n="75"/>loquutiones philosophorum.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e263">
+      ¶ Ad 3m. quod illi quin ponunt 
+      or<lb ed="#V" n="76" break="no"/>dinem originis inter intellectionem eterni patris et eium 
+      <lb ed="#V" n="77"/>generationem: cum inter talia nulla sit origo: alioquin in 
+      <lb ed="#V" n="78"/>patre foret aliquid originatum: non loquuntur scholasti 
+      <lb ed="#V" n="79"/>ce: putantes habere documenta subtilis doctoris: ex verbo 
+      <lb ed="#V" n="80"/>rum superficie.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e276">
+      ¶ Ad quartum. quod illi qui negant talem 
+      or<lb ed="#V" n="81" break="no"/>dinem in diuinis: cum concedant ibi hoc ab hoc concedunt: 
+      <lb ed="#V" n="82"/>vt patuit: diffinitionem: et negant diffinitum: et non negant 
+      <lb ed="#V" n="83"/>rem: sed nomen tantum. Dicit autem beatus Augustinus. 
+      <lb ed="#V" n="84"/>de quantitate anime. quod de nominibus curandum non est 
+      <lb ed="#V" n="85"/>cum res manifesta sit.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e290">
+      ¶ Sed oritur difficultas. si ille ordo 
+      ori<lb ed="#V" n="86" break="no"/>ginis differt ab ipsa origine. Dicitur autem quod sicut 
+      orde<lb ed="#V" n="87" break="no"/>eminentie: non videtur aliud ab ipsa excellentia vnius ad 
+      <lb ed="#V" n="88"/>alterum. ita nec ordo originis ab ipsa origine: nisi 
+      fo<lb ed="#V" n="89" break="no"/>te secundum rationem formalem: aliquo modo. 
+      <lb ed="#V" n="90"/>punctum: dicunt doctore 
+      <lb ed="#V" n="91"/>Circa secundum moderi communiter quod inter 
+      <lb ed="#V" n="92"/>personas diuinas est ordo originis secundum primum 2m et 3m.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e308">
+      ¶ Et 
+      <lb ed="#V" n="93"/>veritas declaratur quadrupliciter. Primo. quia vbi est distinctio 
+      si<lb ed="#V" n="94" break="no"/>ne ordine est confusio. Et ideo cum diuine persone sint 
+      distin<lb ed="#V" n="95" break="no"/>cte: oportet vt sint ordinate.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e317">
+      ¶ Secundo. quia prius et principium idem sunt 
+      <lb ed="#V" n="96"/>Et ideo cum pater fit principium filii et vterque: spiritus 
+      sancti<lb ed="#V" n="97" break="no"/>oportet. vt pater sit prima persona et filius secunda. et spiritus 
+      san<lb ed="#V" n="98" break="no"/>ctus tertia.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e326">
+      ¶ Tertio. quia beatus Augustinus. in libus 
+      <lb ed="#V" n="99"/>de triplici habitaculo ex intentione posuit ordinem 
+      in<lb ed="#V" n="100" break="no"/>ter diuinas personas.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e333">
+      ¶ Quarto. quia beatus Dionysi 
+      <lb ed="#V" n="101"/>in capitulo de vnica et discreta theologia ponit 
+      hyerar<lb ed="#V" n="102" break="no"/>chiam supercelestem: que non potest esse nisi diuinarum 
+      perso<lb ed="#V" n="103" break="no"/>narum: cum celestis sit angelorum. Et tamen secundum ipsum hxe 
+      <lb ed="#V" n="104"/>rarchia est sacer ordo. Dicit tamen vulgus theologorum 
+      <lb ed="#V" n="105"/>quod licet inter diuinas personas sit ordo originis inter per 
+      <lb ed="#V" n="106"/>sonas: sicut inter primum et 2m: non tamen sicut inter prius et 
+      <lb ed="#V" n="107"/>posterius. dicebat enim vnus doctor quod gradus positiuus 
+      <lb ed="#V" n="108"/>non infert comparatiuum. Et ideo primum non infert prius 
+      </p>
+            <p xml:id="FrMQ88-e24743-d1e353">
+               <lb ed="#V" n="109"/>¶ Istud tamen est ad oppositum: quia omnis gradus suplatiuus 
+      <lb ed="#V" n="110"/>prosupponit comparatiuum: sicut ille positiuum: cum sint 
+      es<lb ed="#V" n="111" break="no"/>sentialiter ordinati isti gradus. sed primum est gradus 
+      super<lb ed="#V" n="112" break="no"/>latiuus: cuius prius est gradus comparatiuum: ergo vbicunque 
+      <lb ed="#V" n="113"/>primum: ibi est prius: quod autem primum sit gradus suplatiuus: 
+      <lb ed="#V" n="114"/>et non positiuus quadrupliciter declaratur.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e370">
+      ¶ Primo 
+      qui<lb ed="#V" n="115" break="no"/>dem grammaticaliter. quia grammatici sic comparant: non 
+      <lb ed="#V" n="116"/>minatiuo: pridem: prior. primus.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e377">
+      ¶ Secundo logicali 
+      <lb ed="#V" n="117"/>ter: quia secundum logicos quod per superabundantiam dicitur. idest 
+      su<lb ed="#V" n="118" break="no"/>perlatiue vni soli conuenit: ita quod pluribus conuenit ratio 
+      <lb ed="#V" n="119"/>positiui quam comparatiui: et pluribus comparatiuus quam 
+      su<lb ed="#V" n="120" break="no"/>perlatiuus.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e388">
+      ¶ Esse autem primum in vnoquoque gene 
+      <lb ed="#V" n="121"/>re: non potest conuenire nisi vni: et esse prius potest pluri 
+      <lb ed="#V" n="122"/>bus conuenire.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e395">
+      ¶ Tertio physice: quia licet in 
+      mouenti<lb ed="#V" n="123" break="no"/>bus et motis sit dare plura mouentis priora ordinate 
+      pro<lb ed="#V" n="124" break="no"/>cedendo secundum ordinem sperarum celi tamen non est dare nisi 
+      <lb ed="#V" n="125"/>vnicum primum mouens quod est immobile: sicut deducitus 
+      <lb ed="#V" n="126"/>in naturali philosophia.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e406">
+      ¶ Quarto theologice: quia licet secundum do 
+      <lb ed="#V" n="127"/>ctrinam beati Dionysii: de angelica hyerarchia: sit 
+      di<lb ed="#V" n="128" break="no"/>re plures angelos aliis priores: in celestibus ordinibus 
+      <lb ed="#V" n="129"/>tamen in tota celesti hverarchia est vnicus primus. idest sun 
+      <lb ed="#V" n="130"/>mus seraphi. Et idem affirmat in libro de diui. nomi¬ 
+      </p>
+            <p xml:id="FrMQ88-e24743-d1e417">
+               <lb ed="#V" n="131"/>¶ Ideo dico. quod eo modo quo ponitur primum et secum 
+      <lb ed="#V" n="132"/>dum secundum ordinem originis in diuinis: eo modo est ibi 
+      neces<lb ed="#V" n="133" break="no"/>sarium ponere prius et posterius secundum ordinem talem: quia si 
+      <!--544.xml-->
+      <pb ed="#V" n="270-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>cut in omni ordine est deuenire ad vnum primum: aut procedere in 
+      <lb ed="#V" n="2"/>infinitum: ita ab illo primo ad vltimum: aut in infinitum ire: 
+      vltim<lb ed="#V" n="3" break="no"/>mum autem sine posterioritate intelligi nequit.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e440">
+      ¶ Sed contra 
+      <lb ed="#V" n="4"/>istam veritatem sic declaratam instatur 4r. Primo. quia relatiua 
+      <lb ed="#V" n="5"/>sunt simul naturali intelligentia: et impossibile est vnum sine alio 
+      pro<lb ed="#V" n="6" break="no"/>quocumque signo intelligi. persone autem diuine sunt relatiue 
+      <lb ed="#V" n="7"/>Et ideo impossibile est. quod vna earum fit prior altera secundum aliqu. 
+      <lb ed="#V" n="8"/>ordinem.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e453">
+      ¶ Secundo. quia illud quod est summe necessare esse: habet esse 
+      pro<lb ed="#V" n="9" break="no"/>quocumque signo alioquin pro illo non esset summe necessare esse: sed 
+      <lb ed="#V" n="10"/>quelicet personadiuina est summe necessare esse: ergo habet esse pro omni si 
+      <lb ed="#V" n="11"/>gno originis. Et sic vna secundum originem non est prior 
+      alte<lb ed="#V" n="12" break="no"/>ra.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e464">
+      ¶ Tertio: quia si pater praeuenit filium in aliquo signo 
+      ori<lb ed="#V" n="13" break="no"/>ginis: in quo filius non sit: tunc illud non esse: quod pro illo si 
+      <lb ed="#V" n="14"/>gno habet filius: aut habet a se. et tunc de se habet non esse: et sic est 
+      <lb ed="#V" n="15"/>creatura: et nihil quantum est ex se. Aut illud non esse habet 
+      <lb ed="#V" n="16"/>a patre. Et tunc pater ipsum primus annihilaret quam in esse 
+      produ<lb ed="#V" n="17" break="no"/>ceret.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e477">
+      ¶ Quarto: quia omne quod transit de non esse ad esse est 
+      fa<lb ed="#V" n="18" break="no"/>ctum: sed si filius erat posterior patre: transit de non esse ad 
+      <lb ed="#V" n="19"/>esse: pro primo signo habens non esse accipiat esse in 2o. ergo esset 
+      fa<lb ed="#V" n="20" break="no"/>ctus: quod absit.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e486">
+      ¶ Ad primum: quod licet relatiua sint simul natura: non 
+      <lb ed="#V" n="21"/>tamen simul origine: quia sicut in vno innstanti temporis sunt duo si 
+      <lb ed="#V" n="22"/>gna naturae: vt patet in subiecto et propria passione: que gignum 
+      <lb ed="#V" n="23"/>tur simul tempore: sed subiectum prius natura: ita in vno signo naturae 
+      <lb ed="#V" n="24"/>sunt duo originis signa. Et cum dicitur quod sunt simul naturali 
+      in<lb ed="#V" n="25" break="no"/>telligentia. verum est: quia simul duratione intelligitur: non tamen 
+      <lb ed="#V" n="26"/>simul origine: cum ab vno relatiuo conceptus alterius 
+      or<lb ed="#V" n="27" break="no"/>ginetur: secundum commune dictum.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e504">
+      ¶ Ad 2. quia licet summe necessare esse habeat 
+      <lb ed="#V" n="28"/>esse pro quocumque signo durationis: non tamen pro quocumque 
+      se<lb ed="#V" n="29" break="no"/>gnto originis: aut naturae: si creatura fuisset eterna: tunc fuis 
+      <lb ed="#V" n="30"/>set deo posterior natura: et tamen in illo signo posterioritatis non 
+      <lb ed="#V" n="31"/>fuisset deus: alioquin esset posterior. Et ita non oportet: vt 
+      fi<lb ed="#V" n="32" break="no"/>lius sit: quamnuis summe sit necessare esse pro priori signo originis 
+      <lb ed="#V" n="33"/>quod est esse a se: quia tunc foret pater.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e521">
+      ¶ Ad 3m. quod filium non esse 
+      <lb ed="#V" n="34"/>in primo signo non est nisi filium non esse a se: vt patuit ex difficultas 
+      <lb ed="#V" n="35"/>nitione illius originis: quod autem filius non sit a se hoc habe 
+      <lb ed="#V" n="36"/>a patre: quia illa negatio est per se consequens filiationem quam a patre 
+      <lb ed="#V" n="37"/>habet et a quo est fundamentum ab eo est priuatio et per consequens 
+      <lb ed="#V" n="38"/>illud: sicut irrationabilitas inest asino a generante: et 
+      incor<lb ed="#V" n="39" break="no"/>ruptibilitas celo a creante. Et cum dicitur quod pater ipsum prius 
+      <lb ed="#V" n="40"/>annihilaret: verum est si daret sibi non esse simpliciter: sed non: 
+      <lb ed="#V" n="41"/>si dat sibi non esse a se: quod est non esse pro primo signo: vnde non 
+      <lb ed="#V" n="42"/>annihilat deus angelum quando dat sibi non esse mortalem. 
+      </p>
+            <p xml:id="FrMQ88-e24743-d1e543">
+               <lb ed="#V" n="43"/>¶ Ad 4m. quod illa signa non sunt transeuntia: sicut significa 
+      ten<lb ed="#V" n="44" break="no"/>poris et motus: quorum vnum est post reliquum: sed sunt sigifica 
+      <lb ed="#V" n="45"/>perfectionis: aut situs secundum que vnum est prius reliqui secundum 
+      <lb ed="#V" n="46"/>situm: aut perfectionem: quorum signorum vnum est cum reliquo. Et 
+      <lb ed="#V" n="47"/>ideo non est ibi transitus de non esse ad esse: immo semper manent 
+      <lb ed="#V" n="48"/>illa signa: quemadmodum non dicitur transire luna de non esse ad 
+      <lb ed="#V" n="49"/>esse: quia semper sol est prior secundum situm: aut terra: quia ignis 
+      sem<lb ed="#V" n="50" break="no"/>per est prior ordine perfectionis.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e563">
+      ¶ Sed oritur di. quia cum ista 
+      <lb ed="#V" n="51"/>signa originis: esse a se et ab alio: sunt in eodem instanti 
+      du<lb ed="#V" n="52" break="no"/>rationis in patre et filio: et pro tota eternitate si filius pro 
+      pri<lb ed="#V" n="53" break="no"/>signo originis non habet esse: et pro 2o habet esse: cum ista signa 
+      <lb ed="#V" n="54"/>sint simul in eodem instanti et tota eternitate: tunc filius 
+      ha<lb ed="#V" n="55" break="no"/>bebit simul esse et non esse in eodem instanti eternitatis: et 
+      sem<lb ed="#V" n="56" break="no"/>per et sic contradictoria vera.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e579">
+      ¶ Dicitur autem. quod esse filium ab alio quod 
+      <lb ed="#V" n="57"/>est esse pro 2o signo: et non esse filiuma se: quod est esse in primo: non est 
+      <lb ed="#V" n="58"/>impossibile pro tota eternitate: sicut esse hominem corporeum 
+      <lb ed="#V" n="59"/>et non esse incorporeum pro tota sui duratione: nec illa 
+      <lb ed="#V" n="60"/>sunt contradictoria: vt per se patet: esse hoc et non illud: quia hoc 
+      <lb ed="#V" n="61"/>non est esse et non esse simpliciter: sed secundum quid: 
+      <lb ed="#V" n="62"/>punctum: est inquirendum si iste 
+      <lb ed="#V" n="63"/>Circa tertium ordo est inter diuinas 
+      perso<lb ed="#V" n="64" break="no"/>nas quo ad operationes que sunt ad intra.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e599">
+      ¶ Ubi est primo in 
+      <lb ed="#V" n="65"/>telligendum quod duo sunt genera operationum diuinarum ad 
+      intra<lb ed="#V" n="66" break="no"/>Quedam enim suut immanentes: que non terminantur ad ali¬ 
+      <!--544.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>quem terminum productum: vt intelligere et velle: alie sunt 
+      <lb ed="#V" n="68"/>que terminantur ad aliquem terminum productum: vt 
+      <lb ed="#V" n="69"/>generatio et spiratio.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e617">
+      ¶ Et ideo dicuntur transeuntes: et secundum istas 
+      po<lb ed="#V" n="70" break="no"/>nuntur quatuor conclusiones.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e623">
+      ¶ Quarum prima est: quod inter persona est 
+      <lb ed="#V" n="71"/>diuinas est ordo originis quo ad operatione que est 
+      intelli<lb ed="#V" n="72" break="no"/>gere: quia sicut docet beatus Augu. 3o. de tri. Patri non 
+      con<lb ed="#V" n="73" break="no"/>petitsapere nisi sapientia ingenita: et filio nisi sapientia erase 
+      <lb ed="#V" n="74"/>nita: genitum autem et ingenitum in diuinis sunt ordinata secundum 
+      <lb ed="#V" n="75"/>ordinem originis: vt fuit declaratum.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e636">
+      ¶ Secunda conclusio est. quod in 
+      <lb ed="#V" n="76"/>ter diuinas personas est ordo originis secundum operationem que 
+      <lb ed="#V" n="77"/>est velle: quia sicut docet Ricar. de tri. prius est amorem 
+      <lb ed="#V" n="78"/>impendere: et postea amorem rependere. Et ideo cum pri fi 
+      <lb ed="#V" n="79"/>lio amorem impendat: et filius patri amorem rependat: vt ipse 
+      <lb ed="#V" n="80"/>declarat. oportet vt secundum prius et posterius origine fiat: cum ibi 
+      <lb ed="#V" n="81"/>non sit alius ordo.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e652">
+      ¶ Tertia conclusio quod inter diuinas personas 
+      <lb ed="#V" n="82"/>non est ordo originis quantum ad operationem que est 
+      generare<lb ed="#V" n="83" break="no"/>quia ille actus est incommunicabilis pluribus personis: ordo autem 
+      <lb ed="#V" n="84"/>originis non potest esse infra eandem personam: sicut nec 
+      origo<lb ed="#V" n="85" break="no"/>cum ex origine declaret beatus Aug. 1. de tri. personarum 
+      disti<lb ed="#V" n="86" break="no"/>ctionem.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e665">
+      ¶ Quarta conclusio quod inter personas diuinas est 
+      ord<lb ed="#V" n="87" break="no"/>originis quantum ad actum qui est spirare: quia vbicumque est hoc 
+      <lb ed="#V" n="88"/>ab hoc: ibi est talis ordo: per locum a diffinitione: vt patuit. supra 
+      <lb ed="#V" n="89"/>sed filius habet a patre quod spiret spicitum scilicet ita quod spirare in filio 
+      <lb ed="#V" n="90"/>est a patre: vt docet beatus Aug. xv. de tri. Ergo pater et filius 
+      <lb ed="#V" n="91"/>habent ordinem originis inspirando.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e678">
+      ¶ Sed contra istas conclusiones 
+      im<lb ed="#V" n="92" break="no"/>statur 4r. Primo. quia eadem omnino intellectio est patris et 
+      fi<lb ed="#V" n="93" break="no"/>lii: sicut eadem natura. Ubi autem nulla distinctio nullus potest 
+      <lb ed="#V" n="94"/>esse penitus ordo.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e687">
+      ¶ Secundo. quia si filius rependit patri amo 
+      <lb ed="#V" n="95"/>rem postquam pater eum sibi impendit: tunc in ordine originis erit 
+      <lb ed="#V" n="96"/>circulatio. Et sic pater esset a filio: sicut filius a patre.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e695">
+      ¶ Ter 
+      <lb ed="#V" n="97"/>tio: quia vbi est prioritas originis ibi est ordo originis: sed 
+      <lb ed="#V" n="98"/>generare est prius origine quam generari: sicut generans quam genitum 
+      <lb ed="#V" n="99"/>ergo in actu generandi est talis ordo.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e704">
+      ¶ Quarto. quia si 
+      <lb ed="#V" n="100"/>pater prius spirat spicitum sanctum quam filius: tunc filius non 
+      produ<lb ed="#V" n="101" break="no"/>cit spicitum sanctum ex quo est in esse productus: eo quod spiritus 
+      san<lb ed="#V" n="102" break="no"/>ctus totaliter producitur a patre.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e713">
+      ¶ Ad primum quod ille ordo non 
+      <lb ed="#V" n="103"/>est intellectionis ad intellectionem secundum se: sed originis ad 
+      <lb ed="#V" n="104"/>originem: prout intellectio per originem comunicatur.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e720">
+      ¶ Ad 2m 
+      <lb ed="#V" n="105"/>quod pater impendit filio amorem originaliter actum amoris es 
+      <lb ed="#V" n="106"/>comunicando: filius vero non rependit patri eodem modo 
+      amo<lb ed="#V" n="107" break="no"/>rem dilectionem ei dando originaliter. sed obstantialiter ipsum 
+      di<lb ed="#V" n="108" break="no"/>ligendo. et sic non est circulatio in origine.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e731">
+      ¶ Ad 3m. quod 
+      <lb ed="#V" n="109"/>non negatur vna habitudo illius originis inter generare respe 
+      <lb ed="#V" n="110"/>ctu generari: sed totus ordo prout includit prius et 
+      posteriu<lb ed="#V" n="111" break="no"/>negatur a generare.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e740">
+      ¶ Ad 4 quod producere aliquid prius 
+      produ<lb ed="#V" n="112" break="no"/>ctum in signis successiuis est impossibile: sed accipiendo prius 
+      <lb ed="#V" n="113"/>secundum signa permanentia est necessarium quemadmodum prius perfectio 
+      <lb ed="#V" n="114"/>ne producit pater quam mater prolem: et tamen in 2o signo perfectionis mi 
+      <lb ed="#V" n="115"/>ipsam gignit et prius uam causa vniversalis influit in catum: et tamen istuod non 
+      <lb ed="#V" n="116"/>impedit in fluxum causare particularis in 2o signo.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e754">
+      ¶ 
+      Intelliger<lb ed="#V" n="117" break="no"/>dum tamen est quod ordo originis inter duas persona divinas qui est 
+      <lb ed="#V" n="118"/>secundum operari: est ex ordine origis qui est secundum esse qualem enim ordinem 
+      <lb ed="#V" n="119"/>habent in essendo habent talem in operando vt deducit beatus aug.¬ 
+      <lb ed="#V" n="120"/>primo de triat. et inccirco ordo quem habent secundum esse declaratur 
+      quadrupli<lb ed="#V" n="121" break="no"/>ci auctoeitate.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e767">
+      ¶ Quarum prima est beati Aug. contra maximinum est 
+      <lb ed="#V" n="122"/>dicit. quod pater est prior filio origine et natura.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e772">
+      ¶ 2a est eiusdem in 
+      liro<lb ed="#V" n="123" break="no"/>triplici habitaculo vbi dicit. quod quando erimus in habitaculo 
+      pa<lb ed="#V" n="124" break="no"/>radisi videbimus patrem esse priorem filio secundum originem:
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e779">
+      ¶ 3a est 
+      <lb ed="#V" n="125"/>bti Diony. in. 2. caopio de diuinis nomini. vbi dicit quod 
+      es<lb ed="#V" n="126" break="no"/>sentialia praeueniunt notionalia. sicut illa quae prartinent ad vnicam 
+      <lb ed="#V" n="127"/>theologiam illa quae partinent ad discretam: et io si est ordo priori et 
+      <lb ed="#V" n="128"/>posterioris intra eandem personam multo magis inter distinctas 
+      </p>
+            <p xml:id="FrMQ88-e24743-d1e790">
+               <lb ed="#V" n="129"/>¶ 4a est beati Aug. in li. de immortalitate anime circa medium 
+      <lb ed="#V" n="130"/>vbi dicit. quod nulla res seipsam gignit alioquin esset antequam esset 
+      <lb ed="#V" n="131"/>in quo verbo intendit beatus. Aug. talem consequentiam: si aliqua res 
+      <lb ed="#V" n="132"/>seipsam gigneret esset antequam esset: illud enim alio¬ 
+      <!--545.xml-->
+      <pb ed="#V" n="270-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>quin dat intelliger contradictionem illius nulla: res seipsam gni 
+      <lb ed="#V" n="2"/>gnit: quod est aliqua res gignit seipsam: et tunc conuertendo consequentiam 
+      <lb ed="#V" n="3"/>ad oppositum consequentis: oppositum antecedentis: haetur illa consequentia: 
+      nul<lb ed="#V" n="4" break="no"/>la res est antequam sit: ergo nulla res seipsam gignit. Ista autem 
+      <lb ed="#V" n="5"/>consequentia si reducatur ad formam syllogisticam: oportet vt sumatur 
+      il<lb ed="#V" n="6" break="no"/>la affirmatiua: ex puris enim negatiuis etc. omne generans est 
+      <lb ed="#V" n="7"/>ante genitum: sed nulla res est antequam sit. ergo nulla res 
+      se<lb ed="#V" n="8" break="no"/>ipsam gignit: vel sic. omnis entitas generas est ante genitam: sed 
+      <lb ed="#V" n="9"/>nulla res est antequam sit genita. ergo nulla res est genita a seips 
+      <lb ed="#V" n="10"/>sa: vnde patet quod consequentia. Augu. non potest forma 
+      <lb ed="#V" n="11"/>ri nisi sumpta illa vniuersali: quod omne gigneus est 
+      ante<lb ed="#V" n="12" break="no"/>genitum: quod est propositum. 
+      <lb ed="#V" n="13"/>punctum inuestigandum restat: 
+      <lb ed="#V" n="14"/>Circa quartum siter diuinas personas est 
+      or<lb ed="#V" n="15" break="no"/>do orginis quo ad operationes que sunt extra.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e840">
+      ¶ Ubi est primo vi 
+      <lb ed="#V" n="16"/>dendum quod 4or sunt operationes diuine ad extra: vel quasi siue 
+      distin<lb ed="#V" n="17" break="no"/>guantur secundum rem: siue secundum rationem. Quarum prima est. creatio que est 
+      <lb ed="#V" n="18"/>productio de nihilo.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e850">
+      ¶ Secunda est actio que est immutatio 
+      <lb ed="#V" n="19"/>in aliquo: et illa differt a creatione et productione: quia quando 
+      <lb ed="#V" n="20"/>deus illuminat animam agit in eam: et tamen non tunc producit vel 
+      <lb ed="#V" n="21"/>creat ipsam.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e859">
+      ¶ Tertia est quo dicitur conseruatio: quia beatus Aug. 
+      <lb ed="#V" n="22"/>super Gen. ad listram. distinguit opus creationis ab operatio 
+      <lb ed="#V" n="23"/>ne gubernationis.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e866">
+      ¶ Quarta est quo dicitur adnihilatio: licet 
+      <lb ed="#V" n="24"/>non fit proprie operatio: sed magis ab opere cessatio: significatur tamen per 
+      <lb ed="#V" n="25"/>modum actionis: et secundum illa introducuntur hoc 4or conclusiones. 
+      </p>
+            <p xml:id="FrMQ88-e24743-d1e873">
+               <lb ed="#V" n="26"/>¶ Quarum prima est. quod inter personas diuinas est ordo 
+      ori<lb ed="#V" n="27" break="no"/>tinis quantum ad actum creationis: ita quod prius creat vna 
+      <lb ed="#V" n="28"/>quam alia: sicut prius: vt patuit: spirat: quia sicut habentur Io. prio 
+      <lb ed="#V" n="29"/>capis. Omnia per ipsum verbum a patre facta sunt: quia scilicet filius 
+      <lb ed="#V" n="30"/>creat a patre: sicut est a patre: sicut exponunt scti et docto 
+      <lb ed="#V" n="31"/>res. Ubicumque autem est hoc ab hoc: vt patuit. ibi est talis 
+      or<lb ed="#V" n="32" break="no"/>do.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e891">
+      ¶ Secunda conclusio quod ibi est ordo talis quo ad rationem 
+      actio<lb ed="#V" n="33" break="no"/>nis: ora sicut filius habet a patre quod creat: ita quod influat 
+      increa<lb ed="#V" n="34" break="no"/>ta: nihil enim habet filius nisi natum: sicut docet beatus hyllarius 
+      <lb ed="#V" n="35"/>de tri. Unde Id 1. capis. dicitur de verbo quod erat lux vera que 
+      illu<lb ed="#V" n="36" break="no"/>minat omnem hominem venientem in hunc mundum.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e902">
+      ¶ Tertia 
+      <lb ed="#V" n="37"/>conclusio est. quod ibi est ordo originis quo ad actum conseruatio 
+      <lb ed="#V" n="38"/>nis: quia scribit apistulus Pau. ad heb i 1. capis. quod omnia portantur 
+      <lb ed="#V" n="39"/>iconseruantur verbo virtutis dei: non potest autem 
+      intelligi<lb ed="#V" n="40" break="no"/>pater conseruare verbo: nisi quia communicat ei virtutem conseruatiuam 
+      <lb ed="#V" n="41"/>et sic est ibi hoc ab hoc in conseruando: et per consequens origis 
+      or<lb ed="#V" n="42" break="no"/>do.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e919">
+      ¶ Quarta conclusio est. quod ibi est ordo originis quantum ad 
+      <lb ed="#V" n="43"/>ad actum adnihilationis: eo modo quo intelligitur actus 
+      <lb ed="#V" n="44"/>quia sicut filius a patre creare potest. ita ab ipso habet quod 
+      pos<lb ed="#V" n="45" break="no"/>sit adnihilare: et ideo prius ordine originis adnihilat 
+      <lb ed="#V" n="46"/>pater quia a se: quam filius: quia a patre.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e930">
+      ¶ Sed contra istas conclusiones instatur 
+      <lb ed="#V" n="47"/>4r. Primo. quia aliquis effectus non potest causari ab aliqua 
+      <lb ed="#V" n="48"/>causa postquam est perfecte causatus: et ideo si in primo signo pater 
+      an<lb ed="#V" n="49" break="no"/>gelum totaliter creat. in 2o. filius ipsum creare: non potes 
+      <lb ed="#V" n="50"/>rit.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e941">
+      ¶ Secundo. quia patre agente in primo signo: aut filius agit in 2 
+      <lb ed="#V" n="51"/>necessario aut contingenter: si necessario tunc agit de necessaritate 
+      <lb ed="#V" n="52"/>naturae ad extra: si contingenter tunc poterit non agere: et tunc aget 
+      <lb ed="#V" n="53"/>icitur absque filio contra beatum Aug 1. de tri.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e950">
+      ¶ Tertio. quia impossibile 
+      <lb ed="#V" n="54"/>est quod aliquid conseruetur simul a pluribus ipsum totaliter singilis 
+      <lb ed="#V" n="55"/>conseruantibus: alioquin conseruaretur ab aliqua causa: qua non 
+      <lb ed="#V" n="56"/>existente nihilominus esset: et tamen istud inconueniens est in propo 
+      <lb ed="#V" n="57"/>to: quia cum effectus conseruetur totaliter a patre. per impossibile non 
+      <lb ed="#V" n="58"/>existente silio nihilominus conseruaretur. ergo iste ordo non 
+      <lb ed="#V" n="59"/>est compossibilis: vt postquam conseruatur totaliter a patre: et iterum a filio 
+      <lb ed="#V" n="60"/>conseruetur in 2o signo.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e968">
+      ¶ Quarto. quia si pater totaliter 
+      adni<lb ed="#V" n="61" break="no"/>hilat creaturam in primo signo: et postea filius in 2o: tem ipse 
+      <lb ed="#V" n="62"/>faciet de non ente non ens: et illud quod est nihil adnihila 
+      <lb ed="#V" n="63"/>bit.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e977">
+      ¶ Ad primum quod nullus effectus potest causari pus 
+      sua<lb ed="#V" n="64" break="no"/>creationem: accius posterioritatem in signis successiuis: sed 
+      <lb ed="#V" n="65"/>in signis permanentibus bene: quemadmodum compositum primo 
+      <lb ed="#V" n="66"/>resultat totaliter a mtam in genere sue causalitatis: et in 2o signo a¬ 
+      <!--545.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>forma: qualem enim ordinem habent cause intrinsece in essendo 
+      ta<lb ed="#V" n="68" break="no"/>lem habent in causando.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e996">
+      ¶ Ad 2m. quod impossibile est patre 
+      agen<lb ed="#V" n="69" break="no"/>te a se filium non agem a patre: et tunc non agit necessaritate consequentis: 
+      <lb ed="#V" n="70"/>et necessaritate consequentiae quae in actione diuia non negatur: vt si filius 
+      <lb ed="#V" n="71"/>igat necessario influint: quemadmodum angelus contingenter 
+      mo<lb ed="#V" n="72" break="no"/>uet caelum: sed volitione praemissa: necessario virtus executiua prose 
+      <lb ed="#V" n="73"/>quitur.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e1009">
+      ¶ Ad 3m. quod a pluribus conseruantibus per plures 
+      conser<lb ed="#V" n="74" break="no"/>uationes totales: non potest aliquid conseruari: sed per vnicam 
+      <lb ed="#V" n="75"/>sicut in proposito. vnde quemadmodum pater et filius spirant 
+      vni<lb ed="#V" n="76" break="no"/>ca spiratione: ita et vnica creatione creant ente in tribus 
+      <lb ed="#V" n="77"/>suppositis quemadmodum si eadem anima esset in tribus hominibus 
+      <lb ed="#V" n="78"/>quilibet eorum causaret totaliter eandem intellectionem: et sic 
+      cau<lb ed="#V" n="79" break="no"/>ari totaliter a pluribus: quod per vnum principium productiuum et eandem 
+      <lb ed="#V" n="80"/>productionem: ac conseruari nullum inconueniens. Et cum 
+      dici<lb ed="#V" n="81" break="no"/>tur quod altero non existente nihilominus esset talis effectus. 
+      <lb ed="#V" n="82"/>verum est: quia remanent totum principium quo causatur vel 
+      conser<lb ed="#V" n="83" break="no"/>uatur: et tunc illa regula nihil potest esse ab aliqua causa 
+      qua<lb ed="#V" n="84" break="no"/>non existente nihilominus esset: non est verum quantum ad causam 
+      <lb ed="#V" n="85"/>quod: sed quo: quia si pater assument suppositum angeli: adhuc 
+      pos<lb ed="#V" n="86" break="no"/>set remanem idem actus beatificus supposito nion manente.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e1040">
+      ¶ Ad  
+      <lb ed="#V" n="87"/>4m. quod si filius adnihilaret post patrem successiue: tunc 
+      fa<lb ed="#V" n="88" break="no"/>ceret de nihilo nihil: non tamen quia permanenter. et quo ad signa per 
+      <lb ed="#V" n="89"/>manentia: quemadmodum forma corrupta. primo a causa prima: et 
+      <lb ed="#V" n="90"/>deide a causa 2am: sicut eo ordine generatur quemadmodum 
+      <lb ed="#V" n="91"/>paratuit in creatione.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e1053">
+      ¶ Et si dicatur in 2o signo creatura est 
+      <lb ed="#V" n="92"/>nihil. quia adnihilata totaliter a patre.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e1058">
+      ¶ Dicitur quod ista si 
+      <lb ed="#V" n="93"/>gna non sumuntur ex parte creature: sed ex parte 
+      crean<lb ed="#V" n="94" break="no"/>tis.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e1065">
+      ¶ Dicit tamen vnus doctor famosus: quod in diuis non est 
+      <lb ed="#V" n="95"/>prius signum in quo: sed prius a quo: et tunc per hoc 
+      subter<lb ed="#V" n="96" break="no"/>fugere putat omnes difficultates fugiens ad fallaciam 
+      fi<lb ed="#V" n="97" break="no"/>gure dictionis: quando dicitur in illo signo: quia mutatur signum 
+      <lb ed="#V" n="98"/>a quo in signum in quo.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e1077">
+      ¶ Sed contra ipsum arguitur 4r 
+      <lb ed="#V" n="99"/>Primo. quia omnes difficultates currunt contra illud signum 
+      a<lb ed="#V" n="100" break="no"/>quo: sicut contra signum in quo quaro enim de illo signo a quo: 
+      <lb ed="#V" n="101"/>aut spiritus sanctus est in primo signo originis a quo: et non in 
+      <lb ed="#V" n="102"/>primo tali signo per extrema contradictionis: si sic: tunc spiritus 
+      <lb ed="#V" n="103"/>ctus cum sit a quo transiret de non esse ad esse: sicut prius 
+      <lb ed="#V" n="104"/>arguebatur.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e1093">
+      ¶ Secundo arguitur. quia probatur quod illud 
+      si<lb ed="#V" n="105" break="no"/>gnum a quo sit signum in quo: a quo enim non est nisi 
+      ali<lb ed="#V" n="106" break="no"/>alio esse: sed esse ab alio est origo. ergo cum origo sit 
+      forma<lb ed="#V" n="107" break="no"/>liter in originante vel originato: illud signum a quo erit 
+      for<lb ed="#V" n="108" break="no"/>maliter in aliquo.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e1104">
+      ¶ Tertio. ostenditur quod illud signum 
+      <lb ed="#V" n="109"/>est in quo scilicet est aliquid: quia omnis distinctio est formaliter in 
+      <lb ed="#V" n="110"/>principio distinctiuo: sed istud a quo distinguit patrem a 
+      fi<lb ed="#V" n="111" break="no"/>lio tamquam origo. ergo in eo sicut in quo erit illa distinctio. 
+      </p>
+            <p xml:id="FrMQ88-e24743-d1e1113">
+               <lb ed="#V" n="112"/>¶ Quarto. ostendo quod aliquid conueniat patri vel filio 
+      <lb ed="#V" n="113"/>in illo signo: quia quandocumque aliquid est formaliter in 
+      ali<lb ed="#V" n="114" break="no"/>quo supposito: passio eius conuenit supposito in illo: 
+      <lb ed="#V" n="115"/>sicut risibilitas verbo in humanitate: sed illud signum est 
+      <lb ed="#V" n="116"/>formaliter in supposito diuino vt patuit. ergo omnis 
+      pas<lb ed="#V" n="117" break="no"/>sio de illo signo demonstrabilis conuenit diuino 
+      suppo<lb ed="#V" n="118" break="no"/>sito in illo signo. et sic patet quod dictum illius doctoris 
+      <lb ed="#V" n="119"/>non est fuga sufficiens.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e1133">
+      ¶ Sed oritur diffiacul. quia vbi 
+      <lb ed="#V" n="120"/>cumque est origo est ibi ordo originis consequens ipsam. sed 
+      <lb ed="#V" n="121"/>prdo creationis non est formaliter in deo sed in creatura. 
+      <lb ed="#V" n="122"/>ergo et talis qui dictus est ordo: et tamen constat oppsi 
+      <lb ed="#V" n="123"/>cum in eadem creatura non sit hoc ab hoc: sicut in deo. 
+      </p>
+            <p xml:id="FrMQ88-e24743-d1e1144">
+               <lb ed="#V" n="124"/>¶ Dicitur autem quod ille ordo originis non est formaliter 
+      <lb ed="#V" n="125"/>ipsius creationis sed generationis et spirationis: secundum quas 
+      <lb ed="#V" n="126"/>vna persona diuina habet ab alia virtutem creatiuam: 
+      <lb ed="#V" n="127"/>et ideo dicitur prius origine vna creare quam alia: sicut earum 
+      <lb ed="#V" n="128"/>potentia creatiua denominatur ab actu creandi 
+      deno<lb ed="#V" n="129" break="no"/>minatione extrinseca.
+    </p>
+            <p xml:id="FrMQ88-e24743-d1e1161">
+      ¶ Ad primum arnitum questionis 
+      in<lb ed="#V" n="130" break="no"/>oppositum dicitur. quod sicut ordo originis non adfert 
+      se<lb ed="#V" n="131" break="no"/>parabilitatem in operari: sic nec separabilitatem in esse. 
+      </p>
+            <p xml:id="FrMQ88-e24743-d1e1168">
+               <lb ed="#V" n="132"/>¶ Ad 2m quod licet sint vnum quo: quia sunt vnum principium quod est vo¬ 
+      <!--546.xml-->
+      <pb ed="#V" n="271-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>luntas: non tammen sunt vnum principium quod: et secundum hoc 
+      <lb ed="#V" n="2"/>habent ordinem originis et distinctionem.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

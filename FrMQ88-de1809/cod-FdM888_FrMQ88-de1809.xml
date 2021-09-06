@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#FrancisofMeyronnes">Francis de Meyronnes</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-FdM888">Venice 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="239-r"/>
+            <cb ed="#V" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="FrMQ88-de1809"><!-- quod-q2 -->
+            <head xml:id="FrMQ88-de1809-Hd1e108">Quaestio 2</head>
+            <p xml:id="FrMQ88-de1809-d1e111">
+               <lb ed="#V" n="124"/>quaestio est: vtrum artius trinitats 
+      <lb ed="#V" n="125"/>Ecunda sit demonstrabilis: e videtur quod non 
+      <lb ed="#V" n="126"/>quia discunus lucem inhbitat in accessibilem: sicut dicit aplulus 
+      <lb ed="#V" n="127"/>prima ad Thpoium. es. c. quem nullus hominum viditur 
+      <lb ed="#V" n="128"/>nec videre potest: et per consequens nec trinitatis 
+      mi<lb ed="#V" n="129" break="no"/>stesleitum euidenter ostendere:
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e127">
+      ¶ Sed contra quia dicit prophilosopa Isa. 
+      <lb ed="#V" n="130"/>Ge c. simul laudabunt: quia oculo ad oculum videbunt. 
+      <lb ed="#V" n="131"/>et sic videtur veritas in se demonstrabilis ista: cum sit 
+      <lb ed="#V" n="132"/>veritas in se cognoscibilis: et non videdentur prima. 
+      <!--481.xml-->
+      <pb ed="#V" n="239-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>quaestionem sunt quatuor puncta inuestiganda: prim 
+      <lb ed="#V" n="2"/>Adi istam est si ista veritas est demonstrabilis in se propter 
+      <lb ed="#V" n="3"/>quid.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e149">
+      ¶ 2m si est in se demonstrabilis quia.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e152">
+      ¶ 3m si est: demonstrabilis 
+      <lb ed="#V" n="4"/>nobis propter quid.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e158">
+      ¶ 4m si est demonstrabilis nobis quia 
+      <lb ed="#V" n="5"/>ad primum punctum praemittuntur quatuor 
+      praeambu<lb ed="#V" n="6" break="no"/>Quantum la.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e165">
+      ¶ primum est. quod nulla veritas per se 
+      nota<lb ed="#V" n="7" break="no"/>demonstratione propter quid potest demonstrari: quia impossibile est quod illa 
+      en<lb ed="#V" n="8" break="no"/>titas quae est a se sit ab aliquo alio: et ita de veritate et 
+      euinden<lb ed="#V" n="9" break="no"/>tia. Sed propositio per se nota habet euidentiam a se praecognitis 
+      term<lb ed="#V" n="10" break="no"/>nis: ergo non ab alio: sicut conclusio demonstrabilis.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e176">
+      ¶ 2m praemabulum. quod 
+      <lb ed="#V" n="11"/>aliqua veritas que aliter nota est quam in processu demonstrationis: 
+      per<lb ed="#V" n="12" break="no"/>demonstrari: sicut homo si videret intuitiue essentiam angeli mo 
+      <lb ed="#V" n="13"/>uentis caelum per se nota esset ei eius finitas sicut nobis 
+      not<lb ed="#V" n="14" break="no"/>est per se finitas solis: et tamen adhuc posset ex eius quiditate 
+      <lb ed="#V" n="15"/>demonstrare eius fitadum: sicut nos possumus de quocumque creato 
+      no<lb ed="#V" n="16" break="no"/>bis quiditate cognito.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e192">
+      ¶ 3m praemabulum. quod non omnis demonstratio 
+      <lb ed="#V" n="17"/>a priori est propter quid: quia in passionibus est dare ordinem: sicut 
+      pri<lb ed="#V" n="18" break="no"/>posteriorem contingit demonstrare priorem: vt per suscepstile discitate: quo 
+      <lb ed="#V" n="19"/>homo sic susceptibilis rationis: aut per susceptibile grammatiate quod 
+      <lb ed="#V" n="20"/>fit discintates: ita econverso per passionem priorem potest demonstrari poste 
+      <lb ed="#V" n="21"/>rior: vt per hoc quod est esse finitum dicitur esse minorem deo de 
+      crea<lb ed="#V" n="22" break="no"/>tura: cum ista inequalitas sit passio finita in quantitate finita 
+      <lb ed="#V" n="23"/>que est passio creature vt nunc suppositus.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e210">
+      ¶ 4o praemabuli 
+      <lb ed="#V" n="24"/>quod omnis veritas necessaria est demonstrabilis aute per se nota: quia 
+      nul<lb ed="#V" n="25" break="no"/>lum per se necessarium videtur per accidens cum talia varientur: et sic 
+      om<lb ed="#V" n="26" break="no"/>ne necessarium per se est aut per se primo aut 2o modo aut 4o: cum 3us non 
+      <lb ed="#V" n="27"/>faciat ad propositum. est autem per se notum vel demonstrabile: et 
+      confir<lb ed="#V" n="28" break="no"/>matur quia tale necessarium aut est mediatum aut immediatum 
+      <lb ed="#V" n="29"/>Si immediatum est per se notum: si mediatum tunc est demonstrabile 
+      <lb ed="#V" n="30"/>per istud medium: quod est immediatum. semper enim a mediato est 
+      de<lb ed="#V" n="31" break="no"/>uenire ad immediatum.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e230">
+      ¶ Sed contra ista praeambula instatur 
+      qua<lb ed="#V" n="32" break="no"/>drupliciter. Primo. quia ex quiditate vel difficultate e totius potest consequenter de 
+      <lb ed="#V" n="33"/>monstrari: quod omne totum est maius sua parte sic: omne quod continet 
+      <lb ed="#V" n="34"/>multitudine partium: est maius qualibet istarum: sed totum diffifutitm 
+      <lb ed="#V" n="35"/>continet multitudinem partium: ergo totum est maius qualibet illarum 
+      <lb ed="#V" n="36"/>et tamen vulgo dicitur quod istud principium est per se notum.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e244">
+      ¶ 2o quia idem non 
+      <lb ed="#V" n="37"/>potest alicui esse simils magis euidens et minus. Sed quod est per se 
+      <lb ed="#V" n="38"/>notum est magis euidens. quod est demonstratum est minus euidens 
+      <lb ed="#V" n="39"/>ergo iste cui est veritas aliqua per se nota non potest eam 
+      acqui<lb ed="#V" n="40" break="no"/>rere per demonstrationem.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e255">
+      ¶ 3o quia illa demonstratio que est per 
+      <lb ed="#V" n="41"/>causam videtur esse propter quid: sicut per effectum est: quia. sed illa que fit 
+      <lb ed="#V" n="42"/>per passionem priorem fit plerumque per causam: sicut cum per 
+      fi<lb ed="#V" n="43" break="no"/>nitatem demonstratur creature minoritas: istius minoritatis est caus 
+      <lb ed="#V" n="44"/>sua finitas.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e266">
+      ¶ 4o quia tam per se nota quam dmonstrabilia sunt 
+      agno<lb ed="#V" n="45" break="no"/>scibilia per naturam cum portent secum suam euidentiam. Sed non 
+      <lb ed="#V" n="46"/>omnis veritas necessaria est cognoscibilis per naturam. ergo non omnis talis 
+      <lb ed="#V" n="47"/>veritas est demonstrabilis aut per se nota.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e275">
+      ¶ Ad primam dicitur quod 
+      <lb ed="#V" n="48"/>istud principium. quod omne totum est maius sua parte dicitur vulgo per se no 
+      <lb ed="#V" n="49"/>tum propter euidentiam quam habet ex discursu qui non percipitur propter 
+      in<lb ed="#V" n="50" break="no"/>distantiam talis conclusionis ad suas praemissas: tamen secundum rei veritatem 
+      <lb ed="#V" n="51"/>est veritas demonstrata ex sua diffinitione data.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e286">
+      ¶ Ad 2m dicitur quod 
+      <lb ed="#V" n="52"/>idem non potest esse magis notum et minus notum eidem in genere 
+      vni<lb ed="#V" n="53" break="no"/>notitat: sed in genere diuersorum bene: sicut habent demonstrationem parter 
+      <lb ed="#V" n="54"/>quid. potest acquirere demonstrationem: quia. cum ista sit euidentior 
+      <lb ed="#V" n="55"/>et ita quod est per se notum ad sensum potest demonstrari ad intel 
+      </p>
+            <p xml:id="FrMQ88-de1809-d1e297">
+               <lb ed="#V" n="56"/>¶ Ad 3m dicitur quod licet ista demonstratio que est per talem passionem 
+      <lb ed="#V" n="57"/>priorem possit dici aliquio modo propter quid. non tamen proprie. quia de 
+      <lb ed="#V" n="58"/>monstratio propter quid fit proprie per diiffltatem: et rationem 
+      quiditati<lb ed="#V" n="59" break="no"/>uam.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e309">
+      ¶ Ad 4m dicitur quod licet talia sint cognoscibilia naturaliter 
+      termi<lb ed="#V" n="60" break="no"/>nis reuelatis: tamen veritatum supnaturalium termini proprii 
+      natura<lb ed="#V" n="61" break="no"/>liter ignorantur.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e316">
+      ¶ Istis autem permissis praeambulis 
+      ponun<lb ed="#V" n="62" break="no"/>tur hic quatuor conclusiones.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e321">
+      ¶ Prima. quod iste articulus trinita 
+      <lb ed="#V" n="63"/>tis est veritas necessaria: quia quicquid est in diuinis est necessarium: et 
+      <lb ed="#V" n="64"/>incommutabile dicente propheta Malach. iii. capis. Ego do 
+      <lb ed="#V" n="65"/>minus et non mutor.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e330">
+      ¶ Secunda conclusio quod ista veritas non est 
+      <lb ed="#V" n="66"/>per se nota. quia illa veritas que non est immediata non est per 
+      <!--481.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>se nota: cum per medium in sit: et sicut se habent res: ad esse ita 
+      <lb ed="#V" n="68"/>ad vere et quiditatiue cognosci. et cum talis demfetur per me 
+      <lb ed="#V" n="69"/>dium: per medium est nata cognosci quod ista veritas non sit im 
+      <lb ed="#V" n="70"/>mediata. probatur: quia non ideo deus est infinitus quia trinus. Sed 
+      <lb ed="#V" n="71"/>quia infinitus.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e350">
+      ¶ Tertia conclusio est quod ista veritas est demonstra 
+      <lb ed="#V" n="72"/>bilis: quia omnis veritas necessaria que non est per se nota est 
+      de<lb ed="#V" n="73" break="no"/>monstrabilis: vt patuit: ista autem non est per se nota et est necessariam 
+      <lb ed="#V" n="74"/>vt patet ex praemissis.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e359">
+      ¶ Quarta conclusio est: quod ista veritas non 
+      <lb ed="#V" n="75"/>est in se demonstrabilis propter quid: quia de subiecto simpliciter simplici ni 
+      <lb ed="#V" n="76"/>hil est demonstrabile: cum nullum simpliciter simplex habeat 
+      dis<lb ed="#V" n="77" break="no"/>finitionem: et demonstratio propter quid fiat per diffinitionem. 
+      diui<lb ed="#V" n="78" break="no"/>nitatis autem ratio est simpliciter simplex ergo de ipsa nihil potntia 
+      <lb ed="#V" n="79"/>propter quid demonstrari.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e373">
+      ¶ Sed contra har conclusiones quadrupliciter instatur.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e376">
+      ¶ primo 
+      <lb ed="#V" n="80"/>quia sicut sensualiter visa: ita intellectualiter intuita videntur per se 
+      <lb ed="#V" n="81"/>nota: et plus cum certior sit ceteris paribus intellectua noticia 
+      im<lb ed="#V" n="82" break="no"/>tuitiua: et ideo cum trinitas personarum intuitiue videatur a 
+      <lb ed="#V" n="83"/>sanctis in noticia beatifica: ideo videtur eis per se nota.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e387">
+      ¶ 2o. 
+      <lb ed="#V" n="84"/>quia in simplici apprehensione: nulla videtur deductio: nec per 
+      <lb ed="#V" n="85"/>consequens dmonstratio: et ideo cum intuitiua noticia sncorum sit simpliciter 
+      <lb ed="#V" n="86"/>appraehensiua: non videtur demonstrabilis: et sic est per se nota veritas 
+      <lb ed="#V" n="87"/>trinitatis.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e398">
+      ¶ 3o. quia cum metaphyca sit de ente: et ens sit 
+      <lb ed="#V" n="88"/>simpliciter simplex: tunc in medius non possit fieri demonstratio propter 
+      <lb ed="#V" n="89"/>quid: et sic in nobilissima scientia non posset fieri demonstratio propter 
+      <lb ed="#V" n="90"/>quid: qua est nobiium et principalissima.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e407">
+      ¶ 4o. quia tunc in theologian 
+      <lb ed="#V" n="91"/>la posset fieri demonstratio propter quid: cum subiectum theologice: quod est deus. 
+      <lb ed="#V" n="92"/>sit simpliciter simplex: de quo siut omnes theologice demonstrationes: 
+      <lb ed="#V" n="93"/>et ita theologia erit minus euidens quam scientiae mathelce: in quibus siunt 
+      <lb ed="#V" n="94"/>demonstrationes propter quid.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e418">
+      ¶ Ad primam instantiam dicitur quod sensualiter 
+      <lb ed="#V" n="95"/>visa eo modo quo sunt visa sunt nota: et idem non est per se non 
+      <lb ed="#V" n="96"/>tum: quod substantia solis moueatur cum immeliu non videatur: sed per se 
+      no<lb ed="#V" n="97" break="no"/>tum est quod illud quantum aut lucidum moueter: quia immelice motus in 
+      <lb ed="#V" n="98"/>le inest lucido vel quanto.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e430">
+      ¶ Ad 2am dicitur. quod licet noticia 
+      intu<lb ed="#V" n="99" break="no"/>tiua scorum non sit deductiua secundum ordinem durationis tamen bene 
+      <lb ed="#V" n="100"/>secundum ordinem naturae: quia prius ordine naturae vident scti divinam 
+      essen<lb ed="#V" n="101" break="no"/>tiam quam creaturam: et ita vident mediuam per mediam: vt quod 
+      sapien<lb ed="#V" n="102" break="no"/>tia inest essentie per intelligentiam: sicut iusticia per voluntatem. 
+      </p>
+            <p xml:id="FrMQ88-de1809-d1e441">
+               <lb ed="#V" n="103"/>¶ Ad 3am oifitur. quod in metatia: prout est de ente: non potest fieri 
+      de<lb ed="#V" n="104" break="no"/>monstratio propter quid: cum ens non fit difficultes: nec etiam eius passiones 
+      <lb ed="#V" n="105"/>que sunt equi simpliciter simpeities. sed passiones immelit quae in alia 
+      <lb ed="#V" n="106"/>scientia essent demonstrabiles propter quid sunt per se note: quia subiectum tale ni 
+      <lb ed="#V" n="107"/>potest nisi distincte cognosci: et de subiecto distincte cognito talis 
+      pa<lb ed="#V" n="108" break="no"/>sio est per se nota in omni scientia vbi est diffinitio: et propter hoc metatia est 
+      <lb ed="#V" n="109"/>no: quia habet per se notum illud quod habet alia scientia propter quid 
+      demonstra<lb ed="#V" n="110" break="no"/>bile.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e461">
+      ¶ Ad 4am dicitur. quod ista est nobilitas theologie: sicut fuit 
+      <lb ed="#V" n="111"/>dictum de metaphyca: et ideo in se euidentum: quia demonstrabilia in 
+      <lb ed="#V" n="112"/>aa scientia sunt ei per se nota.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e468">
+      ¶ Dico igitur quod trinitas personarum 
+      <lb ed="#V" n="113"/>in se est demonstrabilis de divina essentia: quia quod divina essentuia sit 
+      comnuni<lb ed="#V" n="114" break="no"/>cabilis tribus personis: non videtur esse immediata passio ipsius 
+      <lb ed="#V" n="115"/>divine essentie: quia sicut docet beatus Dyon. de vnica et 
+      discre<lb ed="#V" n="116" break="no"/>ta thogia. priora sunt in divinis illa quie partinent ad vnitatem quam 
+      <lb ed="#V" n="117"/>ea que pertinent ad trinitatem: et ideo est dare aliquam 
+      pa<lb ed="#V" n="118" break="no"/>sionem absolutam partinentem ad divinam vnitatem: per quam ista 
+      con<lb ed="#V" n="119" break="no"/>cabilitas possit demonstrari: quae pertinet ad trinitatem: et hoc 
+      <lb ed="#V" n="120"/>demonstrato et habito quod divina essentia est communicabilis tribus: 
+      <lb ed="#V" n="121"/>statim habetur quod est comunicata: quia secundum philosophos et veritatem: 
+      <lb ed="#V" n="122"/>in perpetuis non differt esse et posse. 
+      <lb ed="#V" n="123"/>ad 2m punctum: si iste articulus est deo 
+      <lb ed="#V" n="124"/>Quantum monstrabilis in se demonstratione: quia 
+      po<lb ed="#V" n="125" break="no"/>nuntur due conclusiones. prima est. quod est demonstrabilis: quia a priori: quia vt 
+      <lb ed="#V" n="126"/>patuit aliqua passio abi: preuenit omnem respectiuam qui est 
+      <lb ed="#V" n="127"/>in habitudine ad personas: et ideo per illam passionem priorem 
+      <lb ed="#V" n="128"/>est demonstrabilis ista posterior. sicut per simplicitatem 
+      de<lb ed="#V" n="129" break="no"/>monstratur creaus minor deo.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e507">
+      ¶ 2a conclusio quod per talem modium est 
+      de<lb ed="#V" n="130" break="no"/>monstrabilis a posteriori in se. quia sicut infinitas videtur preue 
+      <lb ed="#V" n="131"/>nire commicabilitatem diuine essentie ad tres personas. ita vis 
+      <lb ed="#V" n="132"/>creatiua videtur esse posterior: vt creatiua ipsa comunicabilita¬ 
+      <!--482.xml-->
+      <pb ed="#V" n="240-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>te: quia illa quae sunt ab extra videntur praeueniri ab i llis quae sunt 
+      <lb ed="#V" n="2"/>ab intra. vnde sic fiet ratio: omne creatius secundum ordinem originis est 
+      comuni<lb ed="#V" n="3" break="no"/>cabile secundum eundem ordinem: cum agere praesupponat esse. sed 
+      divina<lb ed="#V" n="4" break="no"/>natura est creatiua secundum ordinem origis: vt talem creabilitatem 
+      <lb ed="#V" n="5"/>habeat aliquis a se: et alius ab alio. ergo sic divina essentia est comunica 
+      <lb ed="#V" n="6"/>bilis secundum talem ordinem. vt eam habeat aliquis a se et aliquis ab 
+      <lb ed="#V" n="7"/>alio.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e538">
+      ¶ Sed oritur dubium. quia illud quod non conuenit per se non est 
+      <lb ed="#V" n="8"/>demonstrabile de aliqui: cum per accidens non fiat demonstratio: sed 
+      <lb ed="#V" n="9"/>trinitas personarum non inest per se divine essemtie. alioquin vbicumque 
+      <lb ed="#V" n="10"/>esset diuina essentia esset formaliter trinitas personarum: et sic in 
+      qualbe<lb ed="#V" n="11" break="no"/>persona.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e550">
+      ¶ Dicitur autem quod trinitas personarum inest divine natura ad 
+      <lb ed="#V" n="12"/>modum quo est pluritas indiuinduorum in aliqua naturae scilicet per accidens: 
+      <lb ed="#V" n="13"/>licet summe necessario non eo modo quo accidens subiecto. sed eo modo 
+      <lb ed="#V" n="14"/>quo proprium accidit communi. et ideo nulla persona directe de 
+      <lb ed="#V" n="15"/>monstratur de divina essentia. sed ipsa communicabilitas que inest 
+      <lb ed="#V" n="16"/>per se divine naturae euidenter. comnicatio autem accidents propter diuinorum 
+      <lb ed="#V" n="17"/>incomnicabilitatem.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e566">
+      ¶ 2a difficultas. quia ille qui cognoscit diuinam 
+      <lb ed="#V" n="18"/>naturam esse creatiuam secundum talis orginis ordinem praecognoscium 
+      <lb ed="#V" n="19"/>necessario quod ipsa est communicabilis secundum talem ordinem: et sic per poste 
+      <lb ed="#V" n="20"/>rius non venit in noticiam prioris.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e575">
+      ¶ Dicitur autem quod sicut perceptibi 
+      <lb ed="#V" n="21"/>le discipline est antecedens ad rationale. et tamen per hoc quod est perceptibi 
+      <lb ed="#V" n="22"/>le discipline demonstramus a posteriori de homine rationabilitaem: 
+      <lb ed="#V" n="23"/>ita quamuis ordo comnicationis naturae divine praesupponatur tamquam 
+      <lb ed="#V" n="24"/>accidens ad ordinem operationis tamen posset alicui per reuelari 
+      or<lb ed="#V" n="25" break="no"/>do operationis: et inde demonstraret ordinem coicationis. 
+      <lb ed="#V" n="26"/>ad 3m punctum. si iste articulus est 
+      no<lb ed="#V" n="27" break="no"/>Quantum bis demonstrabilis propter quid.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e593">
+      ¶ Dicitur autem 
+      cir<lb ed="#V" n="28" break="no"/>ca istum punctum quod 4or sunt gradus demonstraium de deo: 
+      quaedam<lb ed="#V" n="29" break="no"/>enim sunt de ipso demonstrabilia secundum commnitatem transcendentis 
+      quen<lb ed="#V" n="30" break="no"/>admodum veritas et bonitas et vnitas demonstrantur de ipso per 
+      <lb ed="#V" n="31"/>rationem entis.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e604">
+      ¶ 2o. sunt alia quae demonstrantur de ipso secundum 
+      communi<lb ed="#V" n="32" break="no"/>tatem eius quod habet rationem et modum. quasi generis generalissimi: sicut per ratio 
+      <lb ed="#V" n="33"/>nem substantie sic demonstratur quod deus est ens subsistens et idepedens 
+      <lb ed="#V" n="34"/>per modum inherentis.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e613">
+      ¶ 3o sunt alia demonstrabilia secundum 
+      communi<lb ed="#V" n="35" break="no"/>tatem eius quod habet rationem generis subalterni: sicut deus est substantia spetus 
+      <lb ed="#V" n="36"/>et per rationem spiritus est demonstrabile de eo quod ipse est innuisibi 
+      <lb ed="#V" n="37"/>lis et indiuisibilis et incorruptibilis: naturae intellectualis et 
+      <lb ed="#V" n="38"/>libere.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e625">
+      ¶ 4o. sunt alia demonstrabilia de deo secundum proprietate 
+      <lb ed="#V" n="39"/>eius quod habet modium speciei specialissime: sicut ipse deus: eo modo qui 
+      fui<lb ed="#V" n="40" break="no"/>Adam homo per naturam propriam et nulli coem creature: et iste 
+      <lb ed="#V" n="41"/>modo per rationem deitatis: quae noscet eam ibi demonstraret quod deus est 
+      <lb ed="#V" n="42"/>infinitus eternus et necessarius: vt videtur: nisi forte dicatur quod primam passio 
+      <lb ed="#V" n="43"/>est per se nota de divitate. sicut supra.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e638">
+      ¶ Nunc igitur ad propositum iste 
+      <lb ed="#V" n="44"/>articulus non est nobis demonstrabilis propter quid per rationem entis: 
+      <lb ed="#V" n="45"/>quia tunc esset idem demonstrabile de omni ente: nec per rationem substantie quia 
+      <lb ed="#V" n="46"/>tunc omnis substantia esset trina. nec per rationem spiritus: quia tunc trinitatis  
+      <lb ed="#V" n="47"/>articulus angmentum conuellete cum omne demonstrabile propter quid sit 
+      demonstra<lb ed="#V" n="48" break="no"/>bile de omnibus ad quae se extendit ista formalis ratio: cum ibi fit 
+      <lb ed="#V" n="49"/>idem medium demonstrationis. nec est demonstrabilis iste 
+      arti<lb ed="#V" n="50" break="no"/>culus nobis. propter quid per rationem divitatis: quia ratio divinitatis est 
+      <lb ed="#V" n="51"/>nobis ignota: vt nunc supponitur et habetur ex dictis beati 
+      <lb ed="#V" n="52"/>Dyon. in lib. de diui. no. et per illud quod est nobis igno 
+      <lb ed="#V" n="53"/>tum non possumus aliquid demonstrare.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e662">
+      ¶ Sed tunc oritr difficulta 
+      <lb ed="#V" n="54"/>si aliqui haberent per divinam reuelationem noticiam 
+      quiditati<lb ed="#V" n="55" break="no"/>uam de diuina essentia. sicut aliqui ponunt possibile esse: si tunc illis est 
+      <lb ed="#V" n="56"/>set demonstrabilis propter quid articulus trinitatis.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e671">
+      ¶ Utur autem quod 
+      <lb ed="#V" n="57"/>non. quia quiditas divitatis: vt patuit est simpliciter simplex: et de 
+      <lb ed="#V" n="58"/>ipso propter quid. non potest aliquid demonstrari. 
+      <lb ed="#V" n="59"/>ad 4m punctum. si iste articulus est 
+      no<lb ed="#V" n="60" break="no"/>Quantum bis demonstrabilis. quia ponuntur due conclus 
+      <lb ed="#V" n="61"/>nes.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e684">
+      ¶ Prima est. quod ista veritas non est nobis 
+      demonstrabi<lb ed="#V" n="62" break="no"/>lis quia. per passionem priorem. quia nulla passio divitatis vide 
+      <lb ed="#V" n="63"/>tur nobis esse naturaliter manifesta vel nota: per quam possumus 
+      <lb ed="#V" n="64"/>a priori habere euidentem noticiam de ista veritate. istas enim 
+      <lb ed="#V" n="65"/>passiones vtpote infinitatem necessaritatem etc. ita cognoscunt 
+      <lb ed="#V" n="66"/>similiter philosophi sicut nos. et tamen nihil tale pertinens ad trinitatem 
+      <!--482.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>posuerunt in diuinis: cum tantum euia cogant.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e704">
+      ¶ Secunda conclusio. 
+      <lb ed="#V" n="68"/>quod ista veritas non est nobis demonstrabilis. quia. per 
+      passio<lb ed="#V" n="69" break="no"/>nem posteriorem: quia illa passio posterior esset in 
+      habitu<lb ed="#V" n="70" break="no"/>dine ad creaturas. que sequitur habitudinem ad intra 
+      diui<lb ed="#V" n="71" break="no"/>narum personarum: et tamen talis habitudo ad creaturas non 
+      du<lb ed="#V" n="72" break="no"/>cit in distintonem: sed vdentem esset cum pater et filius et i cilicet sint vnum principim 
+      <lb ed="#V" n="73"/>creature.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e721">
+      ¶ Dico. ergo quod licet veritatem istius aritua possimus diefende 
+      <lb ed="#V" n="74"/>re contra aduersarios veritatis: tamen ipsum non possumus deducere 
+      <lb ed="#V" n="75"/>euidenter vt demonstretur: quemadmodum in posolibuius potest aliquis 
+      <lb ed="#V" n="76"/>regumentum sibi traditum a patribus defensare: quod non posset suis 
+      vi<lb ed="#V" n="77" break="no"/>ribus acquirere.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e732">
+      ¶ Sed contra istam smnintiam quae communis est theologia. sole 
+      <lb ed="#V" n="78"/>instari 4r.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e737">
+      ¶ primo. quia philosophi deuenerunt in noticiam trinitatis: sic 
+      <lb ed="#V" n="79"/>recitat beatus Aug. in lib. de ciui. dei. de platone qui posuit 
+      <lb ed="#V" n="80"/>deum et natum de deo medicem: et de Porphyrio qui posuit 
+      pa<lb ed="#V" n="81" break="no"/>trem et filium et istorum medium: et tamen isti fide carebant.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e746">
+      ¶ 2o. quia 
+      ten<lb ed="#V" n="82" break="no"/>est vnumquodque perfectum cum potest sibi similem generare: sicut dixerum 
+      <lb ed="#V" n="83"/>philosophi naturali lumine ducti: sed deus est ens perfectissimum. ergo maxim 
+      <lb ed="#V" n="84"/>sui similis generatiuum.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e755">
+      ¶ 3o. quia omne bonum est communicatiuum suiipsius: 
+      <lb ed="#V" n="85"/>sicut naturalis ratio dictat: et quanto magis botum: tanto magis 
+      communi<lb ed="#V" n="86" break="no"/>catiuum. sed deus est infinite bonus. ergo infinite communicatiuus: et istud non 
+      <lb ed="#V" n="87"/>potest esse extra: propter dissilimitem creature. ergo ad intra personarum 
+      <lb ed="#V" n="88"/>emanatione.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e766">
+      ¶ 4o. quia nam quanto actuus tanto actio: cum actus 
+      <lb ed="#V" n="89"/>2us: fit primo proporus. Sed deus est actus infinitus. ergo habet 
+      infi<lb ed="#V" n="90" break="no"/>nitam actualitatem: et istam habere non potest nisi ad intra: cum 
+      crea<lb ed="#V" n="91" break="no"/>tura non sitcapax tante actiuitatis.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e776">
+      ¶ Dicitur autem ad primam in 
+      <lb ed="#V" n="92"/>stantiam quod philosophi et specialiter pluronici dixerunt aliqua credita et non 
+      <lb ed="#V" n="93"/>euidenter demonstrata: sicut patet ex dictis eorum in libris: et forsa 
+      <lb ed="#V" n="94"/>eis reuelata fuerunt.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e785">
+      ¶ Et ad illud 2m dicitur generare 
+      si<lb ed="#V" n="95" break="no"/>bi simile est perfectio imperfecta supplens imperfectionem. 
+      <lb ed="#V" n="96"/>quia corruptibilia nec possunt conseruari in eodem vel in vno in 
+      <lb ed="#V" n="97"/>diuiduo: oportet quod conseruentur in eadem specie.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e794">
+      ¶ Unde videmus 
+      <lb ed="#V" n="98"/>quod entia perfectissima: vt intelligene et corpora supercelestia non 
+      <lb ed="#V" n="99"/>generant sibi similia.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e801">
+      ¶ Et ad 3am instantiam. quod sicut deus habet 
+      infi<lb ed="#V" n="100" break="no"/>nitam bonitatem: ita habet infinitam causalitatem: et tamen non potest 
+      sib<lb ed="#V" n="101" break="no"/>infinitum equale creare: quia illud non est sibi causalie: et ita vt 
+      infi<lb ed="#V" n="102" break="no"/>nite suam bonitatem comicare: dicerent philosophi quod non est hoc 
+      <lb ed="#V" n="103"/>ex parte eius cui comunicatur.
+    </p>
+            <p xml:id="FrMQ88-de1809-d1e812">
+      ¶ Et ad 4m. quod sic deus habet 
+      infi<lb ed="#V" n="104" break="no"/>nitam vim creatiuam: sicut infinitam productiuam: et tamen 
+      <lb ed="#V" n="105"/>non potest equale sibi creare: ita dicerent philosophi quod licet habeat 
+      <lb ed="#V" n="106"/>viam productiuam et actiuam infinitam: non potest cum 
+      infini<lb ed="#V" n="107" break="no"/>tum producere: quia istud est improducibile: licet autem istud non 
+      <lb ed="#V" n="108"/>sit verum tamen oppositum non est materiaium in lumine naturali: 
+      <lb ed="#V" n="109"/>aritua autem principalia procedunt suis viis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

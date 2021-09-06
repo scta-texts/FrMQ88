@@ -1,0 +1,2337 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 12</title>
+            <author ref="#FrancisofMeyronnes">Francis de Meyronnes</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 12</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-FdM888">Venice 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="264-v"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="FrMQ88-e20925"><!-- quod-q12 -->
+            <head xml:id="FrMQ88-e20925-Hd1e108">Quaestio 12</head>
+            <p xml:id="FrMQ88-e20925-d1e111">
+               <lb ed="#V" n="25"/>quaestio fuit. Utrum 
+      obedi<lb ed="#V" n="26" break="no"/>Uodecima entia sit 
+      nobilissima<lb ed="#V" n="27" break="no"/>virtutum moralium. Et quidem ad illius quaestionis 
+      <lb ed="#V" n="28"/>declarationem. Primo intelligendum est quod 
+      <lb ed="#V" n="29"/>quatuor virtutes inueniuntur in diuina 
+      scirn<lb ed="#V" n="30" break="no"/>ptura singulariter commendate: quae includunt subiectionem 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e127">
+               <lb ed="#V" n="31"/>¶ Quarum prima est: legalis iustitia: per quam iusticiam homo fit 
+      <lb ed="#V" n="32"/>legi subiectus: vnde iustus legaliter est qui bene subiicitur 
+      <lb ed="#V" n="33"/>omnibus legis praeceptis: de qua iustitia dicitur pro parentibus beatiu 
+      <lb ed="#V" n="34"/>Io. baptiste Tuc. i. Erant autem iusti ambo ante deum 
+      ince<lb ed="#V" n="35" break="no"/>dentes in omnibus iustificationibus diveni sine quaerela. quia scilicet 
+      <lb ed="#V" n="36"/>legi diuine voluntarie erant subiecti.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e143">
+      ¶ Secunda virtus est 
+      <lb ed="#V" n="37"/>fides catholica que includit subiectionem ad 
+      diuinara<lb ed="#V" n="38" break="no"/>auctoritatem: de qua subiectione dicit Apostls. 2. corum. 1o. 
+      <lb ed="#V" n="39"/>quod arma militie nostre non sunt carnalia: sed potentia dei: in 
+      <lb ed="#V" n="40"/>captiuitatem redigentes omnem inteletum in obsequium christi. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e154">
+               <lb ed="#V" n="41"/>¶ Tertia virtus est humilitas. quae dicit et includit 
+      sub<lb ed="#V" n="42" break="no"/>iectionem ad eum cui se humiliat: de qua subiectione dicit 
+      <lb ed="#V" n="43"/>apostolus Petrus in prima canonica sua. 15. humilia 
+      <lb ed="#V" n="44"/>mini sub potenti manu difteini: et simili modo fuit dictum Agar ar 
+      <lb ed="#V" n="45"/>cille Gene. 19. Reuertere ad difuentam tuam et humiliare 
+      sub<lb ed="#V" n="46" break="no"/>manu eius.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e171">
+      ¶ 4a virtus est obedientia: quae directe in 
+      sua<lb ed="#V" n="47" break="no"/>ratione formali includit subiectionem obtemperantis ad prin 
+      <lb ed="#V" n="48"/>cipantem. Unde illa virtus duobus personarum generibus 
+      sin<lb ed="#V" n="49" break="no"/>gulariter quae sunt subiecte conuenit. Tum quia apstuls Pau. ad 
+      <lb ed="#V" n="50"/>Eph. ¶. filii obedite parentibus vestris. Tum quia ibidem 
+      <lb ed="#V" n="51"/>dicit. Serui obedite diffinis vestris. Et ideo si ille virtutes  
+      <lb ed="#V" n="52"/>nobiles sunt et venerabiles: vt testatur diuina 
+      scriptura<lb ed="#V" n="53" break="no"/>subiectio secundum vnamquamque illarum virtutum est venerabilis. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e189">
+               <lb ed="#V" n="54"/>¶ Quod autem virtus obedientie includat directe subiectio 
+      <lb ed="#V" n="55"/>nem: ostenditur 4r testimonio apostolico.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e196">
+      ¶ Primum est. 
+      <lb ed="#V" n="56"/>quia apostolus Petrus in prima canonica. 2. c. Indicens 
+      <lb ed="#V" n="57"/>fidelibus obedientiam ad principes mundi. dicit. 
+      Subie<lb ed="#V" n="58" break="no"/>cti estote omni humane creature propter deum etc.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e205">
+      ¶ 2m testimo 
+      <lb ed="#V" n="59"/>nium. quia apostolus Pau. indicans obedientiam quae debet 
+      <lb ed="#V" n="60"/>esse eius qui iudicatur ad iudiceme suum. dicit Actuum. 2o. 
+      <lb ed="#V" n="61"/>Propter quam causam sto in iudicio subiectus.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e214">
+      ¶ 3m testimo 
+      <lb ed="#V" n="62"/>nium. quia idem apostolus declarans obedientiam quae debet 
+      <lb ed="#V" n="63"/>esse vxoris ad virum suum. dicit ad Eph. 5. Ut 
+      ecclesia<lb ed="#V" n="64" break="no"/>subiecta est christo: ita et mulieres viris suis in omnibus.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e223">
+      ¶ 4m 
+      <lb ed="#V" n="65"/>testimonium est quod idem apostolus loquens de 
+      obedien<lb ed="#V" n="66" break="no"/>tia charitatis: que diabet esse inter fideles. dicit in eodem 
+      <!--533.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>cap. Subiecti inuincem in timore dei. 
+      <lb ed="#V" n="68"/>premissis ad ostendendum quod 
+      ali<lb ed="#V" n="69" break="no"/>Istis autemem qua subiectio importat 
+      nobili<lb ed="#V" n="70" break="no"/>tatem contra illos qui nobilitatem regis Sicilie alies 
+      declara<lb ed="#V" n="71" break="no"/>tam: ex subiectione obfuscare nituntur: fuit quaestio reducta 
+      <lb ed="#V" n="72"/>vtrum obedientia sit nobilissima virtutum moralium. Et quidem 
+      <lb ed="#V" n="73"/>illa quaestio vnum supponit et aliud querit: illud quod suppositionis 
+      <lb ed="#V" n="74"/>est quod obedientia est virtus moralis: et illud quod querit 
+      <lb ed="#V" n="75"/>est. si virtus talis moralis est nobilissima: et ideo per 
+      nego<lb ed="#V" n="76" break="no"/>ciandum est circa suppositum: et secundo circa quesitum. 
+      <lb ed="#V" n="77"/>ad primam partem ostenditur quod 
+      obedien<lb ed="#V" n="78" break="no"/>Quantum tia sit virtus moralis: quia in 
+      diffini<lb ed="#V" n="79" break="no"/>tione virtutis moralis apud moralem philosophiam ponuntur. eceo. 
+      <lb ed="#V" n="80"/>particule obedientie conuenientes.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e266">
+      ¶ Quarum 
+      pri<lb ed="#V" n="81" break="no"/>ma est. quod virtus moralis est habitus. ad differentiam 
+      <lb ed="#V" n="82"/>actuum et dispositionum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e273">
+      ¶ Secunda est quod habitus electiuus 
+      <lb ed="#V" n="83"/>ad differentiam virtutum intellectualium.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e278">
+      ¶ Tertia est. quod ip 
+      <lb ed="#V" n="84"/>sa est in medio consistens. ad differentiam virtutum naturalium qua 
+      pe<lb ed="#V" n="85" break="no"/>nuntur principia agendi in actibus mere naturalibus: vt calor 
+      <lb ed="#V" n="86"/>igne: quia ille virtutes consistunt in extreno: et ideo dicitur in naturali philosophia 
+      <lb ed="#V" n="87"/>quod virtus est vltimum de potentia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e289">
+      ¶ Quarta 
+      con<lb ed="#V" n="88" break="no"/>ditio est. quia ipsa est in medio duarum malitiarum. ad difficuta 
+      <lb ed="#V" n="89"/>ferentiam qualitatum sensibilium: vt colores medii: quae sunt 
+      <lb ed="#V" n="90"/>in medio duarum dispositionum albedinis et nigredinis: tamen non 
+      <lb ed="#V" n="91"/>in medio duarum maliciarum: sicut est virtus inter duo vi 
+      <lb ed="#V" n="92"/>cia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e302">
+      ¶ Quinta particula est. quod ille malitie sunt superabum 
+      <lb ed="#V" n="93"/>dantie et defectus. ad differentiam virtutum theologius: que licet 
+      <lb ed="#V" n="94"/>habeant defectum: non tamen habent superabundantiam: quia licet aliquis 
+      <lb ed="#V" n="95"/>posset deficere in credendo aut diligendo deum: non tamen 
+      su<lb ed="#V" n="96" break="no"/>perabundare: cum ipse sit infinite bonus et verus.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e313">
+      ¶ Nunc 
+      <lb ed="#V" n="97"/>autem ad propositum: obedientia est primo habitus: quo ad primam 
+      <lb ed="#V" n="98"/>particulam: quia ex frequentibus actibus obediendi generatur 
+      <lb ed="#V" n="99"/>habitus inclinanas ad obediendum: sicut ex actibus iustitie 
+      <lb ed="#V" n="100"/>vt experimur.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e325">
+      ¶ 2o ipsa est habitus electiuus: quia electio est 
+      <lb ed="#V" n="101"/>actus voluntatis et tales sunt actus obedientie: vt 
+      experien<lb ed="#V" n="102" break="no"/>tia docet.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e332">
+      ¶ 3o ipsa est in medio consistens. quia cum sit circa 
+      <lb ed="#V" n="103"/>bonum praecepti dati: contingit circa ipsum nimis intense 
+      agen<lb ed="#V" n="104" break="no"/>et nimis remisse.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e339">
+      ¶ 4o ipsa est in medio duarum malitia 
+      <lb ed="#V" n="105"/>rum: quia ille qui nimis intendit vituperatur circa bonum 
+      fi<lb ed="#V" n="106" break="no"/>nitum: et qui nimis remittitur.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e346">
+      ¶ o iste malitie sunt superabum 
+      <lb ed="#V" n="107"/>dantie et defectus: quia ille qui obedit in quibus non oportet: est 
+      su<lb ed="#V" n="108" break="no"/>perhabundans: et quo non vult obedire in quibus oportet: est 
+      de<lb ed="#V" n="109" break="no"/>ficiens: sicut ille propheta qui venit de iuda in DMethel fuit 
+      <lb ed="#V" n="110"/>superabundans in eo quod obediuit alteri loquenti ex parte 
+      <lb ed="#V" n="111"/>angeli. 3. Reg. 13. capis. et fuit deficiens in eo quod non 
+      obe<lb ed="#V" n="112" break="no"/>diuit voci domini: vt ibidem habetur: et sic supponitur 
+      <lb ed="#V" n="113"/>quod obedientia est virtus moralis. 
+      <lb ed="#V" n="114"/>ad secundam partem. supposito quod 
+      obedin<lb ed="#V" n="115" break="no"/>Quantum tia sit virtus moralis: currit quaestio. vtri 
+      <lb ed="#V" n="116"/>sit nobilissima virtutum moralium.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e370">
+      ¶ Et arguitur. primo quod non. 
+      <lb ed="#V" n="117"/>ostendendo quod subiectio quam importat obedientia non possit 
+      <lb ed="#V" n="118"/>dicere perfectionem aut nobilitatem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e377">
+      ¶ Primo. quia illud quod 
+      <lb ed="#V" n="119"/>mportat perfectionem est in deo formaliter: aut virtualiter: subie 
+      <lb ed="#V" n="120"/>ctio autem non continetur in deo formaliter: quia ibi est divfenratio 
+      for<lb ed="#V" n="121" break="no"/>maliter opposita subiectioni: nec continetur ibi virtualiter 
+      <lb ed="#V" n="122"/>quia nunquam continetur aliquid in deo virtualiter: cuius 
+      opposi<lb ed="#V" n="123" break="no"/>tum continetur in deo formaliter.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e391">
+      ¶ Et confirmatur. quia deus 
+      <lb ed="#V" n="124"/>esset supereminenter subiectus.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e396">
+      ¶ Secundo arguitur quod illud 
+      <lb ed="#V" n="125"/>quod de se refutatur: aut non appetitur propter se: non dicit aliquam 
+      <lb ed="#V" n="126"/>perfectionem: sed subiectio non appetitur propter se: sed propter 
+      <lb ed="#V" n="127"/>aliquam perfectionem que acquiritur ex tali subiectione 
+      <lb ed="#V" n="128"/>ergo non dicit perfectionem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e407">
+      ¶ Tertio quia quorum vnum se 
+      <lb ed="#V" n="129"/>habet in ratione actiui et reliquum in ratione passiui. semper 
+      passi<lb ed="#V" n="130" break="no"/>uum dicit imperfectionem: vt probatur dicto communi: sed subie 
+      <lb ed="#V" n="131"/>ctio est huiusmodi: cum prelatio sibi opposita sit actiua alioquin 
+      <lb ed="#V" n="132"/>frustra esset praelatus nisi posset aliquid praecipere. ergo subiectio non 
+      <!--534.xml-->
+      <pb ed="#V" n="265-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>dicit perfectionem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e427">
+      ¶ 4o arguitur. quia subiectio ex parte 
+      radi<lb ed="#V" n="2" break="no"/>cis sue non dicit perfectionem. Tum quia in statu innocentie: homo 
+      <lb ed="#V" n="3"/>nulli fuisset subiectus. Tum quia seruitus est inducta propter peccatum 
+      <lb ed="#V" n="4"/>in filio Noe post lapsum hominis primi. Tum quia seruitute 
+      ty<lb ed="#V" n="5" break="no"/>rannica: propter defectus virtutis in subditis. Tum quia in 
+      serun<lb ed="#V" n="6" break="no"/>tute voluntatis. cum quis se subiicit seiuitius ex defectu rationis 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e440">
+               <lb ed="#V" n="7"/>¶ Sed contra istud arguiter. quod subiectio dicat nobitaem in aliquibus: 
+      <lb ed="#V" n="8"/>et sic cum obstantia includat subiectionem. quod ipsa possit nobili 
+      <lb ed="#V" n="9"/>sima dici virtutum moralium: quod autem aliqua subiectio 
+      di<lb ed="#V" n="10" break="no"/>cat nobilitatem diclaratur dupliciter.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e451">
+      ¶ Primo. quia nobilio 
+      <lb ed="#V" n="11"/>ri modo est anima sensitiua in homine quam in bruto: et 
+      tam<lb ed="#V" n="12" break="no"/>in homine est rationi subiecta et non in bruto.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e459">
+      ¶ 
+      Secun<lb ed="#V" n="13" break="no"/>do declaratur idem. quia nobiliori modo est anima 
+      intelle<lb ed="#V" n="14" break="no"/>ctiua in christo. vbi est substantificata in verbo quam in 
+      ho<lb ed="#V" n="15" break="no"/>mine alio: et tamen in christo est subiecta deitati in eodem 
+      <lb ed="#V" n="16"/>supposito. et in supposito alterius hominis est simpliciter 
+      re<lb ed="#V" n="17" break="no"/>gina omnium aliarum naturarum in eodem supposito existentium. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e472">
+               <lb ed="#V" n="18"/>¶ Et si dicatur quod illa nobilitas est gratia vnionis: non 
+      <lb ed="#V" n="19"/>gratia subiectionis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e479">
+      ¶ Istud non valet. quia si per impossibile esset 
+      <lb ed="#V" n="20"/>anima vnita et non subiecta: tunc esset peccatrix sicut 
+      ani<lb ed="#V" n="21" break="no"/>ma sensitiua: cum non esset obediens intellectiue. 
+      <lb ed="#V" n="22"/>questionem ordine retrogrado 
+      <lb ed="#V" n="23"/>Circa istam negociando: ex causa. Primo in 
+      <lb ed="#V" n="24"/>sistendum est. circa rationes factas. Et secundo circa 
+      <lb ed="#V" n="25"/>considerationes faciendas. 
+      <lb ed="#V" n="26"/>ad primam partem. Primo sunt dissoluem 
+      <lb ed="#V" n="27"/>Quantum de rationes facte ad partem negatiuam. Et 
+      <lb ed="#V" n="28"/>secundo sunt confirmande rationes ad partem affirmatiuam 
+      <lb ed="#V" n="29"/>ad primam partem. prima ratio facta ad 
+      <lb ed="#V" n="30"/>Quantum ostendendum quod subiectio non dicat 
+      <lb ed="#V" n="31"/>nobilitatem: est quia non est in deo formaliter nec virtuali 
+      <lb ed="#V" n="32"/>ter: et quod non fit ibi subiectio virtualiter: probat: quia eius 
+      <lb ed="#V" n="33"/>oppositum scilicet presidentia inest ei formaliter.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e512">
+      ¶ Istud 
+      au<lb ed="#V" n="34" break="no"/>tem argumentum peccat dupliciter. Primo quide in mino 
+      <lb ed="#V" n="35"/>ri: et secundo in probatione minoris: cum enim dicit in mi 
+      <lb ed="#V" n="36"/>nori: subiectio non continetur in deo: nec virtualiter: 
+      nes<lb ed="#V" n="37" break="no"/>formaliter: istud quidem est verum quantum ad esse 
+      for<lb ed="#V" n="38" break="no"/>male: non tamen quantum ad esse virtuale: sicut ostenditur 
+      quadru<lb ed="#V" n="39" break="no"/>plici ratione.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e528">
+      ¶ Quarum prima est. quod quicquid deus potest 
+      <lb ed="#V" n="40"/>efficere continet in se virtualiter: cum continentia virtualis 
+      <lb ed="#V" n="41"/>non sit nisi in potentia effectiua: sed deus potest facere sub 
+      <lb ed="#V" n="42"/>iectionem: cum sit omnium causa efficiens prima. igitur 
+      vtrtua<lb ed="#V" n="43" break="no"/>liter continet eam.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e539">
+      ¶ Secunda est. quia quicquid continet causa 
+      <lb ed="#V" n="44"/>secunda in virtute continet causa prima: que continet 
+      virtuali<lb ed="#V" n="45" break="no"/>ter causam secundam. cum ea que continentur a contento 
+      conti<lb ed="#V" n="46" break="no"/>neantur a continente: sed causa secunda continet subiectionem 
+      <lb ed="#V" n="47"/>in virtute: cum omnis effectus in sua causa sit virtualiter conten 
+      <lb ed="#V" n="48"/>tus. ergo magis causa prima.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e553">
+      ¶ Tertia. quia quicquid 
+      <lb ed="#V" n="49"/>non continetur virtualiter in deo est ens prohibitum: 
+      <lb ed="#V" n="50"/>cum sola talia entia effugiant eius productiuam virtutem 
+      <lb ed="#V" n="51"/>sed subiectio est ens non prohibitum: cum ponatur in rerum 
+      <lb ed="#V" n="52"/>natura. ergo est virtualiter in deo contenta.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e564">
+      ¶ Quarta 
+      <lb ed="#V" n="53"/>quia quicquid deus cognoscit ad extra continetur in deo 
+      <lb ed="#V" n="54"/>exemplariter per ideas quas habet apud seipsum per modum 
+      <lb ed="#V" n="55"/>artis: sicut docet beatus Aug. in libro. selund. q. sed omnia 
+      <lb ed="#V" n="56"/>quorum habet ideas: continet virtualiter: cum idee. secundum bea 
+      <lb ed="#V" n="57"/>tum Aug. sint principia cognoscendi et operandi artifici 
+      <lb ed="#V" n="58"/>ergo cum deus cognoscat subiectionem: virtualiter conti 
+      <lb ed="#V" n="59"/>net ipsam.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e582">
+      ¶ Et confirmatur istud quadruplici aucto 
+      <lb ed="#V" n="60"/>ritate. Prima. quia dicit propheta in pars. Omnia 
+      subiecisti<lb ed="#V" n="61" break="no"/>sub pedibus eius scilicet hominis loquentis ad deum: et illam 
+      <lb ed="#V" n="62"/>subiectionem facere non potuisset nisi eam continuisset in 
+      vir<lb ed="#V" n="63" break="no"/>tute.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e593">
+      ¶ Secunda est. quia dicit prophihpa ysai. 4o. quod deus 
+      pro<lb ed="#V" n="64" break="no"/>misit Cyro vt subiiceret ante faciem eius gentes: quod 
+      fru<lb ed="#V" n="65" break="no"/>stra fecisset nisi talem potestatem habuisset: que est 
+      virtua<lb ed="#V" n="66" break="no"/>lis continentia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e602">
+      ¶ Tertia est apostoli Pauli: prima corum¬ 
+      <!--534.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>9. vbi dicit. quod filius tunc erit scilicet in fine: subiectus ei qui 
+      <lb ed="#V" n="68"/>omnia illi subiecit id est deo patri: qui nequaquam filio aliquid 
+      <lb ed="#V" n="69"/>subiiceret nisi subiectionem illam virtualiter contineret. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e615">
+               <lb ed="#V" n="70"/>¶ Quarta est eiusdem apostoli ad hebre. 2. vbi dicit. 
+      <lb ed="#V" n="71"/>quod deus pater non dimisit aliquid non subiectum filio in eo 
+      <lb ed="#V" n="72"/>quod omnia subiecit sub pedibus eius: et isto modo virtualiter 
+      <lb ed="#V" n="73"/>continuit.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e627">
+      ¶ Dicit tamen iste doctor quod illa subiectio non 
+      <lb ed="#V" n="74"/>est in deo supereminenter.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e632">
+      ¶ Istud autem est contra 
+      determi<lb ed="#V" n="75" break="no"/>nationem beati Diony. 2. cap. diuinorum nomi. vbi 
+      di<lb ed="#V" n="76" break="no"/>cit expriesse: quod illa omnia que sunt in creaturis 
+      supereminen<lb ed="#V" n="77" break="no"/>ter sunt in prima causa: quamuis ibi a materialibus segregantur: et 
+      <lb ed="#V" n="78"/>iterum contra determinationem beati Dion. in suins stoyceosibus: 
+      <lb ed="#V" n="79"/>sicut recitatur in. 3. ca. diuinorum nomi. qui dicit. quod vbebsealu 
+      di<lb ed="#V" n="80" break="no"/>uinitas est in se super his. et praehabens tam perfecta quam 
+      imperfe<lb ed="#V" n="81" break="no"/>cta omnia entia: et constat quod subiectio est entitas: siue perfe 
+      <lb ed="#V" n="82"/>cta: siue imperfecta.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e652">
+      ¶ Et confirmatur auctoritate 
+      dupli<lb ed="#V" n="83" break="no"/>ci diuine scripture.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e657">
+      ¶ Quarum prima est Io. euange. primo capi. 
+      <lb ed="#V" n="84"/>dicentis. Quod factum est in ipso vita erat. et ideo cum 
+      subie<lb ed="#V" n="85" break="no"/>ctio sit facta. ipsa praefuit in deo vita: non viuens autem non 
+      po<lb ed="#V" n="86" break="no"/>test esse vita: nisi supereminenter.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e666">
+      ¶ 2o peccat istud aritum in 
+      pro<lb ed="#V" n="87" break="no"/>batione minoris: cum assumit ad probandum eam: quod illud 
+      <lb ed="#V" n="88"/>cuius oppositum continetur in deo formaliter non continetur in 
+      <lb ed="#V" n="89"/>eo virtualiter: et ideo quia praelatio continetur in deo formaliter 
+      sub<lb ed="#V" n="90" break="no"/>iectio non potest contineri in eo virtualiter.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e677">
+      ¶ Istud autem 
+      me<lb ed="#V" n="91" break="no"/>dium militat per contra articulum creationis: quia cum esse 
+      a<lb ed="#V" n="92" break="no"/>se et esse ab alio sint opposita: sicut praesidere et subiici: si 
+      <lb ed="#V" n="93"/>istud medium est bonum: cum in deo sit esse formaliter a se. non 
+      <lb ed="#V" n="94"/>erit in deo virtualiter esse ab alio: et sic non poterit facere 
+      <lb ed="#V" n="95"/>creaturam quae sit ab alio.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e691">
+      ¶ Secundo militat istud medium contra 
+      <lb ed="#V" n="96"/>articumum incarnationis: quia assumere et assumi sunt 
+      op<lb ed="#V" n="97" break="no"/>posita: sicut praesse et subiici: cum assumens inquantum assumens 
+      <lb ed="#V" n="98"/>prasideat: et ideo cum posse assumere sit in deo formaliter: assum 
+      <lb ed="#V" n="99"/>ptio passiua non erit in eo virtualiter: et sic non poterit 
+      causa<lb ed="#V" n="100" break="no"/>re illam vnionem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e704">
+      ¶ Tertio militat contra articulum resurre 
+      <lb ed="#V" n="101"/>ctionis: quia cum resuscitare et resuscitari sic opponantur 
+      <lb ed="#V" n="102"/>sicut praesse et subiici: cum resurgens inquantum talis sit resusci 
+      <lb ed="#V" n="103"/>tati subiectus: cum in deo sit formaliter posse resuscitare: in 
+      <lb ed="#V" n="104"/>eo non erit virtualiter resurgere. et sic non poterit ipsum 
+      ef<lb ed="#V" n="105" break="no"/>fectiue causare.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e717">
+      ¶ Quarto militat contra articulum ascensionis: 
+      <lb ed="#V" n="106"/>quia eleuare et eleuari sic opponuntur: sicut praesse et 
+      subii<lb ed="#V" n="107" break="no"/>ci: et ideo cum posse eleuare sit in deo formaliter: posse 
+      ele<lb ed="#V" n="108" break="no"/>uari non est in eo virtualiter: et sic humanitas ad inimitatise 
+      ele<lb ed="#V" n="109" break="no"/>uari non potuisset.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e728">
+      ¶ Sed oritur difficultas. si istud medium hoc 
+      as<lb ed="#V" n="110" break="no"/>sumptum consonat aliis doctrinis quam theologice.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e733">
+      ¶ Dicitur autem quod 
+      <lb ed="#V" n="111"/>immo tendit contra quadrupliciter. Primo quidem scientiae morali: quia 
+      sum<lb ed="#V" n="112" break="no"/>mus princeps in republica: quae dicitur monarchia: habet in se 
+      <lb ed="#V" n="113"/>praesidentiam ciuilem respectu omnium formaliter: et tunc ex hoc 
+      <lb ed="#V" n="114"/>non excluditur quin habeat subiectionem virtualiter: alioquin non 
+      <lb ed="#V" n="115"/>posset facere in ciuius subiectionem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e746">
+      ¶ Secundo contra 
+      ten<lb ed="#V" n="116" break="no"/>dit scientia naturali: quia licet sol in se sit incorrupsius formaliter: tamen 
+      con<lb ed="#V" n="117" break="no"/>tinet corruptibilia virtualiter: quae inquantum talia plus 
+      incor<lb ed="#V" n="118" break="no"/>ruptibilibus opponuntur quam subiecta prasidentibus.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e756">
+      ¶ 3o contratendit 
+      <lb ed="#V" n="119"/>scientie mathelce: nam cum in arititia vnitas contineat virtualiter omnem 
+      <lb ed="#V" n="120"/>numerum: cum ipsa sit indiuisibilis formaliter: non poterit 
+      con<lb ed="#V" n="121" break="no"/>tinere numerum virtualiter: qui est diuisibilis per essentiam. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e765">
+               <lb ed="#V" n="122"/>¶ Quarto contratendit scientie metatise: quia cum substantie separate 
+      <lb ed="#V" n="123"/>sint incorporales et permanentes formaliter: non poterunt 
+      <lb ed="#V" n="124"/>continere aliquid virtualiter corporale et successiuum: et 
+      <lb ed="#V" n="125"/>et sic non poterunt esse cause motus 
+      celi<lb ed="#V" n="126" break="no"/>ratio facta ad ostendendum quod subiectio non 
+      <lb ed="#V" n="127"/>Secunda possit dicer nobilitate est ista: illud quod 
+      <lb ed="#V" n="128"/>refutatur de se: et si appetitur: non appetitur sui gratia: non potest 
+      di<lb ed="#V" n="129" break="no"/>cere perfectionem: sed subiectio est huiusmodi. ergo etc.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e785">
+      ¶ Ista autem ratio 
+      <lb ed="#V" n="130"/>peccat 2a. Primo quidem in maiori: cum dicit: quod illud quod non 
+      <lb ed="#V" n="131"/>appetitur sui gratia non dicit perfectionem: tunc enim nullum 
+      ordina<lb ed="#V" n="132" break="no"/>tum ad finem diceret vllam perfectionem: cum ea quae sunt ad 
+      <!--535.xml-->
+      <pb ed="#V" n="265-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>finem non sui gratia appetantur sed gratia finis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e803">
+      ¶ Et 
+      confirma<lb ed="#V" n="2" break="no"/>tur istud 4r. Tum quia in disciplinis logyca non queritur: sui 
+      <lb ed="#V" n="3"/>gratia: aut grammatica: sed propter scientias superiores ista 
+      desidera<lb ed="#V" n="4" break="no"/>mus: et tamen habitus intellcumales dicunt intellectus possibilis 
+      perfe<lb ed="#V" n="5" break="no"/>ctiones: cum sint virtutes: Tum quia in doctrinalibus non 
+      quaeri<lb ed="#V" n="6" break="no"/>tur medicina sui gratia: vt vulgo dicitur: sed propter sanitatem. et 
+      <lb ed="#V" n="7"/>tamen medicina est perfectio et virtus intellectiua. Tum quia in 
+      cor<lb ed="#V" n="8" break="no"/>poralibus non queruntur bona corporis: aut vires sui gratia 
+      <lb ed="#V" n="9"/>sed propter bona anime. ad que de natuam sua sunt ordinata: 
+      <lb ed="#V" n="10"/>et tamen bona corporis dicunt perfectionem corporalem. Tum quia in 
+      spi<lb ed="#V" n="11" break="no"/>ritualibus bona anime. vt virtutes non queruntur nisi propter 
+      <lb ed="#V" n="12"/>beatitudinem. vt docet beatus Aug. primo de tri. et tamen virtutes  
+      <lb ed="#V" n="13"/>sunt perfectiones.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e832">
+      ¶ Ideo dico quod multa dicunt 
+      perfectio<lb ed="#V" n="14" break="no"/>nem que non sui gratia appetuntur: quia appetere sui gratia 
+      <lb ed="#V" n="15"/>aliquid est eo frui secundum beatum Aug.n de doctria christiana. 
+      frui<lb ed="#V" n="16" break="no"/>est alicui amore inherere propter se: et ita cum nihil sit 
+      frui<lb ed="#V" n="17" break="no"/>bile nisi deus solus: deus diceret perfectionem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e843">
+      ¶ Et 
+      con<lb ed="#V" n="18" break="no"/>firmatur. quia appetitus noster: quia est rectissimus: non 
+      appe<lb ed="#V" n="19" break="no"/>tit bruta nisi propter hominem: et tamen bruta sunt entia 
+      perfe<lb ed="#V" n="20" break="no"/>ctissima citra rationalia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e853">
+      ¶ Secundo peccat ista ratio in 
+      <lb ed="#V" n="21"/>minori in eo quod assumit: quod subiectio refutatur vniversaliter: quod 
+      <lb ed="#V" n="22"/>non est verum: quia iste doctor distinxit inter bonam 
+      sub<lb ed="#V" n="23" break="no"/>iectionem et malam: et nullum bonum: inquantum tale: 
+      ha<lb ed="#V" n="24" break="no"/>bet rationem fuge.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e864">
+      ¶ Et confirmatur illa interemptio 
+      qua<lb ed="#V" n="25" break="no"/>druplici exemplo. Primo. quia primus angelus: quia 
+      recu<lb ed="#V" n="26" break="no"/>sauit deo esse subiectus: factus est dyabolus. vt habe 
+      <lb ed="#V" n="27"/>tur saie. 1 4.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e873">
+      ¶ Secundo. quia primus homo noluit esse 
+      sub<lb ed="#V" n="28" break="no"/>iectus deo factus est in statum miserie: cum esset in actu 
+      <lb ed="#V" n="29"/>inocentie secundum illud propheticum. homo cum in honore 
+      <lb ed="#V" n="30"/>esset non intellexit.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e882">
+      ¶ Tertio. quia quilibet efficitur ini 
+      <lb ed="#V" n="31"/>micus dei ex hoc quod recusat esse subiectus legi diuine: si 
+      <lb ed="#V" n="32"/>cut dicit Aposto. ad Rom. 5. capis. quod sapientia carnis 
+      <lb ed="#V" n="33"/>inimica est deo: legi enim dei subiecta non est: nec enim est 
+      <lb ed="#V" n="34"/>se potest.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e893">
+      ¶ Quarto. quia ille qui non vult esse subiectus 
+      <lb ed="#V" n="35"/>icitur in scriptura filius Delia id est absque iugo: vel dimcemento secundum 
+      <lb ed="#V" n="36"/>interpraetationem beatit hiero. Unde dicitur primi Reg. 2. quod 
+      fi<lb ed="#V" n="37" break="no"/>lii hely erant filii Delial: nescientes diseuntum: et sic videntur 
+      <lb ed="#V" n="38"/>esse qui bonam abiiciunt subiectionem. 
+      <lb ed="#V" n="39"/>quia quando aliqua duo comparantur ad 
+      <lb ed="#V" n="40"/>Tertia ratio inuicem vnum in ratione 
+      acti<lb ed="#V" n="41" break="no"/>ui reliquum in ratione passiui: si actium dicit perfectionem 
+      <lb ed="#V" n="42"/>passiuum dicit imperfectionem: sicut patet in regere et 
+      <lb ed="#V" n="43"/>regi: docere et doceri: nunc autem praesse et esse subiectum 
+      <lb ed="#V" n="44"/>sic se habent: et ideo cum preesse sit nobilitatis: subiici erit 
+      <lb ed="#V" n="45"/>ignobilitatis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e919">
+      ¶ Ista autem ratio: si bona esset 
+      quan<lb ed="#V" n="46" break="no"/>tum ad maiorem sequerentur 4or imoplicia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e925">
+      ¶ Primum 
+      <lb ed="#V" n="47"/>quidem in monarchicis: secundum quod deus principatur 
+      vni<lb ed="#V" n="48" break="no"/>uersis principatu monarchico: quia secundum beatum Diony. 4. di 
+      <lb ed="#V" n="49"/>uinorum nomi. diffundit suam bonitatem comunicando 
+      omni<lb ed="#V" n="50" break="no"/>bus creaturis secundum earum capacitatem: et secundum illam 
+      ma<lb ed="#V" n="51" break="no"/>iorem capacitas talis passiua dicit imperfectionem: 
+      si<lb ed="#V" n="52" break="no"/>cut virtus conicatiua perfectionem: et sic creatura quanto 
+      di<lb ed="#V" n="53" break="no"/>uine bonitatis capacior: esset imperfectior: quod est 
+      absur<lb ed="#V" n="54" break="no"/>dum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e945">
+      ¶ Secundum impossibile in monasticis: quia infra eundem 
+      <lb ed="#V" n="55"/>hominem intellectus agens dicit perfectionem: et tamen 
+      intel<lb ed="#V" n="56" break="no"/>lectus potentiam: qui est passiuum sibi corrspondens: non dicit 
+      imp<lb ed="#V" n="57" break="no"/>fectionem: cum sit potentia beatifitates: et per ipsam est 
+      ho<lb ed="#V" n="58" break="no"/>mo ad imaginem trinitatis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e956">
+      ¶ Et confirmatur. quia 
+      in<lb ed="#V" n="59" break="no"/>telligibile tale quod est actiuum respectu intellecti: cum 
+      <lb ed="#V" n="60"/>intelligere sit quoddam pati: dicit perfectionem: cum 
+      intelle<lb ed="#V" n="61" break="no"/>inquantum tale sit verum: et tamen intellectiuum non dicit 
+      <lb ed="#V" n="62"/>imperfectionem: cum nobiliora sint entia intellectiua 
+      <lb ed="#V" n="63"/>quam intelligibilia: vt talia sunt.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e969">
+      ¶ Tertium impossibile in 
+      ie<lb ed="#V" n="64" break="no"/>rarchicis: quia licet beatificatiuum dicat perfectionem et beatifi 
+      <lb ed="#V" n="65"/>cans simimiliter: tamen beatitate et beatificatum inquantum 
+      ta<lb ed="#V" n="66" break="no"/>lia: non dicunt imperfectionem: alioquin: inquantum tales es¬ 
+      <!--535.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>sent imperfecti: et tamen illorum comparatio est sicut actiui 
+      <lb ed="#V" n="68"/>ad passiuum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e987">
+      ¶ Et confirmatur. quia naturalis potentia in 
+      crea<lb ed="#V" n="69" break="no"/>tis quanto magis beatificabilis tanto magis perfecta.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e992">
+      ¶ Quar 
+      <lb ed="#V" n="70"/>tum impossibile est. in thearchicis in quibus ponitur generati 
+      <lb ed="#V" n="71"/>actiua et passiua: et ita de spiratione: et licet generatiuum principium 
+      <lb ed="#V" n="72"/>et spiratiuum: dicant perfectionem: tamen spiratum aut generatur 
+      <lb ed="#V" n="73"/>non dicunt imperfectionem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1004">
+      ¶ Et si dicatur quod ibi non est 
+      <lb ed="#V" n="74"/>actio et passio proprie: tamen est ibi producere et produci: sicut 
+      <lb ed="#V" n="75"/>subiicere et subiici.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1011">
+      ¶ Et confirmatur. quia filius et spiritus scilicet 
+      <lb ed="#V" n="76"/>dicuntur produci et mitti a patre: sine vlla sui imperfectio 
+      <lb ed="#V" n="77"/>ne.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1018">
+      ¶ Ideo dico quod illa maior est simpliciter falsa: cum 
+      di<lb ed="#V" n="78" break="no"/>cit passiuum esse semper imperfectum: cum in passionibus 
+      <lb ed="#V" n="79"/>que sunt salus et perfectio: melius sit talia pati quam non 
+      <lb ed="#V" n="80"/>pati.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1027">
+      ¶ Et confirmatur. quia secundum illam maiorem: licet generare 
+      re<lb ed="#V" n="81" break="no"/>gem esset nobilitatis: ex hoc generari a rege esset 
+      ignobili<lb ed="#V" n="82" break="no"/>tatis. et per consequens esse filium regis: et interum si ex hoc quod 
+      <lb ed="#V" n="83"/>actiuum est nobile passiuum est ignobile: sicut assumit 
+      <lb ed="#V" n="84"/>ratio illa: quanto actiuum nobilius tanto passiuum igno 
+      <lb ed="#V" n="85"/>bilius: et sic peius erit subiici deo: quam creature. 
+      <lb ed="#V" n="86"/>est: quia illud est malum: quod 
+      ha<lb ed="#V" n="87" break="no"/>Quarta ratio bet malam radicem: nec potest 
+      <lb ed="#V" n="88"/>dicere perfectionem: subiectio enim habet malam 
+      radicere<lb ed="#V" n="89" break="no"/>sicut declarauit ille doctor in exemploquadruplici.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1049">
+      ¶ 
+      Pri<lb ed="#V" n="90" break="no"/>mum. quod in statu inocentie non fuisset subiectio.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1054">
+      ¶ 2m quod 
+      <lb ed="#V" n="91"/>in filiis Noe inducta est seruitus propter peccatum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1060">
+      ¶ 3m 
+      <lb ed="#V" n="92"/>quod in subiectione tyrannica.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1065">
+      ¶ 4m in seruitute voluntaria: 
+      <lb ed="#V" n="93"/>cum quic patitur se vendi ex insipientia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1070">
+      ¶ Quantum 
+      <lb ed="#V" n="94"/>ad primum exemplum cum dicit: quod in statu inocentia non 
+      fuis<lb ed="#V" n="95" break="no"/>set subiectio: verum quidem est de subiectione penali: non 
+      <lb ed="#V" n="96"/>tamen de salubri.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1079">
+      ¶ Et istud declaratur 4r. Primo. quia 
+      <lb ed="#V" n="97"/>homo tunc fuisset maxime deo subiectus: quia in omnibus 
+      <lb ed="#V" n="98"/>obediens.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1086">
+      ¶ Secundo. quia tunc corpus hominis maxime 
+      <lb ed="#V" n="99"/>fuisset anime subiectum: vt declarat beatus Aug. in lib. de ci 
+      <lb ed="#V" n="100"/>uitate dei.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1093">
+      ¶ Tertio. quia ille non fuit perfectior status 
+      <lb ed="#V" n="101"/>quam status angelorum in patria: inter quos est 
+      subiectio<lb ed="#V" n="102" break="no"/>secundum principatus ierarchicos. sicut docet beatus Diony. 
+      <lb ed="#V" n="103"/>de angelica ierarchia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1103">
+      ¶ Quarto. quia ille status non fuit 
+      <lb ed="#V" n="104"/>nobilior quam status ad quem translati fuissent finaliter: 
+      immo<lb ed="#V" n="105" break="no"/>minus perfectus: et tamen in illo statu finali: cum fuissent in 
+      <lb ed="#V" n="106"/>angelorum ordinibus collocandi: ibi fuissent ierarchice 
+      <lb ed="#V" n="107"/>subiecti: sicut eorum conciues.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1114">
+      ¶ Ideo dico quod in statu 
+      im<lb ed="#V" n="108" break="no"/>nocentie fuissent 4or principatus: et secundum illos 4r 
+      subie<lb ed="#V" n="109" break="no"/>ctio veneranda.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1121">
+      ¶ Quorum primus fuisset principatus 
+      <lb ed="#V" n="110"/>monasticus. secundum quem quilibet homo sibipsi perfecte fuis 
+      <lb ed="#V" n="111"/>set subiectus: vt faciliter omnia corporis membra 
+      obedi<lb ed="#V" n="112" break="no"/>rent voluntati: et vires anime inferiores superioribus 
+      <lb ed="#V" n="113"/>essent perfecte subiecte.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1132">
+      ¶ Secundus fuisset 
+      principa<lb ed="#V" n="114" break="no"/>tus patriarchicus: secundum quem filii parentibus fuissent sub 
+      <lb ed="#V" n="115"/>iecti: quia illa subiectio pertinet ad inuiolabilem 
+      natu<lb ed="#V" n="116" break="no"/>re legem: vnde sicut malum fuit a parentibus 
+      deriua<lb ed="#V" n="117" break="no"/>tum originale multo magis ab eis bonum originale 
+      <lb ed="#V" n="118"/>prouenisset.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1145">
+      ¶ Tertius fuisset principatus 
+      monarchi<lb ed="#V" n="119" break="no"/>cus: inter homines qui habuissent vnum monarcham: 
+      <lb ed="#V" n="120"/>quia ex hoc quod melior est ordo totius exercitus ad 
+      du<lb ed="#V" n="121" break="no"/>cem quam partium adinuincem: ostenditur in vniuerso 
+      <lb ed="#V" n="122"/>vnicus princeps.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1156">
+      ¶ Et ista ratio concluderet vnicum 
+      <lb ed="#V" n="123"/>principem in illo statu qui erat optimus: et per 
+      conse<lb ed="#V" n="124" break="no"/>quens optimo ordine non caruisset.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1164">
+      ¶ Quartus 
+      fuis<lb ed="#V" n="125" break="no"/>set ibi principatus ierarchicus: quia ibi tunc fuisset 
+      con<lb ed="#V" n="126" break="no"/>municatio bonorum spiritualium: plus quam modo: et 
+      <lb ed="#V" n="127"/>ideo in tali communicatione fuisset: sicut nunc deuenire 
+      <lb ed="#V" n="128"/>ad vnum pricipem primum: sicut in ecclesiastica ierat 
+      <lb ed="#V" n="129"/>chia: eadem ratione: quia in quolibet ordine celesti est 
+      <lb ed="#V" n="130"/>vnus ierarcha.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1180">
+      ¶ Sed attendendum est quod duo 
+      mo<lb ed="#V" n="131" break="no"/>di sunt distincto de processu status innocentie.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1185">
+      ¶ Unus 
+      mo<lb ed="#V" n="132" break="no"/>dus est: quod primus homo vixisset quousque omnis ele¬ 
+      <!--536.xml-->
+      <pb ed="#V" n="266-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ctorum numerus fuisset impletus: et tunc fuissent simul 
+      tran<lb ed="#V" n="2" break="no"/>lati: sicut post diem iudicii omnes simul assumentur.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1201">
+      ¶ Et 
+      <lb ed="#V" n="3"/>tunc creditur quod primus homo: qui dicitur a deo fuisse 
+      crea<lb ed="#V" n="4" break="no"/>tus sapientissimus: fuisset omnium vnicus supernus patriat 
+      <lb ed="#V" n="5"/>cha et princeps.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1210">
+      ¶ Alius modus ponitur. quod fuissent 
+      suc<lb ed="#V" n="6" break="no"/>cessiue translati post etatem a deo determinatam: sicut nunc 
+      <lb ed="#V" n="7"/>moriuntur: et tunc non fuisset vnicus patriarcha illo modo: 
+      <lb ed="#V" n="8"/>sed magis monarcha.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1219">
+      ¶ Et istud declaratur 
+      quadrupli<lb ed="#V" n="9" break="no"/>ci ratione. Prima est. quia communitas hierarchica est communitas 
+      opti<lb ed="#V" n="10" break="no"/>ma. ergo fuisset ierarchica: in omni autem ierarchia: secundum bea 
+      <lb ed="#V" n="11"/>tum Dion. est deuenire: ad vnum ierarcham: quia lex generalis 
+      <lb ed="#V" n="12"/>ierarchie est lex vt inferiores per suos superiores agantur: 
+      <lb ed="#V" n="13"/>vsque ad vnum supremum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1233">
+      ¶ Secunda ratio. quia communitas 
+      quan<lb ed="#V" n="14" break="no"/>to melior tanto magis vna: et ista vnitas non potest esse 
+      vni<lb ed="#V" n="15" break="no"/>tas indiuisionis simplicis. sed ordinis: vnitas autem 
+      ordi<lb ed="#V" n="16" break="no"/>nis attenditur in habitudine ad vnum primum ad quod habent 
+      <lb ed="#V" n="17"/>attributionem ista que sunt de ordine illo: et sic cum illa 
+      <lb ed="#V" n="18"/>multitudo fuisset summe vna: vnicum principere habuissent. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e1246">
+               <lb ed="#V" n="19"/>¶ Tertia ratio. quia sicut illi electi fuissent et fuerunt eternali 
+      <lb ed="#V" n="20"/>ter praedestinati ad diuersos gradus felicitatum 
+      responden<lb ed="#V" n="21" break="no"/>tium angelis qui ruerant: quorum ruinam reparaturi erant: 
+      <lb ed="#V" n="22"/>ita erant priordinati ad diuersos gradus virtutum: et ita cum 2m 
+      <lb ed="#V" n="23"/>gradus virtutum attendatur ordo in principatu optimo: 
+      <lb ed="#V" n="24"/>ibi optimus fuisset princeps effectus: alioquin honore si 
+      <lb ed="#V" n="25"/>bi debito caruisset.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1264">
+      ¶ Quarta ratio. quia secundum gradus 
+      me<lb ed="#V" n="26" break="no"/>ritorum in via sancti habissent diuersos gradus 
+      feli<lb ed="#V" n="27" break="no"/>citatum in patria: et econuerso: et sequitur quod ex gradibus 
+      di<lb ed="#V" n="28" break="no"/>uersis habitudinis fuissent ierarchice subordinati in 
+      <lb ed="#V" n="29"/>patria: eadem ratione ex diuersis gradibus virtutis in via 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e1275">
+               <lb ed="#V" n="30"/>¶ Sed oritur difficultas quia homines natura sunt pares: et ideo 
+      <lb ed="#V" n="31"/>contra naturam humanam videtur quod vnus alteri principe 
+      <lb ed="#V" n="32"/>tur: cum principatus ex imparitate consurgat.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1284">
+      ¶ Dicitur 
+      <lb ed="#V" n="33"/>autem quod licet sint pares in substantialibus forte: non tamen 
+      <lb ed="#V" n="34"/>in accidentaus: et ideo imparitas accidentum puta virtutum 
+      <lb ed="#V" n="35"/>ducit rationem ad oppositum: tamen paritas nature arguit vt 
+      <lb ed="#V" n="36"/>non principetur homo homini seruiliter: sicut iumento 
+      im<lb ed="#V" n="37" break="no"/>pari sibi secundum naturam.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1297">
+      ¶ Secunda difficultas. si talis principatus 
+      <lb ed="#V" n="38"/>fuisset per successionem: aut per electionem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1303">
+      ¶ Dicitur autem 
+      <lb ed="#V" n="39"/>quod non per successionem: quia sic contigisset principari minus 
+      <lb ed="#V" n="40"/>bonum: quod non est dicendum in statu perfecte iustitie: sed per 
+      <lb ed="#V" n="41"/>electionem diuinara: sicut in Saul et Dauid: aut per 
+      huma<lb ed="#V" n="42" break="no"/>nam: quia tunc homines optime agnouissent: et illum 
+      assumpsis<lb ed="#V" n="43" break="no"/>sent.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1316">
+      ¶ Tertia difficultas si eadem ratione nunc melius esset habe 
+      <lb ed="#V" n="44"/>re principe per electionem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1321">
+      ¶ Dicitur quod non. propter ho 
+      <lb ed="#V" n="45"/>minum malitiam et ignorantiam: quia quando credunt eligere 
+      opti<lb ed="#V" n="46" break="no"/>mum quandoque eligunt pessimum: sicut expedit rerum diuisio: 
+      pro<lb ed="#V" n="47" break="no"/>pter cupidinem quae prohibita est absolute de iure nature. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e1330">
+               <lb ed="#V" n="48"/>¶ Quarta difficultas. si tunc fuissent duo principes: vnus 
+      iera<lb ed="#V" n="49" break="no"/>cha spiritualium: et alius monarcha temporalium.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1337">
+      ¶ Dicitur 
+      <lb ed="#V" n="50"/>quod non. quia temporalia omnia communissima fuissent: et abundassent 
+      <lb ed="#V" n="51"/>et ideo non indiguissent nisi ierarcha ipsos agente: sicut 
+      <lb ed="#V" n="52"/>in angelica ierarchia: vt patet per beatum Diony.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1346">
+      ¶ Quar 
+      <lb ed="#V" n="53"/>tum ad secundum exsemtum cum dicitur. quod seruitus in filiis Noe fuit 
+      <lb ed="#V" n="54"/>inducta per peccatum: et sic seruitus ac subiectio est a mala 
+      <lb ed="#V" n="55"/>radice: et sic videtur concludere de omni seruitute: et licet 
+      conce<lb ed="#V" n="56" break="no"/>deretur omnis seruitus esse mala: non tamen omnis subiectio: cum 
+      <lb ed="#V" n="57"/>filius dicatur esse subiectus: et tamen non est seruus.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1360">
+      ¶ Inte 
+      <lb ed="#V" n="58"/>ligendum tamen quod in diuina scriptura duplex seruitus 
+      com<lb ed="#V" n="59" break="no"/>mendatur.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1367">
+      ¶ Prima est sanctorum angelorum. de quibus 
+      dici<lb ed="#V" n="60" break="no"/>tur Iob. 4. Ecce qui ei seruiunt non sunt stabiles.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1372">
+      ¶ 2a est 
+      <lb ed="#V" n="61"/>sanctorum glorificatorum. de quibus dicitur Apoca. 7. quod 
+      ser<lb ed="#V" n="62" break="no"/>uiunt die ac nocte in templo eius.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1379">
+      ¶ Et confirmatur. quia si 
+      <lb ed="#V" n="63"/>pmnis seruitus mala esset et imperfectionem diceret: tunc 
+      <lb ed="#V" n="64"/>summus potenstifex sibipsi detraheret: cum de se dicit 
+      ser<lb ed="#V" n="65" break="no"/>uus seruorum dei: seruire enim deo est regnare. Unde 
+      di<lb ed="#V" n="66" break="no"/>citur in Apoc. 22. Quod serui eius regnabunt in secula secu¬ 
+      <!--536.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>lorum: et ita est de quocumque qui seruit alicui propter deums 
+      <lb ed="#V" n="68"/>sicut fuit praeclarissima seruitus beati Paulini qui pro 
+      fi<lb ed="#V" n="69" break="no"/>lio mulleris vidue seipsum dedit in seruiturem propter 
+      <lb ed="#V" n="70"/>deum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1403">
+      ¶ Quantum ad 3m exemplum de subiectione 
+      tyranni<lb ed="#V" n="71" break="no"/>ca cum supponit quod semper fit mala: illud exemplum pec 
+      <lb ed="#V" n="72"/>cat dupliciter.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1410">
+      ¶ Primo. quia militat contra auctorem suum. quia 
+      <lb ed="#V" n="73"/>peius est iniuste subiicere: quam iniuste subiici: sicut peius 
+      <lb ed="#V" n="74"/>est iniustum facere quam iniustum pati: eo quod malum culpe 
+      <lb ed="#V" n="75"/>peius sit quam malum pene: et ideo cum iste velit ex malo 
+      <lb ed="#V" n="76"/>praelationis tyrannice potuit arguere malum mala 
+      prela<lb ed="#V" n="77" break="no"/>tione.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1424">
+      ¶ Secundo peccat. quia assumit falsum: quia scilicet subiici 
+      <lb ed="#V" n="78"/>tyrannice: sit semper malum. Tum quia tali subiectione perfici 
+      <lb ed="#V" n="79"/>tur perfectorum pena: sicut christi passio ex parte eius fuit 
+      <lb ed="#V" n="80"/>bona. Tum quia in tali puniuntur peccata: quod bonum est in 
+      <lb ed="#V" n="81"/>republica. Tum quia in tali afflictione comprimitur 
+      ho<lb ed="#V" n="82" break="no"/>minis supbia: sicut in mortificatione concupiuo. Tum quia 
+      <lb ed="#V" n="83"/>in tali afflictione serenatur intelligere: dum cogit 
+      ho<lb ed="#V" n="84" break="no"/>minem regredi ad seipsum. Unde dicitur ysaie. 2s. cap. 
+      <lb ed="#V" n="85"/>quod tempore tribulationis talis: tantummodo sola vexatio 
+      <lb ed="#V" n="86"/>intellectum dat auditui.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1446">
+      ¶ Quantum ad quartum exemplum 
+      <lb ed="#V" n="87"/>de subiectione voluntaria: cum supponit eam simpliciter malam: 
+      <lb ed="#V" n="88"/>et quidem licet ipsa possit esse mala: sicut cum intellectus subii 
+      <lb ed="#V" n="89"/>citur sensui: tamen ipsa potest esse bona: sicut declaratur 
+      quadru<lb ed="#V" n="90" break="no"/>plici via.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1457">
+      ¶ Primo quidem in monasticis: cum appetitum 
+      <lb ed="#V" n="91"/>sensitiuus sponte et sine coactione subiicitur homini in 
+      <lb ed="#V" n="92"/>teriori: tunc est signum virtutis perfecte.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1464">
+      ¶ Secundo declaratur 
+      <lb ed="#V" n="93"/>in psliticis: vbi commendatur de fidelitate vasallus: quando 
+      per<lb ed="#V" n="94" break="no"/>fecte et sine rebellioue voluntarie principi est subiectus. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e1471">
+               <lb ed="#V" n="95"/>¶ 3o declaratur in ecclesiasticis: quia ex hoc quod ingrediens 
+      <lb ed="#V" n="96"/>religionem subiicitur voluntatis non deterioratur: immo 
+      melio<lb ed="#V" n="97" break="no"/>ratur.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1480">
+      ¶ 4o declaratur in ierarchicis: quia nisi angeli est 
+      <lb ed="#V" n="98"/>sent voluntatis inuicem subiecti secundum ordines ierarchicos: ta 
+      <lb ed="#V" n="99"/>lis subiectio esset inuoluntaria: et per consequens cum pena. 
+      <lb ed="#V" n="100"/>particulam istius prime 
+      par<lb ed="#V" n="101" break="no"/>Circa secundam tis: exclusis rationibus 
+      fa<lb ed="#V" n="102" break="no"/>ctis ad partem negatiuam: confirmande sunt ille que fiunt 
+      <lb ed="#V" n="103"/>ad partem affirmatiuam.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1497">
+      ¶ Quarum prima fuit: quia 
+      nobilio<lb ed="#V" n="104" break="no"/>ri modo videtur esse anima sensitiua in homine: vbi subiecta 
+      <lb ed="#V" n="105"/>est intellectiue: quam in bruto: vbi nulli alteri nature sub 
+      <lb ed="#V" n="106"/>iecta est.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1506">
+      ¶ Et dicit ille doctor quod supposito equali 
+      gra<lb ed="#V" n="107" break="no"/>du perfectionis essentialis in animalitate bruti et hominis: non est 
+      <lb ed="#V" n="108"/>perfectiori modo in homine quam in bruto.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1513">
+      ¶ Istud tamen dictum 
+      pe<lb ed="#V" n="109" break="no"/>cat dupliciter. Primo. quia non infringit propositum: quia ex quo non 
+      <lb ed="#V" n="110"/>est nobiliori modo propter equalitatem in gradu: cum nullus 
+      <lb ed="#V" n="111"/>diceret quod modo ignobiliori sit in homine vbi est subiecta: et 
+      <lb ed="#V" n="112"/>istud supponit ratio sua: et sic subiectio talis non ignobili 
+      <lb ed="#V" n="113"/>tabit eam.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1526">
+      ¶ 2o peccat. quia assumit falsum scilicet quod non sit 
+      nobi<lb ed="#V" n="114" break="no"/>liori modo in homine anima sensitiua quantum ad nobilitatem accitem: 
+      <lb ed="#V" n="115"/>de qua nunc sit sermo: cum agitur de subiectione.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1533">
+      ¶ Et 
+      il<lb ed="#V" n="116" break="no"/>la falsitas quaedrupliciter declaratur. Primo. quia omne 
+      rationa<lb ed="#V" n="117" break="no"/>le inquantum tale: melius est irrationali: sed anima sensitiua 
+      <lb ed="#V" n="118"/>eo quod subordinata intellectiue: est rationalis per participa 
+      <lb ed="#V" n="119"/>tionem: inquantum est nata obedire rationi. ergo ex tali 
+      <lb ed="#V" n="120"/>subiectione nobilior.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1546">
+      ¶ Secundo declaratur. quia capacitas 
+      <lb ed="#V" n="121"/>virtutum arguit nobilitatem: cum virtus creata quanto no 
+      <lb ed="#V" n="122"/>bilior tanto sit virtutum perfectarum capacior: anima autem 
+      <lb ed="#V" n="123"/>sensitiua in homine: ex hoc quod est intellectiue subordinata: est 
+      <lb ed="#V" n="124"/>subiectum virtutum moralium: que ponuntur rationales per 
+      parti<lb ed="#V" n="125" break="no"/>cipationem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1560">
+      ¶ 3o declaratur. quia quelibet natura eo quod 
+      no<lb ed="#V" n="126" break="no"/>biliori modo suppositatur est nobilior cum esse suppositile omnes 
+      <lb ed="#V" n="127"/>naturae eiusdem suppositi participent: nam autem anime sensitiue: 
+      <lb ed="#V" n="128"/>eo quod subiicitur et vnitur intellectiue in homine: suppositatur 
+      <lb ed="#V" n="129"/>in supposito quod est persona: quae est nature intellectualis 
+      in<lb ed="#V" n="130" break="no"/>communicabilis subsistentia: et non in bruto nisi in supposito. 
+      <lb ed="#V" n="131"/>quod non est persona. ergo cum nobilissima supposita sint 
+      per<lb ed="#V" n="132" break="no"/>sonalia: anima sensitiua ex hoc in homine erit nobiua.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1578">
+      ¶ 4o 
+      <!--537.xml-->
+      <pb ed="#V" n="266-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>declaratur. quia ex hoc quod anima sensitiua erit post resurre 
+      <lb ed="#V" n="2"/>ctionem intellectiue coniuncta: et subordinata erit finaliter 
+      <lb ed="#V" n="3"/>glorificata: sicut corpus ex redundantia felicitatis in anima 
+      <lb ed="#V" n="4"/>rationali.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1596">
+      ¶ Ideo dico quod anima sensitiua ex eo quod anime 
+      intel<lb ed="#V" n="5" break="no"/>lectiue in homine subiicitur non ignobilitatur sed magis 
+      perfi<lb ed="#V" n="6" break="no"/>citur: sicut corpus humanum ex subiectione ad animan 
+      <lb ed="#V" n="7"/>eius.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1605">
+      ¶ Dicit tamen ille doctor quod quando aliquid subiicitur 
+      alte<lb ed="#V" n="8" break="no"/>ri ad acquirendam perfectionem: ex hoc quod acqurit talem 
+      perfe<lb ed="#V" n="9" break="no"/>ctionem nobilitatur: non ex hoc quod subiicitur.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1612">
+      ¶ Et ex hoc 
+      <lb ed="#V" n="10"/>confirmatur propositum. quia in eo quod anima sensitiua subiicitur 
+      intel<lb ed="#V" n="11" break="no"/>lectiue acquirit virtutes morales: et si in eo quod acqurit 
+      nol<lb ed="#V" n="12" break="no"/>bilitatur. tunc in eo quod subiicitur nobilitatur. dicitur vlterius quod 
+      ap<lb ed="#V" n="13" break="no"/>petitus sensitiuus in homine non est nobilior: nisi quod 
+      tempe<lb ed="#V" n="14" break="no"/>ratur a ratione.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1625">
+      ¶ Et istud est directe propositum concedere: 
+      <lb ed="#V" n="15"/>quia non temperatur a ratione: nisi in eo quod subiicitur. 
+      <lb ed="#V" n="16"/>ad illam partem fuit: quia 
+      no<lb ed="#V" n="17" break="no"/>Secunda ratio biliori modo est anima 
+      intelle<lb ed="#V" n="18" break="no"/>ctiua in christo: infra cuius suppositum est subiecta 
+      superio<lb ed="#V" n="19" break="no"/>ri naturae scilicet deitati: et tamen in nobis est super omnes alias naturas. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e1639">
+               <lb ed="#V" n="20"/>¶ Dicit autem hoc doctor quod ex hoc quia anima christi donis su 
+      <lb ed="#V" n="21"/>pernaturalibus infusis sibi ornata: nobilitata est: et non ex 
+      <lb ed="#V" n="22"/>illa ypostatica vnione. Unde si anima Petri beati esset 
+      <lb ed="#V" n="23"/>ita perfecta donis supernaturalibus aliis autem plus: es 
+      <lb ed="#V" n="24"/>set amplius perfecta.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1652">
+      ¶ Istud tamen dictum quod ex illa 
+      vnio<lb ed="#V" n="25" break="no"/>ne ineffabili non sit natura christi huma. aut eius 
+      anima<lb ed="#V" n="26" break="no"/>nobilitata: non dicitur esse sanum: cum dicat beatus Aug. 
+      <lb ed="#V" n="27"/>suenet de trini. circa finem. quod in rebus per tempus ortis ista 
+      sun<lb ed="#V" n="28" break="no"/>ma gratia est qua in vnitate persone homo coniuctus est 
+      <lb ed="#V" n="29"/>deo.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1665">
+      ¶ Ista autem coniuctio est ypostatica vnio cum 
+      summa<lb ed="#V" n="30" break="no"/>gratia sine nobilitate esse non potest.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1670">
+      ¶ Et confirmatur ista 
+      <lb ed="#V" n="31"/>mina auctoritatibus ac rationibus a quatuor doctoribus 
+      <lb ed="#V" n="32"/>militantis ecclesie.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1677">
+      ¶ Quarum prima est beati 
+      Ambrosi<lb ed="#V" n="33" break="no"/>qui ponit super Math. quod ex illa vnione fuit factus homo 
+      <lb ed="#V" n="34"/>filius dei: et ideo si esse filium regis terreni est magne 
+      no<lb ed="#V" n="35" break="no"/>bilitatis: quanto magis esse filium regis eterni: quod habet hoc 
+      <lb ed="#V" n="36"/>homo ex sola verbi incarnatione vel assumptione 
+      si<lb ed="#V" n="37" break="no"/>ne aliquo alio pono.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1690">
+      ¶ Secunda est beati hiero. qui 
+      con<lb ed="#V" n="38" break="no"/>tra Nestorium extollens matrem domini non solum eam 
+      chri<lb ed="#V" n="39" break="no"/>stototon i est christi genitricem: sed et theototon id est dei genitri 
+      <lb ed="#V" n="40"/>cem. Et idem in epistola ad Pau. et Eustochium. Unde 
+      si<lb ed="#V" n="41" break="no"/>mater domini secundum beatum hieronymum ex hoc fuit 
+      no<lb ed="#V" n="42" break="no"/>bilitata: quia in ipsa fuit natura diuina humane 
+      coniun<lb ed="#V" n="43" break="no"/>cta: multo magis natura humana que fuit assumpta. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e1707">
+               <lb ed="#V" n="44"/>¶ Tertia est beati Aug. primo de tri. qui ponit quod 
+      tan<lb ed="#V" n="45" break="no"/>ta fuit illa vnio vt hominem faceret deum et deum faceret 
+      <lb ed="#V" n="46"/>hominem: esse autem deum est infinite nobilitatis: et ideo 
+      <lb ed="#V" n="47"/>cum tali vnione fuerit homo deificatus summe fuit 
+      nobi<lb ed="#V" n="48" break="no"/>litatus.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1720">
+      ¶ Quarta est beati Greg. qui ponit quod in veteri 
+      te<lb ed="#V" n="49" break="no"/>stamento angeli permittebant se adorari: patet in Iosue: et 
+      <lb ed="#V" n="50"/>non in nouo: vt patet in Apoc. quia naturam quam ante habuerunt 
+      <lb ed="#V" n="51"/>subiectam nunc in christo per assumptionem vident supra se 
+      <lb ed="#V" n="52"/>eleuatam: et ideo homines plus honorant: vnde intendit 
+      <lb ed="#V" n="53"/>inferre quod totum humanum genus ex hoc fuit dignificatum 
+      <lb ed="#V" n="54"/>non solus christus.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1736">
+      ¶ Ideo dico quod illa assumptio 
+      inef<lb ed="#V" n="55" break="no"/>abiliter nobilitauit christi animam: et totam eius humanita 
+      <lb ed="#V" n="56"/>tem per se: dato quod alia dona non fuissent infusa: quia 
+      vide<lb ed="#V" n="57" break="no"/>mus in ciuitatibus quod si aliqua mulier quantumcumque 
+      insimi<lb ed="#V" n="58" break="no"/>generis nubat filio regis ex tali vnione nobilitatur: et 
+      <lb ed="#V" n="59"/>ad regiam nobilitatem transfertur: et mirum est quod natura 
+      huma<lb ed="#V" n="60" break="no"/>na si verbo ineffabiliter copuletur et intime: et ab ipso 
+      <lb ed="#V" n="61"/>tali vnione non nobilitetur.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1754">
+      ¶ Intelligendum tamen est. quod cum 
+      <lb ed="#V" n="62"/>quatuor sint solennitates ad christum singulariter pertinem 
+      <lb ed="#V" n="63"/>tes scilicet natiuitatis passionis et resuerectionis et 
+      ascen<lb ed="#V" n="64" break="no"/>sionis: et ille omnes sumunt totam immensitatem sue 
+      dignita<lb ed="#V" n="65" break="no"/>tis a vinculo incarnationis per quod deus nascebatur: et 
+      <lb ed="#V" n="66"/>non purus homo: et non patiebatur vt posset redimere: 
+      <!--537.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>et resurgebat et suscitabat se: et se eleuabat. Unde dicit 
+      <lb ed="#V" n="68"/>beatus Diony. 3. diuinorum nomi. quod per illam 
+      assum<lb ed="#V" n="69" break="no"/>ptionem erat diseuens vbitectus omnia nostra super nos habens: et per 
+      <lb ed="#V" n="70"/>consequens nobiliori modo.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1780">
+      ¶ Sed oritur difficultas quia 
+      genera<lb ed="#V" n="71" break="no"/>tio eterna verbi videtur esse ineffabilior: quam incarnatio 
+      tenm<lb ed="#V" n="72" break="no"/>boralis: et tamen illa nullam dicit perfectionem diuinara: cum 
+      <lb ed="#V" n="73"/>omnem perfectionem diuinam habeat spiritus sanctus qui caret 
+      genera<lb ed="#V" n="74" break="no"/>tione tam actiua quam passiua.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1791">
+      ¶ Dicitur autem quod licet illa relatio 
+      <lb ed="#V" n="75"/>non dicat perfectionem: bene tamen dignitatem et nobilitatem: si 
+      <lb ed="#V" n="76"/>cut esse filium regis non dicit perfectionem: quia nihil 
+      absolu<lb ed="#V" n="77" break="no"/>tum: bene tamen nobilitatem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1801">
+      ¶ Secunda difficultas. quia si 
+      incarna<lb ed="#V" n="78" break="no"/>tio dicit nobilitatem aut dignitatem: multo magis eterna 
+      <lb ed="#V" n="79"/>generatio: et tunc spiritus sanctus carebit tali diuina 
+      no<lb ed="#V" n="80" break="no"/>bilitate.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1810">
+      ¶ Dicitur autem quod nobilitas et dignitas in 
+      extre<lb ed="#V" n="81" break="no"/>mo: respectu cuius dicuntur: important imperfectionem: et 
+      <lb ed="#V" n="82"/>ideo repugnant diuinis ad intra: sicut causalitas. 
+      <lb ed="#V" n="83"/>partem principalem quaestionis 
+      <lb ed="#V" n="84"/>Circa secundami negociando circa 
+      conside<lb ed="#V" n="85" break="no"/>rationes fiendas.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1823">
+      ¶ Occurrit prima consideratio: quid est 
+      <lb ed="#V" n="86"/>obedientia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1828">
+      ¶ Dicitur autem quod est abnegatio proprie voluntatis: 
+      <lb ed="#V" n="87"/>quia ille qui obedit dimittit voluntatem suam pro 
+      volunta<lb ed="#V" n="88" break="no"/>te alterius. Unde sicut paupertas dicitur abnegatio faculta 
+      <lb ed="#V" n="89"/>tum: ita et castitas abnegatio voluptatum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1837">
+      ¶ Sed contra 
+      <lb ed="#V" n="90"/>istud arguitur 4r. Primo. quia ille qui sequitur voluntatem 
+      <lb ed="#V" n="91"/>alterius obediendo voluntarie facit illud: et sic non 
+      abne<lb ed="#V" n="92" break="no"/>gat propriam voluntatem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1846">
+      ¶ 2o. quia omne meritontum est voluntatium: 
+      <lb ed="#V" n="93"/>actus autem obediendi est meritorius: et ideo non est innuolunta 
+      <lb ed="#V" n="94"/>rius: et sic obedientia non consistit in abnegatione 
+      volunta<lb ed="#V" n="95" break="no"/>tis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1856">
+      ¶ 3o. quia ille quie non vult facere quod praeceptum est. dicitur 
+      in<lb ed="#V" n="96" break="no"/>obediens esse: et tamen ille abnegat actum proprie voluntatis 
+      <lb ed="#V" n="97"/>quod est esse obediens.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1863">
+      ¶ 4o. quia nullus potest abnegare 
+      vo<lb ed="#V" n="98" break="no"/>luntatem quantum ad actum primum cum necessario insit: nec 
+      quan<lb ed="#V" n="99" break="no"/>tum ad secundum: nisi actum suspendendo: et non eliciendo: et sic 
+      <lb ed="#V" n="100"/>vna obedientia consisteret in actus cessatione: cuius oppositum 
+      <lb ed="#V" n="101"/>partet.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1874">
+      ¶ Ideo dico quod obedientia non consistit formaliter in 
+      abne<lb ed="#V" n="102" break="no"/>gatione proprie voluntates: sicut paupertas in abnegatione 
+      facul<lb ed="#V" n="103" break="no"/>tatis: et castitas in abnegatione voluptatis carnalis: sed 
+      <lb ed="#V" n="104"/>in subiectione proprie voluntatis voluntati alterius: quae sub 
+      <lb ed="#V" n="105"/>iecit: illud quod subiicit: non deserit: sed tenet subiectum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1885">
+      ¶ Sed 
+      ori<lb ed="#V" n="106" break="no"/>tur difficultas quia saluator noster ostendens promptam obedientiam 
+      <lb ed="#V" n="107"/>quam habebat ad deum patrem. dicebat Math. 2o. Non mea 
+      <lb ed="#V" n="108"/>voluntas: sed tua fiat: et sic abnegabat propriam voluntatem. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e1894">
+               <lb ed="#V" n="109"/>¶ Dicitur autem quod in eo quod volunt plus voluntatem patris impleri: 
+      <lb ed="#V" n="110"/>tenuit suam voluntatem in obedientia: quia tamen ad oppositum erat 
+      in<lb ed="#V" n="111" break="no"/>clinatio naturalis. ideo illam inclinationem appellauit 
+      volunta<lb ed="#V" n="112" break="no"/>tem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1905">
+      ¶ 2a difficultas quia dicit beatus franciscus in sua regula 
+      lo<lb ed="#V" n="113" break="no"/>quens de obedientia: quod fratres quae sunt subditi recordentur 
+      <lb ed="#V" n="114"/>quod propter deum abnegauerunt propriam voluntatem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1913">
+      ¶ Dicitur autem quod 
+      <lb ed="#V" n="115"/>ibi fit abnegatio in emissione talis voti cum quis promit 
+      <lb ed="#V" n="116"/>tit obedientiam: non quidem volitionis absolute: sed voli 
+      <lb ed="#V" n="117"/>tionis contrarie voluntati precituius.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1922">
+      ¶ Intelligendum tamen est quod 
+      obe<lb ed="#V" n="118" break="no"/>dientia pro tanto dicitur voluntatis proprie abnegatio: quia ille 
+      <lb ed="#V" n="119"/>qui promittit obedientiam: licet non dimittat posse oppositus 
+      <lb ed="#V" n="120"/>velle: tamen dimittit oppositum licere velle ad precitatem. 
+      <lb ed="#V" n="121"/>consideratio est. que sunt obedientie 
+      <lb ed="#V" n="122"/>Secunda proprietates.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1935">
+      ¶ Dicitur autem quod ad 
+      commen<lb ed="#V" n="123" break="no"/>dationem excellentem obedientie requiruntur quinque proprie 
+      <lb ed="#V" n="124"/>tates.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1942">
+      ¶ Prima est quod obedientia dabiet esse spontanea et non 
+      <lb ed="#V" n="125"/>coacta: per viam tristitie aut timoris: sicut coguntur 
+      bru<lb ed="#V" n="126" break="no"/>ta aut pueri et homines infirmi ad obediendum per terrores 
+      <lb ed="#V" n="127"/>et tristitias penarum: que diminuunt de voluntario. 
+      <lb ed="#V" n="128"/>Unde dicit Apost. 2. corum. o. Non ex tristitia obediendum. 
+      <lb ed="#V" n="129"/>ant ex necessitate: quia hvyllarem datorem diligit deus. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e1955">
+               <lb ed="#V" n="130"/>¶ Secunda proprietas quod obedientia dicitet esse festina: quia 
+      il<lb ed="#V" n="131" break="no"/>le qui sero operatur est signum quod ad operandum cogitur: 
+      <lb ed="#V" n="132"/>et sic non spoteste: quando autem negontum est voluntum: tunc homo 
+      <!--538.xml-->
+      <pb ed="#V" n="267-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>festinat ad exequendum: sicut scribitur Gen. 34 quod non 
+      <lb ed="#V" n="2"/>distulit adolescens illud negoitum quod erat ei intense voluntai 
+      <lb ed="#V" n="3"/>pro filia Iacob.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1977">
+      ¶ Tertia proprietas quod obedientia 
+      dicitu<lb ed="#V" n="4" break="no"/>esse intensa: vt obediens circa illud quod est ei praeceptum opere 
+      <lb ed="#V" n="5"/>tur: quia cum voluntas fit principium operationum talium per volitionis 
+      <lb ed="#V" n="6"/>actum primum priuium quanto actus elicitus est intensior: tanto im 
+      <lb ed="#V" n="7"/>peratus est perfectior.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e1989">
+      ¶ 4a proprietas quod obedientia dabet es 
+      <lb ed="#V" n="8"/>se regulata: quia nisi sit a recta ratione dictata obedientia non 
+      <lb ed="#V" n="9"/>est iusta: cum pruia sit regula omnium virtutum moralium. Unde 
+      <lb ed="#V" n="10"/>dicebat adolescens. 2. Macha. 7. Non obedio praecepto 
+      <lb ed="#V" n="11"/>regis: sed legi.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2000">
+      ¶ 5a proprietas. quod obedientia dabet esse 
+      ar<lb ed="#V" n="12" break="no"/>dua ad hoc vt sit excellenter commendata: quia quando est facilis 
+      <lb ed="#V" n="13"/>non est adminrabilis. Et ideo obedientia Abrahe fuit 
+      mul<lb ed="#V" n="14" break="no"/>tum commendata quando volunt filium immolare. Unde Apstuls ad 
+      <lb ed="#V" n="15"/>hebre. xi. fide quidem Abraham obediuit in locum exire: 
+      <lb ed="#V" n="16"/>et sequitur: quod fide obtulit filium suum ysaac cum temptaretur. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e2013">
+               <lb ed="#V" n="17"/>¶ Intelligendum tamen est: quod illa obedientia: non solum istam: sed 
+      <lb ed="#V" n="18"/>et 4or praecedentes habuit proprietates: quia primo ipsa fuit spon 
+      <lb ed="#V" n="19"/>tanea. Tum quia deus illi nullam penam illi praecepto imposuit. 
+      <lb ed="#V" n="20"/>Tum quia Abraham in nullo reclamauit.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2024">
+      ¶ 2o fuit 
+      festi<lb ed="#V" n="21" break="no"/>na: quia dicitur Gen. 22 quod de nocte consurgens strauit asinum 
+      <lb ed="#V" n="22"/>suum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2031">
+      ¶ 3o fuit intensa: quia dicitur eodem ca. Quod extendit manum 
+      <lb ed="#V" n="23"/>suam: et arripuit gladium: quae arreptio designat actum inten 
+      <lb ed="#V" n="24"/>sum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2038">
+      ¶ 4o fuit regulata: quia dicit beatus Aug. quod 
+      into<lb ed="#V" n="25" break="no"/>nante diuino praecepto non est disputandum: sed perendum. 
+      <lb ed="#V" n="26"/>consideratio quot sunt modi obedientiarum. 
+      <lb ed="#V" n="27"/>Tertia
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2048">
+      ¶ Dicitur autem quod quintuplex obedientia 
+      inueni<lb ed="#V" n="28" break="no"/>tur in sacra scriptura.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2053">
+      ¶ Quarum prima dicitur esse 
+      monasti<lb ed="#V" n="29" break="no"/>ca a monos quod est vnum: quia iuxta vnum suppositum: secundum 
+      quan<lb ed="#V" n="30" break="no"/>vires inferiores obediunt voluntati: et voluntas dicitur 
+      obe<lb ed="#V" n="31" break="no"/>dire rationi: de qua obedienia dicit sapiens Ecclisa. 4 quod 
+      meli<lb ed="#V" n="32" break="no"/>or est obedientia quam stultorum victime: et loquitur de bona 
+      or<lb ed="#V" n="33" break="no"/>dinatione hominis ad seipsum: et ista obedientia monastica 
+      <lb ed="#V" n="34"/>non facua ad propositum: quia illa inuenitur in omnibus virtutibus: quae bene 
+      or<lb ed="#V" n="35" break="no"/>dinant homines ad seipsos: vt patet in continnentia et temporantia et 
+      obe<lb ed="#V" n="36" break="no"/>dientia: de qua hic loquimur.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2073">
+      ¶ 2a obedierta est ycononia inquam 
+      <lb ed="#V" n="37"/>tum respicit vnam domum: quamnuis non sit ad finem dispesatiue 
+      <lb ed="#V" n="38"/>facultatis: et talis est obedienia filii ad patrem: aut serui ad 
+      <lb ed="#V" n="39"/>ponsequent: vel vxoris ad virum: sicut beatus Petrus dicit in prima 
+      ca<lb ed="#V" n="40" break="no"/>nonica sua. 3. quod Sara obediebat Abrahe disecuntum eum 
+      vo<lb ed="#V" n="41" break="no"/>cans.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2086">
+      ¶ 3a obedientia est pollitus quae respicit rem publicam: 
+      inquan<lb ed="#V" n="42" break="no"/>dictat ratio obediendum esse legibus et principibus: de qua 
+      obe<lb ed="#V" n="43" break="no"/>dientia loquitur Apstublus ad Titum. 3. Admone illos principi 
+      <lb ed="#V" n="44"/>bus et potestatibus subditos esse: et deo obedire ad omne 
+      <lb ed="#V" n="45"/>opus bonum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2097">
+      ¶ 4o obedientia est ierarchica: secundum quam in 
+      <lb ed="#V" n="46"/>eccleiastica ieiarchia: inferiores sunt praelatis obedientes: 
+      <lb ed="#V" n="47"/>de qua loquitur Apsublus Petrus in prima canonica sua. primo. in 
+      <lb ed="#V" n="48"/>obedientiam inquiens et aspersionem sanguinis vbeu christi: et in 
+      <lb ed="#V" n="49"/>eodem cautia. Animas vestras castificantes in obedientia 
+      cha<lb ed="#V" n="50" break="no"/>ritatis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2110">
+      ¶ 5a obedientia est thearisa. secundum quam quilibet dabet esse 
+      <lb ed="#V" n="51"/>obediens deo: cuius voluntas omnibus est praeferenda. de 
+      qua<lb ed="#V" n="52" break="no"/>obedientia loquitur Apsutls ad Ro. 5. Sicut per vnius homini 
+      <lb ed="#V" n="53"/>inobedientiam peccatores constituti sunt multi: ita per 
+      vniu<lb ed="#V" n="54" break="no"/>hominis obedientia multi iusti constituuntur. et tamen constat quod loc 
+      <lb ed="#V" n="55"/>tur de obediere christi ad deum patrem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2124">
+      ¶ Sed oritur difficultas. si sit 
+      <lb ed="#V" n="56"/>gradus in istis obedientiis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2129">
+      ¶ Dicitur autem quod sic. quia 
+      obedien<lb ed="#V" n="57" break="no"/>tia theartia est suprema: sicut maiora sunt diuina praecepta: 
+      <lb ed="#V" n="58"/>et deinde ierarchica: quia immediatius videtur 
+      appropinqua<lb ed="#V" n="59" break="no"/>re ad illam: et deinde patriarus plusquam pollibus: pro quanto 
+      <lb ed="#V" n="60"/>videtur homo ligatus patri magis quam principi: et 
+      vide<lb ed="#V" n="61" break="no"/>tur econuerso. quia bonum commune prefertur priuato. 
+      <lb ed="#V" n="62"/>psideratio in quo est obedientia: sicut in 
+      <lb ed="#V" n="63"/>Quar ta subiecto.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2147">
+      ¶ Et ponuntur hoc quatuor conclusiones. 
+      <lb ed="#V" n="64"/>Quarum prima est. quod ex actibus obediendi aggeneratur habi 
+      <lb ed="#V" n="65"/>tus in appetitu sensitiuo: quia experimur quod ex actibus 
+      <lb ed="#V" n="66"/>talibus facilitatur apparetitus sensitiuus ad obedien¬ 
+      <!--538.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>dum circa sensibilia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2163">
+      ¶ 2a conclusio. quod ex talibus actibus 
+      <lb ed="#V" n="68"/>aggeneratur habitus in appetitu intellectiuo: quia expe 
+      <lb ed="#V" n="69"/>rimur post tales actus: quod delectatur animum ad 
+      obedi<lb ed="#V" n="70" break="no"/>dum circa intelligibilia: vt cum speculatio: aut 
+      contempla<lb ed="#V" n="71" break="no"/>tio praecipitur.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2174">
+      ¶ 3a conclusio. quod habitus qui generatur in 
+      vo<lb ed="#V" n="72" break="no"/>luntate: est per se virtus formaliter: quia ei conueniunt omnes 
+      <lb ed="#V" n="73"/>particule diffinitionis: que attribuiter virtuti morali: vt 
+      su<lb ed="#V" n="74" break="no"/>pra patuit.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2183">
+      ¶ 4a conclusio. quod habitus genitus in apper 
+      <lb ed="#V" n="75"/>titu sensitiuo non est virtus nisi in analogia ad habitum 
+      <lb ed="#V" n="76"/>qui est in voluntate: quia de se non est habitus electiuus: cum 
+      <lb ed="#V" n="77"/>electio sit tantum in voluntate.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2193">
+      ¶ Sed oritur difficultas. si est 
+      ita<lb ed="#V" n="78" break="no"/>euidens de aliis virtutibus moralibus quod sint in 
+      volun<lb ed="#V" n="79" break="no"/>tate.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2200">
+      ¶ Dicitur quod communis doctrina ponit fortitudininem et 
+      tem<lb ed="#V" n="80" break="no"/>perantiam in appetitu sensitiuo: et iustitiam in 
+      intellecti<lb ed="#V" n="81" break="no"/>uo: et per illum modum dicitur de obedientia sicut de iustitia. 
+      <lb ed="#V" n="82"/>Tum quia obedientia est circa operationes sicut iustitia: et 
+      <lb ed="#V" n="83"/>non circa passiones. Tum quia illa virtus inuenitur in 
+      <lb ed="#V" n="84"/>substantis separatis: sicut iustitia: in quibus non est 
+      ap<lb ed="#V" n="85" break="no"/>petitus nisi voluntas: que potentia est intellectiua. 
+      <lb ed="#V" n="86"/>consideratio de quo est obedientia. sicut 
+      <lb ed="#V" n="87"/>Quinta de obiecto.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2220">
+      ¶ Et quidem 4o sunt que vide 
+      <lb ed="#V" n="88"/>tur ad obiectum illius virtutis partinere. Quorum primum est 
+      <lb ed="#V" n="89"/>voluntas praeciim: quia vult illud obiectum de quo dat praeceptum. 
+      <lb ed="#V" n="90"/>quia cum obedientia sit subiectio: talis subiectio respicit 
+      <lb ed="#V" n="91"/>voluntatem superioris.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2231">
+      ¶ Secundum est ipsum praeceptum 
+      inte<lb ed="#V" n="92" break="no"/>rius elicitum: quo vult fieri sibi subiectio: sicut aliud est 
+      <lb ed="#V" n="93"/>in praelato: quod vult aliquod bonum. aliud quod illud bonum 
+      fie<lb ed="#V" n="94" break="no"/>ri a sibi subiecto.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2240">
+      ¶ 3m est ipsum praeceptum exterius prola 
+      <lb ed="#V" n="95"/>tum: quo expraemit inferiori suam voluntatem per modum 
+      impe<lb ed="#V" n="96" break="no"/>rantis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2247">
+      ¶ 4m est obiectum: vt praeceptum ab eo: sicut aliquis 
+      <lb ed="#V" n="97"/>actus: vt imparatus a praecipiente: puta ieiunare vel orare 
+      <lb ed="#V" n="98"/>Et secundum illa 4or: ponuntur hoc 4or conclusiones.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2255">
+      ¶ Quarum prima 
+      <lb ed="#V" n="99"/>est: quod voluntas praecipientis qua vult obiectum: de quo dat 
+      pre<lb ed="#V" n="100" break="no"/>ceptum: non est directe obiectum obedientie: quia omnis 
+      opera<lb ed="#V" n="101" break="no"/>tio cessat si est elicitiua: cessante suo obiecto cessante 
+      <lb ed="#V" n="102"/>autem tali actu in praeciie: exequitur actum obediendi subiectus. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e2266">
+               <lb ed="#V" n="103"/>¶ Secunda conclusio quod ipsum praeceptum interius elicitum: non est 
+      <lb ed="#V" n="104"/>obedientie obiectum: quia obedientia non versatur 
+      obiecti<lb ed="#V" n="105" break="no"/>ue circa actiones immanentes: cum perficiatur per executiuam 
+      <lb ed="#V" n="106"/>potentiam communiter.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2277">
+      ¶ Tertia conclusio quod ipsum praeceptum: vt 
+      exte<lb ed="#V" n="107" break="no"/>rius prolatum: quia obediens non dirigit intentionem in 
+      obe<lb ed="#V" n="108" break="no"/>diendo ad illud quod exterius profertur: nisi in habitudine 
+      <lb ed="#V" n="109"/>ad illud quod interius intenditur. Unde obediendun 
+      <lb ed="#V" n="110"/>est ad intentionem praecipientis: magis quam ad prolationem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2288">
+      ¶ 4a 
+      <lb ed="#V" n="111"/>conclusio est. quod obiectum obedientie directum est bonum quod 
+      praeci<lb ed="#V" n="112" break="no"/>pitur: nonquidem absolute: sed inquantum praeceptum: sicut cum 
+      <lb ed="#V" n="113"/>praelatus praecipit cantare: ipsum cantare: vt imparatum a 
+      su<lb ed="#V" n="114" break="no"/>periori: est obiectum talis obedientie: quia circa idem versatur 
+      <lb ed="#V" n="115"/>actus virtutis elicitus et imparatus: et in virtutibus mora 
+      <lb ed="#V" n="116"/>libus: vt patet inductiue: et constat quod circa tale bonum est actus 
+      <lb ed="#V" n="117"/>obedientie imparatus: cum quis perficit obedientiam.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2306">
+      ¶ Sed orituer 
+      <lb ed="#V" n="118"/>difficultas quia obedientia non solum respicit praeceptum. sed etiam 
+      prohibi<lb ed="#V" n="119" break="no"/>tionem mali: et sic bonum vt praeceptum non est eius 
+      adequa<lb ed="#V" n="120" break="no"/>tum obiectum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2315">
+      ¶ Dicitur autem quod prohibitio est quoddam 
+      necessariu<lb ed="#V" n="121" break="no"/>praeceptum. Et ideo formale adequatum illius virtutis obiectum est 
+      <lb ed="#V" n="122"/>bonum: vt est praeceptum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2323">
+      ¶ Secunda difficultas quia bonum non potest 
+      <lb ed="#V" n="123"/>cadere sub isto negatiuo praecepto: cum recta prohibito 
+      <lb ed="#V" n="124"/>non sit nisi mali. Dicitur autem quod tale malum prohibitum. licet de 
+      <lb ed="#V" n="125"/>se non sit bonum. tamen intantum est bonum: quia prohiberi mala est 
+      <lb ed="#V" n="126"/>bonum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2334">
+      ¶ Tertia difficultas quia omne prohibitum: vt praeceptum: in 
+      <lb ed="#V" n="127"/>tali obiecto non dicit nisi respectus rationis: et nullus ta 
+      <lb ed="#V" n="128"/>lis respectus potest esse formale obiectum realis virtutis. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e2341">
+               <lb ed="#V" n="129"/>¶ Dicitur autem quod isti respectus non sunt rationis conficte. 
+      <lb ed="#V" n="130"/>sed vere in re: sicut realiter quis praecipit. ita realiter preci 
+      <lb ed="#V" n="131"/>pitur tale obiectum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2350">
+      ¶ Quarta difficultas si bonum per 
+      obedien<lb ed="#V" n="132" break="no"/>tiam consummatum est melius.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2355">
+      ¶ Dicitur autem quod ex hoc lo¬ 
+      <!--539.xml-->
+      <pb ed="#V" n="267-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>co habetur quod sic: quia cum bonum preceptum sit aliquod bonum: 
+      <lb ed="#V" n="2"/>idcirco adueniens bono absoluto: facit illud magis 
+      <lb ed="#V" n="3"/>bonum. Et ideo est melior oratio imperata. 
+      <lb ed="#V" n="4"/>consideratio si ista virtus obedientie est communis 
+      <lb ed="#V" n="5"/>contra ex la aut propria. et quidem sunt alique virtutes  
+      <lb ed="#V" n="6"/>proprie: que non respiciunt nisi aliquam determinatam materiam. 
+      <lb ed="#V" n="7"/>Sicut temperantia: vel fortitudo: non inueniuntur nisi circa 
+      <lb ed="#V" n="8"/>passiones timoris et delectationes sensibiles. alie sunt 
+      <lb ed="#V" n="9"/>virtutes communes quae inueniuntur in omni mteam virtutum: et circuunt 
+      <lb ed="#V" n="10"/>omnem virtutem: sicut in discipulis logica inuenitur in materia 
+      <lb ed="#V" n="11"/>omnis difficultatis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2388">
+      ¶ Intelligendum tamen est quod quatuor sunt 
+      <lb ed="#V" n="12"/>virtutes communes que reperiuntur in omni virtute particulari 
+      <lb ed="#V" n="13"/>uarum prima est prudentia: que inuenitur in omni virtute per 
+      <lb ed="#V" n="14"/>modum regulantis. quia dirigit vnumquemque operantem in materia 
+      <lb ed="#V" n="15"/>cuiuslibet virtutis: vt agat secundum rectam rationem: cum ipsa sit 
+      <lb ed="#V" n="16"/>recta ratio.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2402">
+      ¶ Secunda est legalis iusticia praecipientis: quia lex 
+      <lb ed="#V" n="17"/>perfecta et integra imperat omni virtuti: cum intendat 
+      huma<lb ed="#V" n="18" break="no"/>nem perfectionem: et iusticia legalis est per quam bene se habet quolibet 
+      <lb ed="#V" n="19"/>ad totam legem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2411">
+      ¶ Tertia est iusticia distributiua communiter 
+      <lb ed="#V" n="20"/>sumpta: per quam secundum beatum Augustinum redditer vnicuique 
+      <lb ed="#V" n="21"/>quod suum est circa quamque materiam: quia cuiuslibet virtutis 
+      bo<lb ed="#V" n="22" break="no"/>num est conueniens. Et ideo per quamlibet virtutem redditur 
+      <lb ed="#V" n="23"/>vnicuique quod suum est: sicut in temperantia que est ad seipsum 
+      <lb ed="#V" n="24"/>homo reddit corpori suo quod suum est debitum: vt conseruetur 
+      so<lb ed="#V" n="25" break="no"/>brium.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2427">
+      ¶ Quarta est obedientia: que reperitur in omni materia 
+      <lb ed="#V" n="26"/>cuiuslibet virtutis. quia quelihet virtus aute praecipitur a 
+      <lb ed="#V" n="27"/>deo: aut a lege: aut a principe bono: et circa quamcunque 
+      <lb ed="#V" n="28"/>materiam contingit praecipere contingit obedire: vt patuit: et sic 
+      <lb ed="#V" n="29"/>patet quod obedientia communis est virtus: quia circa materiam cuiusli 
+      <lb ed="#V" n="30"/>pet virtutis contingit esse bonum praeceptum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2440">
+      ¶ Sed oritur dificulis 
+      <lb ed="#V" n="31"/>cul. si ille virtutes communes sunt nobiliores quam alie.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2445">
+      ¶ Dicitur 
+      <lb ed="#V" n="32"/>quod ita videtur. quia bonum quanto communius tanto videtur esse nobilius: 
+      <lb ed="#V" n="33"/>et ille virtutes alias virtutes continent in virtute. 
+      <lb ed="#V" n="34"/>consideratio est: si illa virtus est circa 
+      <lb ed="#V" n="35"/>Septima passiones: aut circa operationes. Et quidem 
+      <lb ed="#V" n="36"/>alique virtutes ponuntur esse circa passiones: sicut 
+      ten<lb ed="#V" n="37" break="no"/>erantia: et alique circa operationes: sicut iusticia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2461">
+      ¶ 
+      Intel<lb ed="#V" n="38" break="no"/>igendum tamen est quod quatuor modi virtutum inueniuntur: secundum 
+      <lb ed="#V" n="39"/>ppositam materiam. quaedam que ita sunt circa passiones quod non 
+      <lb ed="#V" n="40"/>circa operationes: sicut virtutes castitatis in frigidis: aut 
+      <lb ed="#V" n="41"/>eunuchis vel spadonibus: qui licet non possint operationes 
+      <lb ed="#V" n="42"/>incontinentie exercere: tamen talia possunt apetere: sicut 
+      <lb ed="#V" n="43"/>contrapiens dicit eccle. xxx. De spadone complectus 
+      virgi<lb ed="#V" n="44" break="no"/>nem et suspite ad vicium: et ad virtutem oppositam Sapio. 3 
+      <lb ed="#V" n="45"/>de spadone qui non cogitauit contra deum nequissima. alie 
+      <lb ed="#V" n="46"/>sunt virtutes circa operationes: et non circa passiones: sicut 
+      <lb ed="#V" n="47"/>virtutes que sunt in substantis separatis. vt iustitia et 
+      <lb ed="#V" n="48"/>nagnanimitas: quia in eis non ponuntur communiter passiones 
+      <lb ed="#V" n="49"/>Et ideo virtutes in eis sunt totaliter a passionibus seque 
+      <lb ed="#V" n="50"/>strate. alie sunt virtutes que sunt principaliter circa passio 
+      <lb ed="#V" n="51"/>nes: et secundario circa operationes: sicut fortitudo et 
+      <lb ed="#V" n="52"/>temperantia in nobis. Primo sunt ordinate ad 
+      temperan<lb ed="#V" n="53" break="no"/>dum vel moderandum motus interiores concupiscentie 
+      <lb ed="#V" n="54"/>et timoris: et postea ad moderandum exteriores 
+      opera<lb ed="#V" n="55" break="no"/>tiones que sequuntur inclinationes illarum passionum. 
+      <lb ed="#V" n="56"/>Alie sunt virtutes que sunt principaliter et per se 
+      cir<lb ed="#V" n="57" break="no"/>ca operationes: et consequenter circa passiones: sicut 
+      <lb ed="#V" n="58"/>in nobis iusticia commutatiua vel distributiua: quia per 
+      <lb ed="#V" n="59"/>istas mensurantur et moderantur operationes ad 
+      ali<lb ed="#V" n="60" break="no"/>terum sine omni passione. tamen accidit etiam ibi esse 
+      <lb ed="#V" n="61"/>passionem: vt cum per iusticiam quis retinet iram 
+      ne<lb ed="#V" n="62" break="no"/>nimis puniat: aut cum retinet concupiscentiam pecu 
+      <lb ed="#V" n="63"/>nie: ne nimis vendat: et illud accidit: quia dato quod 
+      nulle<lb ed="#V" n="64" break="no"/>inessent passiones: adho iusticia actus humanos 
+      mo<lb ed="#V" n="65" break="no"/>deraret.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2525">
+      ¶ Sed oritur difficultas. si virtutes que sunt 
+      tan<lb ed="#V" n="66" break="no"/>tum circa operationes sunt nobiliores: quam iste que cir¬ 
+      <!--539.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>ca passiones tantum. Dicitur quod ita videtur: quia substantie separate 
+      <lb ed="#V" n="68"/>videntur habere excellentiores virtutes quam homines 
+      oc<lb ed="#V" n="69" break="no"/>casionati.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2541">
+      ¶ Secunda difficultas. si ille que sunt principaliter circa 
+      <lb ed="#V" n="70"/>perationes excedunt illas quae sunt principaliter circa 
+      pas<lb ed="#V" n="71" break="no"/>siones.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2548">
+      ¶ Dicitur autem quod ita videtur. quia ille nate sunt esse in 
+      ange<lb ed="#V" n="72" break="no"/>lis et non iste: vt per se patet: ille tamen differentie sunt accidentales. Et 
+      <lb ed="#V" n="73"/>ldteo non arguunt excellentiam essentialem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2555">
+      ¶ Istis autem praemissis 
+      <lb ed="#V" n="74"/>dicitur quod obedientia in nobis est per se circa operationes: et per 
+      <lb ed="#V" n="75"/>accidens circa passiones: quia nulla passione repugnante 
+      <lb ed="#V" n="76"/>in statu innocentie: obedientia fuit: et tamen per accidens: sicut 
+      <lb ed="#V" n="77"/>iustitia est passioni adiuncta: vt cum homo iratus ab 
+      exe<lb ed="#V" n="78" break="no"/>cutione vindicte ex obedientia reprimitur aut a 
+      pro<lb ed="#V" n="79" break="no"/>sequutione concupiscentie. 
+      <lb ed="#V" n="80"/>consideratio est: si illa virtus 
+      obedien<lb ed="#V" n="81" break="no"/>Sctaua tie consistit in medio et ponuntur quatuor 
+      <lb ed="#V" n="82"/>conclusiones.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2577">
+      ¶ Quarum prima est. quod obedientia 
+      patriar<lb ed="#V" n="83" break="no"/>thica consistit in medio duarum maliciarum scilicet defectus et 
+      su<lb ed="#V" n="84" break="no"/>verabundantie: quia ille filius quie non vult parentibus 
+      obe<lb ed="#V" n="85" break="no"/>dire vituperatur sicut deficiens. et ille qui vult obedire 
+      <lb ed="#V" n="86"/>quibus non oportet: vituperatur: sicut superabundans.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2588">
+      ¶ 2am 
+      <lb ed="#V" n="87"/>conclusio: quod obedientia politica eodem modo consistit in me 
+      <lb ed="#V" n="88"/>dio: quia sicut vituperatur qui non obedit principi in 
+      qui<lb ed="#V" n="89" break="no"/>bus oportet tanquam deficiens. ita vituperatur tanquam superabum 
+      <lb ed="#V" n="90"/>dans qui obedit in quibus non oportet. sicut Idab 
+      obe<lb ed="#V" n="91" break="no"/>diuit Dauid in morte Urie. secundi Reg. xi.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2602">
+      ¶ Tertia conclusio 
+      <lb ed="#V" n="92"/>quod obedientia hyerarchica vel ecclesiastica consistit in 
+      <lb ed="#V" n="93"/>medio: quia sicut vitupratur vt deficiens: qui non vult 
+      obe<lb ed="#V" n="94" break="no"/>dire praelato in quibus oportet. ita vituperatur ex 
+      super<lb ed="#V" n="95" break="no"/>abundantiis qui obedit praelato in quibus non oportet. 
+      <lb ed="#V" n="96"/>Et ideo hylarius noluit obedire Teoni: vt in arrianam 
+      <lb ed="#V" n="97"/>heresim consentiret.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2618">
+      ¶ Quarta conclusio. quod obedientia 
+      <lb ed="#V" n="98"/>thearchica non videtur hoc modo consistere in medio: 
+      <lb ed="#V" n="99"/>quia licet contingat aliquem vituperari in eo: quod non obedit 
+      <lb ed="#V" n="100"/>deo in quibus oportet: tanquam deficientem: non tamen 
+      con<lb ed="#V" n="101" break="no"/>tingit vituperari aliquem ei obedientem in quo non 
+      opor<lb ed="#V" n="102" break="no"/>tet: sicut superabundantem: quia non est inuenire in quo 
+      prae<lb ed="#V" n="103" break="no"/>cepto possibili non sit deo obediendum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2634">
+      ¶ Sed oritur 
+      <lb ed="#V" n="104"/>ifficultas quia virtus moralis diffinitiue consistit in medio: et 
+      <lb ed="#V" n="105"/>illa posita est virtus moralis. Dictum autem fuit aliquando. 
+      <lb ed="#V" n="106"/>ex virtute illius instantie: quod obedientia ad deum. est virtus 
+      <lb ed="#V" n="107"/>theologica: quia immediate circa diuina.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2645">
+      ¶ Secunda difficultas. quia 
+      <lb ed="#V" n="108"/>obiectum eius non est bonum: vt praeceptum a deo: et illud est quid  
+      <lb ed="#V" n="109"/>increatum: circa quod sunt virtutes theologice.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2652">
+      ¶ Dicitur autem 
+      <lb ed="#V" n="110"/>quod in tale obiectum contingit ferri nimis voluntatem: vt si 
+      dili<lb ed="#V" n="111" break="no"/>geret illud sui gratia pro fruendo: tunc esset superabundans. 
+      <lb ed="#V" n="112"/>consideratio: si virtus obedientie est virtus vna. 
+      <lb ed="#V" n="113"/>Nona et ponuntur hoc 4or conclusiones.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2663">
+      ¶ Quarum prima est: 
+      <lb ed="#V" n="114"/>quod in eodem subiecto sunt plures obedientie distincte numero 
+      <lb ed="#V" n="115"/>quia secundum distonem obiectorum fit distinctio habituum. 
+      Con<lb ed="#V" n="116" break="no"/>stat autem quod praecepta numero distinguuntur: cum sint multa 
+      <lb ed="#V" n="117"/>cuiuslibet: et bonum vt praeceptum: est obedientie: vt patuit: 
+      <lb ed="#V" n="118"/>formale obiectum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2677">
+      ¶ 2a conclusio quod in eodem sunt plures obedientie 
+      <lb ed="#V" n="119"/>pecie distincte: quia praecepta specie distinguuntur: vt patuit in 
+      <lb ed="#V" n="120"/>prceptis prime tabule et secunde: quia prima respiciunt immediate 
+      <lb ed="#V" n="121"/>bona eterna: et alia temporalia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2686">
+      ¶ 3a conclusio quod in eodem sub 
+      <lb ed="#V" n="122"/>iecto sunt plures obedientie distincte genere propinquo: 
+      <lb ed="#V" n="123"/>quia cum tot sint species obedientiarum quot sunt species praecepto 
+      <lb ed="#V" n="124"/>rum: et praecepta sunt plusquam duo secundum speciem: secundum praemissa. et 
+      <lb ed="#V" n="125"/>vt supponunt philosophi. Idem genus non potest habere nisi duas 
+      <lb ed="#V" n="126"/>differentias diuisiuas. oportet vt multitudo illarum specierum ad 
+      <lb ed="#V" n="127"/>diuisa genera reducantur: et tunc illa aute erunt 
+      subalterna<lb ed="#V" n="128" break="no"/>rim posita: et hoc est propositum: aut disperate: et tunc erunt 
+      <lb ed="#V" n="129"/>sub communi obedientia: et habetur idem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2706">
+      ¶ Quarta 
+      conclu<lb ed="#V" n="130" break="no"/>sio. quod omnes obedientie sunt idem genere remoto: non 
+      <lb ed="#V" n="131"/>solum generalissimo sed subalternato modo: quia omnes 
+      con<lb ed="#V" n="132" break="no"/>ueniunt in ratione formali obedientie prout obedien¬ 
+      <!--540.xml-->
+      <pb ed="#V" n="268-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>tia est quedam species subalterna virtutis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2724">
+      ¶ Sed ori 
+      <lb ed="#V" n="2"/>tur difficultas quia obedientia de quibus dantur praecepta: non 
+      con<lb ed="#V" n="3" break="no"/>aeniunt in genere: cum contingat dare praecepta de 
+      diuer<lb ed="#V" n="4" break="no"/>sis praedicamentis. vt de qualitate et quantitate. Dicitur autem quod lice 
+      <lb ed="#V" n="5"/>non conueniant genere materialiter. tamen bene formaliter quantum ad 
+      <lb ed="#V" n="6"/>hoc quod est esse praeceptum: quod est esse obiectum formale illius vii 
+      <lb ed="#V" n="7"/>tutis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2740">
+      ¶ 2a difficultas quia illud esse praeceptum: videtur vnius rationis in 
+      or<lb ed="#V" n="8" break="no"/>bus quantumcumque differentibus. Et ideo frustra ponuntuir 
+      <lb ed="#V" n="9"/>obedientie specie distincte. Dicitur quod esse praeceptum ad minus 
+      di<lb ed="#V" n="10" break="no"/>stinguitur specie secundum voluntates: vt respectu dei et 
+      creatu<lb ed="#V" n="11" break="no"/>re: et quantum ad fines: vt in hyerarchicis et polliticis: et 
+      for<lb ed="#V" n="12" break="no"/>te quantum ad gradus: vt in praeceptis primo tabule et secunde. 
+      <lb ed="#V" n="13"/>consideratio. si obedientia est virtus 
+      distin<lb ed="#V" n="14" break="no"/>Decima cta. Et dicunt aliqui quod non: quia in qualibet ver 
+      <lb ed="#V" n="15"/>tute inuenitur obedientia: cum transgressio cuiuslibet virtur 
+      <lb ed="#V" n="16"/>vocetur esse inobedientia: et quod qualibet virtus a lege 
+      diui<lb ed="#V" n="17" break="no"/>na est imparata.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2764">
+      ¶ Sed contra istud arguitur 4r. Primo: quia 
+      <lb ed="#V" n="18"/>omni virtute morali inuenitur prudentia: ita vt eius 
+      tran<lb ed="#V" n="19" break="no"/>sgressio reputetur insipientia: et tamen ipsa est ab omnibus 
+      distin<lb ed="#V" n="20" break="no"/>cta.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2774">
+      ¶ Secundo. quia legalis iustitia ponitur distincta: et tamen in 
+      <lb ed="#V" n="21"/>uenitur sic in omni virtute: vt ipsam transgrediens fiat in 
+      <lb ed="#V" n="22"/>iustus legaliter.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2781">
+      ¶ 3o. quia in omnibus: sic est iustitia 
+      distri<lb ed="#V" n="23" break="no"/>butiua: vt contrarium faciens non dat cuilibet quod suum est. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e2786">
+               <lb ed="#V" n="24"/>¶ 4o. quia fides eodem modo videtur inueniri: cum omnibus 
+      vir<lb ed="#V" n="25" break="no"/>tutibus in via theologicis: aut charitatis saltem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2793">
+      ¶ Ideo 
+      <lb ed="#V" n="26"/>dico quod licet obedientia inueniatur in omni virtute quae est imparata: 
+      <lb ed="#V" n="27"/>tamen ipsa est a singulis virtutibus: sicut legalis iustitia 
+      <lb ed="#V" n="28"/>distincta: et istud declaratur: quia obiectum aliarum virtutum est 
+      <lb ed="#V" n="29"/>bonum secundum se: aut vt ostensum a ratione: hoc autem bonum illud 
+      <lb ed="#V" n="30"/>idem inquantum praeceptum a principe vel a lege.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2806">
+      ¶ Sed oritur difficulta 
+      <lb ed="#V" n="31"/>si potest sequestrari actus meritorius ab obedientia. Di 
+      <lb ed="#V" n="32"/>iunt quod ita videtur: non ipsam abiiciendo. sed non considerando 
+      <lb ed="#V" n="33"/>bonum inquantum est ab aliquo praeceptum: sed vt est rationi 
+      com<lb ed="#V" n="34" break="no"/>sonum: licet magis sit meritorium quando concernit vtrumque. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e2817">
+               <lb ed="#V" n="35"/>¶ Secunda difficultas si potest sequestrari obedientia ab aliis 
+      <lb ed="#V" n="36"/>virtutibus. Dicitur quod sic: quando percipitur opus neutrum: vt in 
+      <lb ed="#V" n="37"/>trare desertum: quia illud non est bonum nisi quia praeceptum 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e2827">
+               <lb ed="#V" n="38"/>¶ Sed re. dubium: si concurrente obedientia cum ceteris 
+      vir<lb ed="#V" n="39" break="no"/>tutibus: vt imperatis concurrunt eodem actu. Dicitur autem 
+      <lb ed="#V" n="40"/>quod non videtur: quia potest esse vnus actus sine alio: aut 
+      so<lb ed="#V" n="41" break="no"/>lum: quia operans intendit ad bonum: vt est praeceptum: aut 
+      <lb ed="#V" n="42"/>quia non vt praeceptum: sed vt in se bene sunt 
+      <lb ed="#V" n="43"/>consideratio: si obedientia est alia a 
+      <lb ed="#V" n="44"/>Undecima legali iustitia. Et quidem legalis 
+      iu<lb ed="#V" n="45" break="no"/>stitia habet duas partes: vnam scilicet que est legis positiua: et aliam 
+      <lb ed="#V" n="46"/>que est legis obseruatiua. De prima autem parte constat 
+      <lb ed="#V" n="47"/>quod differt ab obedientia: quia ad obedientiam non pertinet 
+      <lb ed="#V" n="48"/>oncipere sed tantum parere.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2853">
+      ¶ De secunda vero videtur satis 
+      con<lb ed="#V" n="49" break="no"/>ueniens quod sit idem cum obedientia: quia sicut per legalem 
+      <lb ed="#V" n="50"/>iustitiam qulibet fit bene legi subiectus ita per obedientiam: 
+      <lb ed="#V" n="51"/>quam quis habet ad legem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2862">
+      ¶ Sed oritur difficultas. si est inuenire 
+      <lb ed="#V" n="52"/>aliam obedientiam praeter illam legalem iustitiam. Dicitur autem 
+      <lb ed="#V" n="53"/>quod sicut est innuenire iustitiam particularem: preter illam 
+      <lb ed="#V" n="54"/>ommune iustitiam: ita obedientiam que sit virtus particularis: 
+      <lb ed="#V" n="55"/>sicut illa quam promittunt religiosi suis praelatis: et alie quae 
+      <lb ed="#V" n="56"/>non respiciunt totam legem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2875">
+      ¶ Secunda difficultas si obedientia 
+      <lb ed="#V" n="57"/>differt a distributiua iustitia in communi scripta.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2880">
+      ¶ Dicitur autem 
+      <lb ed="#V" n="58"/>quod non: quia obedire est alteri quod est ei debitum reddere: 
+      <lb ed="#V" n="59"/>secundum diffinitionem illius communem. Et ideo non oportet eam reducere 
+      <lb ed="#V" n="60"/>ad iustitiam. cum ipsa sit formaliter iustia talis et diffinitiue. 
+      <lb ed="#V" n="61"/>consideratio. si obedientia est 
+      no<lb ed="#V" n="62" break="no"/>Duodecima bilissima virtutum moralium 
+      <lb ed="#V" n="63"/>vbi est intelligendum quod quatuor sunt bonorum genera 
+      <lb ed="#V" n="64"/>de quibus virtutes sunt distincte. vt alibi fuit ostensum. 
+      <lb ed="#V" n="65"/>cilibet bona extra nos: de quibus est paupertas: et 
+      bona<lb ed="#V" n="66" break="no"/>circa nos id est corporalia: de quibus est castitas: et bona¬ 
+      <!--540.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>infra nos: vt bona anime: de quibus est obedientia: et 
+      <lb ed="#V" n="68"/>bona supra nos id est supernaturalia de quibus est charitas: 
+      <lb ed="#V" n="69"/>sicut homoa supra nos: excedunt ista que sunt infra nos: sic 
+      <lb ed="#V" n="70"/>charitas obedientiam. et eadem ratione obedientia castita 
+      <lb ed="#V" n="71"/>tem: quia meliora sunt bona anime quam corporis: et castitas 
+      <lb ed="#V" n="72"/>pauptatem: qui meliora: sunt bona corporis quam fortune. 
+      <lb ed="#V" n="73"/>Et ideo cum obedientia sit de superioribus bonis creatis: vs 
+      <lb ed="#V" n="74"/>pote anime videtur esse nobilissima secundum commune deductionem 
+      ici<lb ed="#V" n="75" break="no"/>tra virtutes theologicas que sunt de supernaturalibus. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e2926">
+               <lb ed="#V" n="76"/>¶ Intelligendum tamen est: quod nobilitas illius virtutis de 
+      <lb ed="#V" n="77"/>claratur euidenter quadruplici praeambulo praemisso quorum 
+      <lb ed="#V" n="78"/>primum est: quod iustitia est praeclarissima virtutum moralium. quia 
+      <lb ed="#V" n="79"/>sicut lucifer comparatur aliis stellis: ita iustitia aliis 
+      vir<lb ed="#V" n="80" break="no"/>tutibus in morali philosophia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2940">
+      ¶ Secundum praeambulum quod 
+      nol<lb ed="#V" n="81" break="no"/>bilior pars iustitie est distributiua quam commutatiua: quae 
+      re<lb ed="#V" n="82" break="no"/>spicit minima bona scilicet fortune: et interum quia distributiua 
+      <lb ed="#V" n="83"/>iustitia erit in patria et non commutatiua.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2949">
+      ¶ Tertium 
+      pre<lb ed="#V" n="84" break="no"/>ambulum quod nobilissima portio iustitie distributiue 
+      <lb ed="#V" n="85"/>vita ista est illa que est distributiua honoris: quia 
+      honor<lb ed="#V" n="86" break="no"/>est premium virtutis: cui diabet dari maximum bonum quod 
+      <lb ed="#V" n="87"/>dari potest pro praemio.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2960">
+      ¶ Quartum preambulum est: quod 
+      <lb ed="#V" n="88"/>nobilissimum membrum illius portionis: est iustitia 
+      distri<lb ed="#V" n="89" break="no"/>butiua: qua redditur deo honor sibi debitus. Et istud 
+      <lb ed="#V" n="90"/>fit: per virtutem latrie. Et ideo sequitur quod latria sit nobilissi 
+      <lb ed="#V" n="91"/>ma virtutum moralium.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2971">
+      ¶ Sed istis praemissis sequitur quod 
+      obe<lb ed="#V" n="92" break="no"/>dientia sit nobilissima virtutum moralium: quia obedientia me 
+      <lb ed="#V" n="93"/>lior est quam latria: quod probatur. Tum. quia dixit Samuel ad 
+      <lb ed="#V" n="94"/>Saul primi Regum. xv. Nunquid vult diseunus holocausta et 
+      <lb ed="#V" n="95"/>victimas et non potius vt obediatur voci dicunti: et tamen 
+      con<lb ed="#V" n="96" break="no"/>stat quod primum pertinebat ad latriam.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2984">
+      ¶ Tum. quia ibidem 
+      dixita<lb ed="#V" n="97" break="no"/>melior est obedientia quam victime et ascultare magis 
+      quan<lb ed="#V" n="98" break="no"/>offerre. Et tamen constat quod victime et offerre partinent ad 
+      la<lb ed="#V" n="99" break="no"/>triam.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e2993">
+      ¶ Sed oritur difficultas quomodo latria est nobilissima 
+      se<lb ed="#V" n="100" break="no"/>obedientia est melior. Dicitur autem quod latria videtur esse 
+      <lb ed="#V" n="101"/>optima omnium virtutum particularium: obedientia: vt 
+      pa<lb ed="#V" n="102" break="no"/>tuit: est communis virtus.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3003">
+      ¶ Secunda difficultas quia ille auctoritates 
+      <lb ed="#V" n="103"/>quae sic extollunt obedientiam accipiunt solum obedientiam est 
+      <lb ed="#V" n="104"/>est ad deum: non illam que est ad praelatum. Dicitur autem quod si 
+      <lb ed="#V" n="105"/>obedientia alia excedit alias secundum speciem. oportet quod genus 
+      <lb ed="#V" n="106"/>eius sit melius: cum meliorum generum semper sint species 
+      <lb ed="#V" n="107"/>meliores.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3016">
+      ¶ Sed re. dubium. quia bomonium vt praeceptum: non videtur 
+      tan<lb ed="#V" n="108" break="no"/>tum excederecetera bona quod ratione praecepti minimum fiat 
+      <lb ed="#V" n="109"/>melius quantocumque bono alterius virtutis non 
+      prece<lb ed="#V" n="110" break="no"/>pto. Dicitur autem quodlicet in genere nature tale esse praeceptum: 
+      <lb ed="#V" n="111"/>non sit multum excellens tanquam dicens respectum ad actum 
+      <lb ed="#V" n="112"/>voeoli: tamen in genere morum est multum excellens: sicut est 
+      <lb ed="#V" n="113"/>se volitum dei: est cunctis creaturis preferendum. 
+      <lb ed="#V" n="114"/>consideratio est: si virtus 
+      praecepti<lb ed="#V" n="115" break="no"/>Secimatertia ua est nobilior obedi et.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3036">
+      ¶ Et 
+      <lb ed="#V" n="116"/>ponuntur hoc 4or praemabula. Primum est: quod cum actus 
+      praecipien<lb ed="#V" n="117" break="no"/>di bonum sit laudabilis et in voluntate ad quam: praecipue ex 
+      <lb ed="#V" n="118"/>talium frequentatione: generatur habitus electiuus laudabilis: 
+      <lb ed="#V" n="119"/>quia ex bonis actibus bonus habitus generatur.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3047">
+      ¶ Se 
+      <lb ed="#V" n="120"/>cundum praeambulum quod iste habitus habet superabundantiam: 
+      <lb ed="#V" n="121"/>quia sunt aliqui qui sunt nimis praeceptiui: et nimis multipli 
+      <lb ed="#V" n="122"/>cant praecepta: vt obseruari non possint.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3056">
+      ¶ 3m praemabulum 
+      <lb ed="#V" n="123"/>est quod ille habitus habet defectum: cum sint aliqui qui circa 
+      bo<lb ed="#V" n="124" break="no"/>num nihil praecipere volunt: sicut negligentes praelati.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3063">
+      ¶ 4m 
+      <lb ed="#V" n="125"/>praeambulum est: quod illa virtus est virtus moralis: in eo 
+      <lb ed="#V" n="126"/>quod habet praecipere: quando est mensurata: quia secundum praemissa competit 
+      <lb ed="#V" n="127"/>ei tota diffinitio virtutis moralis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3073">
+      ¶ Istis praemissis autem 
+      <lb ed="#V" n="128"/>praeabulis: videndum est si ista virtus est nobilior quam 
+      obe<lb ed="#V" n="129" break="no"/>dientia: et videretur quod sic: quia princeps inquantum talis dabet est 
+      <lb ed="#V" n="130"/>se melior subiecto: aut praelatus subdito: et tamen sicut 
+      sub<lb ed="#V" n="131" break="no"/>iecto inquantum est subiectus conuenit obedientia: ita 
+      <lb ed="#V" n="132"/>prelato inquantum talis est conuenit virtus illa praeceptiua. 
+      <!--541.xml-->
+      <pb ed="#V" n="268-v"/>
+               <cb ed="#V" n="a"/>
+            </p>
+            <p xml:id="FrMQ88-e20925-d1e3093">
+               <lb ed="#V" n="1"/>¶ Et confirmatur ista sententia. Tum. quia sicut melius 
+      <lb ed="#V" n="2"/>est docere quam doceri et maioris perfectionis. ita regere 
+      <lb ed="#V" n="3"/>quam regi et per consequens praecipere quam parere. Tum. quia beatus 
+      <lb ed="#V" n="4"/>est dare quam recipere. sic recitat dictum a dismeno beatus 
+      Pau<lb ed="#V" n="5" break="no"/>lus act. xx. Et io cum ad virtutem praeceptiuam pertineat da 
+      <lb ed="#V" n="6"/>re bona: et ad obedientiam recipere: videtur illa beatior. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e3109">
+               <lb ed="#V" n="7"/>¶ Sed oritur difficultas quia magis arduum videtur bene obedire: quam 
+      be<lb ed="#V" n="8" break="no"/>ne precipere. et ideo magis virtuosum circa eandem mate 
+      <lb ed="#V" n="9"/>riam. Dicitur autem quod bonus princeps quacumque bona aliis 
+      <lb ed="#V" n="10"/>concipit: in se obseruat: sicut Iesus cepit facere et doce 
+      <lb ed="#V" n="11"/>re. Et ideo duplicatur arduitas in principante in eo quod 
+      praeci<lb ed="#V" n="12" break="no"/>pit patrare pro seipso et dato quod non esset magis arduum: 
+      <lb ed="#V" n="13"/>quandoque minus arua sunt meliora: sicut charitas quam fortitu 
+      <lb ed="#V" n="14"/>do.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3129">
+      ¶ Secunda difficultas quia cum melior sit habitudo ad superio 
+      <lb ed="#V" n="15"/>ra quam ad inferiora: melior videtur habitudo subditi ad 
+      <lb ed="#V" n="16"/>platum per obedientiam quam praelati ad subditum per precepti 
+      <lb ed="#V" n="17"/>uam. Dicitur autem quod sicut melior est habitudo ad 
+      supe<lb ed="#V" n="18" break="no"/>riora: ita melior est habitudo superiorum: sicut meliores 
+      <lb ed="#V" n="19"/>sunt habitudines dei ad creatura.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3142">
+      ¶ Sed remanet dubius 
+      <lb ed="#V" n="20"/>si illa praeceptiua est melior quam obedientia: quando obedientia est 
+      <lb ed="#V" n="21"/>nobilissima virtutum moralium. Dicitur autem quod illud potest 
+      in<lb ed="#V" n="22" break="no"/>telligi quantum ad virtutes imperatas sic a lege non 
+      quan<lb ed="#V" n="23" break="no"/>tum ad imperatiuam: que est omnis virtus non formaliter: sed 
+      <lb ed="#V" n="24"/>virtualiter: aut dicitur quod vtraque partinet ad obedientiam: 
+      <lb ed="#V" n="25"/>vna actiue: cui obeditur: et alia passiue vt sit obedientia 
+      <lb ed="#V" n="26"/>actiua et passiua. sicut distinguitur genero actiua et passiua 
+      <lb ed="#V" n="27"/>consideratio de quibus dabet esse 
+      <lb ed="#V" n="28"/>Decimaquarta obedientia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3164">
+      ¶ Et ponuntur 
+      <lb ed="#V" n="29"/>hoc 4or theologice veritates: quarum prima est: quod obedientia est 
+      <lb ed="#V" n="30"/>de possibilibus. quia si aliquis praeciperet alicui impossibile: 
+      obedie<lb ed="#V" n="31" break="no"/>tia non valeret: vnde beatus hieronymus anathemati 
+      <lb ed="#V" n="32"/>gat eum qui dicit quod deus praecipiat impossibile.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3176">
+      ¶ Secunt 
+      <lb ed="#V" n="33"/>da veritas quod obedientia est de contingentibus. vnde si aliquis 
+      <lb ed="#V" n="34"/>praecipiat alicui necessarium vt quod cadat post lapsum: est 
+      abu<lb ed="#V" n="35" break="no"/>siuum praeceptum. Et ideo dicit beatus Auguus. quod non 
+      <lb ed="#V" n="36"/>fuit datum praeceptum quod quis diligeret seipsum: quia est ei idem 
+      <lb ed="#V" n="37"/>necessarium vt asseruit in libus de doctrina christiana.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3189">
+      ¶ Ter 
+      <lb ed="#V" n="38"/>tia veritas quod obedientia est de difficilibus. omnis enim 
+      vir<lb ed="#V" n="39" break="no"/>tus est de bono difficili. Et ideo: quia nulla difficultas est 
+      <lb ed="#V" n="40"/>dilectionis patris ad filium: quamuis sit ibi contingentia. Ide 
+      <lb ed="#V" n="41"/>nullum fuit datum de hoc praeceptum. Sed bene de honoratio 
+      <lb ed="#V" n="42"/>ne parentum: quia ibi est aliqua difficultas: dum corrigunt 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e3202">
+               <lb ed="#V" n="43"/>¶ 4a veritas. quod obedientia est de rationabilibus: quia si 
+      ali<lb ed="#V" n="44" break="no"/>quid praecipitur alicui contra rationem non dicitet obedire: quia supe 
+      <lb ed="#V" n="45"/>rior lex: que est rationis naturalis: oppositum precipit. Et sic 
+      <lb ed="#V" n="46"/>deus agibilia ordinauit: sicut dictat ratio naturalis.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3213">
+      ¶ Sed 
+      <lb ed="#V" n="47"/>oritur difficultas quia non solum difficilia. sed etiam facilia quandoque precipi 
+      <lb ed="#V" n="48"/>untur in lege diuina. sicut deum diligere et amicum 
+      ama<lb ed="#V" n="49" break="no"/>re: ad quae homo videtur naturaliter inclinatus. Unde dicit 
+      <lb ed="#V" n="50"/>Saluator. Si diligitis eos qui vos diligunt que vobis est 
+      <lb ed="#V" n="51"/>gratia. Dicitur quod licet modica sit ibi difficultas: tamen est aliqua: 
+      <lb ed="#V" n="52"/>quia contingit quod quandoque ira inclinat ad oppositum: aut passio alia. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e3229">
+               <lb ed="#V" n="53"/>¶ 2a difficultas quia aliqua ibi inueniuntur praecepta contra 
+      natura<lb ed="#V" n="54" break="no"/>lem rationem: sicut abrahe: vt immolaret filium suum: cum 
+      <lb ed="#V" n="55"/>istud sit de se malum. Dicitur autem quod ratio naturalis 
+      di<lb ed="#V" n="56" break="no"/>ctat in omnibus actionibus rationis deo esse obediendum: 
+      <lb ed="#V" n="57"/>cuius voluntas est prima regula rationis recte. 
+      <lb ed="#V" n="58"/>consideratio: in quibus est 
+      obe<lb ed="#V" n="59" break="no"/>Decimaquinta diendum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3247">
+      ¶ Et ponuntun 
+      <lb ed="#V" n="60"/>h quatuor theologice veritates. Prima est: quod 
+      obedien<lb ed="#V" n="61" break="no"/>dum est in omnibus bonis debitis: quia licet homo teneretur 
+      <lb ed="#V" n="62"/>ante legeme diligere deum: et hoc semper fuerit debitum: tamen 
+      <lb ed="#V" n="63"/>suit in lege praeceptum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3259">
+      ¶ Secunda veritas: quod obediendum 
+      <lb ed="#V" n="64"/>est non solum indebitis: sed etiam in expedientibus: quia non 
+      <lb ed="#V" n="65"/>omnia que expediunt sunt debita: sicut patet in consiliis 
+      <lb ed="#V" n="66"/>euangelicis: quia talia expedientia sunt bona et omnia bo¬ 
+      <!--541.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>na possunt cadere sub obedientia: si sint contingentia et 
+      <lb ed="#V" n="68"/>possibilia: secundum praemissa.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3277">
+      ¶ Tertia veritas: quod non solum 
+      <lb ed="#V" n="69"/>obediendum est in expedientibus. Sed etiam in quibuscumque 
+      <lb ed="#V" n="70"/>licitis: quia multa sunt licita que non sunt expedientia: si 
+      <lb ed="#V" n="71"/>cut dicit Apsulus. omnia mihi licent: sed non omnia expediunt 
+      <lb ed="#V" n="72"/>quia nullum licitum est malum: et ea quae non sunt de se 
+      mala<lb ed="#V" n="73" break="no"/>videntur posse cadere sub obedientia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3290">
+      ¶ Quarta veri 
+      <lb ed="#V" n="74"/>tas quod obedientia videtur esse in rebus neutris: vt cum 
+      pre<lb ed="#V" n="75" break="no"/>latus praecipit alicui opus neutrum: vtputa leuare 
+      festu<lb ed="#V" n="76" break="no"/>cam: quia tale quid non est malum: cum sit opus de se neutrum. 
+      <lb ed="#V" n="77"/>Et ideo non apparet ratio quare non possit esse praeceptum 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e3301">
+               <lb ed="#V" n="78"/>¶ Sed oritur difficultas si talis obedientia de rebus neutris est 
+      <lb ed="#V" n="79"/>meritoria. Dicitur autem quod sic. quia licet factum de se non 
+      si<lb ed="#V" n="80" break="no"/>moraliter bonum: fit tamen bonum: quia praeceptum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3310">
+      ¶ 
+      Secun<lb ed="#V" n="81" break="no"/>da difficultas quia nulla differentia videtur inter neutrum et licitum: vt 
+      <lb ed="#V" n="82"/>praescindit a conueniente. Et ideo videntur ille veritates coin 
+      <lb ed="#V" n="83"/>cidere. Dicitur autem quod hoc sumitur licitum pro non prohibito in 
+      <lb ed="#V" n="84"/>actibus humanis: sicut est comedere: actus enim neutrit 
+      <lb ed="#V" n="85"/>non sunt humani actus: vt homo est.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3323">
+      ¶ Tertia difficultas. quia 
+      si<lb ed="#V" n="86" break="no"/>est obediendum in omnibus conuenientibus: tunc quilibet 
+      <lb ed="#V" n="87"/>praelatus poterit sibi subditos ad omnia christi confillia 
+      obli<lb ed="#V" n="88" break="no"/>gare: quod non videtur inconueniens sicut praelatus vniversaliter: et non 
+      <lb ed="#V" n="89"/>particulariter praesidens: et in particulari casu.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3335">
+      ¶ 
+      Quar<lb ed="#V" n="90" break="no"/>ta dif. quare datur praeceptum de debito: sicut dicit 
+      prima<lb ed="#V" n="91" break="no"/>veritas: cum ad debitum sit homo satis obligatus. Dicitur quod multe 
+      <lb ed="#V" n="92"/>obligationes possunt ad idem concurrere. Et ideo datur 
+      pre<lb ed="#V" n="93" break="no"/>ceptum ad magis obligandum: vt fortius teneatur et 
+      am<lb ed="#V" n="94" break="no"/>plius mereatur in multitudine obedientiarum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3348">
+      ¶ Sed 
+      re<lb ed="#V" n="95" break="no"/>manet dubium: si subditus tenetur obedire suo prelato in 
+      <lb ed="#V" n="96"/>omnibus in quibus potest esse obedientia. Dicitur quod sic si se 
+      <lb ed="#V" n="97"/>obligat ad obediendum vniversaliter si autem particulariter: non: quia 
+      <lb ed="#V" n="98"/>qulibet potest se obligare ad omne meritorium: et omne super 
+      <lb ed="#V" n="99"/>quo potest cadere obedientia: vt patuit: est meritorium 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e3361">
+               <lb ed="#V" n="100"/>¶ Secundum dubium. si subiecti tenentur obedire praelatis in 
+      rel<lb ed="#V" n="101" break="no"/>gione nisi in his quae continngunt regulam illorum. Dicunt aliquo 
+      <lb ed="#V" n="102"/>quod non. Et tamen istud videtur mirabile: quia euacuat omnia 
+      re<lb ed="#V" n="103" break="no"/>ligionis statuta: praeter regulam.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3372">
+      ¶ Ideo videntur debere 
+      obe<lb ed="#V" n="104" break="no"/>dire in omnibus quae non sunt contra animmam: sicut dicit 
+      regul<lb ed="#V" n="105" break="no"/>beati francisci. Nisi forte arcent suam obedientiam ad 
+      de<lb ed="#V" n="106" break="no"/>terminata.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3381">
+      ¶ Tertium dubium est si subditus dabet obedire primo 
+      <lb ed="#V" n="107"/>lato ad penam iniustam.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3386">
+      ¶ Dicitur autem quod cum iniuste pati non 
+      <lb ed="#V" n="108"/>sit illicitum. videtur teneri: et istud pati non est contra 
+      ani<lb ed="#V" n="109" break="no"/>mam: sicut christus fuit obediens in passione iniuste lata. 
+      <lb ed="#V" n="110"/>consideratio. si melior obedientia 
+      <lb ed="#V" n="111"/>Decimasexta habet peiorem inobedientiam sibi 
+      opr<lb ed="#V" n="112" break="no"/>positam. Et dicitur quod regula manifesta videtur in 
+      mo<lb ed="#V" n="113" break="no"/>ralibus: quod meliori virtuti est oppositum peius vicium: sicut 
+      <lb ed="#V" n="114"/>quod opponitur summe vero: est maxime falsum. Et ideo peior 
+      <lb ed="#V" n="115"/>inobedientia opponitur meliori obedientie.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3407">
+      ¶ Et istud de 
+      <lb ed="#V" n="116"/>claratur 4r. Primo. quia melior est obedientia dei quam 
+      crea<lb ed="#V" n="117" break="no"/>ture: ideo peior inobedientia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3414">
+      ¶ Secundo. quia melior est 
+      obe<lb ed="#V" n="118" break="no"/>dientia praeceptorum prime tabule quam secunde.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3419">
+      ¶ Tertio. quia 
+      me<lb ed="#V" n="119" break="no"/>lior est praeceptorum noue legis quam veteris. ideo transgressio 
+      <lb ed="#V" n="120"/>et contumacia illius est peior: sicut declarat Apostolus 
+      <lb ed="#V" n="121"/>in epistola ad hebre.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3428">
+      ¶ Quarto. quia sicut maior est 
+      obe<lb ed="#V" n="122" break="no"/>dientia superioris praelati. ita peior est ad ipsam 
+      contuma<lb ed="#V" n="123" break="no"/>cia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3435">
+      ¶ Sed oritur difficultas quia beatus Augutus in libro de ciuita. 
+      <lb ed="#V" n="124"/>dei: comparans obedientiam Ade si paruisset ad 
+      obedien<lb ed="#V" n="125" break="no"/>tiam habrae. Dicit quod melior fuisset obedientia habrae: 
+      <lb ed="#V" n="126"/>quam obedientia Ade: et tamen dicit quod peior inobedientia Ade 
+      <lb ed="#V" n="127"/>est quam fuisset inobedientia habrae: si non paruisset. Dicitur 
+      <lb ed="#V" n="128"/>autem quod ex nam actuum in se: praeceptum Ade fuit circa 
+      ma<lb ed="#V" n="129" break="no"/>teriam temperantie: et praeceptum habrae circa materiam 
+      <lb ed="#V" n="130"/>latrie. scilibet offerre holo austum. Et ideo ex nam impsius 
+      <lb ed="#V" n="131"/>facti: sicut maius meritum fuit in habraam. ita magis 
+      <lb ed="#V" n="132"/>demeruisset: tamen ratione difficultatis in opere excusatus fuis¬ 
+      <!--542.xml-->
+      <pb ed="#V" n="269-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>set a tanto magis quam Adam: cui erat facile in oppositum 
+      <lb ed="#V" n="2"/>Et ideo tamen peior inobedientia ade: quia plus habens de volunt 
+      <lb ed="#V" n="3"/>tario.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3470">
+      ¶ 2a difficultas quia ad hoc remanet totum dubium: quod peior 
+      <lb ed="#V" n="4"/>simpliciter iudicatur in obedientia ade. Dicunt aliquin quod illud 
+      <lb ed="#V" n="5"/>est ratione persone. quia primus parens omnibus nocens. Et istud 
+      <lb ed="#V" n="6"/>non valet: quia idem iudicaretur si eadem precepta darentu 
+      <lb ed="#V" n="7"/>duobus hominibus equalibus: quod peius faceret ille qui 
+      <lb ed="#V" n="8"/>non offerret. Ideo videtur esse dicendum quod non offerre est peius 
+      <lb ed="#V" n="9"/>ex parte obiecti. et non abstinere ex parte potentie: 
+      pro<lb ed="#V" n="10" break="no"/>pter difficultatem ex parte persone patris: contingit autem quod 
+      <lb ed="#V" n="11"/>sicut circumstantia quandoque magis aggrauat peccatum 
+      <lb ed="#V" n="12"/>quam obiectum: ita et magis alleuiat. 
+      <lb ed="#V" n="13"/>consideratio. si obedientia 
+      <lb ed="#V" n="14"/>Decimaseptima quanto diffincilior tanto 
+      me<lb ed="#V" n="15" break="no"/>lior. quia de magis arduo.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3500">
+      ¶ Intelligendum tamen quod 4 dicitur esse 
+      <lb ed="#V" n="16"/>obedientia melior: aut quia a meliori praecipitis. quia melius est 
+      <lb ed="#V" n="17"/>obedire deo quam homini: cuius signum: quia grauior inobe 
+      <lb ed="#V" n="18"/>dientia opposita. aut quia in meliori obtemperante. quia 
+      quan<lb ed="#V" n="19" break="no"/>to quis melior tanto eius subiectio hononim: sicut 
+      obedien<lb ed="#V" n="20" break="no"/>tia christi fuit ratione persone excellentissima. aut quia magis 
+      af<lb ed="#V" n="21" break="no"/>dua. sicut obedientia habrae fuit multipliciter commendata in 
+      <lb ed="#V" n="22"/>divina scriptura: aut quia de meliori materia: sicut datur praeceptum in 
+      <lb ed="#V" n="23"/>lege de dilectione divina. Et sic diuersimode vnius 
+      obedi<lb ed="#V" n="24" break="no"/>entia potest alteri praeferri.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3522">
+      ¶ Sed oritur difficultas vnde magis accipi 
+      <lb ed="#V" n="25"/>tur bonitas: aut ex parte praecipientis: aut ex parte materiae. Dici 
+      <lb ed="#V" n="26"/>tur autem quod ex parte materiae. quia si deus praeciperet quod quis 
+      dilige<lb ed="#V" n="27" break="no"/>ret creaturam. et homo vt diligeretur deus: ille actus videretur 
+      <lb ed="#V" n="28"/>meritorius magis: quia essentialiter ab obiecto speculatur. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e3533">
+               <lb ed="#V" n="29"/>¶ 2a difficultas vnde magis accipitur bonitas obedientie: aut ex 
+      <lb ed="#V" n="30"/>difficultate: aut ex materia. Dicitur autem quod melius videtur esse deum 
+      <lb ed="#V" n="31"/>diligere quam filium immolare: ex diuino praecepto. sicut 
+      meli<lb ed="#V" n="32" break="no"/>or est actus charitatis quam latrine.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3544">
+      ¶ 3a difficultas quia in tali 
+      immola<lb ed="#V" n="33" break="no"/>tione includitur actus dilectionis diuine: sicut habraam 
+      <lb ed="#V" n="34"/>illud non fecisset nisi ad hoc ipsum dilectio divina 
+      mouis<lb ed="#V" n="35" break="no"/>set. Dicitur autem quod isto modo in omni virtute includitur divina dile 
+      <lb ed="#V" n="36"/>ctio: cum semper ibi sit deus finis. et tamen actus charitatis i 
+      <lb ed="#V" n="37"/>se ponitur melior actu cuiuslibet virtutis secundum se: sicut 
+      meli<lb ed="#V" n="38" break="no"/>or est illa virtus.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3560">
+      ¶ 4a difficultas. quia talis difficilis obedientia 
+      <lb ed="#V" n="39"/>circumscripta dilectione diuina propter quam sit: non est 
+      vir<lb ed="#V" n="40" break="no"/>tuosa: et sic de omni alia virtute: et sic in omni virtute: inquantum 
+      me<lb ed="#V" n="41" break="no"/>ritoria: includitur dilectio divina: et vltra actus illius 
+      virtu<lb ed="#V" n="42" break="no"/>tis. Et sic se habebit per additionem ad charitatem. et sic me 
+      <lb ed="#V" n="43"/>lior actus. Dicitur autem quod quando actualiter aliquod creatum 
+      <lb ed="#V" n="44"/>diligitur propter deum: totum illud est actus charitatis 
+      ter<lb ed="#V" n="45" break="no"/>minatus ad deum: sicut ad prius obiectum. et ad creatum: sicut se 
+      <lb ed="#V" n="46"/>cundarium. Et ideo non videtur ibi esse habitus nisi charitatis 
+      <lb ed="#V" n="47"/>consideratio. si in omni obedie 
+      <lb ed="#V" n="48"/>Decimaoctaua tia est meritum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3584">
+      ¶ Et quidem 
+      obe<lb ed="#V" n="49" break="no"/>dientia: aut perficitur amore diuino: aut timore: aut 
+      huma<lb ed="#V" n="50" break="no"/>no timore vel amore: et secundum hoc ponuntur 4or conclusiones.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3592">
+      ¶ Qua 
+      <lb ed="#V" n="51"/>rum prima est: quod obedientia que perficitur dei amore est simpliciter 
+      <lb ed="#V" n="52"/>meritoria. quia est a charitate imparata in homine accepto: cum 
+      <lb ed="#V" n="53"/>amor dei sit charitas.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3601">
+      ¶ 2a conclusio quod obedientia que perficitur 
+      <lb ed="#V" n="54"/>eius timore: est meritoria scilicet pro timore offense: quia ille 
+      ti<lb ed="#V" n="55" break="no"/>mor est inicienalis sapientie et partinens ad charitatem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3608">
+      ¶ Te 
+      <lb ed="#V" n="56"/>tia conclusio est: quod illa que fit solo amore hominis non est meritoria: 
+      <lb ed="#V" n="57"/>quia ibi non est charitas que est diffinitio prime ad deum 
+      ter<lb ed="#V" n="58" break="no"/>minata: et sine charitate nullum opus est deo acceptum: 
+      <lb ed="#V" n="59"/>secundum Apostolum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3619">
+      ¶ Quarta conclusio quod obedientia quae fit solo ti 
+      <lb ed="#V" n="60"/>more humano: vel quocumque timore cuiuscumque pene: non 
+      <lb ed="#V" n="61"/>est meritoria: quia timor secundum dictum beati Iomuanis non stat 
+      <lb ed="#V" n="62"/>cum charitate.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3628">
+      ¶ Sed oritur difficultas si obedientia mixta est 
+      <lb ed="#V" n="63"/>meritoria: vtpote vbi concurrit amor cum timore: aut 
+      <lb ed="#V" n="64"/>amor humanus cum diuino.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3635">
+      ¶ Dicitur quod sic. quia 
+      vbicun<lb ed="#V" n="65" break="no"/>que est amor diuinum: nullo alio concurrente impeditur: quin 
+      <lb ed="#V" n="66"/>fit meritorius: cum hoc ei conueniat ex sua ratione forma¬ 
+      <!--542.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>li. deo acceptante.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3649">
+      ¶ 2a difficultas quia obedientia vide tur esse 
+      vir<lb ed="#V" n="68" break="no"/>tuosa ex hoc quod recte rationi conformata: quamuis non intendatur 
+      <lb ed="#V" n="69"/>deum: sed solum bonum honestum: sicut intendebant 
+      paga<lb ed="#V" n="70" break="no"/>ni.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3658">
+      ¶ Dicitur autem quod sic est meritoria moraliter: non tamen 
+      <lb ed="#V" n="71"/>supernaturaliter: pro vita eterna: quia sola charitas 
+      attin<lb ed="#V" n="72" break="no"/>git ad meritum istud.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3665">
+      ¶ Sed remanet dubium. si ad hoc quod 
+      obe<lb ed="#V" n="73" break="no"/>dientia sit meritoria requritur quod finis inste scilicet deus 
+      actua<lb ed="#V" n="74" break="no"/>liter sit intentus. Dicitur autem quod non: quia licet contingat 
+      quando<lb ed="#V" n="75" break="no"/>que in principio actualiter intendere: tamen in continua operatione vix 
+      <lb ed="#V" n="76"/>aut nunquam contingit: et esset durum si disceuiltae eius actu 
+      <lb ed="#V" n="77"/>cogitatione meritum frustraretur 
+      <lb ed="#V" n="78"/>consideratio. si ad solos homines 
+      <lb ed="#V" n="79"/>Decimanona ptinet obedientia in creatis. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e3683">
+               <lb ed="#V" n="80"/>¶ Et ponuntur 4or conclusiones negatiue.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3688">
+      ¶ Quarum prima est: quod in 
+      <lb ed="#V" n="81"/>brutis non est proprie obedientia: quia bruta coguntur a passio 
+      <lb ed="#V" n="82"/>ne illata. Et ideo non est in eis subiectio voluntaria.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3695">
+      ¶ 2a conclusio quo 
+      <lb ed="#V" n="83"/>in pueris non est obedientia propeinio ie: quia sicut bruta necessitam 
+      <lb ed="#V" n="84"/>tur proprie a pa ssione ita pueri: cum nondum vtantur ratione: 
+      ne<lb ed="#V" n="85" break="no"/>per consequens voluntate: sed solum sensitiuo appetitu.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3705">
+      ¶ 3a conclusio est: 
+      <lb ed="#V" n="86"/>quod in mentecaptis vel furiosis licet aliquoo videantur 
+      pa<lb ed="#V" n="87" break="no"/>rere: non tamen ibi proprie est obedientia: quia ibi est ratio ligata: 
+      <lb ed="#V" n="88"/>et per consequens non possunt vti libero arbitrio.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3714">
+      ¶ 4a conclusio. quia in 
+      fre<lb ed="#V" n="89" break="no"/>neticis: non est proprie obedientia quantum ad actum eadem 
+      <lb ed="#V" n="90"/>ratione: quamuis habitus non deleatur. vnde si curentur 
+      obe<lb ed="#V" n="91" break="no"/>diunt sicut prius.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3723">
+      ¶ Istis autem praemissis conclusionibus negatiuis 
+      <lb ed="#V" n="92"/>ponuntur quatuor conclusiones affirmatiue.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3728">
+      ¶ Quarum prima 
+      <lb ed="#V" n="93"/>est. quod in hominibus perfectis: et non orbatis ratione: est vere 
+      <lb ed="#V" n="94"/>obedientia: quia ibi vere est liberum arbitrium: et vsus rationis 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e3735">
+               <lb ed="#V" n="95"/>¶ 2a conclusio quod in animabus separatis potest esse obedientia: quia 
+      <lb ed="#V" n="96"/>ibi est ratio et non ligatur: et per consequens habet vsum liberi arbi 
+      <lb ed="#V" n="97"/>trii.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3744">
+      ¶ 3a conclusio quod in malis angelis: quia dicitur de lucifero in Iob 
+      <lb ed="#V" n="98"/>quia ipse est rex super omnes filios superbie: et tamen regnus 
+      <lb ed="#V" n="99"/>non potest sine obedientia gubernari: tam in bonis quam in 
+      <lb ed="#V" n="100"/>malis principibus.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3754">
+      ¶ 4a conclusio quod in bonis angelis est 
+      obe<lb ed="#V" n="101" break="no"/>dientia: quia dicitur acharie. ii. quod vnus bonus ange 
+      <lb ed="#V" n="102"/>lus alteri praecipiebat: vt curreret et annunciaret: et 
+      vbi<lb ed="#V" n="103" break="no"/>cunque est praecipere ibi potest esse obedire. vt patet 
+      <lb ed="#V" n="104"/>consideratio: si in diuinis personis est 
+      obe<lb ed="#V" n="105" break="no"/>Uigesima dientia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3767">
+      ¶ Et ponuntur hoc quatuor 
+      conclu<lb ed="#V" n="106" break="no"/>siones. Quarum prima est: quod filius est obediens deo patri: quia 
+      <lb ed="#V" n="107"/>ex sua visibili missione factus est enim subiectus. Unde Aplicitla 
+      <lb ed="#V" n="108"/>ad Philipie. 2o quod factus fuit obediens christus scilicet deo patri: 
+      <lb ed="#V" n="109"/>vsque ad mortem. 
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3778">
+      ¶ 2a conclusio quod filius fuit obediens sibuipsi. quia 
+      <lb ed="#V" n="110"/>sicut in hominibus virtuosis appetitus sensitiuus est 
+      obe<lb ed="#V" n="111" break="no"/>diens appetitui intelleleltus. ita in christo appetitus 
+      intellecti<lb ed="#V" n="112" break="no"/>uus erat obediens appetitui diuino: vt supra patuit. 
+      </p>
+            <p xml:id="FrMQ88-e20925-d1e3787">
+               <lb ed="#V" n="113"/>¶ 3a conclusio. quod filius fuit obediens spiritui sancto: quia sicut 
+      <lb ed="#V" n="114"/>ex sua missione visibili fuit factus minor patre secundum 
+      huma<lb ed="#V" n="115" break="no"/>nitatem: ita minor spiritu scilicet secundum beatum Augustinum libos de trinitat 
+      <lb ed="#V" n="116"/>Et sicut minoratus ita et subiectus.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3798">
+      ¶ Quarta conclusio est. quia 
+      <lb ed="#V" n="117"/>spiritus sanctus: nunquam fuit obediens pateri / et filio: quia non 
+      fuis<lb ed="#V" n="118" break="no"/>eim subiectus: cum non habeat naturam nisi diuina: et secundum illam non 
+      <lb ed="#V" n="119"/>potest esse subiectus. Unde di it beatus Augustinus. vbi supra quoe 
+      <lb ed="#V" n="120"/>spiritus sanctus non est minor patre ex aliqua missione 
+      visibili<lb ed="#V" n="121" break="no"/>sicut filius: quia illam naturam in qua apparuit non 
+      assumpsi<lb ed="#V" n="122" break="no"/>ad vnitatem persone: sicut verbum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3814">
+      ¶ Sed oritur difficultas quia spiritum 
+      <lb ed="#V" n="123"/>sanctus fuit missus visibiliter et impossibiliter sicut filius non videtur 
+      <lb ed="#V" n="124"/>quomodo missus nisi mittenti obedierit. Dicitur autem. quod 
+      ill<lb ed="#V" n="125" break="no"/>missio non suppositaliter: sed tantum inconnotante eius 
+      ema<lb ed="#V" n="126" break="no"/>nationem: quando autem missus obedit: ipse formaliter recipii 
+      <lb ed="#V" n="127"/>missionem in se.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3828">
+      ¶ 2a difficultas quia nobiliores sunt virtutes que 
+      <lb ed="#V" n="128"/>sunt in deo formaliter quam ille que non sunt ibi. Iustitia autem 
+      <lb ed="#V" n="129"/>et misericordia sunt in deo formaliter sicut multipliciter 
+      diui<lb ed="#V" n="130" break="no"/>na testatur scriptura: et tamen hoc ponitur obedientia nobili 
+      <lb ed="#V" n="131"/>sima virtutum moralium. Et ideo multo magis videtur esset 
+      <lb ed="#V" n="132"/>in deo.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3841">
+      ¶ Dicitur autem. quod licet in deo sit iustitia lega¬ 
+      <!--543.xml-->
+      <pb ed="#V" n="269-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>lis praeceptiua: non tamen obseruatiua: cum non sit subditus 
+      nul<lb ed="#V" n="2" break="no"/>li legi: et illa iustitia ponitur nobilior obedientia: quae ponit 
+      <lb ed="#V" n="3"/>nobilissima virtutum moralium particularium: non commnium. 
+      <lb ed="#V" n="4"/>facta in principio quaestionis 
+      <lb ed="#V" n="5"/>Ad argumenta cum dicitur in prim: illud quod 
+      in<lb ed="#V" n="6" break="no"/>portat perfectionem est in deo formaliter vel virtualiter.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3863">
+      ¶ 
+      Di<lb ed="#V" n="7" break="no"/>co quod subiectio licet non sit in deo formaliter. tamen est ibi vi 
+      <lb ed="#V" n="8"/>tualiter. et illo modo obedientia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3870">
+      ¶ Et ad probationem: patet per 
+      <lb ed="#V" n="9"/>illa dicta superius.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3875">
+      ¶ Ad 2m: quod illud quod refutatur 
+      nul<lb ed="#V" n="10" break="no"/>lam dicit perfectionem: tamen bona subiectio non refutatur nim 
+      <lb ed="#V" n="11"/>si a filiabus belial animabus scilicet que volunt esse sine iugo: 
+      <lb ed="#V" n="12"/>vt fuit ostensum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3884">
+      ¶ Et cum adiungitur quod non quaeritur subiectio 
+      <lb ed="#V" n="13"/>sui gratia.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3890">
+      ¶ Dicitur quod verum est. et ideo non est bonum quod est 
+      <lb ed="#V" n="14"/>finis: sed quod est ad finem.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3895">
+      ¶ Ad 3m quod passiuum semper dici 
+      <lb ed="#V" n="15"/>imperfectionem. Dicitur quod licet intellectus possibilis non 
+      di<lb ed="#V" n="16" break="no"/>cat perfectionem simpliciter in ratione passiui: tamen bene perfectio 
+      <lb ed="#V" n="17"/>nem determinati generis: et hoc non est intentio ostendere quod 
+      <lb ed="#V" n="18"/>obedientia dicat perfectionem simpliciter: cum omnis talis sit en 
+      <lb ed="#V" n="19"/>deo: secundum limitationem perfectionum.
+    </p>
+            <p xml:id="FrMQ88-e20925-d1e3908">
+      ¶ Ad 4m. quod sicut 
+      <lb ed="#V" n="20"/>subiectio mala procedit ex mala radice: ita bona subiectio 
+      <lb ed="#V" n="21"/>ex bona radice: quemadmodum bonorum angelorum ad deum 
+      <lb ed="#V" n="22"/>aut primorum parentum in statu innocentie: quando vires 
+      <lb ed="#V" n="23"/>omnes erant eis ad nutum subiecte: secundum beatum Augustin 
+      <lb ed="#V" n="24"/> 
+               <!-- line coord error -->
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

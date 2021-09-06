@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#FrancisofMeyronnes">Francis de Meyronnes</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-FdM888">Venice 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="243-v"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="FrMQ88-de4886"><!-- quod-q4 -->
+            <head xml:id="FrMQ88-de4886-Hd1e108">Quaestio 4</head>
+            <p xml:id="FrMQ88-de4886-d1e111">
+               <lb ed="#V" n="4"/>QUarta questio possit 
+      reuela<lb ed="#V" n="5" break="no"/>re suam essentiam alicui viatori abstractiue. 
+      </p>
+            <p xml:id="FrMQ88-de4886-d1e118">
+               <lb ed="#V" n="6"/>¶ Et videtur quod non. quia dicit Apstuls prima ad 
+      <lb ed="#V" n="7"/>Thymo. s. c. Quia deus lucem habitat 
+      <lb ed="#V" n="8"/>inaccessibilem quam nullus hominum vidit et viatorum: sed 
+      <lb ed="#V" n="9"/>neque videre inquit potest. et sic nec abstratuae cognoscere 
+      <lb ed="#V" n="10"/>cum omnis abstratia cognitio sit visio intellectualis.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e131">
+      ¶ Sed contra. 
+      <lb ed="#V" n="11"/>quia apstulus Pau. 2. ad cor. 3. dicit loquens de seipso: nos vero 
+      re<lb ed="#V" n="12" break="no"/>uelata facie gletiam divfueni speculantes in eandem imaginem 
+      trans<lb ed="#V" n="13" break="no"/>formamur a claritate in claritatem tamquam a dimfunti spiritu: sed spe 
+      <lb ed="#V" n="14"/>culatio est abstratia cognitio. ergo ista est possibilis viatori. 
+      <lb ed="#V" n="15"/>istam quaestionem. primo videndum est quid est 
+      abstracti<lb ed="#V" n="16" break="no"/>Circa ua noticia. et secundo si talis noticia de 
+      diuina<lb ed="#V" n="17" break="no"/>essentia est comunicabilis viatori. 
+      <lb ed="#V" n="18"/>ad primam partem quid est abstractiua 
+      no<lb ed="#V" n="19" break="no"/>Quantu ticia. Dicunt communiter quod illa que est die obie 
+      <lb ed="#V" n="20"/>cto in aliquo representatiuo: quia talis non est de re in 
+      <lb ed="#V" n="21"/>seipsa.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e157">
+      ¶ Sed contra hanc diffinitionem arguitur quadrupliciter. 
+      <lb ed="#V" n="22"/>Primo. quia deus videt in sua essentia: sicut in 
+      represen<lb ed="#V" n="23" break="no"/>tatiuo exemplari cuncta creata: et tamen videt intuitiue et non 
+      <lb ed="#V" n="24"/>abstractiue.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e167">
+      ¶ Secundo. quia deus videt in sua voluntate 
+      <lb ed="#V" n="25"/>futura contingentia: sicut in representatiuo: et tamen dicitur 
+      ea<lb ed="#V" n="26" break="no"/>cognoscere intuitiue et non abstractiue.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e174">
+      ¶ Tertio. quia 
+      <lb ed="#V" n="27"/>sancti vident in diuino intellectu per exemplaria ibi 
+      re<lb ed="#V" n="28" break="no"/>lucentia omnia creata secundum beatum Greg. et tamen non dicitur noticia 
+      <lb ed="#V" n="29"/>abstractiua.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e183">
+      ¶ Quarto. quia sancti in diuina voluntate 
+      <lb ed="#V" n="30"/>cernunt nonnulla futura: alioquin non essent certi de 
+      futu<lb ed="#V" n="31" break="no"/>ra beatitudinine sua: et tamen similis noticia non dicitur 
+      abstra<lb ed="#V" n="32" break="no"/>ctiua.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e192">
+      ¶ Ideo dicit doctor subtilis. quod illa est noticia ab 
+      <lb ed="#V" n="33"/>stractiua que est in aliquo repraesentatiuo non continente 
+      su<lb ed="#V" n="34" break="no"/>pereminenter obiectum: quia quod sic continet certius representat obie 
+      <lb ed="#V" n="35"/>ctum quam ipsum obiectum seipsum representaret: et ideo noticia 
+      <lb ed="#V" n="36"/>intuitiua: et propter hoc visa in diuina essentia: aut in eius 
+      <lb ed="#V" n="37"/>dem voluntate sunt intuitiue et non abstractiue nota. 
+      </p>
+            <p xml:id="FrMQ88-de4886-d1e205">
+               <lb ed="#V" n="38"/>¶ Sed contra istud arguitur quadrupliciter. Primo. quia videns 
+      cor<lb ed="#V" n="39" break="no"/>poraliter colorem videt eum per speciem impraessam in oculo 
+      quan<lb ed="#V" n="40" break="no"/>pecie in oculo alterius cernimus: et tamen non videtu sensus 
+      <lb ed="#V" n="41"/>particularis abstractiue.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e216">
+      ¶ 2o. quia cernens seipsum in spe 
+      <lb ed="#V" n="42"/>culo non videt se abstractiue: cum nulla abstractio fiat 
+      <lb ed="#V" n="43"/>in sensibus particularibus: et tamen videt per repraesentatiuum. 
+      </p>
+            <p xml:id="FrMQ88-de4886-d1e224">
+               <lb ed="#V" n="44"/>¶ 3o. quia sicut sensus potest per repraesentatiuum sensibile 
+      intui<lb ed="#V" n="45" break="no"/>tiue cognoscere: ita non videtur repugnare intellectui separa 
+      <lb ed="#V" n="46"/>to: vt habeat absque re repraesentatiuum: per quod intueatur obiectum: 
+      <lb ed="#V" n="47"/>cum species intellectuales in suo genere no sint minus 
+      effi<lb ed="#V" n="48" break="no"/>caces quam sensibiles: et etiam quia antiqui doctores nostri posue 
+      <lb ed="#V" n="49"/>runt deum in patria cognosci per specie: sicut per represen 
+      <lb ed="#V" n="50"/>tatiuum: et tamen nullus ponit talem noticiam abstractiuam. 
+      <lb ed="#V" n="51"/>Ideo dico quod noticia abstractiua est illa que abstrahit 
+      <lb ed="#V" n="52"/>suum obiectum ab actuali existentia: sicut intuitiua que est de 
+      <lb ed="#V" n="53"/>existente: vt existens: siue fiat per representatiuum: vt cum per 
+      <lb ed="#V" n="54"/>speciem trianguli cognoscitur triangulus: siue sine 
+      repraesen<lb ed="#V" n="55" break="no"/>tatiuo: vt cum deus eam infundit immediate supplendo 
+      causali<lb ed="#V" n="56" break="no"/>tatem repraesentatiui.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e255">
+      ¶ Sed contra hanc diffinitionem instatur 
+      quodri<lb ed="#V" n="57" break="no"/>pliciter. Primo. quia cum sit aliqua questio de actuali existentia: 
+      pu<lb ed="#V" n="58" break="no"/>ta vtrum differat a natura possunt fieri circa hanc demonstur atio 
+      <lb ed="#V" n="59"/>nes: et tunc noticia non abstrahit obiectum ab actuali 
+      <lb ed="#V" n="60"/>existentia cum ipsa sit obiectum: et tamen talis noticia dicitur 
+      abstra<lb ed="#V" n="61" break="no"/>ctiua.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e268">
+      ¶ 2o. quia astrologus demonstrans eclypsim 
+      existe<lb ed="#V" n="62" break="no"/>re in rerum natura: licet ipsam videat ipsam non abstrahit ab actus 
+      <lb ed="#V" n="63"/>li existentia: cum ipsam demonstret existem: et tamen noticia astrolous 
+      <lb ed="#V" n="64"/>est abstractiua.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e277">
+      ¶ 3o. quia matheus demonstrans existere 
+      <lb ed="#V" n="65"/>substantias separatas per motus celi non abstrahit: sed concernit 
+      ta<lb ed="#V" n="66" break="no"/>lia obiecta cum actuali existentia: et tamen mathelca dicitur abstratum: 
+      <!--489.xml-->
+      <cb ed="#V" n="b"/>
+            </p>
+            <p xml:id="FrMQ88-de4886-d1e288">
+               <lb ed="#V" n="67"/>¶ 4o. theologius demonstrans deum existere et esse purum actum non 
+      <lb ed="#V" n="68"/>abstrahit tale obiectum ab actuali existentia: et tamen nostra theo 
+      <lb ed="#V" n="69"/>dicitur abstractiua.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e297">
+      ¶ Ad primum quod de existentia in communi possum 
+      <lb ed="#V" n="70"/>fieri demonstrationes apud noticiam abstractiuam quae est de 
+      <lb ed="#V" n="71"/>niversali: quando autem dicitur quod abstractiua abstrahit ab existentia obie 
+      <lb ed="#V" n="72"/>cti. verum est sub ratione propria huius existentie singularis de 
+      fa<lb ed="#V" n="73" break="no"/>cto. vnde tales demonstrationes fiunt sublata existentia: de 
+      <lb ed="#V" n="74"/>qua fiunt a rebus.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e311">
+      ¶ Ad 2m quod astrologus demonstrans 
+      <lb ed="#V" n="75"/>eclypsis existentiam sub terra: non demonstrat nisi 
+      conditio<lb ed="#V" n="76" break="no"/>nate scilicet supposita motus continuitate: quia eandem 
+      demonstratio<lb ed="#V" n="77" break="no"/>nem faceret si motor cessaret motum: et tamen non existeret 
+      <lb ed="#V" n="78"/>eclysis. vnde omnes demonstrationes geomedie apud philosophos: 
+      <lb ed="#V" n="79"/>vno supposito falso fiunt scilicet quod motus celi sit simpliciter 
+      ne<lb ed="#V" n="80" break="no"/>cessarius.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e327">
+      ¶ Ad 3m quod quae demonstrat substantias separatas 
+      <lb ed="#V" n="81"/>existere per motum: non habet noticiam praecise abstractiuam: 
+      <lb ed="#V" n="82"/>quia motum qui est medium in tali demonstratione cogno 
+      <lb ed="#V" n="83"/>scit intuitiue existere: et sic argumentatur id est causam motus 
+      </p>
+            <p xml:id="FrMQ88-de4886-d1e336">
+               <lb ed="#V" n="84"/>¶ Ad 4m quod quie demonstrat deum existere in theologia: quia quo 
+      <lb ed="#V" n="85"/>naius nihil cogitari potest: et existens est maius non 
+      existen<lb ed="#V" n="86" break="no"/>te: tunc concipit existentiam contra rationem commune suam secundum quam de ipsa 
+      <lb ed="#V" n="87"/>potest formari scientia.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e347">
+      ¶ Intelligendum tamen est. quod noticia 
+      in<lb ed="#V" n="88" break="no"/>tuitiua concernit quatuor a quibus abstrahit abstractiua 
+      <lb ed="#V" n="89"/>quia primo concernit obiecti sui actualem existentiam: quia est de 
+      <lb ed="#V" n="90"/>existente secundum quod existens est in omni conditione existentie significa 
+      <lb ed="#V" n="91"/>tur.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e358">
+      ¶ 2o. concernit sui obiecti presentiam. quia illud quod 
+      intur<lb ed="#V" n="92" break="no"/>mur de commni lege oportet esse presens in ratione obiecti: cum per 
+      <lb ed="#V" n="93"/>idem sit actiuum esse absens et non existens quantum ad actio 
+      <lb ed="#V" n="94"/>nem.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e367">
+      ¶ Tertio concernit sui obiecti causationem: quia 
+      intui<lb ed="#V" n="95" break="no"/>tiua noticia immediate causatur ab obiecto pro eo quod 
+      <lb ed="#V" n="96"/>secundum beatum Aug. de trinitate. a visibili causatur visio¬ 
+      </p>
+            <p xml:id="FrMQ88-de4886-d1e375">
+               <lb ed="#V" n="97"/>¶ Quarto. concernit sui obiecti motionem. quia illud quod 
+      <lb ed="#V" n="98"/>causat actum imprimit ipsum in suo susceptiuo: et tunc 
+      <lb ed="#V" n="99"/>mouet illud subiectum ad talem formam.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e384">
+      ¶ Primum autem 
+      <lb ed="#V" n="100"/>cocernit necessario: quia illud ponitur in eius 
+      diffinitio<lb ed="#V" n="101" break="no"/>ne.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e391">
+      ¶ Secundum autem non videtur inconueniens quod deus 
+      <lb ed="#V" n="102"/>faceret de absente intuitionem: vt quod oculus videret po 
+      <lb ed="#V" n="103"/>steriora.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e398">
+      ¶ Tertium autem et quartum consimiliter. quia deus 
+      <lb ed="#V" n="104"/>potest vicem supplere cuiuslibet efficientis et mouentis. 
+      </p>
+            <p xml:id="FrMQ88-de4886-d1e403">
+               <lb ed="#V" n="105"/>¶ Sed noticia abstractiua abstrahit. Primo ab actus 
+      <lb ed="#V" n="106"/>li existentia et non existentia: quia per ipsam non potest 
+      <lb ed="#V" n="107"/>cognosci: vtrum obiectum sit existens vel non existens: 
+      <lb ed="#V" n="108"/>primo cum similitudo illa equaliter representet tam 
+      <lb ed="#V" n="109"/>existens quam non existens.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e416">
+      ¶ Secundo abstrahit a praesentia et non 
+      <lb ed="#V" n="110"/>praesentia: quia per illam speciem tam presentia quam absentia 
+      cogi<lb ed="#V" n="111" break="no"/>tantur.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e424">
+      ¶ Tertio abstrahit ab omni causatione. quia 
+      <lb ed="#V" n="112"/>noticia abstractiua non causatur immediate ab obiecto: sed 
+      <lb ed="#V" n="113"/>a representatiuo supplente vicem obiecti.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e431">
+      ¶ 
+      Quar<lb ed="#V" n="114" break="no"/>to abstrahit ab omni motione quia obiectum non mouet 
+      <lb ed="#V" n="115"/>potentiam nisi actum causando: sicut omne mouens prius 
+      <lb ed="#V" n="116"/>causat formam quam imprimat: cum prius sit esse: quod est 
+      <lb ed="#V" n="117"/>per causationem quam in esse quod est per motionem et 
+      impul<lb ed="#V" n="118" break="no"/>sionem.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e444">
+      ¶ Sed oritur difficultas. quia secundum datam 
+      diffini<lb ed="#V" n="119" break="no"/>tionem deus non cognosceret in sua potentia et essentia 
+      <lb ed="#V" n="120"/>quiditates realium ab eterno intuitiue: sed abstractiue 
+      <lb ed="#V" n="121"/>cum non cognoscat eas vt existentes: nisi per voluntatem 
+      <lb ed="#V" n="122"/>per quam futura cognoscit.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e455">
+      ¶ Item quod si per essentiam 
+      <lb ed="#V" n="123"/>tantum cognosceret quiditates et existentias tantum 
+      determin<lb ed="#V" n="124" break="no"/>nate non nisi per voluntatem: tunc noticia quam habet de 
+      creatu<lb ed="#V" n="125" break="no"/>ris in essentia daet poni abstractiua: vt videtur secundum datam difficultas 
+      <lb ed="#V" n="126"/>nitionem.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e466">
+      ¶ Secunda difficultas quia deus cognoscens entia 
+      pro<lb ed="#V" n="127" break="no"/>hibita non cognosceret ea intuitiue: cum non possint esse 
+      <lb ed="#V" n="128"/>existentia.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e473">
+      ¶ Item secundum datam diffinitionem sequitur. quod de 
+      <lb ed="#V" n="129"/>entibus prohibitis non potest esse nisi abstractiua non 
+      <lb ed="#V" n="130"/>cia: et ideo deus talia cognoscit abstractiue.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e481">
+      ¶ Tertia 
+      <lb ed="#V" n="131"/>fficultas quia secundum premissa cum non habeant nisi vnam cognitionem 
+      <lb ed="#V" n="132"/>tunc eadem noticia erit intuitiua et abstractiua. Deus enim 
+      <!--490.xml-->
+      <pb ed="#V" n="244-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>vna simplici cognitione cumcta complectitur secundum beatum Aug 
+      <lb ed="#V" n="2"/>m. de tri.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e499">
+      ¶ Dicitur quod sicut eodem actu volendi deus fruiter seis 
+      <lb ed="#V" n="3"/>so et vtiter creatura: ita eodem actu intelligendi potest intueri se 
+      <lb ed="#V" n="4"/>et abstractiue alia cognoscere.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e506">
+      ¶ Quarta difficultas quia tunc 
+      <lb ed="#V" n="5"/>scti in patria nullam noticiam intuitiuam haberent de creaturis 
+      <lb ed="#V" n="6"/>in diuina essentia: cum non videant in ea inquantum existentes: 
+      <lb ed="#V" n="7"/>sed in voluntate.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e515">
+      ¶ Dicitur quod prout in essentia vident quid 
+      <lb ed="#V" n="8"/>tates: est eorum noticia abstractiua: et vt vident in volun 
+      <lb ed="#V" n="9"/>tate conditiones existentie est intuitiua.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e522">
+      ¶ Sed remanet 
+      <lb ed="#V" n="10"/>dubium. quia tunc minus perfecta erit noticia in diuina 
+      essen<lb ed="#V" n="11" break="no"/>tia quam in voluntate: cum diuina essentia sit primum obiectum: 
+      <lb ed="#V" n="12"/>et intuitiua est perfectior abstractiua.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e531">
+      ¶ Dicitur quod licet intuitiua 
+      <lb ed="#V" n="13"/>in eadem potentia et de eodem obiecto videatur perfectior: tamen 
+      <lb ed="#V" n="14"/>hoc est aliud et aliud obiectum: quia quiditates apprehenduntur in 
+      <lb ed="#V" n="15"/>essentia: et existentie in voluntate.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e541">
+      ¶ Secundum dubium. si secundum 
+      <lb ed="#V" n="16"/>ista praeterita sint a deo vel in dieo cognita intuitiue.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e546">
+      ¶ Dicitur 
+      <lb ed="#V" n="17"/>quod quia preterita sunt deo cognita et a sanctis in deo secundum 
+      <lb ed="#V" n="18"/>omnem conditionem existentie: vt sunt existentie: ideo possunt 
+      di<lb ed="#V" n="19" break="no"/>ci intuitiue cognita.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e555">
+      ¶ Tertium dubium. si futura a deo 
+      <lb ed="#V" n="20"/>et in deo sunt cognita intuitiue.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e560">
+      ¶ Dicitur quod cum deus 
+      futu<lb ed="#V" n="21" break="no"/>ra respiciat secundum omnem conditionem existentie determinate: et 
+      <lb ed="#V" n="22"/>sancti in eo: et eodem modo de noticia intuitiua: quia futurorum 
+      <lb ed="#V" n="23"/>vt existunt.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e569">
+      ¶ 4m dubium. quia secundum praemissa noticia sanctorum 
+      <lb ed="#V" n="24"/>beatificaerit abstractiua: quia videndo diuinam essentiam 
+      <lb ed="#V" n="25"/>videntur in ea quiditates creaturarum non vt existentes 
+      <lb ed="#V" n="26"/>cum hoc videant in voluntate: et sic per noticiam beatificam vi 
+      <lb ed="#V" n="27"/>debunt a bstractiue creaturas.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e580">
+      ¶ Dicitur quod sicut actus 
+      beatifi<lb ed="#V" n="28" break="no"/>cus est sapientialis vt terminatur ad deum: et scientialis vt 
+      ter<lb ed="#V" n="29" break="no"/>minatur ad creaturam: ita potest esse primo modo intuitiuus: et 
+      <lb ed="#V" n="30"/>secundo modo abstractiuus: quemadmodum idem actus 
+      volen<lb ed="#V" n="31" break="no"/>di est fruitio et vsus in actu beatifico voluntatis. 
+      <lb ed="#V" n="32"/>secundam partem quaestionis videndum est. si noticia ab 
+      <lb ed="#V" n="33"/>Circa stractiua de diuina essentia: accipiendo eam 
+      sub<lb ed="#V" n="34" break="no"/>ratione propria: quia nulli dubium quin de deo habeamus 
+      ali<lb ed="#V" n="35" break="no"/>quam noticiam abstractiuam: sed talis est comunicabilis viato 
+      <lb ed="#V" n="36"/>ri.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e603">
+      ¶ Et dicit vulgus theologorum quod non. quia nullum repre 
+      <lb ed="#V" n="37"/>sentatiuum singumente et limitatum potest distincte et perfecte 
+      repri<lb ed="#V" n="38" break="no"/>sentare ens infinitum: cum finiti ad infinitum nulla sit 
+      propor<lb ed="#V" n="39" break="no"/>tio: et inter representans et repraesentatum debeat esse propoor 
+      <lb ed="#V" n="40"/>tio.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e614">
+      ¶ Sed ista inductio: in qua ponunt totum potndus ma 
+      <lb ed="#V" n="41"/>gis est ad oppositum considerando quatuor que sunt in 
+      anima<lb ed="#V" n="42" break="no"/>nostra scilicet potetiam: actum habitum: et species: ita perfectior est 
+      po<lb ed="#V" n="43" break="no"/>tentia actu: sicut subiectum suo accidente: et perfectior actus 
+      <lb ed="#V" n="44"/>habitu: in quo non consistit beatitudo et perfectior habitus 
+      <lb ed="#V" n="45"/>specie. quia se tenet ex parte potentie que est causa vniuersa 
+      <lb ed="#V" n="46"/>lis: et species ex parte obiecti quod est causa particularis: 
+      <lb ed="#V" n="47"/>sed entitati create repugnat ratione imperfectionis repre 
+      <lb ed="#V" n="48"/>sentare obiectum infinitum per modum speciei. ergo multo ma 
+      <lb ed="#V" n="49"/>gis repugnabit eadem ratione attingere per modum habitus: et 
+      <lb ed="#V" n="50"/>plus per modum actus: et maxime per modum potentie: et tamen constat 
+      <lb ed="#V" n="51"/>quod creatura habet potentiam actum et habitum respectu diuine 
+      <lb ed="#V" n="52"/>essentie sub ratione propria: vt patet in primo: ideo multo magis 
+      po<lb ed="#V" n="53" break="no"/>terit speciem habere.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e645">
+      ¶ Et confirmatur. Tum quia illi cui 
+      repu<lb ed="#V" n="54" break="no"/>gnat: quod minus est ratione sue imperfectionis repugnat: 
+      <lb ed="#V" n="55"/>quod maius est: cum hoc sit magis perfectum: et cui non 
+      repu<lb ed="#V" n="56" break="no"/>gnat quod maius est ratione sue imperfectionis: nec quod 
+      mi<lb ed="#V" n="57" break="no"/>nus est: hoc autem non ponitur ratio: nisi imperfectio creature. 
+      <lb ed="#V" n="58"/>Tum quia expressior similitudo obiecti est actus quam speci 
+      <lb ed="#V" n="59"/>es: cum cognitio fiat per assimilationem: et ideo perfectius 
+      re<lb ed="#V" n="60" break="no"/>praesentatur obiectum in actu quam in specie. et ideo cum per modum actus obiectum 
+      <lb ed="#V" n="61"/>ifinitum repraesentetur nullo dubitante in actu beatifico. multo 
+      <lb ed="#V" n="62"/>melius poterit per modum speciei.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e667">
+      ¶ Ideo dico quod non videtur 
+      inconue<lb ed="#V" n="63" break="no"/>niens: si dus per aliquam specie reuelet suam essentiam alicui viato. 
+      <lb ed="#V" n="64"/>ri.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e674">
+      ¶ Et istud declaratur quadrupliciter. quia secundum beatum Aug. 2. et 
+      <lb ed="#V" n="65"/>x. de tri. partes imaginis sunt equales: et tamen habent obstantia adecum 
+      <lb ed="#V" n="66"/>ta: et quicquid per ea potest intelligentia intelligere potest menoria me 
+      <!--490.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>morari. constat quod intellectus eniter potest distincte atingem divinam 
+      essen<lb ed="#V" n="68" break="no"/>tiam sub ratione ipsa. ergo memoria. et nihil memoramur nisi per 
+      <lb ed="#V" n="69"/>specie
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e692">
+      ¶ 2o quia secundum beatum Aug. de tri. eo anima imago disti est: 
+      <lb ed="#V" n="70"/>qui est capax ipsius: et ideo sicut intellectus et voluntas possunt esseit 
+      <lb ed="#V" n="71"/>deo: ita videtur quod memoria cum sit pars imagins secundum ipsum: memo 
+      <lb ed="#V" n="72"/>ria autem de deo esse non potest nisi per specie.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e702">
+      ¶ 3o quia quaelibet 
+      intelle<lb ed="#V" n="73" break="no"/>ctio transiens naturaliter relinquit dispositionem in memoria: per quam de 
+      <lb ed="#V" n="74"/>ipso recordamur: vt docet experientia: et ideo cum visio 
+      divini<lb ed="#V" n="75" break="no"/>tatis possit transire: sicut dicitur transisse imperando reliquit dispositio 
+      <lb ed="#V" n="76"/>nem per quam fit recordatio de viso.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e713">
+      ¶ 4o. quia actus intelligend 
+      <lb ed="#V" n="77"/>quanto est perfectior tanto relinqut dispositionem perfectiorem et 
+      distin<lb ed="#V" n="78" break="no"/>ctius actum translatum: et eius obiectum repraesentantem vt experimur: actus 
+      <lb ed="#V" n="79"/>ant beatificus est perfectissimus. ergo si transeat illa dispositio 
+      distin<lb ed="#V" n="80" break="no"/>ctissime ipsum et eius obiectus repraesentabit.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e724">
+      ¶ Dicunt tamen aliqui. quod 
+      re<lb ed="#V" n="81" break="no"/>cordatur talis de obiecto precognito sub ratione commni et confusa 
+      <lb ed="#V" n="82"/>non sub ratione propria et distincta.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e731">
+      ¶ Istud tamen non valet. quia si non 
+      <lb ed="#V" n="83"/>sit recordatio sub eadem ratione per cognita iam non est 
+      recor<lb ed="#V" n="84" break="no"/>datio sed noua cognitio.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e738">
+      ¶ Dicunt tamen aliqui quod 
+      recorda<lb ed="#V" n="85" break="no"/>tio est de actu et non de obiecto.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e743">
+      ¶ Et istud non vetur. quia actus 
+      <lb ed="#V" n="86"/>cognoscendi inquantum talis est alicuius obiecti. et ideo si 
+      re<lb ed="#V" n="87" break="no"/>cordatur et de cognito.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e751">
+      ¶ Sed contra hanc opinionem. Primo quia 
+      <lb ed="#V" n="88"/>in nobis non acquiritur noticia abstractiua nisi eius cuius 
+      no<lb ed="#V" n="89" break="no"/>ticia intuitiua praecessit in sensibus corporis: vt patet 
+      inducti<lb ed="#V" n="90" break="no"/>ue: de divina autem essentia nulla intuitiua preaecessit.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e760">
+      ¶ 2o. quia propter 
+      <lb ed="#V" n="91"/>hoc est noticia beatifica: non quia ab obiecto beatifico causatur 
+      effe<lb ed="#V" n="92" break="no"/>ctiue: sed quia ad ipsum terminatur: ista autem abstractiua ita ter 
+      <lb ed="#V" n="93"/>minatur ad obiectum beatificum: sicut intuitiua.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e769">
+      ¶ Tertio. quia 
+      <lb ed="#V" n="94"/>noticia intuitiua est existentis vt existens: distincta autem noticia 
+      <lb ed="#V" n="95"/>non potest haberi de deo: nisi vt existens: cum de se sit purus actus 
+      <lb ed="#V" n="96"/>igitur non potest sic intelligi abstractiue.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e778">
+      ¶ Quarto. quia 
+      ta<lb ed="#V" n="97" break="no"/>lis species videretur infinite perfectionis pro eo quod excederet 
+      <lb ed="#V" n="98"/>infinitas species: si essent distincte specie creaturarum subordina 
+      <lb ed="#V" n="99"/>tas in infinitum procedendo: in talibus numquam perueniretur ad isti: 
+      <lb ed="#V" n="100"/>perfectionem.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e789">
+      ¶ Ad primum quod licet de facto sit ita: tamen nullus 
+      di<lb ed="#V" n="101" break="no"/>negare: quin deus species colorum infundere posset 
+      ce<lb ed="#V" n="102" break="no"/>co nato. vnde videtur mirum quod doctor aliquis innitatur illi rationi. 
+      </p>
+            <p xml:id="FrMQ88-de4886-d1e796">
+               <lb ed="#V" n="103"/>¶ Ad 2m quod non vniversaliter est noticia beatifica. quia est ad obiectum 
+      <lb ed="#V" n="104"/>btificum terminata. alioquin nostra noticia de deo esset 
+      beatifi<lb ed="#V" n="105" break="no"/>ca. sed quia ipsum attingit perfectissime: qualis est sola intuitiua 
+      </p>
+            <p xml:id="FrMQ88-de4886-d1e806">
+               <lb ed="#V" n="106"/>¶ Ad 3m quod non est forte inconueniens quiditatem diuinam 
+      conc<lb ed="#V" n="107" break="no"/>pin sine existentia: sicut et sine infinito: concipitur autem sine 
+      eterni<lb ed="#V" n="108" break="no"/>tate: quanuis in re sit idem.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e815">
+      ¶ Ad 4m. quod sicut in figuris et 
+      <lb ed="#V" n="109"/>numeris est processus in infinitum: et tamen numquam attingunt ad 
+      <lb ed="#V" n="110"/>tantam perfectionem quanta est perfectio vnius albedinis: quo 
+      <lb ed="#V" n="111"/>est ex genere melior: ita in proposito: et ideo posset eodem 
+      <lb ed="#V" n="112"/>modo fieri de actu et habitu.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e826">
+      ¶ Sed oritur difficultas si habens 
+      <lb ed="#V" n="113"/>talem speciem per ipsam potest cognoscere omnia diuina 
+      attrin<lb ed="#V" n="114" break="no"/>buta.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e833">
+      ¶ Dicitur autem quod sic. quia habens speciem intelligibilem alicu 
+      <lb ed="#V" n="115"/>ius obiecti: per ipsam cognoscit distincte eius quiditatem. et 
+      <lb ed="#V" n="116"/>per consequens potest demonstrare propter quid omnem eius passionem. vt 
+      <lb ed="#V" n="117"/>patet de triangulo: attributa autem diuina sunt sicut per si 
+      <lb ed="#V" n="118"/>passiones de deo demonstrabiles.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e844">
+      ¶ Secunda difficultas si per 
+      <lb ed="#V" n="119"/>talem speciem possent cognosci diuine relationes: vt 
+      intelli<lb ed="#V" n="120" break="no"/>gatur per ipsam trinitas personarum.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e851">
+      ¶ Uitur autem quod cum communicau 
+      <lb ed="#V" n="121"/>quae divina essentia est comunicabilis tribus personis infit per se 
+      di<lb ed="#V" n="122" break="no"/>uine essentie: tunc per talem quiditatiuam noticiam potest habe 
+      <lb ed="#V" n="123"/>ri per quam demonstrantur omnia quae insunt per se secundo modo.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e861">
+      ¶ Tertia 
+      <lb ed="#V" n="124"/>ifficultas si per talem speciem intelliguntur creatua. dicitur autem quod ita videtur 
+      <lb ed="#V" n="125"/>quia species representans speculum: eadem ratione 
+      represen<lb ed="#V" n="126" break="no"/>tat omnes imagines in speculo relucentes.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e870">
+      ¶ Et si quis 
+      <lb ed="#V" n="127"/>videret divinam essentiam recordari posset de omnibus 
+      crea<lb ed="#V" n="128" break="no"/>turis visis in diuina essentia per illam visionem dispositionem 
+      <lb ed="#V" n="129"/>relictam: per quam fit recordatio.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e879">
+      ¶ Quarta difficultas quia cum in 
+      <lb ed="#V" n="130"/>diuina essentia reluceant infinita possibilia: tunc in illa specie 
+      relu<lb ed="#V" n="131" break="no"/>cebunt actualiter infinita: et sic simul intellectus creatus 
+      intel<lb ed="#V" n="132" break="no"/>ligere per illam specie infinita in actu.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e888">
+      ¶ Dicitur autem quod plus est in 
+      <!--491.xml-->
+      <pb ed="#V" n="244-v"/>
+               <!-- first instance -->
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>telligere vnum infinitum transcendens et continens omnia: quam si 
+      infini<lb ed="#V" n="2" break="no"/>ta similis in illo: et ideo nullum inconueniens si species infinita 
+      repraesen<lb ed="#V" n="3" break="no"/>tet: sicut divina essentia: aut actus attingens infinita in divina essen 
+      <lb ed="#V" n="4"/>tia.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e908">
+      ¶ Quita difficultas quia cum perfectius sit cognoscere duo simil quam 
+      <lb ed="#V" n="5"/>vnum distincte simili: pro eo: quia maior ibi conatus requritur: et 
+      tria<lb ed="#V" n="6" break="no"/>quam duo: vt experimur: infinite perfectionis videtur cognoscere 
+      infini<lb ed="#V" n="7" break="no"/>ta distincte: aut repraesentari in tali specie.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e917">
+      ¶ Dicitur quod sicut non 
+      <lb ed="#V" n="8"/>est maioris perfectionis videre deum et creaturam quam solum vi 
+      <lb ed="#V" n="9"/>dere deum secundum beatum Aug. 3. confelie. ita non est maioris 
+      perfe<lb ed="#V" n="10" break="no"/>ctionis deum et creaturas infinitas: quam vnam divinam solam esset 
+      <lb ed="#V" n="11"/>tiam.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e929">
+      ¶ Sexta difficultas quia non videtur quare talis noticia non possit 
+      <lb ed="#V" n="12"/>esse intuitiua per speciem concernentem existentiam: sicut illa quae causat visun 
+      <lb ed="#V" n="13"/>cum species intelligibilis sit ita efficax ad repraesentandam existen¬ 
+      <lb ed="#V" n="14"/> 
+               <lb ed="#V" n="15"/>tiam sicut sensibilia.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e940">
+      ¶ Dicitur quod non apparet euidens ratio: quare de 
+      <lb ed="#V" n="16"/>non possit ita creare speciem intuitiue repraesentantem suam esset 
+      <lb ed="#V" n="17"/>tiam sicut posuerunt antiqui doctores speciem in beatifica 
+      <lb ed="#V" n="18"/>visione intuitiua.
+    </p>
+            <p xml:id="FrMQ88-de4886-d1e949">
+      ¶ Ad argumentum factum in principio quaestionis: 
+      <lb ed="#V" n="19"/>dicitur quod ibi intendit loqui apostulus ex puris naturalibus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

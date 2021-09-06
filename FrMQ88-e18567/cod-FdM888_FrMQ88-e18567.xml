@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 11</title>
+            <author ref="#FrancisofMeyronnes">Francis de Meyronnes</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 11</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-FdM888">Venice 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="261-r"/>
+            <cb ed="#V" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="FrMQ88-e18567"><!-- quod-q11 -->
+            <head xml:id="FrMQ88-e18567-Hd1e108">Quaestio 11</head>
+            <p xml:id="FrMQ88-e18567-d1e111">
+               <lb ed="#V" n="58"/>quaestio fuit vtrum principatus 
+      <lb ed="#V" n="59"/>Ndecima regni scicile: ex hoc sit 
+      no<lb ed="#V" n="60" break="no"/>bilior: quia subiectus ecclestie: et quidem ad istius quaestionis 
+      <lb ed="#V" n="61"/>declarationem est intelligendum quod duplex 
+      <lb ed="#V" n="62"/>esubiectio inuenitur in diuina scriptura. vna 
+      <lb ed="#V" n="63"/>que attenditur secundum iurisdictionem temporalem de qua loque 
+      <lb ed="#V" n="64"/>batur rex maximus Artaxerses hester. xiii. ca. Cum 
+      plu<lb ed="#V" n="65" break="no"/>rimis gentibus impararem. et vniuersum orbem mee subditioni 
+      <lb ed="#V" n="66"/>subiecissem: nequaquam volui magnitudine abuti potentus 
+      <!--526.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>sed clementia et entitate gubiectuare subientos. Constat autem illam 
+      <lb ed="#V" n="68"/>subiectionem secundum iurisdictionem temporalem fuisse. 2a est subiectio 
+      <lb ed="#V" n="69"/>que attenditur secundum iurisdictionem spiritualem: de qua loquitur apulus 
+      <lb ed="#V" n="70"/>Petrus in prima cano. sua. primo capi. Clectis aduenis: etc. 
+      <lb ed="#V" n="71"/>scribens gentibus: in obedientia et aspersione sanguis 
+      Iesu<lb ed="#V" n="72" break="no"/>christi: constat autem quod illa obedientia in sanguine Iesu christi im 
+      <lb ed="#V" n="73"/>medime fundatua partinet ad iurisdictionem spirituale.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e153">
+      ¶ Nunc ergo 
+      <lb ed="#V" n="74"/>ad propositum: quaestio praesens non intendit de subiectione quantum 
+      spe<lb ed="#V" n="75" break="no"/>ctat ad iurisdictionem spiritualem: quia illam prositentur euidenter 
+      <lb ed="#V" n="76"/>omnes principes cathoia: sed intendit procedere de subiectione 
+      <lb ed="#V" n="77"/>quantum ad iurisdictionem temporalem quia illam prositetur singularten 
+      <lb ed="#V" n="78"/>ex scicilie.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e166">
+      ¶ Intelligedum tamen est: quod sicut egregie 
+      distin<lb ed="#V" n="79" break="no"/>guebat doctor: quia ad illam quaestionem excellenuse respondebat: secundum 
+      <lb ed="#V" n="80"/>iurisdictionem temparalem potest habere ista quaestio duplicem intellectum 
+      <lb ed="#V" n="81"/>vnum quod comperetur principatus regis scicilie ad semetipsum 
+      <lb ed="#V" n="82"/>Utrum ipse nobilior ex hoc quod subiectus ecclentie quam si non 
+      <lb ed="#V" n="83"/>esset subiectus: alium vt comperetur ille principatus ad alios: vtrum 
+      <lb ed="#V" n="84"/>ex hoc sit nobilior aliis: quia subiectus eccletie: et non sic 
+      <lb ed="#V" n="85"/>alii. Nunc autem ad propositum: non intendo tractare illam 
+      quaestio<lb ed="#V" n="86" break="no"/>nem comperando illum principatum ad alios: secundum illud apstuli dictum. 
+      <lb ed="#V" n="87"/>Quid enim mihi cum his qui foris sunt iudicare. primo corinth. 
+      <lb ed="#V" n="88"/>v. ca. sed comperando ipsum ad semetipsum: sicut loquitur apistulus 
+      <lb ed="#V" n="89"/>2a cori. c. io. Nos non audemus nos comparare quibusdam 
+      <lb ed="#V" n="90"/>qui seipsos commendant: sed ipsi comparantes nosmetipsos 
+      <lb ed="#V" n="91"/>nobismetipsis: et illa comparatio est melior: quia melior est 
+      <lb ed="#V" n="92"/>perfectio quam quilibet habet ad se: quam illa quam habet in 
+      habitudi<lb ed="#V" n="93" break="no"/>ne ad alium: et secundum hoc est intelmect quaestionis vtrum principatus ille 
+      <lb ed="#V" n="94"/>sit nobilior ex hoc: quod est subiectus ecclesie vt videatur si 
+      <lb ed="#V" n="95"/>ista subiectio nobilitet illum principatum: ad excludendum 
+      su<lb ed="#V" n="96" break="no"/>perficialem cogitationem illorum qui credunt illum principatum 
+      <lb ed="#V" n="97"/>ex tali subiectione minus nobilem esse. Sed attendendum est 
+      <lb ed="#V" n="98"/>ad declaradum intellectum: quod philosophi tractantes moralem scientiam: 
+      cu<lb ed="#V" n="99" break="no"/>ius pars est ciuilis doctrina: pro radice illius posuerunt 
+      <lb ed="#V" n="100"/>duplex rationale in homine: vnum rationale per essentiam: sicut animam 
+      <lb ed="#V" n="101"/>intellectiuam in cuius potentiis et virtutibus 
+      assimila<lb ed="#V" n="102" break="no"/>mur angelis: quia ista per suam naturam est rationalis. aliud rationale 
+      <lb ed="#V" n="103"/>per participationem scilicet anima sensitiua in cuius potentiis et virtuti 
+      <lb ed="#V" n="104"/>bus assimilamur brutis: et isto posuerunt rationale per 
+      par<lb ed="#V" n="105" break="no"/>ticipationem: quia licet illa anima de natam sua non sit rationalis: tamen 
+      na<lb ed="#V" n="106" break="no"/>ta est regulari a ratione: sicut docet apituls.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e229">
+      ¶ Et secundum illam 
+      <lb ed="#V" n="107"/>radiceme procedens apstulus Paulus in diuersis locis 
+      distin<lb ed="#V" n="108" break="no"/>guit in nobis duplicem hominem duobus modis. Uno modo 
+      <lb ed="#V" n="109"/>ponit in nobis vnum hominem interiorem: qui partinet ad 
+      regio<lb ed="#V" n="110" break="no"/>nem anime intellectiue: et alium hominem exteriorem: qui partinet ad 
+      <lb ed="#V" n="111"/>regionem anime sensitiue: de quorum primo dicit ad eph. ii. c. 
+      In<lb ed="#V" n="112" break="no"/>teriorem hominem habitare christum per fidem in cordibus videris.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e246">
+      ¶ 2o 
+      <lb ed="#V" n="113"/>modo ponit in nobis vnum hominem spiritualem ad quem 
+      parti<lb ed="#V" n="114" break="no"/>net regio sensitiue. vnde dicit apostolus paulus. prima 
+      <lb ed="#V" n="115"/>corint. ii. ca. animalis homo non percipit ea que sunt spiritus difientit 
+      <lb ed="#V" n="116"/>spiritualis autem omnia iudicat: et vocat hoc animalem illum qui sequitur 
+      <lb ed="#V" n="117"/>inclinationes anime sensitiue: et spiritualem illum qui sequitur 
+      in<lb ed="#V" n="118" break="no"/>clinationem anime intellectiue. Et secundum ista dcam est 
+      inue<lb ed="#V" n="119" break="no"/>nire quadruplicem appetitum in vniuerso.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e264">
+      ¶ Quorum primus 
+      <lb ed="#V" n="120"/>est qui est ita animalis: quod nullo modo rationalis: sicut est 
+      ap<lb ed="#V" n="121" break="no"/>petitus bruti: quia cum in bruto sit anima sensitiua: eius 
+      ap<lb ed="#V" n="122" break="no"/>petitus non est regulatus a ratione: cum nulla ratio sit ei 
+      con<lb ed="#V" n="123" break="no"/>luncta. Et ideo nullo modo rationalis: nec per essentiam: 
+      <lb ed="#V" n="124"/>nec per participationem: de quo in praes. 3i. Nolite fieri sicut 
+      <lb ed="#V" n="125"/>equus et mulus quibus non est intellectus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e280">
+      ¶ Secun 
+      <lb ed="#V" n="126"/>dus est appetitus qui est animalis quidem per essentiam ratio 
+      <lb ed="#V" n="127"/>nalis autem per participationem: sicut est appetitus 
+      sensi<lb ed="#V" n="128" break="no"/>tiuus in homine: per quem sensitiua appetuntur: qui dicitur animalis 
+      <lb ed="#V" n="129"/>per essentiam: eo quod per suam naturam partinet ad animam 
+      sensiti<lb ed="#V" n="130" break="no"/>uam. Tnde dicitur rationalis per participationem: quia natus 
+      refre<lb ed="#V" n="131" break="no"/>nari et regulari per rationem: dicente dimceno ad Carmt gene. 4o 
+      <lb ed="#V" n="132"/>capius. subtus te erit appetitus eius.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e298">
+      ¶ Tertius appeie 
+      <!--527.xml-->
+      <pb ed="#V" n="261-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>est alius qui est rationalis per essentiam et animalis per participa 
+      <lb ed="#V" n="2"/>tionem: sicut appetitus intellectus hominis: quo dicitur voluntas quae 
+      appe<lb ed="#V" n="3" break="no"/>tit intelligibilia: et ille appetitus dicitur rationalis per essentiam: quia 
+      <lb ed="#V" n="4"/>prtinet ad naturam anime intellectiue. vnde secundum ipsum est factus 
+      <lb ed="#V" n="5"/>homo ad imaginem trinitatis: vt patet. ix. et. x. de tri. dicitur animalis 
+      <lb ed="#V" n="6"/>tamen per participationem: quia natus inclinari ab appetitu 
+      sensi<lb ed="#V" n="7" break="no"/>tiuo: vt experimur de quo apstulus ad Ro. vii. co. Non quod volo 
+      <lb ed="#V" n="8"/>bonum hoc facio.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e324">
+      ¶ 4o est innuenire alium appetitum: qui ita est 
+      <lb ed="#V" n="9"/>rationalis quod nullo modo animalis: nec per essentiam: nec per participa 
+      <lb ed="#V" n="10"/>tionem: sicut est appetitus angelicus: quia cum per se partineat 
+      <lb ed="#V" n="11"/>ad naturam intellectiuam. Et ideo sic est rationalis per essentiam: quod 
+      <lb ed="#V" n="12"/>nullo modo est animalis. cum non sit adiunctus alicui appetitui 
+      <lb ed="#V" n="13"/>sensitiuo: qui ipsum valeat inclinare. de quorm Reg. xiii. co. 
+      <lb ed="#V" n="14"/>sapiens mulier ad Dauid: sicut angelus divfunti ita disecunus me 
+      <lb ed="#V" n="15"/>rex: vt nec maledictione: nec bendictione moueatur scilicet ex 
+      <lb ed="#V" n="16"/>inclinatione appetitus sensitiui ad iram vel ad vanam 
+      <lb ed="#V" n="17"/>gloriam.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e346">
+      ¶ Nunc autem ad propositum: sicut se habent adinuincem 
+      <lb ed="#V" n="18"/>rationale et animale: ita spirituale et temparale: cum spiritualia partineant 
+      <lb ed="#V" n="19"/>ad hominem interiorem et temporalia ad exteriorem secundum inten 
+      <lb ed="#V" n="20"/>tionem apituli in alleg. cuo. Et secundum hoc est innuenire quadruplicem 
+      <lb ed="#V" n="21"/>princinpatum.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e358">
+      ¶ Primum quidem qui est ita temporalis. quod nullo 
+      <lb ed="#V" n="22"/>modo spiritualis: nec per essentiam: nec per partitaem: sicut fuerunt ab 
+      <lb ed="#V" n="23"/>nitio principatus infidelium: quia ita respiciebant temperalia 
+      <lb ed="#V" n="24"/>bona quod nullo modo spiritualia. Et secundo est innuenire principa 
+      <lb ed="#V" n="25"/>tum qui est quidem temparalis per essentiam et spiritualis per participationem 
+      <lb ed="#V" n="26"/>sicut principatus fidelium regum: quia licet de sua natum respiciant 
+      <lb ed="#V" n="27"/>tantum tempaeralia: in quibus solum regnant: tamen participant spiritua 
+      <lb ed="#V" n="28"/>lia: in eo quod subiiciuntur eccletie in spiritualibus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e376">
+      ¶ 3o est inue 
+      <lb ed="#V" n="29"/>nire principatum alium qui est spiritualis quidem per essentiam: sed temporalis 
+      <lb ed="#V" n="30"/>per participationem. Sicut est principatus subcelestis 
+      hye<lb ed="#V" n="31" break="no"/>rarchie: que est militam ecclenia: secundum beatum Diony. ille est 
+      <lb ed="#V" n="32"/>per essentiam spiritualis: quia de natura sua respicit spiritualia: cum illud 
+      <lb ed="#V" n="33"/>subiectum hyerarchia id est sacer principatum: cum est temparalis per 
+      <lb ed="#V" n="34"/>participationem: quia sine rebus temparalibus omnino 
+      guberna<lb ed="#V" n="35" break="no"/>ri non potest.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e394">
+      ¶ 4o est principatus qui ita est spiritualis quod nullo 
+      <lb ed="#V" n="36"/>temparalis: sicut est principatus celestis hyerarchie: quia 
+      ange<lb ed="#V" n="37" break="no"/>li ita respiciunt spiritualia quod nullo modo indigent 
+      admincule<lb ed="#V" n="38" break="no"/>rerum temporalium: et talis est principatus beati Michaelis 
+      <lb ed="#V" n="39"/>Danieltrs. xii. cao. In tempore illo consurget Michael princeps 
+      <lb ed="#V" n="40"/>magnus. Et si dicatur quod iste principatus est temparalis per 
+      pa<lb ed="#V" n="41" break="no"/>ticipationem: in eo quod angeli disponunt temporalia quibus praesunt 
+      <lb ed="#V" n="42"/>vt habetur in Daniele: tunc ponitur illa distinctio quae habetur eiusdem 
+      <lb ed="#V" n="43"/>pphie. vii. co. Milia milium ministrabant ei: et decies 
+      cen<lb ed="#V" n="44" break="no"/>tenamilia assi stebant ei. vbi ponitur differentia inter angelos 
+      <lb ed="#V" n="45"/>assistentes et ministrantes: quae sunt inferiores secundum beatum Dio 
+      <lb ed="#V" n="46"/>nysium. hi sunt. vii. ordines inferiores. et tres superiores sunt 
+      <lb ed="#V" n="47"/>assistentes. Et ideo licet principatus minstrantium esset temporalis ir 
+      <lb ed="#V" n="48"/>participationem: tamen principatus assistenium nullo modo. Sed ad 
+      <lb ed="#V" n="49"/>propositum: principatus mere temparalis est: sicut appetitus in 
+      bru<lb ed="#V" n="50" break="no"/>tis sensitiuus. quia sicut ille non est rationalis per essentiam: 
+      nec<lb ed="#V" n="51" break="no"/>participationem: nec ille spiritualis: principatus autem fidelium 
+      <lb ed="#V" n="52"/>est: sicut appetitus sensitiuus in homine: quia sicut ille 
+      rationa<lb ed="#V" n="53" break="no"/>lis est per participationem: ita iste spiritualis: et principatus ecclesie 
+      <lb ed="#V" n="54"/>est. sicut appetitus intellectiuus in homine: quia sicut ille animalis 
+      <lb ed="#V" n="55"/>per participationem. ita ille temparalis per participationem: et 
+      <lb ed="#V" n="56"/>princinpatus celestis hyerarie est: sicut appetitus in 
+      ange<lb ed="#V" n="57" break="no"/>lo: quia sicut ille nullatenus est animalis. ita principatus 
+      assi<lb ed="#V" n="58" break="no"/>stenus nullo modo temporalis.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e446">
+      ¶ Dicunt autem alii magis ad propoo 
+      <lb ed="#V" n="59"/>quod sicut appetitus sensitiuus nobilior est in homine quam in 
+      bru<lb ed="#V" n="60" break="no"/>to. quia ibi non est rationalis per essentiam. nec per participationem: et 
+      <lb ed="#V" n="61"/>hoc per participationem rationis: ita principatus fidelium est nobi 
+      <lb ed="#V" n="62"/>lior quam infidelium: quia spiritualis per participationem: et ille non 
+      <lb ed="#V" n="63"/>vnde patet quod principatus eo nobilitatur: quia spiritualis per 
+      par<lb ed="#V" n="64" break="no"/>ticipationem: sicut appetitus sensitiuus in homine. Et quia prin 
+      <lb ed="#V" n="65"/>cipatus regni scicilie est per participationem spiritualis 
+      dupli<lb ed="#V" n="66" break="no"/>ci modo. Unoo. quia subiectus eccleie in temporalibus. Alioo. quia 
+      <!--527.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>eo quod subiectus in n spiritualibus: ideo magis nobilis quam 
+      si<lb ed="#V" n="68" break="no"/>vno tantum modo. si enim princpatus temporales nobilitantur ex participa 
+      <lb ed="#V" n="69"/>tione spiritualis: quanto magis participant eum: tanto magis 
+      no<lb ed="#V" n="70" break="no"/>bilitantur.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e479">
+      ¶ Ista autem veritas confirmatur quadrudruplici via. 
+      <lb ed="#V" n="71"/>Primo. quidem in naturalibus: quia anima sensitiua in brutis ita 
+      <lb ed="#V" n="72"/>donsequentatur quod non est alicui superiori anime subiecta: sicut suprema 
+      <lb ed="#V" n="73"/>et vltima perfectio eius anima autem sensitiua in homine non diffunas 
+      <lb ed="#V" n="74"/>quin sit subiecta anime intellectiue: et tamen nobilius est in homine: 
+      <lb ed="#V" n="75"/>eo quod subiicitur rationalis. ergo ille principatus eo quod subiicitur 
+      <lb ed="#V" n="76"/>spirituali est nobilior: sicut sensitiua in homine que subiicitur 
+      <lb ed="#V" n="77"/>rationi. Unde si non subiiceretur esset ad modum sensitiue in 
+      bru<lb ed="#V" n="78" break="no"/>to.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e499">
+      ¶ Secunda via est in moralibus: quia virtutes morales in 
+      <lb ed="#V" n="79"/>quas boni principes regnant: vt iustia et minia sunt in princibus 
+      <lb ed="#V" n="80"/>infidelibus sui gratia: et nullis superioribus virtutibus 
+      sub<lb ed="#V" n="81" break="no"/>iecte: cum perfectiores non habeant. In principibus autem 
+      fideli<lb ed="#V" n="82" break="no"/>bus sunt substantie virtutibus theologicis quae sunt fides spes 
+      <lb ed="#V" n="83"/>et charitas regulantes ipsas. Et ideo sicut virtutes 
+      mora<lb ed="#V" n="84" break="no"/>les sunt meliores vbi subiiciuntur theologicis: ita principa 
+      <lb ed="#V" n="85"/>tus psoliticus dum est principatui divino submissus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e518">
+      ¶ 3a via 
+      <lb ed="#V" n="86"/>est in speculabilibus quantu ad speculatiuas scientias: quia cum 
+      <lb ed="#V" n="87"/>hilosophia fuerit vltima perfectio paganorum: et nulli superiori 
+      <lb ed="#V" n="88"/>doctrine subiecta: et in sanctis fuerit subiecta: sicut ancilla: vt 
+      <lb ed="#V" n="89"/>docet beatus Greg. nobiliori modo fuit in sanctis: vbi fuit 
+      <lb ed="#V" n="90"/>recta a theologia. Et ideo non fuit ibi erroribus admixta: sicut 
+      <lb ed="#V" n="91"/>in philosophis: et ille principatus per hunc modum est nobilior: quia 
+      sb<lb ed="#V" n="92" break="no"/>iectus illi principatui theologico qui errare non potest et 
+      re<lb ed="#V" n="93" break="no"/>gulatur ab eo: cuius fides non potest deficere secundum promissum 
+      <lb ed="#V" n="94"/>diueni Saluatoris. luc. xximitus. cap. Ego pro te rogaui petre 
+      <lb ed="#V" n="95"/>vt non deficiat fides tua.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e542">
+      ¶ 4a via est in supenaturalibus: quia cum 
+      <lb ed="#V" n="96"/>anima rationalis in hominibus principetur nulli subiecta in aliquo super 
+      <lb ed="#V" n="97"/>posito communiter: tamen in para divueni nostri Iesu christi subiicitur superiori 
+      <lb ed="#V" n="98"/>naturae scilicet deitati obediens omnino: et tamen constat quod anima rationalis est 
+      <lb ed="#V" n="99"/>nobilius in christo quam in aliquo alio homine vbi est subiecta. 
+      </p>
+            <p xml:id="FrMQ88-e18567-d1e553">
+               <lb ed="#V" n="100"/>¶ Et si dicatur quod si in christo est nobiliori modo: quia vnitur: non 
+      <lb ed="#V" n="101"/>quia subiecta: non valet: quia si posset vniri sine subiectione 
+      ta<lb ed="#V" n="102" break="no"/>li: posset christus esse peccator in eo quod eius anima deitati non est 
+      <lb ed="#V" n="103"/>subiecta: sicut ceteri homines sunt peccatores: quando anima 
+      <lb ed="#V" n="104"/>sensitiua non subiicitur intellectiue. Et ideo sicut nobili 
+      <lb ed="#V" n="105"/>tatis est ibi subiici deitati: ita subiici haec vicario christi. 
+      </p>
+            <p xml:id="FrMQ88-e18567-d1e569">
+               <lb ed="#V" n="106"/>¶ Sed contra illam partem arguitur. quia subiectio dicit quandam relatio 
+      <lb ed="#V" n="107"/>nem: cum sit ad aliud ex. vii. de tri. Et nulla relatio dicit 
+      ali<lb ed="#V" n="108" break="no"/>quam dignitatem: aut nobilitatem. ergo ex tali subiectione 
+      prin<lb ed="#V" n="109" break="no"/>cipatus regni scicilie non est nobilior.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e580">
+      ¶ Intelligendum 
+      <lb ed="#V" n="110"/>tamen est: ad ostendendum quod relatio non dicit dignitate: quod quia 
+      <lb ed="#V" n="111"/>in diuinis personis secundum documenta beati Aug. v. et. vii. de 
+      <lb ed="#V" n="112"/>trinitate. sunt quatuor relationes scilicet paternitas et filiatio 
+      <lb ed="#V" n="113"/>piratio communis: et spiratio propria: ita quod in patre sunt duo scilie 
+      <lb ed="#V" n="114"/>paternitas. et communis spiratio: in filio due scilicet filiatio. et eadem 
+      <lb ed="#V" n="115"/>spiratio. et in spicitu scilicet vnica scilicet propria spiratio.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e596">
+      ¶ Nunc au 
+      <lb ed="#V" n="116"/>tem ad propositum si aliqua relatio in creaturis dicit 
+      nobi<lb ed="#V" n="117" break="no"/>litatem: multo magis iste que sunt in diuinis personis 
+      prin<lb ed="#V" n="118" break="no"/>citumte. et tamen ille non important nobitaem. ergo multo minus alie 
+      <lb ed="#V" n="119"/>quod autem ille relationes divine non importent nobitiatem probatur duus 
+      <lb ed="#V" n="120"/>via. Tum. quia tunc filius haberet aliquam nobilitatem quam non 
+      <lb ed="#V" n="121"/>habet pater: et econuerso: cum omnium sit nobilitas penitus vna. 
+      <lb ed="#V" n="122"/>Tum. quia plures nobilitates haberent pater et filius: quolibet 
+      <lb ed="#V" n="123"/>ipsorum quam spiritus sanctus: cum quolibet eorum habeat duas 
+      rela<lb ed="#V" n="124" break="no"/>tiones: et spiritus sanctus non nisi vnam. Rursus docet beatus 
+      <lb ed="#V" n="125"/>Aug. in. vio. de tria. quod tante perfectionis et nobilitatis est 
+      <lb ed="#V" n="126"/>vna persona diuina sola. sicut omnes tres simul sumpter 
+      <lb ed="#V" n="127"/>et tamen ipse simul sumpte habent quatuor relationes. 
+      <lb ed="#V" n="128"/>et quelibet per se non nisi vnam. aut duas. 
+      <lb ed="#V" n="129"/>istam questionem sunt duo principaliter 
+      fa<lb ed="#V" n="130" break="no"/>Circa cienda: cum agitur de subiectione regni 
+      sci<lb ed="#V" n="131" break="no"/>cilie: quia primo insistendum est circa illius subiectionis 
+      <lb ed="#V" n="132"/>nobilitatem. Et secundo circa eius necessitatem. 
+      <!--528.xml-->
+      <pb ed="#V" n="262-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ad primam partem: est intelligendum 
+      <lb ed="#V" n="2"/>Quantum quod cum illa quaestio heat duas partes: sicut 
+      <lb ed="#V" n="3"/>alie: vnam affirmatiuam. et aliam negatiuam: omnes rationes 
+      <lb ed="#V" n="4"/>que fiunt ad partem affirmatiuam communiter tangunt medium 
+      <lb ed="#V" n="5"/>coniunctionis et vnionis. quia summa nobilitas illius prinip 
+      <lb ed="#V" n="6"/>cipatus est in eo quod vnitur et quasi incorporatur ecclesie. et 
+      <lb ed="#V" n="7"/>omnes communiter relationes que sunt ad partem negatiuam tangunt mo 
+      <lb ed="#V" n="8"/>dum subiectionis. que videtur importare seruitutem et liberta 
+      <lb ed="#V" n="9"/>tem auferre. Et ideo ad astruendum partem affirmatiuam 
+      </p>
+            <p xml:id="FrMQ88-e18567-d1e662">
+               <lb ed="#V" n="10"/>¶ prae videndum est quomodo illa coniuctio declarat illius 
+      princi<lb ed="#V" n="11" break="no"/>patus nobilitatem.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e669">
+      ¶ Et 2o ad destruendum partem negatiuan 
+      <lb ed="#V" n="12"/>quomodo illa subiectio non obfuscat illam nobilitatem. 
+      <lb ed="#V" n="13"/>ad primam partem est intelligendum. quod ma 
+      <lb ed="#V" n="14"/>Quantum i xima noplitas inferiorum atenditur in 
+      <lb ed="#V" n="15"/>eo quod suis superioribus coniunguntur. sicut declaratur.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e680">
+      ¶ prim 
+      <lb ed="#V" n="16"/>quidem in politicis. vbi quia natura mulleris est inferior 
+      natura<lb ed="#V" n="17" break="no"/>hominis maxima nobilitas mulleris attenditur. in eo quod 
+      no<lb ed="#V" n="18" break="no"/>biliori viro desponsatur.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e689">
+      ¶ Secundo declaratur in physicis. 
+      <lb ed="#V" n="19"/>quia cum natura corporis sit inferior nam anime summa nobilitas 
+      <lb ed="#V" n="20"/>corporis in hoc attenditur quando animatur siue in prima 
+      infu<lb ed="#V" n="21" break="no"/>sione siue in resurrectione: cuius signum est quantum 
+      vi<lb ed="#V" n="22" break="no"/>lificatur corpus mortuum existens.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e700">
+      ¶ Tertio declaratur in 
+      <lb ed="#V" n="23"/>theologicis. quia cum natura humana sit inferior diuina: 
+      numquan<lb ed="#V" n="24" break="no"/>fuit nobitia aliqua creatura tantum quatum fuit christi humani 
+      <lb ed="#V" n="25"/>tas: in eo quod fuit deitati coniuncta in supposito verbi 
+      <lb ed="#V" n="26"/>Unde dicit beatus Augustinus. xii. de trinitate. Quod in 
+      re<lb ed="#V" n="27" break="no"/>bus per tempus ortis illa summa gratia est. qua in 
+      vni<lb ed="#V" n="28" break="no"/>tate persone homo comniuctus est deo. Et dicit: per tmpus ortis. 
+      <lb ed="#V" n="29"/>quia mysterium emanationis eterne vnio et trinitas trium 
+      <lb ed="#V" n="30"/>personarum in vna natura est excellentior.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e720">
+      ¶ Quarto 
+      decla<lb ed="#V" n="31" break="no"/>ratur in thearticis. quia anime sanctorum. et omnium bonorum in 
+      <lb ed="#V" n="32"/>hoc summe dignificantur. quia cum diuina essentia. sicut cum 
+      <lb ed="#V" n="33"/>pbiecto beatifico coniunguntur. et quia omnia temporalia constat esse inferiora 
+      <lb ed="#V" n="34"/>spiritualibus. ideo in hoc summe temporalia nobilitantur: quia sic 
+      <lb ed="#V" n="35"/>spiritualibus coniunguntur. et istud est propositum. 
+      <lb ed="#V" n="36"/>ad secumdam particulam dicunt vulgo 
+      lo<lb ed="#V" n="37" break="no"/>Quantum quentes. quod subiectio semper 
+      impor<lb ed="#V" n="38" break="no"/>tat ignotisem. cum subiici sit seruire. Et ideo repugnat deo 
+      <lb ed="#V" n="39"/>subiici. et non praesidere. quod est nobilitatis.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e743">
+      ¶ Et istuod dictum 
+      <lb ed="#V" n="40"/>stare non potest secundum fidem. Tum. quia Constantinus. tunc de 
+      <lb ed="#V" n="41"/>honorasset imperium quando fecit se fieri christianum: cum tunc 
+      <lb ed="#V" n="42"/>fuerit professus subiectionem in spiritualibus. Tum. quia glo 
+      <lb ed="#V" n="43"/>doneus rex primus francorum christianus inhonorasset 
+      <lb ed="#V" n="44"/>francorum regumenitum in eo quod semetipsum fecit fieri christianum. et 
+      per<lb ed="#V" n="45" break="no"/>consequens filium. et istud est absonum apud sideles. vnde patet. quod 
+      <lb ed="#V" n="46"/>subiectio non semper ignobilitat. Et cum dicitur quod deus ratione 
+      <lb ed="#V" n="47"/>sue perfectionis. non potest esse subiectus. Dicitur quod 
+      subiectio<lb ed="#V" n="48" break="no"/>non dicit dignitatem simpliciter. tunc enim esset in deo. si 
+      <lb ed="#V" n="49"/>cut divfentatio. sed dicit dignitatem et nobilitatem in 
+      deter<lb ed="#V" n="50" break="no"/>minata materia: sicut causare aliquid equale sibi in perfectione 
+      <lb ed="#V" n="51"/>est perfectionis in natuma creata: non tamen in diuina. Unde dico 
+      <lb ed="#V" n="52"/>quod ista subiectio includit nobilitatem et libertatem. quod 4r 
+      <lb ed="#V" n="53"/>declaratur. Primo quidem comparando statum innocentie 
+      <lb ed="#V" n="54"/>ad statum naturae lapse. quia membra corporis humani. et vi 
+      <lb ed="#V" n="55"/>res omnes exteriores erant tunc subiecte principatu 
+      despo<lb ed="#V" n="56" break="no"/>tico: sicut nunc et manus et pes. et nunc non sic subiecta 
+      <lb ed="#V" n="57"/>sunt. vt patet de ira et concupiua. que non semper obediunt. licet 
+      <lb ed="#V" n="58"/>sint subiecta principatu politico. sed maioris libertatis 
+      <lb ed="#V" n="59"/>erant omnia in statu illo. et nobiliora. ergo esse subiectum est 
+      li<lb ed="#V" n="60" break="no"/>bertatis. et non illibertatis in aliquibus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e791">
+      ¶ Secundo 
+      compa<lb ed="#V" n="61" break="no"/>rando statum hominis virtuosi ad statum vitiosi. quia 
+      vitio<lb ed="#V" n="62" break="no"/>sus distinguitur a virtuoso. quia in virtuoso vires sensitiue 
+      <lb ed="#V" n="63"/>sunt subiecte anime rationali. vt non habeant passiones edomi 
+      <lb ed="#V" n="64"/>tas rationi repugnantes. In vitioso autem vires iste nolunt 
+      <lb ed="#V" n="65"/>esse subiecte. Et tamen constat quod ille vires sunt nobiliori modo 
+      <lb ed="#V" n="66"/>in homine virtuoso: et in maiori libertate.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e807">
+      ¶ Intelligendum 
+      <!--528.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>est tamen quod istud patet in quadruplici subordinatione in 
+      ho<lb ed="#V" n="68" break="no"/>mine reperta. quarum prima est corporis ad animam. quia corpus 
+      <lb ed="#V" n="69"/>est melius dispositum et magis sanum cum magis obediunt 
+      <lb ed="#V" n="70"/>membra anime ad nutum subiecta. vnde in egrotis ita 
+      subii<lb ed="#V" n="71" break="no"/>ciuntur et in paraliticis: et tamen non ibi magis libere.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e825">
+      ¶ 
+      Se<lb ed="#V" n="72" break="no"/>cunda subordinatio est hominis exterioris ad interiorem. 
+      <lb ed="#V" n="73"/>quia in homine bono qui est magis liber quam malus homo 
+      <lb ed="#V" n="74"/>exterior interiori est maxime subiectus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e834">
+      ¶ Tertia 
+      sub<lb ed="#V" n="75" break="no"/>ordinatio intellectus ad voluntatem. quia quando voluntas 
+      di<lb ed="#V" n="76" break="no"/>uertit a dictamine rationis. tunc efficitur vitiosa. et in 
+      seru<lb ed="#V" n="77" break="no"/>tute peccati: quando autem sequitur iuditate rationis recte. tunc est 
+      li<lb ed="#V" n="78" break="no"/>bera. et magis digna.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e845">
+      ¶ Quarta est subordinatio 
+      por<lb ed="#V" n="79" break="no"/>tionis inferioris rationis ad superiorem. quando enim portio 
+      <lb ed="#V" n="80"/>inferior deseruit rationi: tunc est anima subordinata secundum bea 
+      <lb ed="#V" n="81"/>tum Augustinum. et melius disponitur. et magis tunc libera est. 
+      <lb ed="#V" n="82"/>Unde dicit beatus Aug. in libro de ciui. dei recitans 
+      di<lb ed="#V" n="83" break="no"/>ctum poeticum de quodam qui habebat licentiam male agendi. 
+      <lb ed="#V" n="84"/>Omiserum cui potestate licebat.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e862">
+      ¶ Tertio ostenditur pro 
+      <lb ed="#V" n="85"/>positum comparando hominem minus virtuosum ad ma 
+      <lb ed="#V" n="86"/>gis virtuo sum: quia quanto homo magis est perfectus in 
+      vir<lb ed="#V" n="87" break="no"/>tute tanto magis ille vires per quas appetit temporalia 
+      subiu<lb ed="#V" n="88" break="no"/>gantur viribus per quas inclinatur ad spiritualia. et per 
+      <lb ed="#V" n="89"/>consequens virtuosissimum est optimum principatum temporalium 
+      <lb ed="#V" n="90"/>princinpatui spiritualium esse subiectum.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e878">
+      ¶ hoc autem declaratur 
+      <lb ed="#V" n="91"/>secundum quadruplicem gradum virtutis qui positioitur in morali 
+      <lb ed="#V" n="92"/>philosophia.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e885">
+      ¶ Quorum primus dicitur perseuerantia: in qua: cum 
+      <lb ed="#V" n="93"/>passiones appetitus sensitiui insurgunt contra rationem 
+      <lb ed="#V" n="94"/>puta ira: aut concupiscentia: sit pugna inter hominem ex 
+      <lb ed="#V" n="95"/>teriorem et intellectus. et tunc interior nec vicit nec vincitur. sicut in 
+      <lb ed="#V" n="96"/>agonisticis: ei qui prouocatur sufficit quod seipsum defendat 
+      <lb ed="#V" n="97"/>et talis dicitur perseuerans.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e898">
+      ¶ Secundus gradus ponitur continentia 
+      <lb ed="#V" n="98"/>quando insurgentibus sic passionibus: homo exterior ab in 
+      <lb ed="#V" n="99"/>teriori vincitur: sed cum molestia et difficultates. sicut in agoni 
+      <lb ed="#V" n="100"/>sticis qui non sunt multum fortes superant aduersarios. 
+      <lb ed="#V" n="101"/>Sed cum difficultate. et talis dicitur continens.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e909">
+      ¶ Tertius 
+      <lb ed="#V" n="102"/>gradus ponitur quando insurgente tali pugna homo 
+      inte<lb ed="#V" n="103" break="no"/>rior faciliter superat exteriorem. et tenet ipsum subiectum 
+      <lb ed="#V" n="104"/>sine molestia: et talis dicitur temperatus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e918">
+      ¶ 
+      Quar<lb ed="#V" n="105" break="no"/>tus gradus ponitur et summus: quando homo 
+      in<lb ed="#V" n="106" break="no"/>terior tenet exteriorem et eius vires ita subiugatas: vt 
+      <lb ed="#V" n="107"/>nullatenus ei bellum audeant attentare. nec. velint. et talis 
+      <lb ed="#V" n="108"/>dicitur virtus erroyca quasi diuina: quia transcendit bonita 
+      <lb ed="#V" n="109"/>tem humanam. Et ideo dicebat Priamus rex troianorum 
+      <lb ed="#V" n="110"/>de hectore filio quin habebat excellentiam illius 
+      virtu<lb ed="#V" n="111" break="no"/>tis: quod magis videbatur filius dei quam filius hominis 
+      mor<lb ed="#V" n="112" break="no"/>talis.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e939">
+      ¶ Istam virtutem habuit similiter beatus franci 
+      <lb ed="#V" n="113"/>scus: cuius dum spiritus niteretur ad omnem sanctitatem. 
+      <lb ed="#V" n="114"/>caro ipsius: que dicitur homo exterior: non solum non 
+      <lb ed="#V" n="115"/>repugnare: sed etiam precurrere conaretur.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e948">
+      ¶ Nunc 
+      <lb ed="#V" n="116"/>ergo ille principatus nobilissimus est erroycus. quia 
+      <lb ed="#V" n="117"/>ad modum virtutis erroyce homo exterior. sclicet 
+      tem<lb ed="#V" n="118" break="no"/>poralis homini: qui est quasi interior: perfectissime est 
+      <lb ed="#V" n="119"/>subiectus. Et ideo sicut virtus erroyca dicitur diuina 
+      <lb ed="#V" n="120"/>ita ille principatus dicitur esse diuinus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e961">
+      ¶ Quarto osten 
+      <lb ed="#V" n="121"/>ditur propositum comparando statum praesentis vite ad  
+      <lb ed="#V" n="122"/>statum felicitatis future. quia sicut post resurrectionem 
+      fu<lb ed="#V" n="123" break="no"/>turam anima erit subiecta totaliter deo. magis quam nunc. 
+      <lb ed="#V" n="124"/>ita corpus erit anime subiectum totaliter. vt possit omnino vti eo 
+      <lb ed="#V" n="125"/>pro libito voluntatis ipsum mouendo. sicut dicitur Sapiem. 3o. 
+      <lb ed="#V" n="126"/>capitulo. fulgebunt iusti. et tamquam scientille in arundineto discur 
+      <lb ed="#V" n="127"/>rent. et iterum Isay. xl. c. qui sperant in divmuno mutabunt 
+      fortitu<lb ed="#V" n="128" break="no"/>dinem assument pennas vt aliquile. current et non 
+      la<lb ed="#V" n="129" break="no"/>borabunt: ambulabunt et non deficient. illa autem 
+      per<lb ed="#V" n="130" break="no"/>fecta subiectio corporum non erit ignobilitas 
+      ipso<lb ed="#V" n="131" break="no"/>rum: immo felicitas. et ita iste principatus ex hoc quod est 
+      <lb ed="#V" n="132"/>digne subiectus: non ignobilitatur: immo multum dignificatur. 
+      <!--529.xml-->
+      <pb ed="#V" n="262-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ad quaestionem quod principatus regni scicilie: 
+      <lb ed="#V" n="2"/>Dico ergo habet duas habitudines secundum quas ad 
+      op<lb ed="#V" n="3" break="no"/>posita comparatur: vna habitudo est in eo quod suins inferiori 
+      <lb ed="#V" n="4"/>bus divfunatur: et alia habitudo in eo. quod suis superioribus 
+      <lb ed="#V" n="5"/>subordinatur: et secundum istas duas habitudines ponuntur hic 
+      <lb ed="#V" n="6"/>tres conclusiones.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1009">
+      ¶ Quarum prima est. quod ille principatus est 
+      mul<lb ed="#V" n="7" break="no"/>tum nobilis inter ceteros mundi principatus inquantum 
+      <lb ed="#V" n="8"/>respicit inferiora. sicut patet in multitudine principium et 
+      polli<lb ed="#V" n="9" break="no"/>tiarum sibi subiectarum secundum illud Sapientis prouerbiorum. xiii. 
+      <lb ed="#V" n="10"/>capitulo. In multitudine prplui dignitas regis. In pauci 
+      <lb ed="#V" n="11"/>tate plebis ignominia principium.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1022">
+      ¶ Secunda conclusio quod ille 
+      prin<lb ed="#V" n="12" break="no"/>cipatus est nobilior in eo quod est subiectus ecclesie: quam in 
+      <lb ed="#V" n="13"/>eo quod est praelatus toti sue rei publice: quia cuiuslibet 
+      habitu<lb ed="#V" n="14" break="no"/>do melior est ad sua superiora: a quibus perficitur: quam ad sua 
+      in<lb ed="#V" n="15" break="no"/>feriora quibus sua perfectio comunicatur. Ista autem 
+      deductio<lb ed="#V" n="16" break="no"/>confirmatur 4r.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1035">
+      ¶ Primo. quia insensibili mundi machi 
+      <lb ed="#V" n="17"/>na. cum luna illuminet elenta et illuminetur a sole: melior st 
+      <lb ed="#V" n="18"/>conditio lune secundum quam illuminatur a sole: quam inquantum 
+      ipsa<lb ed="#V" n="19" break="no"/>illuminat: pro eo quod lux quam recipit est in ea formaliter 
+      <lb ed="#V" n="20"/>et lux quam dat non nisi causaliter.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1047">
+      ¶ Secundo declaratur 
+      <lb ed="#V" n="21"/>in morali mtam et in rationali natura: quia melior est habitudo anime 
+      <lb ed="#V" n="22"/>sensitiue in eo quod rationi deseruit quam in eo quod presidet men 
+      <lb ed="#V" n="23"/>bris corporis: cum secundum primum accipiatur virtus: et non per 2m 
+      </p>
+            <p xml:id="FrMQ88-e18567-d1e1056">
+               <lb ed="#V" n="24"/>¶ Tertio declaratur istud in discipuli scola: quia 
+      perfectio<lb ed="#V" n="25" break="no"/>est habitudo secundum quam quis comparatur ad docentem a quae per 
+      <lb ed="#V" n="26"/>ficitur: quam illa qua coparatur ad discentem quem perficit 
+      </p>
+            <p xml:id="FrMQ88-e18567-d1e1065">
+               <lb ed="#V" n="27"/>¶ Quarto declaratur istud in hyerarchia celesti: quia 
+      <lb ed="#V" n="28"/>meliores sunt angeli supremi inquantum a deo illumina 
+      <lb ed="#V" n="29"/>tur: quam inquantum inferiores illuminant: cum 
+      illumina<lb ed="#V" n="30" break="no"/>tio illa fit beatifica: et non ista: pro eo quod vnus angelus 
+      <lb ed="#V" n="31"/>alium beatificare non potest.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1078">
+      ¶ Tertia conclusio: que sequitur 
+      <lb ed="#V" n="32"/>ex istis duabus quod principatus regni scicilie est 
+      nobili<lb ed="#V" n="33" break="no"/>or in eo quod est subiectus ecclesie. Si enim valde in haem 
+      <lb ed="#V" n="34"/>bitudine ad inferiora: et nobilior in habitudine ad su 
+      <lb ed="#V" n="35"/>periora inquantum eis subiectus est nobilior ita iste sta 
+      <lb ed="#V" n="36"/>tus inquantum est subiectus ecclesie ex deductione 
+      euin<lb ed="#V" n="37" break="no"/>dentissima.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1094">
+      ¶ Et confirmatur illa conclusio et. Primo. quia sicut 
+      in<lb ed="#V" n="38" break="no"/>paradiso terrestri adam quandiu volunt esse subiectus do: 
+      <lb ed="#V" n="39"/>fuit honoratus: et quando noluit subiici fuit vilificatus secud 
+      <lb ed="#V" n="40"/>illud pesalmi. 4s. homo cum in honore esset non 
+      intelle<lb ed="#V" n="41" break="no"/>xit comparatus est iumentis insipientibus et similis factus 
+      <lb ed="#V" n="42"/>est illis. ita illa subiectio retinet honorem.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1107">
+      ¶ Secundo 
+      <lb ed="#V" n="43"/>confirmatur. quia sicut in celesti paradiso: Deus creauit 
+      <lb ed="#V" n="44"/>duos principes in sacra scriptura nominatos scilicet 
+      lucife<lb ed="#V" n="45" break="no"/>rum: et Michaelem archangelum: quorum primus noluin 
+      <lb ed="#V" n="46"/>esse subiectus: et ideo fuit reprobatus. Secundus vere 
+      <lb ed="#V" n="47"/>ex eo quod fuit subiectus fuit honoratus. ita in tabernacule 
+      <lb ed="#V" n="48"/>militantis ecclesie videtur fuisse duplex principatus 
+      <lb ed="#V" n="49"/>illo modo distinctus scilicet principatus Federici 
+      <lb ed="#V" n="50"/>qui fuit abolitus: eo quod recusauit esse subiectus. et 
+      <lb ed="#V" n="51"/>princinpatus Caroli: qui fuit confirmatus et veneratus: eo quod 
+      <lb ed="#V" n="52"/>volunt esse subiectus. Unde de certamine eorum potest accip 
+      <lb ed="#V" n="53"/>illud Apocura. xii. cap. factum est prelium magnum in celo 
+      <lb ed="#V" n="54"/>Michael et angeli eius preliabantur cum dracone et 
+      dra<lb ed="#V" n="55" break="no"/>co pugnabat et angeli eius: et non priualuerunt neque inuentus 
+      <lb ed="#V" n="56"/>est locus eius amplius in celo ad litteram: quia loc 
+      <lb ed="#V" n="57"/>illius principatus fuit per illum. diuinitus euacuatus. 
+      <lb ed="#V" n="58"/>Et ideo sicut principatus Michaelis fuit ex subiectio 
+      <lb ed="#V" n="59"/>ne nobilitatus. ita et iste. vnde sicut ille est 
+      maxime<lb ed="#V" n="60" break="no"/>subiectus in celo principatui hyerarchico: ita ille in 
+      <lb ed="#V" n="61"/>terra principatui ecclesiastico: qui est diuinus 
+      <lb ed="#V" n="62"/>secundam partem principalem istius quaestionis: 
+      insisten<lb ed="#V" n="63" break="no"/>Circa dum est circa illius subiectionis necessitatem 
+      <lb ed="#V" n="64"/>vbi est intelligendum quod necessitas illius subiectionis 
+      pro<lb ed="#V" n="65" break="no"/>uenit a duplici radice. quarum vna est obligatio 
+      prouen<lb ed="#V" n="66" break="no"/>ens a voluntate humana. Secunda radix: obligatio 
+      <!--529.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>proueniens a voluntate 
+      diuina<lb ed="#V" n="68" break="no"/>ad primam particulam: voluntas 
+      hu<lb ed="#V" n="69" break="no"/>Quantum mana obligat se deo dpliciter vno mo 
+      <lb ed="#V" n="70"/>per viam voti: sicut dicit propheta in pesalmo. lxxnieiut. 
+      Uoue<lb ed="#V" n="71" break="no"/>te et reddite dimuno deo vestro omnes qui in circuitu eius 
+      affer<lb ed="#V" n="72" break="no"/>tis mumera.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1180">
+      ¶ Alio modo per viam iuramenti: sicut dicit idem 
+      <lb ed="#V" n="73"/>propheta in psalmo. ex viiio. Iuraui et statui 
+      custodire<lb ed="#V" n="74" break="no"/>iudicia iusticie tue: ex quibus dictis propheticis habetur quod 
+      <lb ed="#V" n="75"/>melius est actus virtutis. cum voto et iuramento. quia 
+      pri<lb ed="#V" n="76" break="no"/>consuluit. et 2m ipse impleuit. et non consuluit: nec 
+      imple<lb ed="#V" n="77" break="no"/>uit nisi meliora: et quia iste princeps obligat se per modum 
+      <lb ed="#V" n="78"/>voti et iuramenti ad fidem seruandam ecclesie. ideo illa 
+      <lb ed="#V" n="79"/>subiectio est magis necessaria. et sicut magis 
+      necessa<lb ed="#V" n="80" break="no"/>ria ita magis perfecta.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1200">
+      ¶ Et istud est quantum ad 
+      necessi<lb ed="#V" n="81" break="no"/>tatem obligationis quae prouenit a voluntate humana. 
+      <lb ed="#V" n="82"/>ad secundam particulam: voluntate 
+      divini<lb ed="#V" n="83" break="no"/>Quantum homo quilibet obligatur ad omnia illa quae 
+      di<lb ed="#V" n="84" break="no"/>ctat ratio recta naturalis esse facienda. Et quia ratio euidentissima vel 
+      <lb ed="#V" n="85"/>dictare quod ille principatus. eo quod princeprs temporalium sit 
+      <lb ed="#V" n="86"/>subiectus spiritui spiritualium. ideo ad hoc naturali 
+      <lb ed="#V" n="87"/>iure tenetur: quantumcumque non fecisset votum nec iuramentum 
+      <lb ed="#V" n="88"/>et ista necessitas proueniens a voluntate diuina dictatur ex 
+      <lb ed="#V" n="89"/>ordine quem habent adinuicem temporalia et spiritualia. 
+      <lb ed="#V" n="90"/>tamen est quod in diuina 
+      scriptu<lb ed="#V" n="91" break="no"/>Intelligendum ra inuenitur ordo duplex 
+      <lb ed="#V" n="92"/>quorum vnus dicitur esse ordo eminenuon de quo apostolus 
+      Pau<lb ed="#V" n="93" break="no"/>lus prima corinth. xveeo. ca. dicit. Unusquisque in ordini 
+      <lb ed="#V" n="94"/>suo consurget. et loquitur ibi de ordine perfectionis: in 
+      <lb ed="#V" n="95"/>ducens istud exemplum. Alia claritas solis: alia claritas 
+      <lb ed="#V" n="96"/>lune. alia stellarum. stella inquit differt a stella in claritate: 
+      <lb ed="#V" n="97"/>et sic resurrectio mortuorum.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1239">
+      ¶ Secundus dicitur esse ordo 
+      depen<lb ed="#V" n="98" break="no"/>dentie secundum quemvna res est ab alia: sicut secundum primum: vna res 
+      <lb ed="#V" n="99"/>est supra aliam: de quo ordine accipitur illud Iob. xxxviii. 
+      <lb ed="#V" n="100"/>ca. Numquid nosti ordinem celi. et positiones rationem eius in 
+      terra<lb ed="#V" n="101" break="no"/>qualiter scilicet vna spera mouetur ab alia.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1250">
+      ¶ Et primo 
+      oste<lb ed="#V" n="102" break="no"/>dendum est propositum secundum ordinem eminentie. et secum 
+      <lb ed="#V" n="103"/>do secundum ordinem dependentie. 
+      <lb ed="#V" n="104"/>ad ordinem eminentie: nullus 
+      fidel<lb ed="#V" n="105" break="no"/>Quantum um dubitare daitet quin bona spiritualia 
+      <lb ed="#V" n="106"/>sint superiora bonis temporalibus. Unde beatus apstulus 
+      Pau<lb ed="#V" n="107" break="no"/>lus prima corum. ix. ca. dicebat sic. Si nos vobis spiritualia se 
+      <lb ed="#V" n="108"/>minamus non est magnum si carnalia metamus. quasi diceret 
+      <lb ed="#V" n="109"/>quod non est magna merces: si temporalia pro spiritualibus a 
+      <lb ed="#V" n="110"/>cipiantur.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1272">
+      ¶ Et istis praemissi arguitur quandocunque sunt 
+      aliqua<lb ed="#V" n="111" break="no"/>due multitudines quarum vna secundum se tota est alteri subiecta 
+      <lb ed="#V" n="112"/>quicumque principatur in superiori. dliet praesse illi qui principatur in 
+      <lb ed="#V" n="113"/>iferiori: et illa regula declaratur dupliciter.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1281">
+      ¶ Primo quidem 
+      <lb ed="#V" n="114"/>in naturalibus. quia si corpora incorruptibilia. vt supercelestia 
+      <lb ed="#V" n="115"/>incorruptibilibus secundum multitudinem principantur. sicut 
+      de<lb ed="#V" n="116" break="no"/>clarat beatus Greg. in moralibus. oportet. vt illud corpus 
+      <lb ed="#V" n="117"/>quod naturaliter praesidet in corporibus superioribus praesideat naturaliter ei 
+      <lb ed="#V" n="118"/>quod praesidet in inferioribus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1295">
+      ¶ Secundo declaratur in ciuilibus 
+      <lb ed="#V" n="119"/>quia si multitudo alicuius ciuilitatis praenciparetur alicui 
+      <lb ed="#V" n="120"/>multitudini alicuius ville vel suburbii quicumque principa 
+      <lb ed="#V" n="121"/>tur in ciuitate illa eo ipso dicitet principari principi illius sub 
+      <lb ed="#V" n="122"/>urbii. vt per se videtur patere.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1306">
+      ¶ Et confirmatur. Tum. quia ideo quia 
+      <lb ed="#V" n="123"/>ciuitas romana praesidebat ceteri ciuitatibus. ideo princeps 
+      <lb ed="#V" n="124"/>romani ppiuri praesidebat principibus aliarum. Tum. quia ideo quia eo 
+      <lb ed="#V" n="125"/>clesia romana est magistra aliarum ecclestiarum. et matr. ideo prin 
+      <lb ed="#V" n="126"/>ceps romane ecclesie conuincitur esse pater et magitur praelatorum 
+      ali<lb ed="#V" n="127" break="no"/>rum eccletiarum. Istis autem praemissis talis inducitur minor. Sed  
+      <lb ed="#V" n="128"/>tota multitudo temporalis subiicitur toti multitudini rerum 
+      <lb ed="#V" n="129"/>spiritualium: vt fuit ex fide suppositum. ergo princeps temporalium dieitet 
+      princi<lb ed="#V" n="130" break="no"/>pi spiritualium esse subiectus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1326">
+      ¶ Dicunt aliqua tamen quod licet tota mul¬ 
+      <lb ed="#V" n="131"/>¬titudo temporalium sit subiecta multitudini spiritualium tamquam min 
+      <lb ed="#V" n="132"/>perfecta: per modum simplicis ordis: sicut aues sunt me 
+      <!--530.xml-->
+      <pb ed="#V" n="263-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>liores piscibus: non tamen per modum principatus naturalis: sicut 
+      <lb ed="#V" n="2"/>bruta sunt homin subiecta: vnde temporalia et spiritualia. vt 
+      di<lb ed="#V" n="3" break="no"/>cunt. non sunt sic subordinata.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1346">
+      ¶ Sed dictum illud non 
+      va<lb ed="#V" n="4" break="no"/>let. Tum. quia secundum fidem temporalia non sunt querenda nisi propter 
+      <lb ed="#V" n="5"/>spiritualia. sicut subordinata. Tum. quia illi qui querunt 
+      tem<lb ed="#V" n="6" break="no"/>poralia sui gratia sunt auari.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1355">
+      ¶ Et tunc facta 
+      deductio<lb ed="#V" n="7" break="no"/>confirmatur 4r. Primo. quidem in physicis. vbi quia tota. 
+      <lb ed="#V" n="8"/>multitudo physicorum principatur toti multitudini 
+      chyru<lb ed="#V" n="9" break="no"/>gicorum. vt ipsi fatentur. ideo princeps phyficorum principatur 
+      <lb ed="#V" n="10"/>princinpi chyrugicorum.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1366">
+      ¶ Secundo declaratur in hxerarchy 
+      <lb ed="#V" n="11"/>cis. vbi quia totus ordo angelorum subest toti ordin 
+      archange<lb ed="#V" n="12" break="no"/>lorum. ideo hverarcha in ordine archangelorum 
+      principa<lb ed="#V" n="13" break="no"/>tur hyerarche angelorum: secundum beati Dionysii 
+      documen<lb ed="#V" n="14" break="no"/>ta.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1378">
+      ¶ Tertio declaratur in theologicis. quia virtutes theo 
+      <lb ed="#V" n="15"/>logice principantur virtutibus cardinalibus: secundum doctrinamn 
+      <lb ed="#V" n="16"/>apostoli. Et ideo principatus qui regit secundum virtutes theo 
+      <lb ed="#V" n="17"/>logicas: que sunt: sides spies charitas. qualis dabet esse 
+      <lb ed="#V" n="18"/>spiritualium. dicitet principari illi principatui qui regit tantum 
+      <lb ed="#V" n="19"/>secundum virtutes cardinales: qualis est temporalium 
+      principa<lb ed="#V" n="20" break="no"/>tus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1394">
+      ¶ Quarto declaratur in modoasticis dupliciter. Uno 
+      <lb ed="#V" n="21"/>modo. quia tota multitudo hominum exteriorum subest toti 
+      <lb ed="#V" n="22"/>multitudni interiorum per naturam: secundum premissa. ideo ille 
+      <lb ed="#V" n="23"/>qui principatur in hominibus interioribus: qualis est 
+      pri<lb ed="#V" n="24" break="no"/>ceps spiritualium: cum spiritualia pertineant ad hominem 
+      <lb ed="#V" n="25"/>interiorem: diaibet principari cuicumque principatui solum in 
+      <lb ed="#V" n="26"/>exterioribus: quales sunt principes temporalium. quia 
+      <lb ed="#V" n="27"/>temporalia sunt omnia exteriora. Alio modo. quia tota 
+      mul<lb ed="#V" n="28" break="no"/>titudo portionum inferiorum: est subiecta toti 
+      multi<lb ed="#V" n="29" break="no"/>tudini superiorum: secundum beatum Augustinum vbi supra. quod ille 
+      <lb ed="#V" n="30"/>qui principatur inferioribus portionibus: dabet subesse 
+      <lb ed="#V" n="31"/>illi quin principatur superioribus. nullus autem princeps 
+      <lb ed="#V" n="32"/>temporalium principatur: inquantum talis nisi 
+      portioni<lb ed="#V" n="33" break="no"/>bus inferioribus: hominum: per quas anima nostra 
+      re<lb ed="#V" n="34" break="no"/>spicit bomoa temporalia: secundum beatum Augustinum: et princeps spiritua 
+      <lb ed="#V" n="35"/>lium principatur superioribus: secundum quas et respiciunt anime nostre etna: 
+      <lb ed="#V" n="36"/>qualia sunt spiritualia. ergo princeps ille diciet esse praelatus. Illa autem de 
+      <lb ed="#V" n="37"/>ductio sic declaratur.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1433">
+      ¶ Et confirmatur accipiendo 4or 
+      sub<lb ed="#V" n="38" break="no"/>ordinata. Quorum. Primum est principatus alicuius 
+      princi<lb ed="#V" n="39" break="no"/>omnis temporalis: accipiendo principatum pro tota 
+      repu<lb ed="#V" n="40" break="no"/>blica sibi subiecta.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1442">
+      ¶ Secundum est portio inferior rationis illi 
+      <lb ed="#V" n="41"/>us principis: secundum quam regulat et regit totum suum principa 
+      <lb ed="#V" n="42"/>tum: quia per portionem inferiorem rationis temporalia 
+      <lb ed="#V" n="43"/>diriguntur secundum Augustinum.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1451">
+      ¶ Tertium est portio 
+      su<lb ed="#V" n="44" break="no"/>perior illius principis anime: per quam regit et regulat 
+      su<lb ed="#V" n="45" break="no"/>am portionem inferiorem: ex premissis.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1458">
+      ¶ Quartum est 
+      <lb ed="#V" n="46"/>princeprs spiritualium qui principatur in illa portione 
+      superio<lb ed="#V" n="47" break="no"/>ri: dispensando diuina que pertinent ad illam portio 
+      <lb ed="#V" n="48"/>nem: cum ille concedatur subiectus in spiritualibus qua 
+      per<lb ed="#V" n="49" break="no"/>tinent ad illam portionem. Et ideo cum princeps spiritualium 
+      <lb ed="#V" n="50"/>principetur eius portioni superiori: et superior portio 
+      im<lb ed="#V" n="51" break="no"/>ferior: et inferior principatui: constat istum principatum 
+      <lb ed="#V" n="52"/>temporalem illi spirituali esse subiectum.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1477">
+      ¶ Dicunt tamen aliqui quod ille 
+      <lb ed="#V" n="53"/>rationes facte probant quod princeps ille temporalis dabet esse 
+      sub<lb ed="#V" n="54" break="no"/>iectus spirituali: non nisi in spiritualibus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1484">
+      ¶ Istud tamen dictum 
+      <lb ed="#V" n="55"/>non est ad propositum. Tum. quia secundum illud quod vna multitudo 
+      <lb ed="#V" n="56"/>est subiecta alteri multitudini: secundum illud princeps 
+      supe<lb ed="#V" n="57" break="no"/>ioris multitudinis praesidet principatui inferiori: vt 
+      inten<lb ed="#V" n="58" break="no"/>dunt sumere rationes ille: si tota multitudo temporalium est 
+      <lb ed="#V" n="59"/>subiecta multitudini spiritualium in eo quod alia sunt tempo 
+      <lb ed="#V" n="60"/>alia: et illa spiritualia ergo quo ad illa temporalia princeps 
+      <lb ed="#V" n="61"/>pumalium erit subiectus: et iterum portio inferior non 
+      sub<lb ed="#V" n="62" break="no"/>citur superiori nisi in temporalibus: cum alia non respiciat 
+      <lb ed="#V" n="63"/>et iterum homo exterior interiori non subiicitur nisi in bonis 
+      ex<lb ed="#V" n="64" break="no"/>tericribus: quae sunt propria ei et per illas subiectiones fuit 
+      <lb ed="#V" n="65"/>deductio intenta. Tum. quia in confirmatione deductionis 
+      <lb ed="#V" n="66"/>quando dicitur quod priencipatus subiicitur inferiori portioni: con¬ 
+      <!--530.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>stat quod intelligi dicitet in temporalibus: et portio eius inferi 
+      <lb ed="#V" n="68"/>or superiori: quo ad eadem. Et ideo portio inferior in 
+      tempo<lb ed="#V" n="69" break="no"/>ralibus illi qui principatur portioni superiori 
+      <lb ed="#V" n="70"/>secundam particulam illius particule: ad 
+      declara<lb ed="#V" n="71" break="no"/>Circa dum propositum secundum ordinem dependentie: est 
+      intelli<lb ed="#V" n="72" break="no"/>gendum cum quatuor sint modi dependentie: secundum quod sunt 
+      qua<lb ed="#V" n="73" break="no"/>tuor causarum genera: dependentia finis dicitur esse praestantissima: quia 
+      <lb ed="#V" n="74"/>finis est causa causarum. sicut posuerunt philosophi pro dependentia igitur 
+      <lb ed="#V" n="75"/>causae finalis sumiter intentio illius particule. Sed ad 
+      illi<lb ed="#V" n="76" break="no"/>us particule declarationem.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1539">
+      ¶ Preintelligendum est quod cum 
+      <lb ed="#V" n="77"/>finis et bonum sint idem. Quatuor genera bonorum inueniun 
+      <lb ed="#V" n="78"/>tur in diuina scriptura.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1546">
+      ¶ Quedam enim sunt bona ex 
+      <lb ed="#V" n="79"/>tra nos: sicut diuitie et honores: que dicuntur bona 
+      fortu<lb ed="#V" n="80" break="no"/>ne in vulgo: et ista sunt bona exteriora: quia non sunt 
+      for<lb ed="#V" n="81" break="no"/>maliter in possibilitate. de quibus dicebat Ioseph fratibus 
+      <lb ed="#V" n="82"/>suis. Gene. xl vo. ca. Uenite ad me: et dabo vobis bomioa 
+      <lb ed="#V" n="83"/>omnia egypti. Et quarto Regum. viio. ca. Dicitur quod venit Agael 
+      <lb ed="#V" n="84"/>ad elyseum habens secum omnia bona damasci. Secundo sunt alia 
+      <lb ed="#V" n="85"/>bona circa nos: quae sunt bona corporis nos circunstantia: 
+      <lb ed="#V" n="86"/>vt pulchritudo sanitas et fortitudo: de quibus bomonis 
+      di<lb ed="#V" n="87" break="no"/>cebat Iob eiusdem. secundo capitulo. cum esset languore corporis 
+      <lb ed="#V" n="88"/>afflictus. Si bona suscepimum de manu dimuni mala autem 
+      <lb ed="#V" n="89"/>quare non sustineamus: tempore infirmitatis: sicut bona tempore 
+      <lb ed="#V" n="90"/>lanitatis.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1575">
+      ¶ Tertio sunt alia bona infra nos: sicut 
+      bo<lb ed="#V" n="91" break="no"/>na anime que sunt nobis interiora: sicut ipsa anima: sicut 
+      <lb ed="#V" n="92"/>virtutes et operationes meritorie: vt scientia sapinia et iusticia 
+      <lb ed="#V" n="93"/>de quibus dicitur. Sapien. septimo cap. Uenerunt autem 
+      mihi<lb ed="#V" n="94" break="no"/>omnia bona pariter cum illa 1. cum prudentia: quia virtutes mo 
+      <lb ed="#V" n="95"/>rales prudentie ponuntur esse communiter connexe.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1588">
+      ¶ Quarto 
+      <lb ed="#V" n="96"/>sunt alia bona quae sunt supra nos: et illa sunt bona naturam 
+      <lb ed="#V" n="97"/>nostram transcendentia: sicut sunt virtutes theologice: 
+      <lb ed="#V" n="98"/>et sancti spiritus dona: de quibus dicit Saluator Mat. vii. c. 
+      <lb ed="#V" n="99"/>bater vester celestis dabit bona petentibus se: et alibi 
+      <lb ed="#V" n="100"/>dicit. Spiritum bonum petentibus se.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1602">
+      ¶ Et in istis bonis 
+      <lb ed="#V" n="101"/>est manifestus ordo eminentie: quia meliora sunt 
+      bona<lb ed="#V" n="102" break="no"/>circa nos quam extra nos: sicut dicebat diabolus dicuno in 
+      <lb ed="#V" n="103"/>Iob. Cuncta que habet homo dabit pro anima sua id est pro 
+      sanita<lb ed="#V" n="104" break="no"/>te: de qua intendebat ibi habere licentiam auferendi. Et 
+      <lb ed="#V" n="105"/>iterum bona infra nos sunt meliora quam illa que circa nos 
+      <lb ed="#V" n="106"/>quia illa sunt bona anime. et ista sunt bona corporis. vnde 
+      pro<lb ed="#V" n="107" break="no"/>seruandis bonis anime docet moralis scientia expositionem corporis 
+      <lb ed="#V" n="108"/>vitam. Et iterum meliora sunt bona supra nos quam infra nos 
+      <lb ed="#V" n="109"/>quia spiritualia et diuina: et illa mere naturalia. Et iterum in istis 
+      <lb ed="#V" n="110"/>quatuor generibus bonorum est innuenire ordinem 
+      depen<lb ed="#V" n="111" break="no"/>dentie: sicut ad finem: quia bona exteriora fortune sunt 
+      pro<lb ed="#V" n="112" break="no"/>pter bona corporis: que sunt naturae: cum propter hoc appetan 
+      <lb ed="#V" n="113"/>tur: et iterum bona exteriora sunt propter bona mentis. sicut 
+      <lb ed="#V" n="114"/>corpus est propter animam. vt ad finem: et iterum 
+      bona<lb ed="#V" n="115" break="no"/>nostra interiora sunt propter bona superiora: quia anime 
+      <lb ed="#V" n="116"/>bona ordinantur ad gloriam. sicut docet beatus 
+      Au<lb ed="#V" n="117" break="no"/>gustinus. primo de trini. Que gloria est donum spirituale 
+      <lb ed="#V" n="118"/>vt ibi patet.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1644">
+      ¶ Nunc ergo ad propositum: si esset aliquis 
+      <lb ed="#V" n="119"/>pinceps qui non haberet divfenium msi supra boemoa fortune: 
+      <lb ed="#V" n="120"/>ille deberet subesse illi quin haberet divfentium supra bomoa 
+      <lb ed="#V" n="121"/>naturae in corporibus. sicut bona ista sunt supra bona illa. 
+      <lb ed="#V" n="122"/>Et ille quin haberet tantum divfentium in bonis corporis debent 
+      <lb ed="#V" n="123"/>subesse illi quie haberet divfenium in bonis anime: sicut corpus anime 
+      <lb ed="#V" n="124"/>subest. Et ille quae habet divfentium in bonis interioribus anime 
+      ea<lb ed="#V" n="125" break="no"/>dem ratione debent subesse illi qui haberet principatum in bonis 
+      su<lb ed="#V" n="126" break="no"/>perioribus. Cum ergo princeps temporalium non habeant 
+      <lb ed="#V" n="127"/>dominium nisi in rebus exterioribus: et circa nos et 
+      infra<lb ed="#V" n="128" break="no"/>nos: forte quo ad aliqua: et in bonis supra nos 
+      nullan<lb ed="#V" n="129" break="no"/>habeant auctoritatem in re naturali debent subiici in 
+      <lb ed="#V" n="130"/>suis principatibus ei qui principatur secundum bona super nataura 
+      <lb ed="#V" n="131"/>lia que sunt supra nos.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1675">
+      ¶ Istis autem premissis: formatur 
+      <lb ed="#V" n="132"/>sic ratio secundum dependentiam finis: quandocumque aliqua due facultates 
+      <!--531.xml-->
+      <pb ed="#V" n="263-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ita se habent quod vna ordinatur ad aliam: sicut ad finem ille qui 
+      prinip<lb ed="#V" n="2" break="no"/>cipatur in fine dabet praesse illi qui principatur in eo quod est ad 
+      fi<lb ed="#V" n="3" break="no"/>nem. et illa regula declarat 4r.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1693">
+      ¶ Primo quidem in hyco 
+      <lb ed="#V" n="4"/>nomicis: quia enim mulleres sunt propter homines: eo quod 
+      mulier<lb ed="#V" n="5" break="no"/>in adiutorium viri legitur esse creata. Gene. secundo cap. Et ideo 
+      <lb ed="#V" n="6"/>quicunque principatur in hominibus dabet praesse principanti inter 
+      mu<lb ed="#V" n="7" break="no"/>leres.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1704">
+      ¶ Secundo declaratur in mechanicis. quia enim 
+      fre<lb ed="#V" n="8" break="no"/>nefactiua ordinatur ad equestrem: sicut ad finem. ideo 
+      prin<lb ed="#V" n="9" break="no"/>ceps equorum debet naturali iure principari principi 
+      <lb ed="#V" n="10"/>frenorum.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1713">
+      ¶ Tertio declaratur in polliticis. vbi quia 
+      facul<lb ed="#V" n="11" break="no"/>tas equestris ordinatur ad militarem. sicut ad finem. ideo 
+      <lb ed="#V" n="12"/>princeprs equorum diabtet subeem principi militum.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1721">
+      ¶ Quarto de 
+      <lb ed="#V" n="13"/>claratur in hxerarchicis. quia enim ecclesiastica 
+      hyerar<lb ed="#V" n="14" break="no"/>chia ordinatur ad celestem: sicut ad finem: ideo princeps militam 
+      <lb ed="#V" n="15"/>tis ecclesie diabet subiici principi triumphantis.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1730">
+      ¶ Ex illa 
+      <lb ed="#V" n="16"/>regula sic declarata accipitur talis minor: si facultas 
+      re<lb ed="#V" n="17" break="no"/>rum temporalium: nullo dubitante fideli: ordinatur ad 
+      fa<lb ed="#V" n="18" break="no"/>cultatem rerum spiritualium: sicut ad finem. ergo ille qui 
+      princi<lb ed="#V" n="19" break="no"/>patur in facultate temporalium daciet subesse ei qui in 
+      facu<lb ed="#V" n="20" break="no"/>tate spiritualium principatur.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1743">
+      ¶ Sed illa ratio tripliciter 
+      <lb ed="#V" n="21"/>soluebatur.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1748">
+      ¶ Unoo a dicentibus quod maior noin est vniversaliter vera: nec 
+      <lb ed="#V" n="22"/>exempla ostendunt: cum vniversalis affirmatiua possit 
+      destrui<lb ed="#V" n="23" break="no"/>per vnicam instantiam.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1755">
+      ¶ Alio modo. quia licet maior sit vera 
+      <lb ed="#V" n="24"/>tamen minor est falsa: quia spiritualia et temporalia sunt 
+      dispera<lb ed="#V" n="25" break="no"/>ta. Et ideo non adinuicem subordinata. Et prima illarum 
+      <lb ed="#V" n="26"/>est contra rationem. quia finis imponit necessitatem his quae 
+      <lb ed="#V" n="27"/>sunt ad finem secundum philosophos. Et sicut necessitas ista est ad finem ea 
+      <lb ed="#V" n="28"/>dem ratione princeps finis imponit necessitatem principi ei 
+      <lb ed="#V" n="29"/>quod est ad finem: vt ipsum dirigat ad finem.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1771">
+      ¶ Secunda solutio 
+      <lb ed="#V" n="30"/>est contra fidere: quia illi qui ponunt temporalia non esse propter spiri 
+      <lb ed="#V" n="31"/>tualia: ponunt esse temporalia sui gratia appetenda. Et sic 
+      <lb ed="#V" n="32"/>ponunt in diuitiis felicitatem.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1781">
+      ¶ Ideo est tertia solutio 
+      <lb ed="#V" n="33"/>magis apparens dicens vtramque premissarum esse veram: 
+      <lb ed="#V" n="34"/>tamen non sequitur intenta conclusio. vt subiiciatur princeps 
+      seculi<lb ed="#V" n="35" break="no"/>temporalibus: sed solum in spiritualibus: quod nullus 
+      <lb ed="#V" n="36"/>negat.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1792">
+      ¶ Ista tamen solutio dat occasionem magis 
+      proposit<lb ed="#V" n="37" break="no"/>siti: quia si ex hioc ostenditur ille subiectus illi: quia facultas 
+      illi<lb ed="#V" n="38" break="no"/>us est propter facultatem istius: eo modo et quantum ad alia 
+      <lb ed="#V" n="39"/>quibus facultas est propter facultatem erit subiectus. Sed  
+      <lb ed="#V" n="40"/>tota facultas temporalium: inquantum temporalia sunt 
+      <lb ed="#V" n="41"/>est propter spiritualia. ergo quantum ad esse temporale concluditur 
+      <lb ed="#V" n="42"/>illa subiectio.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1808">
+      ¶ Et confirmatur in duobus datis 
+      exem<lb ed="#V" n="43" break="no"/>plis. Tum. quia frenefactiua est propter equestrem: ideo quantum 
+      <lb ed="#V" n="44"/>ad frenorum factionem: et non quantum ad aliud 
+      concludit<lb ed="#V" n="45" break="no"/>quod magister frenorum est subiectus magistro equorum. 
+      <lb ed="#V" n="46"/>Tum. quia equestris est propter militarem. ideo princeps 
+      <lb ed="#V" n="47"/>equorum directione et regulatione arguitur esse subiect 
+      <lb ed="#V" n="48"/>magto militum. Et ita cum hoc temporalia spiritualibus 
+      <lb ed="#V" n="49"/>ostenduntur fuisse subiecta ex hoc nunc infertur quod ille sit 
+      <lb ed="#V" n="50"/>princeps: ille subiectus: non nisi in temporalibus cum 
+      <lb ed="#V" n="51"/>temporalia hoc accipiantur ad finem ordinata: et non 
+      spiritua<lb ed="#V" n="52" break="no"/>lia. vt patet in ratione ista.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1832">
+      ¶ Quia tamen in theologicis magis 
+      <lb ed="#V" n="53"/>mouent auctoritates quam rationes. Ideo ad illud propositum 
+      <lb ed="#V" n="54"/>adducuntur quatuor auctoritates sacre scripture.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1839">
+      ¶ Qua 
+      <lb ed="#V" n="55"/>rum prima est. Sene. xiiiiius. capitulo. Ubi dicitur quod 
+      Melchi<lb ed="#V" n="56" break="no"/>sedech:rex salem erat sacerdos dei altissimi et sic 
+      ha<lb ed="#V" n="57" break="no"/>buit vtranque potestatem spiritualem et temporalem: sed 
+      null<lb ed="#V" n="58" break="no"/>sacerdos fuit maioris auctoritatis in veteri testo quam 
+      in<lb ed="#V" n="59" break="no"/>nouo: cum lex ista fit maioris auctoritatis.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1852">
+      ¶ Et 
+      confir<lb ed="#V" n="60" break="no"/>matur. quia ipse fuit sacerdos in ordine ad superiora. Et 
+      <lb ed="#V" n="61"/>rex in ordine ad inferiora: secundum portionem superiorem et in 
+      <lb ed="#V" n="62"/>feriorem. Et fit praerat sibi: vt sacerdos: inquantum rex. ergo 
+      <lb ed="#V" n="63"/>multo magis vbi sunt illa in diuersis. Et si dicatur quod isti 
+      <lb ed="#V" n="64"/>fuit datum ratione persone.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1866">
+      ¶ Uitur quod eadem ratione vbi eque 
+      sa<lb ed="#V" n="65" break="no"/>cra aut plus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1871">
+      ¶ Secundum testimonium est. quod cum Moyses 
+      <lb ed="#V" n="66"/>esset princeps spiritualium: vsus consilio Ietro constituit iu 
+      <!--531.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>dices in rebus temporalibus: vt solum ipse esset in par 
+      <lb ed="#V" n="68"/>tinentibus ad deum immediate. exo. xviiii. capi. Et sic 
+      <lb ed="#V" n="69"/>potetas temporalis tunc suberat principi spiritualium: quo ma 
+      <lb ed="#V" n="70"/>ior est iste secundum apostolum.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1889">
+      ¶ Et confirmatur. quia deuter. 
+      <lb ed="#V" n="71"/>xviio. c. In dubiis iudiciis praefert iudicium sacerdotis iu 
+      <lb ed="#V" n="72"/>dicio iudicis vniversalis in temporalibus: cum loquebatur de 
+      iudi<lb ed="#V" n="73" break="no"/>cio sanguinis: et inobedientem sacerdoti mandat inter 
+      <lb ed="#V" n="74"/>fici. Tum. quia in eodem capitulo. Dicitur quod rex constituendus 
+      de<lb ed="#V" n="75" break="no"/>bebat accipere exemplum legis secundum quam regnaturus 
+      <lb ed="#V" n="76"/>erat a sacerdotibus leuitici generis: que quidem acceptio 
+      <lb ed="#V" n="77"/>legis ostendit aliquam subiectionem ei a qui quis accipit 
+      <lb ed="#V" n="78"/>legem. Tum. quia eiusdem. lib. xxi. ca. Dicitur quod ad 
+      sacerdo<lb ed="#V" n="79" break="no"/>tum iudicium pendet omne negocium. Et loquitur ibi tam de 
+      <lb ed="#V" n="80"/>spiritualibus quam de temporalibus: vt patet in textu.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1913">
+      ¶ 3m 
+      <lb ed="#V" n="81"/>testimonium est in primo Reg. vbi patet quod cum 
+      Sa<lb ed="#V" n="82" break="no"/>muel propheta esset dominus et princeps spiritualium 
+      <lb ed="#V" n="83"/>existens sacerdos: sicut testatur Augustinus in libro 
+      <lb ed="#V" n="84"/>retractationum: ipse iudicabat populo in 
+      temporali<lb ed="#V" n="85" break="no"/>bus: et quia pplurs alium postulabat principem terrenorum: 
+      di<lb ed="#V" n="86" break="no"/>ctum fuit ei a divento i Regum. viii. capitulo. Non te 
+      abie<lb ed="#V" n="87" break="no"/>cerunt: sed me: ne regnarem super eos. vnde patet quod ipse 
+      in<lb ed="#V" n="88" break="no"/>stituit et destituit Saulem: et Dauid instituit: et quia 
+      Saul<lb ed="#V" n="89" break="no"/>non paruit enim fuit reprobatus. vt patet eiusdem lib. xvieo. ca.¬ 
+      </p>
+            <p xml:id="FrMQ88-e18567-d1e1935">
+               <lb ed="#V" n="90"/>¶ Istud autem testimonium confirmatur. Tum. quia habetur in 3 
+      <lb ed="#V" n="91"/>Regum quod Elias habuit auctoritatem instituendi 
+      re<lb ed="#V" n="92" break="no"/>ges vt patuit de Ieu et Asael. qui fuit rex Syrie gentil. 
+      <lb ed="#V" n="93"/>Tum. quia quarto PRegum. dicitur quod elyseus instituit regem 
+      <lb ed="#V" n="94"/>deu. Unde dicitur ille bis fuisse vnctus: aut preceptum datum 
+      <lb ed="#V" n="95"/>helye de eius vnctione: ipsius discipulus impleuit. Tum 
+      <lb ed="#V" n="96"/>quia Isaye fuit dictum. Dedi te in lucem gentium: reges vide 
+      <lb ed="#V" n="97"/>bunt te: et consurgent principes. Isaye. xlii et. xlix. capitulo 
+      <lb ed="#V" n="98"/>Tum. quia Ierem. fuit dictum: Ecce constitui te hodine super ge 
+      <lb ed="#V" n="99"/>tes et super regna. etc. Iere id est capitulo.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1959">
+      ¶ Sed occun 
+      <lb ed="#V" n="100"/>rit di. quia Salomon abiecit Abiatar ne esset sacerdos 
+      <lb ed="#V" n="101"/>domini: et constituit pro eo Sadoch. iiii. Regum. iio. 
+      ca<lb ed="#V" n="102" break="no"/>Et sic dicitur opoium illius aueitatis.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1969">
+      ¶ Dicitur autem quod istud non fecit 
+      auci<lb ed="#V" n="103" break="no"/>te propria: sed auctoritate diuina: quia ibi dicitur. in id iest c. quod 
+      <lb ed="#V" n="104"/>istud fecit Salomon. vt impleret verbum domini quod 
+      fa<lb ed="#V" n="105" break="no"/>ctum erat apud Ely.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1978">
+      ¶ Quartum testimonium habetur 
+      <lb ed="#V" n="106"/>Mathe. xvio. capitulo. Ubi disecuns promittens Petro 
+      <lb ed="#V" n="107"/>princinpatum spiritualium dixit. Quodcumque ligaueris super 
+      <lb ed="#V" n="108"/>terram erit ligatum et in celts. et quodcumque solueris super terram 
+      <lb ed="#V" n="109"/>erit solutum et in celis: instituens ipsum vicarium 
+      genera<lb ed="#V" n="110" break="no"/>lem et vniversalem in mundo isto: vnde quilibet vicarius 
+      acci<lb ed="#V" n="111" break="no"/>pit auctoritatem a praencipali: secundum formam commissionis 
+      si<lb ed="#V" n="112" break="no"/>bi facte.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e1996">
+      ¶ Ista autem commissio fuit vniuersalis et vniversaliter sum 
+      <lb ed="#V" n="113"/>pta. ergo quo ad omnia tam spiritualia quam temporalia debet 
+      <lb ed="#V" n="114"/>esse intenta: aut non esset intenta vniversaliter. sicut ipsa est 
+      distri<lb ed="#V" n="115" break="no"/>buta.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2005">
+      ¶ Et confirmatur: quia luc. xxii. capi. Dicente 
+      domin<lb ed="#V" n="116" break="no"/>no. Qui non habet: vendat tunicam: et emat gladium. Dixerunt 
+      <lb ed="#V" n="117"/>apostoli. Ecce duo gladii hoc. Et isti duo gladii accipium 
+      <lb ed="#V" n="118"/>tur a doctoribus communiter pro iurisdictione duplici scilicet tem 
+      <lb ed="#V" n="119"/>porali et spirituali: quam apostoli emerunt vendentes  
+      <lb ed="#V" n="120"/>tunicas suorum corporum: vt emerent gentium fidem.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2018">
+      ¶ Di 
+      <lb ed="#V" n="121"/>cunt tamen aliquin quod secundum dicta beati Dionysui. quod mistica 
+      <lb ed="#V" n="122"/>theologia non est arguibilis: et quia illa exposeitio est misticam 
+      <lb ed="#V" n="123"/>ideo non facit fidem.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2027">
+      ¶ Istud tamen dictum non est reale: quia 
+      <lb ed="#V" n="124"/>vbi expositio non potest dari iuxta litteram in 
+      supersi<lb ed="#V" n="125" break="no"/>cie: tunc illa expositio que videretur esse mistica est littera 
+      <lb ed="#V" n="126"/>lis. Et sic in proposito: quia non est verisimile quod christus eis protunc 
+      <lb ed="#V" n="127"/>indiceret emere armaturas: cum gladii vsum ad 
+      defe<lb ed="#V" n="128" break="no"/>sionem tunc petro inhibuerit.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2041">
+      ¶ Sed ad illa testimo 
+      <lb ed="#V" n="129"/>nia magis apponitur euidens snia apostoli Pauli 
+      prima<lb ed="#V" n="130" break="no"/>corinthi. iii. capitulo. Ubi dicit sic. Animalis homo 
+      <lb ed="#V" n="131"/>non percipit ea quae sunt spiritus dei: quia spiritualiter 
+      exa<lb ed="#V" n="132" break="no"/>minantur: spiritualis autem omnia iudicat. Et ipere a nemine iudi¬ 
+      <!--532.xml-->
+      <pb ed="#V" n="264-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>catur. Ex quo accipitur argumentum: quod sicut se habet animali 
+      <lb ed="#V" n="2"/>tas ad spiritualitatem in iudiciis: ita homo animalis qui est tem 
+      <lb ed="#V" n="3"/>poralis ad spiritualem: nunc autem animalitas ita iudicat de 
+      sensi<lb ed="#V" n="4" break="no"/>bilibus quod nullo modo de spiritualibus: et spiritualitas quod non 
+      <lb ed="#V" n="5"/>solum iudicat de spiritualibus: sed etiam de animalibus. ergo licet homo 
+      <lb ed="#V" n="6"/>temporalis non possit iudicare de spiritualibus: tamen bene spi 
+      <lb ed="#V" n="7"/>ritualis de temporalibus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2074">
+      ¶ Et confirmatur apostoli snientia 
+      <lb ed="#V" n="8"/>Tum. quia eiusdem epistole. vio capitulo. facit talem consequentiam 
+      <lb ed="#V" n="9"/>sancti de hoc mundo iudicabunt. ergo multo magis habent 
+      <lb ed="#V" n="10"/>iudicare de temporalibus: de quorum iudicio loquitur ibi 
+      <lb ed="#V" n="11"/>Et consequentia non potest reduci ad formam nisi subintelligatu 
+      <lb ed="#V" n="12"/>illa regula: quod qui iudicat de maiori potest iudicare de 
+      <lb ed="#V" n="13"/>minori: ex qua regula sequitur propositum. Tum. quia 
+      ibide<lb ed="#V" n="14" break="no"/>dicit: si in vobis iudicabitur hoc mundus indigni estis 
+      qu<lb ed="#V" n="15" break="no"/>sic minimis iudicetis: et ita non valet consequentia: nisi hoc 
+      sub<lb ed="#V" n="16" break="no"/>intellecto: quod quicumque potest de maximis iudicare potest 
+      <lb ed="#V" n="17"/>et de minimis: per quod ostenditur propositum. Tum. quia ibidem. 
+      <lb ed="#V" n="18"/>Nlescitis quia angelos iudicabimus quanto magis 
+      seci<lb ed="#V" n="19" break="no"/>laria. quod non valeret nisi subintellecta ista regula. quici 
+      <lb ed="#V" n="20"/>que potest inudicare superiora potest inferiora: et tunc spiritualia 
+      <lb ed="#V" n="21"/>sunt superiora temporalibus. Tum. quia in fine illius 
+      capi<lb ed="#V" n="22" break="no"/>tuli concludit ex omnibus istis. Secularia ergo iudicia si 
+      ha<lb ed="#V" n="23" break="no"/>bueritis. contemptibiles qui sunt in ecclesia. illos consti 
+      <lb ed="#V" n="24"/>tuente ad iudicandum: quod non praecepisset si ecclesia ab initio 
+      <lb ed="#V" n="25"/>auctoritatem iudiciorum secularium non habuisset.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2116">
+      ¶ Sed contr 
+      <lb ed="#V" n="26"/>hanc snintam instatur. 4r.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2121">
+      ¶ Primo. quia disecuens Iesus christus. di 
+      <lb ed="#V" n="27"/>cit Pilato. Io. xviii. capitulo. Regnum meum non est de hoc 
+      <lb ed="#V" n="28"/>mundo. Et nullus vicarius habet auctoritatem vltra quam 
+      prin<lb ed="#V" n="29" break="no"/>cipalis diseuns.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2130">
+      ¶ Dicitur autem quod christus non dixit quod regnum 
+      hu<lb ed="#V" n="30" break="no"/>ius mundi non esset subiectum regno suo: sed quod suum 
+      re<lb ed="#V" n="31" break="no"/>gnum non esset mundanum: et ita in proposito.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2137">
+      ¶ Secundo. quia 
+      <lb ed="#V" n="32"/>lue. xi. Cuidam querenti ab eo temporale iudicium de he 
+      <lb ed="#V" n="33"/>reditatis diuisione cum fratre suo: disecuens dixit. homo quis 
+      con<lb ed="#V" n="34" break="no"/>stituit meiudicem aut diuisorem super vos. quasi diceret 
+      <lb ed="#V" n="35"/>nullus. et sic videtur quod ipse non habuit in rebus divfenium 
+      <lb ed="#V" n="36"/>temporale. Dicitur autem quod ipse recusauit iudicium parti 
+      <lb ed="#V" n="37"/>culare non vniversale totius mundi: cuius ipse est monarcha 
+      </p>
+            <p xml:id="FrMQ88-e18567-d1e2154">
+               <lb ed="#V" n="38"/>¶ Tertio. quia Paulus apostolus 2a ad Thimo. secundo 
+      <lb ed="#V" n="39"/>capitulo. Dicit quod nemo militans deo implicat se 
+      nege<lb ed="#V" n="40" break="no"/>ciis secularibus: si autem iudicium seculare debetur 
+      eccle<lb ed="#V" n="41" break="no"/>sie: tunc negociis secularibus implicatur. Dicitur quod 
+      vni<lb ed="#V" n="42" break="no"/>uersale iudicium non facit talem implicationem sed 
+      particu<lb ed="#V" n="43" break="no"/>lare: quod destruit: propter casuum variationem.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2170">
+      ¶ 
+      Quar<lb ed="#V" n="44" break="no"/>to. quia Iouanes euangelista dicit in canon. sua. secundo 
+      ca<lb ed="#V" n="45" break="no"/>Nolite diligere mundum neque ea que in mundo sunt: 
+      lo<lb ed="#V" n="46" break="no"/>quens fidelibus: quoniam quicquid est in mundo: aut est 
+      concu<lb ed="#V" n="47" break="no"/>piscentia carnis: aut concupiscentia oculorum: aut super 
+      <lb ed="#V" n="48"/>bia vite. et sequitur: si quis diligit mundum non est charitas 
+      <lb ed="#V" n="49"/>patris in eo. omnis autem qui talia indicat oportet: vt ad ta 
+      <lb ed="#V" n="50"/>lia affectionem habeat inclinatam. Dicitur autem quod mundus 
+      <lb ed="#V" n="51"/>accipitur pro multitudine hominum reproborum non pro 
+      multitu<lb ed="#V" n="52" break="no"/>dine fidelium habentium res temporales in statu salutis 
+      <lb ed="#V" n="53"/>ad quaestionem quod principatus regni 
+      sci<lb ed="#V" n="54" break="no"/>Dico ergo cilie ex hoc est nobilior: quia subiect 
+      <lb ed="#V" n="55"/>ecclesie: sicut nobilius fuit imperium postquam fuit 
+      fidei<lb ed="#V" n="56" break="no"/>subiugatum: et liberius quam ante: cum erat a fide exemptum: 
+      <lb ed="#V" n="57"/>quia tunc fuit per participationem fidei subiugatum. vnde 
+      <lb ed="#V" n="58"/>felicius et nobilius regnauit Constantinus postquam 
+      fu<lb ed="#V" n="59" break="no"/>it fidelis imperator quam eo tempore quando fuit 
+      pagi<lb ed="#V" n="60" break="no"/>nus. Et Glodoneus primus fidelis francorum rex 
+      sten<lb ed="#V" n="61" break="no"/>fuit ignobilitatus per hoc quod fuit christianus effectus. E 
+      <lb ed="#V" n="62"/>illius nobilitatis quam querimus non modicum signi 
+      <lb ed="#V" n="63"/>est: quia cum reges qui consecrantur: ex hoc merito cete 
+      <lb ed="#V" n="64"/>ris preferantur: quanto a superiori consecrante 
+      tan<lb ed="#V" n="65" break="no"/>to ex hoc amplius nobilitatur: iste autem solus communiter resa 
+      <lb ed="#V" n="66"/>summo hyerarcha in terris: temporibus nostris conse 
+      <!--532.xml-->
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>cratur.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2229">
+      ¶ Sed attendendum est quod sicut ciuitas 
+      hierusa<lb ed="#V" n="68" break="no"/>lem: primo habuit murum: et deinde antemurale prote 
+      <lb ed="#V" n="69"/>gens murum. vnde chaldei primo destruxerunt 
+      ante<lb ed="#V" n="70" break="no"/>murale antequam destruerent murum. Ierem. secundo capitu 
+      <lb ed="#V" n="71"/>uxitque antemurale et murus pariter dissipatus est: 
+      <lb ed="#V" n="72"/>et ita militans ecclesia: que sepe in sacra scriptura illi 
+      <lb ed="#V" n="73"/>ciuitati est comparata: habet quidem murum ipsam 
+      clau<lb ed="#V" n="74" break="no"/>dentem bonorum spiritualium: sicut sunt articuli fidei et 
+      sa<lb ed="#V" n="75" break="no"/>cramenta ecclesie: et dona spiritus sancti: quibus fracti 
+      <lb ed="#V" n="76"/>ciuitas esset destructa: et postea habet antemurale scilicet 
+      <lb ed="#V" n="77"/>bona temporalia istis spiritualibus subordinata: vt 
+      <lb ed="#V" n="78"/>murus non possit ita immediate ab hostibus 
+      impu<lb ed="#V" n="79" break="no"/>gnari: et sic cum temporalia illius regni sint immediate 
+      <lb ed="#V" n="80"/>eccelesie coniuncta: regnum est ad modum antemuralis ip 
+      <lb ed="#V" n="81"/>si ecclesie.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2262">
+      ¶ Intelligendum est tamen quod ex illa radice acci 
+      <lb ed="#V" n="82"/>pitur argumentum apparens: quod milites qui sunt 
+      pro<lb ed="#V" n="83" break="no"/>pugnatores illius regni quando fideli mente et pia deuotio 
+      <lb ed="#V" n="84"/>ne se exponunt morti pro defensione illius regni: 
+      inquan<lb ed="#V" n="85" break="no"/>tum est antemurale bonorum spiritualium: sunt martyres 
+      <lb ed="#V" n="86"/>secundum affectionem et voluntatis electionem: quia in eo quod 
+      pro<lb ed="#V" n="87" break="no"/>tegunt ipsum defendunt mediate murum ecclesie.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2278">
+      ¶ Et 
+      <lb ed="#V" n="88"/>istud dictum quadrupliciter declaratur. Primo quidem 
+      in<lb ed="#V" n="89" break="no"/>moralibus: quantum ad virtutem fortitudinis: quia si aliquis 
+      <lb ed="#V" n="90"/>miles aut ciuis se exponit morti pro conseruanda 
+      sue<lb ed="#V" n="91" break="no"/>ciuitatis libertate contra volentem ipsam subiugare 
+      <lb ed="#V" n="92"/>multo magis exponeret se pro eius salute contra 
+      vo<lb ed="#V" n="93" break="no"/>lentem eam totaliter destruere: eo quod maius malum sit istud 
+      <lb ed="#V" n="94"/>quam illud. et ita qui exponit se ad cauendum minus 
+      fidei<lb ed="#V" n="95" break="no"/>detrimentum in temporalibus: quid faceret de 
+      detrimen<lb ed="#V" n="96" break="no"/>to in spiritualibus.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2300">
+      ¶ Secundo declaratur in agonist 
+      <lb ed="#V" n="97"/>cis: quia magis commendatur: vt amicus qui se 
+      exponi<lb ed="#V" n="98" break="no"/>duello pro conseruanda amici sui fama: quia qui se 
+      expo<lb ed="#V" n="99" break="no"/>nit pro conseruanda eius vita. quid enim faceret si ageret 
+      <lb ed="#V" n="100"/>de eius vita: cum talia faciat: cum agitur solum de 
+      fama<lb ed="#V" n="101" break="no"/>et ita quid faceret in proposito talis miles si ageretur de illa 
+      <lb ed="#V" n="102"/>fide: cum talia faciat: cum agitur de adminiculis fidei 
+      or<lb ed="#V" n="103" break="no"/>todoxe.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2319">
+      ¶ Tertio declaratur in polliticis: quia si aliquis 
+      <lb ed="#V" n="104"/>rex committeret duobus militibus duo castra et 
+      interf<lb ed="#V" n="105" break="no"/>ceretur in defensione muri vnus et alius in 
+      defensio<lb ed="#V" n="106" break="no"/>ne antemuralis: nolens expectare muri impugnationem 
+      <lb ed="#V" n="107"/>hoc probior iudicaretur. quid enim fecisset in defensione 
+      mu<lb ed="#V" n="108" break="no"/>ri. Et ita in proposito secundum praemissa: supposita tali fide: 
+      ci<lb ed="#V" n="109" break="no"/>ille principatus sit antemurale ecclesie.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2335">
+      ¶ 4o declaratur in 
+      <lb ed="#V" n="110"/>theologicis: quia beatus Tho. pontifex a commendantibus. 
+      <lb ed="#V" n="111"/>ipsum doctoribus vere theologicis. ideo probatur verus 
+      <lb ed="#V" n="112"/>martvr: quia fideliter pro bonis temporalibus ecclesie se 
+      <lb ed="#V" n="113"/>exposuit. quid enim inqunt fecisset si de spiritualibus quando 
+      ex<lb ed="#V" n="114" break="no"/>titisset: certe multo plus. Et ideo illa radix catholica 
+      mul<lb ed="#V" n="115" break="no"/>tum dicet animare illius regni propugnatores. si fideli mente et 
+      <lb ed="#V" n="116"/>deuota inspicitur.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2353">
+      ¶ Et tunc dicitur ad rationem in contrarium 
+      factam<lb ed="#V" n="117" break="no"/>in principio quaestionis: quod licet nulla relatio dicat perfectionem in 
+      creatu<lb ed="#V" n="118" break="no"/>ris: sicut nec in diuinis cum omnis dignitas in creaturis est 
+      <lb ed="#V" n="119"/>relatiua: vt tam in dignitatibus ecclesiasticis quam in 
+      poni<lb ed="#V" n="120" break="no"/>liticis patet: et tamen relationes diuine non videdentur dicere dignitates 
+      <lb ed="#V" n="121"/>cum videatur absonum vnam personam habere dignitatem quam non 
+      <lb ed="#V" n="122"/>habet alia: aut quod pater et filius habeant plures dignitates quod spiritus 
+      <lb ed="#V" n="123"/>sanctus. Et si dicatur: sicut arguitur de perfcommune: quod si relationes 
+      <lb ed="#V" n="124"/>create dicerent perfectionem multo magis diuine: ita si dicunt 
+      <lb ed="#V" n="125"/>dignitatem multo magis divine. Dicitur quod non sequitur eodem modo: quia 
+      <lb ed="#V" n="126"/>vnumquodque est perfectum ad se: et dignum ad aliud.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2377">
+      ¶ Intelligen 
+      <lb ed="#V" n="127"/>dum tamen est quod dignitas et perfectio opposito modo se habent in hoc 
+      <lb ed="#V" n="128"/>quia perfectio: cum sit absoluta: nullius alterius dicit dimini 
+      <lb ed="#V" n="129"/>tionem. Et ideo in diuinis ad intra est perfectio: dignitas vero 
+      <lb ed="#V" n="130"/>cum sit de natura sua relatio supepositionis: dicit diminutionem in 
+      al<lb ed="#V" n="131" break="no"/>tero extremo scilicet superpositionem. Et ideo in divinis ad intra non est 
+      di<lb ed="#V" n="132" break="no"/>gnitas: quia ad intra nulla est suppositio nec superpo¬ 
+      <!--533.xml-->
+      <pb ed="#V" n="264-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>sitio: tamen deus ad extra bene habet dignitatem: sicut et divinum 
+      <lb ed="#V" n="2"/>quanuis ergo create relationes dicant dignitates: non tamen 
+      diuie<lb ed="#V" n="3" break="no"/>ad intra: quia ibi nulla supepositio esse potest.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2406">
+      ¶ Et si dicatur quod 
+      toan<lb ed="#V" n="4" break="no"/>erunt digniores create relationes quam diuine.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2411">
+      ¶ Dicitur quod 
+      <lb ed="#V" n="5"/>non sunt digniores quam diuine. quia ibi nulla dignitas: sicut 
+      <lb ed="#V" n="6"/>perfectiones create non sunt perfectiores quam diuine relatio 
+      <lb ed="#V" n="7"/>nes: quia nullam dicunt perfectionem.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2421">
+      ¶ Sed occurrit difficultas. quia 
+      <lb ed="#V" n="8"/>nobilitas et excellentia non solum inueniuntur in perfectio 
+      <lb ed="#V" n="9"/>nibus. Sed etiam ponuntur in dignitatibus. et tunc 
+      conueni<lb ed="#V" n="10" break="no"/>unt relationibus: et si relationibus: magis diuinis.
+    </p>
+            <p xml:id="FrMQ88-e18567-d1e2430">
+      ¶ Dicitur quod 
+      <lb ed="#V" n="11"/>excellentia est relatio superpositionis. Et ideo repugnat diui 
+      <lb ed="#V" n="12"/>nis relationibus ad intra: non illis que sunt ad 
+      extra<lb ed="#V" n="13" break="no"/>nobilitas autem talis: qualis consequitur dignitates: 
+      repu<lb ed="#V" n="14" break="no"/>gnat relationibus diuinis ad intra eadem ratione qua ipse 
+      di<lb ed="#V" n="15" break="no"/>gnitates: vt fuit ostensum: nobilitas autem conueniens 
+      abso<lb ed="#V" n="16" break="no"/>lutis non repugnat attributis ad intra: tamen bene proprieta 
+      <lb ed="#V" n="17"/>tibus: quia sunt relatiue. Et ista materia magis declaratur in quaestio 
+      <lb ed="#V" n="18"/>ne qua queritur: vtrum diuine relationes dicant aliquam 
+      perfe<lb ed="#V" n="19" break="no"/>ctionem. Et ideo pro nunc sufficiat quantum spectat ad materiam istam 
+      <lb ed="#V" n="20"/>que non assumpsit diuinas relationes in tanta subtilita 
+      <lb ed="#V" n="21"/>te considerare: quantum partinet ad tractatum pure theologicum 
+      <lb ed="#V" n="22"/>sed solum assumpsit declarare nobilitatem illius 
+      princi<lb ed="#V" n="23" break="no"/>patus ad consolandum eius subiectos: secundum illud 
+      Sapien<lb ed="#V" n="24" break="no"/>eccle. x. co. Meata terra cuius rex est nobilis etc.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>
