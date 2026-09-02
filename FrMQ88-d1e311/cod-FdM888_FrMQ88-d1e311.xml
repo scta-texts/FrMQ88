@@ -62,7 +62,7 @@
     map<lb ed="#V" n="2" break="no"/>ronis ordins minorum prouicie scti Ludouici 
     sin<lb ed="#V" n="3" break="no"/>gularis solertie et indaginis praecipueque 
     vtilita<lb ed="#V" n="4" break="no"/>tis quaestiones quolibetales feliciter inchoantur. 
-    <quote source="http://scta.info/resource/Icor13_12@1-11"><lb ed="#V" n="5"/>Idemus nunc per
+    <quote xml:id="FrMQ88-d1e311-Qd1e121" source="http://scta.info/resource/Icor13_12@1-11"><lb ed="#V" n="5"/>Idemus nunc per
     <lb ed="#V" n="6"/>speculum
     <lb ed="#V" n="7"/>in enigmate: tunc autem
     fa<lb ed="#V" n="8" break="no"/>cie ad faciem.</quote> prima cori. 13.
@@ -81,15 +81,15 @@
     do<lb ed="#V" n="21" break="no"/>ctor gentium apostulus paulus speclarationem salutaris doctri 
     <lb ed="#V" n="22"/>ne quam in ista vita participamus: contemplationi quam 
     expe<lb ed="#V" n="23" break="no"/>ctamus in patria. q. quoddam praeambulum anteponit dicens. 
-    <quote source="http://scta.info/resource/Icor13_12@1-11"><lb ed="#V" n="24"/>videmus nunc per speculum in enigmate. tunc autem facie ad
+    <quote xml:id="FrMQ88-d1e311-Qd1e164" source="http://scta.info/resource/Icor13_12@1-11"><lb ed="#V" n="24"/>videmus nunc per speculum in enigmate. tunc autem facie ad
     <lb ed="#V" n="25"/>faciem.</quote> in quo quidem sermone praeallegato doctor
     pau<lb ed="#V" n="26" break="no"/>lus qui est dux ad divinam illuminationem manu ductor 
     <lb ed="#V" n="27"/>multus quidem in diuinis et sol mundi motus a deo in 
     <lb ed="#V" n="28"/>anctis literenis: sicut ad listram scribitur. xi. c. diuinorum nominum. 
     <lb ed="#V" n="29"/>Primo introducit obscuritatem noticie vespertine 
-    di<lb ed="#V" n="30" break="no"/>rigentis nos in via cum premittit. <quote source="http://scta.info/resource/Icor13_12@1-6">Uidemus nunc per
+    di<lb ed="#V" n="30" break="no"/>rigentis nos in via cum premittit. <quote xml:id="FrMQ88-d1e311-Qd1e181" source="http://scta.info/resource/Icor13_12@1-6">Uidemus nunc per
     <lb ed="#V" n="31"/>peculum in enigmate.</quote> Enigmatica enim cognitio est ob
-    <lb ed="#V" n="32"/>cura. propter quod dicit beatus Ia. in sua canonica. c. primeo. <quote source="http://scta.info/resource/iac1_23@2-18 http://scta.info/resource/iac1_24@1-11">Si
+    <lb ed="#V" n="32"/>cura. propter quod dicit beatus Ia. in sua canonica. c. primeo. <quote xml:id="FrMQ88-d1e311-Qd1e188" source="http://scta.info/resource/iac1_23@2-18 http://scta.info/resource/iac1_24@1-11">Si
     <lb ed="#V" n="33"/>quis auditor est verbi et non factor hic comparabitur
     vi<lb ed="#V" n="34" break="no"/>ro consideranti vultum natiuitatis sue in speculo.
     con<lb ed="#V" n="35" break="no"/>siderauit enim se et abut et statim oblitus est qualis fuerit:</quote> cum
@@ -100,7 +100,7 @@
     <p xml:id="FrMQ88-d1e311-d1e202">
       ¶ Secundo introducit 
       <lb ed="#V" n="39"/>idem apstulus serenitatem noticie matutine illustrantis non 
-      <lb ed="#V" n="40"/>in patria cum adiungit: <quote source="http://scta.info/resource/Icor13_12@7-11">tunc autem facie ad faciem.</quote> facia
+      <lb ed="#V" n="40"/>in patria cum adiungit: <quote xml:id="FrMQ88-d1e311-Qd1e210" source="http://scta.info/resource/Icor13_12@7-11">tunc autem facie ad faciem.</quote> facia
       <lb ed="#V" n="41"/>lis enim noticia est clara: quia talis noticia creauit omnia: sicut 
       <lb ed="#V" n="42"/>est in seipso. de qua loquitur beatus Ida. in canonica sua 
       <lb ed="#V" n="43"/>i. 3c. Cum appearuerit inquit similes ei erimus: quia 
@@ -112,7 +112,7 @@
       <lb ed="#V" n="46"/>o in quo omnia creata et creabilia supereminenter relucentiam 
       <lb ed="#V" n="47"/>et vespertina que est rerum in proprio genere: loquitur beat 
       <lb ed="#V" n="48"/>dugu. super gen. ad listeram et. cxi. de ciuitate dei. inducens 
-      <lb ed="#V" n="49"/>illud quod scribitur gen. primo capiso <quote source="http://scta.info/resource/gen1_5@7-13">fecuntum est vespere et mane dies
+      <lb ed="#V" n="49"/>illud quod scribitur gen. primo capiso <quote xml:id="FrMQ88-d1e311-Qd1e236" source="http://scta.info/resource/gen1_5@7-13">fecuntum est vespere et mane dies
       <lb ed="#V" n="50"/>vnus</quote> id est vna veritas cognita noticia matutina et
       vesper<lb ed="#V" n="51" break="no"/>tina in mente angelica. secundum ipsum inter istas duas 
       no<lb ed="#V" n="52" break="no"/>ticias extiterat collocatus legis descriptor moyses cui 
@@ -120,7 +120,7 @@
       <lb ed="#V" n="54"/>tnim transcendebat noticiam vespertinara. ideo fuit 
       osten<lb ed="#V" n="55" break="no"/>sum de ipso numeri. xii. capis. quod palam: et non per 
       enigma<lb ed="#V" n="56" break="no"/>ta deum videbat: et quia ne in fuit eleuatus vsque ad 
-      noti<lb ed="#V" n="57" break="no"/>ciam matutinam fuit ei dictum a dimmento Exodi. 33 c. <quote source="http://scta.info/resource/ex33_20@3-14">faciem
+      noti<lb ed="#V" n="57" break="no"/>ciam matutinam fuit ei dictum a dimmento Exodi. 33 c. <quote xml:id="FrMQ88-d1e311-Qd1e256" source="http://scta.info/resource/ex33_20@3-14">faciem
       <lb ed="#V" n="58"/>meam videre non poteris. non enim videbit me homo et vi
       <lb ed="#V" n="59"/>uet.</quote>
     </p>
@@ -128,7 +128,7 @@
       ¶ Sed doctor noui testamenti paulus apstlulus 
       inten<lb ed="#V" n="60" break="no"/>dens medietatem istius noticie. scilicet 2a. ad corin. 3o. 
       capis<lb ed="#V" n="61" break="no"/>Non inquit sicut moyses ponebat velamen super
-      fa<lb ed="#V" n="62" break="no"/>ciem suam <quote source="http://scta.info/resource/IIcor3_13@1-9 http://scta.info/resource/IIcor3_7@22-27 http://scta.info/resource/IIcor3_18@1-20">propter gloriam vultus eius que euacuatur nos
+      fa<lb ed="#V" n="62" break="no"/>ciem suam <quote xml:id="FrMQ88-d1e311-Qd1e272" source="http://scta.info/resource/IIcor3_13@1-9 http://scta.info/resource/IIcor3_7@22-27 http://scta.info/resource/IIcor3_18@1-20">propter gloriam vultus eius que euacuatur nos
       <lb ed="#V" n="63"/>vero omnes reuelata facie gloriam disfuni speculantes in
       ean<lb ed="#V" n="64" break="no"/>dem imaginem transformamur a clari: ate in claritatem
       <!--476.xml-->
@@ -148,13 +148,13 @@
       do<lb ed="#V" n="77" break="no"/>ctores noui testamenti scilicet Idea. et paulus. quia paulus apto 
       <lb ed="#V" n="78"/>stolus morem peripateticorum tenens ascendebat ab 
       infe<lb ed="#V" n="79" break="no"/>rioribus ad superiora in prima epstula sua docens deum ex 
-      crea<lb ed="#V" n="80" break="no"/>turis esse cognoscendum. sic dicendo. <quote source="http://scta.info/resource/rom1_20@1-19">Inuisibilia dei a
+      crea<lb ed="#V" n="80" break="no"/>turis esse cognoscendum. sic dicendo. <quote xml:id="FrMQ88-d1e311-Qd1e318" source="http://scta.info/resource/rom1_20@1-19">Inuisibilia dei a
       crea<lb ed="#V" n="81" break="no"/>tura mundi per ea que facta sunt intellecta conspiciuntur.
       <lb ed="#V" n="82"/>sempiterna quoque huius virtus et deitas.</quote> ad Ro. primo.
       capi<lb ed="#V" n="83" break="no"/>Dtuns autem Idam. euangelista morem platonicorum non 
       abii<lb ed="#V" n="84" break="no"/>ciens a superioribus ad inferiora descendebat inchoans 
       <lb ed="#V" n="85"/>ab eterni verbi generatione donec ad incarnationis mysterium 
-      <lb ed="#V" n="86"/>berueniret. Ideo incipit. <quote source="http://scta.info/resource/io1_1@1-4">In principio erat verbum.</quote> et
+      <lb ed="#V" n="86"/>berueniret. Ideo incipit. <quote xml:id="FrMQ88-d1e311-Qd1e334" source="http://scta.info/resource/io1_1@1-4">In principio erat verbum.</quote> et
       concludit<lb ed="#V" n="87" break="no"/>in fine primi processus. Uerbum caro fecuntum est. Ido. per 
       catod<lb ed="#V" n="88" break="no"/>Et iste quidem modus procedendi nouissimus tamquam 
       ma<lb ed="#V" n="89" break="no"/>gis huic doctrine conueniens est acceptus communiter a 
@@ -229,7 +229,7 @@
       <lb ed="#V" n="15"/>propositum ostendendum testimonia noui testamenti. tamquam 
       <lb ed="#V" n="16"/>sublimiora. 2o veteris testamenti: quem modum 
       proceder<lb ed="#V" n="17" break="no"/>di confirmat ibidem oraculo divfuni saluatoris. dicentis 
-      <lb ed="#V" n="18"/>mat. xiii. c. <quote source="http://scta.info/resource/mt13_52@4-22">Omnis scriba doctus in regno celorum
+      <lb ed="#V" n="18"/>mat. xiii. c. <quote xml:id="FrMQ88-d1e311-Qd1e489" source="http://scta.info/resource/mt13_52@4-22">Omnis scriba doctus in regno celorum
       simi<lb ed="#V" n="19" break="no"/>lis factus est homini patrifami. qui profert de
       thesau<lb ed="#V" n="20" break="no"/>ro suo noua et vetera:</quote> vt sublimiora inferioribus in
       pro<lb ed="#V" n="21" break="no"/>secutione theologica anteferret. 

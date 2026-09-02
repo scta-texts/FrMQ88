@@ -1,0 +1,90 @@
+{
+  "FrMQ88-d1e311": {
+    "FrMQ88-d1e311-d1e111": [
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 8
+      }
+    ],
+    "FrMQ88-d1e311-d1e253": [
+      {
+        "candidate_id": "adt-l15-d1e1696",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 8
+      }
+    ]
+  },
+  "FrMQ88-e11495": {
+    "FrMQ88-e11495-d1e1393": [
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "FrMQ88-e18567": {
+    "FrMQ88-e18567-d1e700": [
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "FrMQ88-e20925": {
+    "FrMQ88-e20925-d1e657": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "FrMQ88-e24743": {
+    "FrMQ88-e24743-d1e133": [
+      {
+        "candidate_id": "adt-l15-d1e1760",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l5-d1e756",
+        "intersectionCount": 4
+      }
+    ],
+    "FrMQ88-e24743-d1e891": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l13-d1e1397",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "FrMQ88-e27039": {
+    "FrMQ88-e27039-d1e686": [
+      {
+        "candidate_id": "adt-l1-d1e24",
+        "intersectionCount": 6
+      }
+    ]
+  }
+}

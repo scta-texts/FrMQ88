@@ -58,7 +58,7 @@
                <lb ed="#V" n="20"/>a quaestio. Utrum dieus possit reuelare 
       <lb ed="#V" n="21"/>Uin ta suam essentiam intuitiue alicui 
       via<lb ed="#V" n="22" break="no"/>tori. Et videtur quod non. quia Exo. 3. ca. dixit Dicunt
-      <lb ed="#V" n="23"/>lad Moysen. <quote source="http://scta.info/resource/ex33_20@8-14">non videbit me homo et viuet</quote> scilicet
+      <lb ed="#V" n="23"/>lad Moysen. <quote xml:id="FrMQ88-de5736-Qd1e114" source="http://scta.info/resource/ex33_20@8-14">non videbit me homo et viuet</quote> scilicet
       <lb ed="#V" n="24"/>vita mortali: sicut exponit beatus Augu. et sic 
       <lb ed="#V" n="25"/>viatori non est possibilis talis reuelatio.
     </p>
@@ -305,7 +305,7 @@
             <p xml:id="FrMQ88-de5736-d1e510">
       ¶ Contra istam diffinitionem arguitur 4 
       <lb ed="#V" n="15"/>Primo. quia christus fuit viator dicente hieremia de
-      ipso<quote source="http://scta.info/resource/ier14_8@8-20"><lb ed="#V" n="16" break="no"/>quare quasi colonus futurus es in terra: et quasi viator de
+      ipso<quote xml:id="FrMQ88-de5736-Qd1e510" source="http://scta.info/resource/ier14_8@8-20"><lb ed="#V" n="16" break="no"/>quare quasi colonus futurus es in terra: et quasi viator de
       <lb ed="#V" n="17"/>clinarnas ad manendum:</quote> et tamen ipse perfecte attingebat vltimum
       <lb ed="#V" n="18"/>finem.
     </p>
