@@ -1,0 +1,616 @@
+{
+  "FrMQ88-d1e311": {
+    "FrMQ88-d1e311-d1e111": [
+      {
+        "candidate_id": "iac1_23",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "Jas 1:23-24, explicit attribution 'dicit beatus Ia. in sua canonica. c. primeo' (multi-verse quote with iac1_24)"
+      },
+      {
+        "candidate_id": "iac1_24",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Jas 1:23-24, explicit attribution 'dicit beatus Ia. in sua canonica. c. primeo' (multi-verse quote with iac1_23)"
+      },
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "1 Cor 13:12, explicit attribution 'prima cori. 13. c.'; quoted three times in this paragraph"
+      }
+    ],
+    "FrMQ88-d1e311-d1e202": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "1 Cor 13:12, second occurrence in this quodlibet 'tunc autem facie ad faciem'"
+      }
+    ],
+    "FrMQ88-d1e311-d1e218": [
+      {
+        "candidate_id": "gen1_13",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 shared refrain, MS cites day one (gen1_5)"
+      },
+      {
+        "candidate_id": "gen1_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 shared refrain, MS cites day one (gen1_5)"
+      },
+      {
+        "candidate_id": "gen1_23",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 shared refrain, MS cites day one (gen1_5)"
+      },
+      {
+        "candidate_id": "gen1_31",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 shared refrain, MS cites day one (gen1_5)"
+      },
+      {
+        "candidate_id": "gen1_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 shared refrain 'vespere et mane dies X' but MS explicitly cites 'dies vnus' (day one) = gen1_5"
+      },
+      {
+        "candidate_id": "ex33_20",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Exod 33:20, explicit attribution 'Exodi. 33 c.'"
+      },
+      {
+        "candidate_id": "gen1_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Gen 1:5, explicit attribution 'gen. primo capiso'; day-one refrain matches exactly"
+      }
+    ],
+    "FrMQ88-d1e311-d1e253": [
+      {
+        "candidate_id": "IIcor3_13",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "2 Cor 3:13, explicit attribution '2a. ad corin. 3o. capis'; conflated/telescoped quote combined with IIcor3_7 and IIcor3_18"
+      },
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "John 1:1, 'Ideo incipit. In principio erat verbum.'"
+      },
+      {
+        "candidate_id": "IIcor3_7",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "2 Cor 3:7, phrase 'propter gloriam vultus eius que euacuatur' embedded in telescoped quote with IIcor3_13/IIcor3_18"
+      },
+      {
+        "candidate_id": "IIcor3_18",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "2 Cor 3:18, continues telescoped quote begun at IIcor3_13/IIcor3_7"
+      },
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Rom 1:20, explicit attribution 'ad Ro. primo. capi'"
+      }
+    ],
+    "FrMQ88-d1e311-d1e446": [
+      {
+        "candidate_id": "mt13_52",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Matt 13:52, explicit attribution 'mat. xiii. c.'"
+      }
+    ]
+  },
+  "FrMQ88-d1e375": {
+    "FrMQ88-d1e375-d1e111": [
+      {
+        "candidate_id": "col2_8",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "Col 2:8, explicit attribution 'dicit apituls. 2. capis. ad collosenses'"
+      }
+    ],
+    "FrMQ88-d1e375-d1e150": [
+      {
+        "candidate_id": "Ipetr3_15",
+        "intersectionCount": 17,
+        "status": "encoded",
+        "note": "1 Pet 3:15, explicit attribution 'dicit apstuls petrus in prima ... 3. c.'"
+      }
+    ]
+  },
+  "FrMQ88-de2532": {
+    "FrMQ88-de2532-d1e111": [
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Gen 1:1, explicit attribution 'scribitur Gen 1. ca.'"
+      }
+    ],
+    "FrMQ88-de2532-d1e822": [
+      {
+        "candidate_id": "ps108_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 no textual overlap between paragraph and Ps 108:16"
+      }
+    ]
+  },
+  "FrMQ88-de4886": {
+    "FrMQ88-de4886-d1e131": [
+      {
+        "candidate_id": "IIcor3_18",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "2 Cor 3:18, explicit attribution 'apstulus Pau. 2. ad cor. 3. dicit'"
+      }
+    ]
+  },
+  "FrMQ88-de5736": {
+    "FrMQ88-de5736-d1e111": [
+      {
+        "candidate_id": "ex33_20",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Exod 33:20, MS wording matches though miscites chapter as 'Exo. 3' (should be 33)"
+      }
+    ],
+    "FrMQ88-de5736-d1e510": [
+      {
+        "candidate_id": "ier14_8",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Jer 14:8, explicit attribution 'dicente hieremia de ipso'"
+      }
+    ]
+  },
+  "FrMQ88-de6484": {
+    "FrMQ88-de6484-d1e124": [
+      {
+        "candidate_id": "qoh8_17",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "Qoh (Eccl) 8:17, explicit attribution 'sapiens Ecclesiastes O. ca.'; MS splits into two quote spans around an interposed gloss"
+      }
+    ],
+    "FrMQ88-de6484-d1e153": [
+      {
+        "candidate_id": "iob38_33",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Job 38:33 (MS cites as 'Iob. 39'), explicit attribution 'loquitur deus'"
+      }
+    ],
+    "FrMQ88-de6484-d1e162": [
+      {
+        "candidate_id": "qoh9_10",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Qoh (Eccl) 9:10, explicit attribution 'sapiens Ecclesiastes. o. ca.'"
+      }
+    ]
+  },
+  "FrMQ88-e18567": {
+    "FrMQ88-e18567-d1e166": [
+      {
+        "candidate_id": "Icor5_12",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "1 Cor 5:12, explicit attribution 'primo corinth. v. ca.'"
+      }
+    ],
+    "FrMQ88-e18567-d1e229": [
+      {
+        "candidate_id": "eph3_17",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Eph 3:17, explicit attribution 'ad eph. ii. c.' (chapter number is a scribal slip for iii)"
+      }
+    ],
+    "FrMQ88-e18567-d1e246": [
+      {
+        "candidate_id": "Icor2_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "1 Cor 2:14, explicit attribution 'prima corint. ii. ca.'; MS quote continues into 2:15 (added as second source in same <quote>)"
+      }
+    ],
+    "FrMQ88-e18567-d1e264": [
+      {
+        "candidate_id": "tob6_17",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 shared phrase 'sicut equus et mulus...non est intellectus' but MS explicitly cites the Psalm (ps31_9), not Tobit"
+      },
+      {
+        "candidate_id": "ps31_9",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "Ps 31:9, explicit attribution 'in praes. 3i.' (=Ps 31)"
+      }
+    ],
+    "FrMQ88-e18567-d1e298": [
+      {
+        "candidate_id": "rom7_19",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Rom 7:19, explicit attribution 'ad Ro. vii. co.'"
+      }
+    ],
+    "FrMQ88-e18567-d1e394": [
+      {
+        "candidate_id": "dan7_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Dan 7:10, explicit attribution 'eiusdem pphie. vii. co.' (paragraph also cites Dan 12:1 for Michael, not a listed candidate)"
+      }
+    ],
+    "FrMQ88-e18567-d1e518": [
+      {
+        "candidate_id": "lc22_32",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Luke 22:32, explicit attribution 'luc. xximitus. cap.'"
+      }
+    ],
+    "FrMQ88-e18567-d1e961": [
+      {
+        "candidate_id": "is40_31",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Isa 40:31, explicit attribution 'Isay. xl. c.'"
+      }
+    ],
+    "FrMQ88-e18567-d1e1094": [
+      {
+        "candidate_id": "ps48_13",
+        "intersectionCount": 13,
+        "status": "not_found",
+        "note": "refrain duplicated at Ps 48:13 and 48:21; MS wording (no leading 'Et') matches ps48_21 more closely"
+      },
+      {
+        "candidate_id": "ps48_21",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "Ps 48:21, explicit attribution 'pesalmi. 4s.'; refrain also appears at 48:13 but MS wording matches v.21"
+      }
+    ],
+    "FrMQ88-e18567-d1e1107": [
+      {
+        "candidate_id": "ps88_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 no textual overlap with this paragraph's actual quotations"
+      },
+      {
+        "candidate_id": "ps75_12",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Ps 75:12, explicit attribution 'in pesalmo. lxxnieiut.' (=Ps 75)"
+      },
+      {
+        "candidate_id": "ap12_7",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Apoc 12:7, explicit attribution 'illud Apocura. xii. cap.'; MS continues into Apoc 12:8 (added as second source in same <quote>)"
+      }
+    ],
+    "FrMQ88-e18567-d1e1200": [
+      {
+        "candidate_id": "Icor15_41",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "1 Cor 15:41, explicit attribution 'prima corinth. xveeo. ca.'"
+      }
+    ],
+    "FrMQ88-e18567-d1e1239": [
+      {
+        "candidate_id": "iob38_33",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Job 38:33, explicit attribution 'illud Iob. xxxviii. ca.'"
+      }
+    ],
+    "FrMQ88-e18567-d1e1602": [
+      {
+        "candidate_id": "iob2_4",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Job 2:4, explicit attribution 'dicebat diabolus...in Iob'"
+      }
+    ],
+    "FrMQ88-e18567-d1e1913": [
+      {
+        "candidate_id": "Isam8_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "1 Sam 8:7, explicit attribution 'i Regum. viii. capitulo'"
+      }
+    ],
+    "FrMQ88-e18567-d1e1935": [
+      {
+        "candidate_id": "is49_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Isa 49:6, explicit attribution 'Isaye. xlii et. xlix. capitulo'; MS quote continues into Isa 49:7 (added as second source in same <quote>)"
+      }
+    ],
+    "FrMQ88-e18567-d1e1978": [
+      {
+        "candidate_id": "mt16_19",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "Matt 16:19, explicit attribution 'Mathe. xvio. capitulo'"
+      }
+    ],
+    "FrMQ88-e18567-d1e2005": [
+      {
+        "candidate_id": "lc22_36",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Luke 22:36, explicit attribution 'luc. xxii. capi.'"
+      }
+    ],
+    "FrMQ88-e18567-d1e2041": [
+      {
+        "candidate_id": "Icor2_14",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "1 Cor 2:14, explicit attribution 'primacorinthi. iii. capitulo'; quote continues into 2:15 (added as second source)"
+      }
+    ],
+    "FrMQ88-e18567-d1e2074": [
+      {
+        "candidate_id": "Icor6_4",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "1 Cor 6:4, explicit attribution 'eiusdem epistole. vio capitulo' (=1 Cor 6, continuing citation from prior paragraph)"
+      }
+    ],
+    "FrMQ88-e18567-d1e2121": [
+      {
+        "candidate_id": "io18_36",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "John 18:36, explicit attribution 'Io. xviii. capitulo'"
+      }
+    ],
+    "FrMQ88-e18567-d1e2170": [
+      {
+        "candidate_id": "Iio2_15",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "1 John 2:15, explicit attribution 'in canon. sua. secundo ca.'; MS telescopes 2:15a...2:16...2:15b, encoded as three separate <quote> spans (2:16 added as extra source)"
+      }
+    ],
+    "FrMQ88-e18567-d1e2229": [
+      {
+        "candidate_id": "lam2_8",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Lam 2:8, explicit attribution 'Ierem. secundo capitu' (Lamentations traditionally attributed to Jeremiah)"
+      }
+    ]
+  },
+  "FrMQ88-e20925": {
+    "FrMQ88-e20925-d1e127": [
+      {
+        "candidate_id": "lc1_6",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Luke 1:6, explicit attribution 'beatiu Io. baptiste Tuc. i.'"
+      }
+    ],
+    "FrMQ88-e20925-d1e196": [
+      {
+        "candidate_id": "Ipetr2_13",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "1 Pet 2:13, explicit attribution 'apostolus Petrus in prima canonica. 2. c.'"
+      }
+    ],
+    "FrMQ88-e20925-d1e214": [
+      {
+        "candidate_id": "eph5_24",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Eph 5:24, explicit attribution 'dicit ad Eph. 5.'"
+      }
+    ],
+    "FrMQ88-e20925-d1e615": [
+      {
+        "candidate_id": "eph1_22",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 shared phrase 'omnia subiecit sub pedibus eius' but MS explicitly cites 'ad hebre. 2' and wording matches hebr2_8 more closely (encoded as hebr2_8, not a listed candidate)"
+      }
+    ],
+    "FrMQ88-e20925-d1e657": [
+      {
+        "candidate_id": "io1_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "John 1:4, explicit attribution 'Io. euange. primo capi.'"
+      }
+    ],
+    "FrMQ88-e20925-d1e873": [
+      {
+        "candidate_id": "ps48_13",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "refrain duplicated at Ps 48:13/48:21; MS wording (no leading 'Et') matches ps48_21 more closely"
+      },
+      {
+        "candidate_id": "ps48_21",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Ps 48:21, refrain also appears at 48:13 but MS wording matches v.21"
+      }
+    ],
+    "FrMQ88-e20925-d1e1372": [
+      {
+        "candidate_id": "ap7_15",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Apoc 7:15, explicit attribution 'dicitur Apoca. 7.'"
+      }
+    ],
+    "FrMQ88-e20925-d1e1885": [
+      {
+        "candidate_id": "lc22_42",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Luke 22:42, wording matches Luke ('non mea voluntas sed tua fiat') though MS mis-cites 'Math. 2o.'"
+      }
+    ],
+    "FrMQ88-e20925-d1e1989": [
+      {
+        "candidate_id": "IImac7_30",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "2 Macc 7:30, explicit attribution '2. Macha. 7.'"
+      }
+    ],
+    "FrMQ88-e20925-d1e2000": [
+      {
+        "candidate_id": "hebr11_8",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Heb 11:8, explicit attribution 'Apstuls ad hebre. xi.'"
+      }
+    ],
+    "FrMQ88-e20925-d1e2024": [
+      {
+        "candidate_id": "gen22_3",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Gen 22:3, explicit attribution 'dicitur Gen. 22'"
+      }
+    ],
+    "FrMQ88-e20925-d1e2053": [
+      {
+        "candidate_id": "qoh4_17",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Qoh (Eccl) 4:17, explicit attribution 'sapiens Ecclisa. 4'"
+      }
+    ],
+    "FrMQ88-e20925-d1e2086": [
+      {
+        "candidate_id": "tit3_1",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Titus 3:1, explicit attribution 'Apstublus ad Titum. 3.'"
+      }
+    ],
+    "FrMQ88-e20925-d1e2097": [
+      {
+        "candidate_id": "Ipetr1_22",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "1 Pet 1:22, explicit attribution 'Apsublus Petrus in prima canonica sua'"
+      }
+    ],
+    "FrMQ88-e20925-d1e2110": [
+      {
+        "candidate_id": "rom5_19",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Rom 5:19, explicit attribution 'Apsutls ad Ro. 5.'"
+      }
+    ],
+    "FrMQ88-e20925-d1e2971": [
+      {
+        "candidate_id": "Isam15_22",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "1 Sam 15:22, explicit attribution 'Samuel ad Saul primi Regum. xv.'"
+      }
+    ],
+    "FrMQ88-e20925-d1e3213": [
+      {
+        "candidate_id": "lc6_32",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "Luke 6:32, explicit attribution 'dicit Saluator'"
+      }
+    ],
+    "FrMQ88-e20925-d1e3277": [
+      {
+        "candidate_id": "Icor10_22",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "1 Cor 10:23/'omnia mihi licent', explicit attribution 'dicit Apsulus'; phrase is verbatim-identical in Icor6_12 and Icor10_22/23, encoded with both as alternate sources"
+      },
+      {
+        "candidate_id": "Icor6_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "1 Cor 6:12, explicit attribution 'dicit Apsulus'; phrase is verbatim-identical in Icor6_12 and Icor10_22/23, encoded with both as alternate sources"
+      }
+    ]
+  },
+  "FrMQ88-e24743": {
+    "FrMQ88-e24743-d1e891": [
+      {
+        "candidate_id": "io1_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "John 1:9, explicit attribution 'Unde Id 1. capis.'"
+      }
+    ]
+  },
+  "FrMQ88-e25822": {
+    "FrMQ88-e25822-d1e122": [
+      {
+        "candidate_id": "ps148_5",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 refrain 'ipse dixit et facta sunt' identical in Ps 32:9 and Ps 148:5, but MS explicitly cites 'psal. 32'"
+      },
+      {
+        "candidate_id": "ps32_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Ps 32:9, explicit attribution 'propheta in psal. 32.'"
+      }
+    ]
+  },
+  "FrMQ88-e26546": {
+    "FrMQ88-e26546-d1e135": [
+      {
+        "candidate_id": "ps148_5",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 refrain 'ipse dixit et facta sunt' identical in Ps 32:9 and Ps 148:5; encoded as ps32_9 for consistency with explicit citation elsewhere"
+      },
+      {
+        "candidate_id": "ps32_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Ps 32:9, same refrain cited elsewhere in this work with explicit 'psal. 32' attribution (FrMQ88-e25822-d1e122); no chapter cited here but same author/phrase"
+      }
+    ],
+    "FrMQ88-e26546-d1e284": [
+      {
+        "candidate_id": "Isam9_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 no textual or topical overlap; paragraph concerns divine emanation of persons, not Samuel/Saul narrative"
+      }
+    ]
+  }
+}
